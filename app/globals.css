@@ -805,6 +805,105 @@ img {
   margin-top: 45px;
 }
 
+.static-result-status {
+  margin: 28px 0 0;
+  color: var(--muted);
+  font-size: 0.75rem;
+  text-align: right;
+}
+
+.static-results {
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.static-result {
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr);
+  gap: 16px;
+  border-bottom: 1px solid var(--rule);
+  padding-block: 23px;
+}
+
+.static-result-number {
+  padding-top: 5px;
+  color: var(--muted);
+  font-family: monospace;
+  font-size: 0.66rem;
+}
+
+.static-result-meta {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+.static-result-entertainment .static-result-meta {
+  color: var(--violet);
+}
+
+.static-result-stocks .static-result-meta {
+  color: var(--green);
+}
+
+.static-result h3 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.25rem, 2.2vw, 1.65rem);
+  line-height: 1.4;
+  letter-spacing: -0.025em;
+}
+
+.static-result h3 a:hover,
+.static-result h3 a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.static-result-summary {
+  display: -webkit-box;
+  max-width: 70ch;
+  margin: 9px 0 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.static-empty {
+  padding-block: 80px;
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.static-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 7px;
+  margin-top: 34px;
+}
+
+.static-pagination a {
+  display: grid;
+  width: 40px;
+  height: 40px;
+  place-items: center;
+  border: 1px solid var(--rule);
+  font-size: 0.75rem;
+}
+
+.static-pagination a[aria-current="page"] {
+  background: var(--ink);
+  color: var(--paper);
+}
+
 .outline-button:hover {
   background: var(--ink);
   color: var(--paper);

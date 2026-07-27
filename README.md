@@ -43,6 +43,12 @@ npm run sync:naver
 
 `NEXT_PUBLIC_SITE_URL`에 최종 공개 주소를 넣으면 canonical, Open Graph, sitemap, robots의 호스트가 함께 바뀝니다.
 
+GitHub Pages용 정적 미러는 다음 명령으로 `docs/`에 생성합니다. 전체 26개 허브 경로를 HTML로 내보내며, 검색은 `public/posts.json`을 이용해 브라우저에서 동작합니다.
+
+```bash
+npm run export:static
+```
+
 공개 배포와 키 파일의 `200` 응답을 확인한 뒤에만 다음 명령으로 허브 URL을 IndexNow에 제출합니다.
 
 ```bash

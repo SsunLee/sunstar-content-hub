@@ -41,12 +41,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   const archiveRoutes: SitemapEntry[] = Array.from(
-    { length: ARCHIVE_PAGE_COUNT },
+    { length: Math.max(0, ARCHIVE_PAGE_COUNT - 1) },
     (_, index) => ({
-      url: absoluteUrl(`/archive/page/${index + 1}`),
+      url: absoluteUrl(`/archive/page/${index + 2}`),
       lastModified,
       changeFrequency: "weekly" as const,
-      priority: index === 0 ? 0.8 : 0.6,
+      priority: 0.6,
     }),
   );
 

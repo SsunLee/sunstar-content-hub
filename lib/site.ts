@@ -1,4 +1,4 @@
-const DEFAULT_SITE_URL = "https://sunstar-content-hub.sites.openai.com";
+const DEFAULT_SITE_URL = "https://ssunlee.github.io/sunstar-content-hub";
 
 export const SITE_NAME = "쑨쑨 콘텐츠 데스크";
 export const SITE_DESCRIPTION =

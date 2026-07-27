@@ -1,12 +1,12 @@
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ||
-  "https://sunstar-content-hub.sites.openai.com"
+  "https://ssunlee.github.io/sunstar-content-hub"
 ).replace(/\/+$/, "");
 
 const indexNowKey = "8fd6498b0d274934ad567cecd1fae369";
 const archivePages = Array.from(
-  { length: 22 },
-  (_, index) => `${siteUrl}/archive/page/${index + 1}`,
+  { length: 21 },
+  (_, index) => `${siteUrl}/archive/page/${index + 2}`,
 );
 const urlList = [
   `${siteUrl}/`,

@@ -8,10 +8,12 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "export:static": "npm run build && node scripts/export-static.mjs",
     "start": "vinext start",
     "sync:naver": "node scripts/sync-naver.mjs",
     "submit:indexnow": "node scripts/submit-indexnow.mjs",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "test:static": "npm run export:static && node --test tests/static-export.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
   },
