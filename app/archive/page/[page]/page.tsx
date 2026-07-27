@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 import archiveData from "@/data/posts.json";
+import { absoluteUrl } from "@/lib/site";
 
 import ArchiveClient, {
   type ArchiveData,
@@ -29,7 +30,9 @@ export async function generateMetadata({ params }: PagedArchiveProps): Promise<M
     title: `전체 글 아카이브 ${requestedPage}페이지`,
     description: `쑨쑨배 네이버 블로그 전체 기록 중 ${requestedPage}페이지입니다. 연예, 주식, 일상 글을 날짜순으로 살펴보세요.`,
     alternates: {
-      canonical: requestedPage <= 1 ? "/archive" : `/archive/page/${requestedPage}`,
+      canonical: absoluteUrl(
+        requestedPage <= 1 ? "/archive" : `/archive/page/${requestedPage}`,
+      ),
     },
   };
 }

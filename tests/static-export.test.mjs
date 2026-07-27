@@ -36,6 +36,14 @@ test("static mirror exposes every Naver post across indexable pages", async () =
   assert.doesNotMatch(html, /__VINEXT_RSC|sunstar-content-hub\.sites\.openai\.com/);
   assert.doesNotMatch(html, /(href|src)="\/assets\//);
   assert.match(html, /https:\/\/ssunlee\.github\.io\/sunstar-content-hub/);
+  assert.doesNotMatch(
+    html,
+    /rel="canonical" href="https:\/\/ssunlee\.github\.io\/(?!sunstar-content-hub)/,
+  );
+  assert.doesNotMatch(
+    html,
+    /rel="(?:shortcut )?icon" href="https:\/\/ssunlee\.github\.io\/favicon\.svg"/,
+  );
 });
 
 test("static search-engine files stay on the owned mirror host", async () => {

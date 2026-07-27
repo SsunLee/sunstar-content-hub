@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 import archiveData from "@/data/posts.json";
+import { absoluteUrl } from "@/lib/site";
 
 import ArchiveClient, {
   type ArchiveData,
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "쑨쑨배 네이버 블로그의 연예·주식·일상 기록을 제목, 배우, 작품, 종목명과 코드로 찾아보세요.",
   alternates: {
-    canonical: "/archive",
+    canonical: absoluteUrl("/archive"),
   },
 };
 

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 import {
+  absoluteUrl,
   NAVER_BLOG_URL,
   SITE_NAME,
   TOTAL_PUBLIC_POSTS,
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
   title: `소개와 편집 원칙 | ${SITE_NAME}`,
   description:
     "쑨쑨 콘텐츠 데스크가 네이버 블로그 원문을 연결하고 분류하는 방식, 편집 원칙과 수정 정책을 안내합니다.",
+  alternates: { canonical: absoluteUrl("/about") },
 };
 
 const principles = [

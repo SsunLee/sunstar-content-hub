@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   authors: [{ name: "쑨쑨배" }],
   creator: "쑨쑨배",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: absoluteUrl("/favicon.svg"),
+    shortcut: absoluteUrl("/favicon.svg"),
   },
   openGraph: {
     type: "website",

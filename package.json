@@ -14,7 +14,7 @@
     "submit:indexnow": "node scripts/submit-indexnow.mjs",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "test:static": "npm run export:static && node --test tests/static-export.test.mjs",
-    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern docs",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
