@@ -19,7 +19,7 @@ async function findIndexFiles(directory) {
   return nested.flat();
 }
 
-test("static mirror exposes every Naver post across indexable pages", async () => {
+test("legacy static pages preserve every Naver link while redirecting", async () => {
   const indexFiles = await findIndexFiles(docsPath);
   assert.equal(indexFiles.length, 26);
 
@@ -35,18 +35,39 @@ test("static mirror exposes every Naver post across indexable pages", async () =
   assert.equal(logNos.size, 1084);
   assert.doesNotMatch(html, /__VINEXT_RSC|sunstar-content-hub\.sites\.openai\.com/);
   assert.doesNotMatch(html, /(href|src)="\/assets\//);
-  assert.match(html, /https:\/\/ssunlee\.github\.io\/sunstar-content-hub/);
   assert.doesNotMatch(
     html,
-    /rel="canonical" href="https:\/\/ssunlee\.github\.io\/(?!sunstar-content-hub)/,
+    /rel="canonical" href="https:\/\/ssunlee\.github\.io\//,
+  );
+  assert.equal(
+    (
+      html.match(
+        /rel="canonical" href="https:\/\/ssundesk\.com(?:\/[^"]*)?"/g,
+      ) || []
+    ).length,
+    26,
+  );
+  assert.equal(
+    (
+      html.match(
+        /<meta http-equiv="refresh" content="0;url=https:\/\/ssundesk\.com(?:\/[^"]*)?">/g,
+      ) || []
+    ).length,
+    26,
+  );
+  assert.equal((html.match(/window\.location\.replace\(/g) || []).length, 26);
+  assert.equal(
+    (html.match(/새 주소에서 이 페이지 보기/g) || []).length,
+    26,
   );
   assert.doesNotMatch(
     html,
     /rel="(?:shortcut )?icon" href="https:\/\/ssunlee\.github\.io\/favicon\.svg"/,
   );
+  assert.doesNotMatch(html, /name="robots" content="noindex/i);
 });
 
-test("static search-engine files stay on the owned mirror host", async () => {
+test("legacy sitemap keeps old URLs discoverable during migration", async () => {
   const [sitemap, robots, indexNowKey] = await Promise.all([
     readFile(new URL("sitemap.xml", docsRoot), "utf8"),
     readFile(new URL("robots.txt", docsRoot), "utf8"),
@@ -58,6 +79,7 @@ test("static search-engine files stay on the owned mirror host", async () => {
 
   assert.equal((sitemap.match(/<loc>/g) || []).length, 26);
   assert.doesNotMatch(sitemap, /blog\.naver\.com/);
+  assert.doesNotMatch(sitemap, /ssundesk\.com/);
   assert.match(
     robots,
     /Sitemap: https:\/\/ssunlee\.github\.io\/sunstar-content-hub\/sitemap\.xml/,
@@ -67,6 +89,10 @@ test("static search-engine files stay on the owned mirror host", async () => {
 
 test("static homepage exposes search-console ownership tokens", async () => {
   const homepage = await readFile(join(docsPath, "index.html"), "utf8");
+  const lastArchivePage = await readFile(
+    join(docsPath, "archive", "page", "22", "index.html"),
+    "utf8",
+  );
   assert.match(
     homepage,
     /<title>오늘의 연예·주식 이슈 \| 쑨쑨 콘텐츠 데스크<\/title>/,
@@ -74,6 +100,11 @@ test("static homepage exposes search-console ownership tokens", async () => {
   assert.match(homepage, /"@graph":\[/);
   assert.match(homepage, /"@type":"WebSite"/);
   assert.match(homepage, /"alternateName":\["쑨쑨 데스크"\]/);
+  assert.match(homepage, /"url":"https:\/\/ssundesk\.com\/"/);
+  assert.match(
+    lastArchivePage,
+    /http-equiv="refresh" content="0;url=https:\/\/ssundesk\.com\/archive\/page\/22"/,
+  );
   assert.match(
     homepage,
     /<meta name="msvalidate\.01" content="1155F1214144455C499E39A6173CFE8F"\/?>/,

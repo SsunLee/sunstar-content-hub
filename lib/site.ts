@@ -1,4 +1,4 @@
-const DEFAULT_SITE_URL = "https://ssunlee.github.io/sunstar-content-hub";
+const DEFAULT_SITE_URL = "https://ssundesk.com";
 
 export const SITE_NAME = "쑨쑨 콘텐츠 데스크";
 export const HOME_TITLE = `오늘의 연예·주식 이슈 | ${SITE_NAME}`;

@@ -5,16 +5,24 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const targetName = process.argv[2] ?? "github";
+const primarySiteUrl = "https://ssundesk.com";
+const legacyGithubSiteUrl =
+  "https://ssunlee.github.io/sunstar-content-hub";
+const vercelSiteUrl = resolveVercelSiteUrl();
 const targets = {
   github: {
     outputDirectory: "docs",
     basePath: "/sunstar-content-hub",
-    siteUrl: "https://ssunlee.github.io/sunstar-content-hub",
+    siteUrl: primarySiteUrl,
+    sitemapSiteUrl: legacyGithubSiteUrl,
+    redirectSiteUrl: primarySiteUrl,
   },
   vercel: {
     outputDirectory: "vercel-dist",
     basePath: "",
-    siteUrl: resolveVercelSiteUrl(),
+    siteUrl: vercelSiteUrl,
+    sitemapSiteUrl: vercelSiteUrl,
+    redirectSiteUrl: null,
   },
 };
 const target = targets[targetName];
@@ -28,7 +36,7 @@ if (!target) {
 const outputRoot = resolve(projectRoot, target.outputDirectory);
 const clientRoot = resolve(projectRoot, "dist", "client");
 const workerPath = resolve(projectRoot, "dist", "server", "index.js");
-const { basePath, siteUrl } = target;
+const { basePath, redirectSiteUrl, sitemapSiteUrl, siteUrl } = target;
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -45,7 +53,7 @@ function resolveVercelSiteUrl() {
   const productionHost = process.env.VERCEL_PROJECT_PRODUCTION_URL?.trim();
   if (productionHost) return normalizeSiteUrl(productionHost);
 
-  return "https://sunstar-content-hub.vercel.app";
+  return primarySiteUrl;
 }
 
 const isWindows = process.platform === "win32";
@@ -85,6 +93,10 @@ function outputPath(route) {
   return resolve(outputRoot, route.slice(1), "index.html");
 }
 
+function routeUrl(rootUrl, route) {
+  return route === "/" ? `${rootUrl}/` : `${rootUrl}${route}`;
+}
+
 function toStaticHtml(html, route) {
   let result = html
     .replace(
@@ -105,6 +117,23 @@ function toStaticHtml(html, route) {
         "</body>",
         `<script src="${basePath}/static-search.js" defer></script></body>`,
       );
+  }
+
+  if (redirectSiteUrl) {
+    const destination = routeUrl(redirectSiteUrl, route);
+    const redirectScript = [
+      "<script>",
+      `window.location.replace(${JSON.stringify(destination)} + window.location.search + window.location.hash);`,
+      "</script>",
+    ].join("");
+    const redirectMeta =
+      `<meta http-equiv="refresh" content="0;url=${destination}">`;
+    const fallback =
+      `<noscript><p><a href="${destination}">새 주소에서 이 페이지 보기</a></p></noscript>`;
+
+    result = result
+      .replace("</head>", `${redirectScript}${redirectMeta}</head>`)
+      .replace(/<body([^>]*)>/i, `<body$1>${fallback}`);
   }
 
   return result;
@@ -136,7 +165,7 @@ for (const route of routes) {
 }
 
 const sitemapUrls = routes.map((route) => {
-  const loc = route === "/" ? `${siteUrl}/` : `${siteUrl}${route}`;
+  const loc = routeUrl(sitemapSiteUrl, route);
   return `  <url><loc>${loc}</loc></url>`;
 });
 const sitemap = [
@@ -149,7 +178,7 @@ const sitemap = [
 const robots = [
   "User-agent: *",
   "Allow: /",
-  `Sitemap: ${siteUrl}/sitemap.xml`,
+  `Sitemap: ${sitemapSiteUrl}/sitemap.xml`,
   "",
 ].join("\n");
 
@@ -167,6 +196,8 @@ console.log(
       routes: routes.length,
       sitemapUrls: sitemapUrls.length,
       siteUrl,
+      sitemapSiteUrl,
+      redirectSiteUrl,
     },
     null,
     2,

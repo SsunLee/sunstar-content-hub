@@ -22,7 +22,7 @@ function expectedSiteUrl() {
   if (process.env.VERCEL_PROJECT_PRODUCTION_URL?.trim()) {
     return normalizeSiteUrl(process.env.VERCEL_PROJECT_PRODUCTION_URL);
   }
-  return "https://sunstar-content-hub.vercel.app";
+  return "https://ssundesk.com";
 }
 
 async function findIndexFiles(directory) {
@@ -53,8 +53,12 @@ test("Vercel export exposes all posts from root-relative pages", async () => {
   assert.equal(logNos.size, 1084);
   assert.doesNotMatch(html, /__VINEXT_RSC|sunstar-content-hub\.sites\.openai\.com/);
   assert.doesNotMatch(html, /\/sunstar-content-hub\/assets\//);
-  assert.doesNotMatch(html, /https:\/\/ssunlee\.github\.io\/sunstar-content-hub/);
+  assert.doesNotMatch(
+    html,
+    /https:\/\/(?:ssunlee\.github\.io\/sunstar-content-hub|sunstar-content-hub\.vercel\.app)/,
+  );
   assert.match(html, /(href|src)="\/assets\//);
+  assert.doesNotMatch(html, /http-equiv="refresh"|window\.location\.replace/);
 });
 
 test("Vercel homepage uses the production title, canonical, and WebSite graph", async () => {
@@ -88,7 +92,7 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
   );
 });
 
-test("Vercel search-engine files reference only the Vercel production host", async () => {
+test("Vercel search-engine files reference only the primary custom domain", async () => {
   const [sitemap, robots, indexNowKey] = await Promise.all([
     readFile(new URL("sitemap.xml", outputRoot), "utf8"),
     readFile(new URL("robots.txt", outputRoot), "utf8"),

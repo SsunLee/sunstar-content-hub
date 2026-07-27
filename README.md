@@ -43,21 +43,21 @@ npm run sync:naver
 
 ## 배포 환경 변수
 
-`NEXT_PUBLIC_SITE_URL`에 최종 공개 주소를 넣으면 canonical, Open Graph, sitemap, robots의 호스트가 함께 바뀝니다.
+최종 공개 주소는 `https://ssundesk.com`입니다. `NEXT_PUBLIC_SITE_URL`로 배포별 주소를 명시할 수 있으며, canonical, Open Graph, sitemap, robots의 호스트가 함께 바뀝니다.
 
-GitHub Pages용 정적 미러는 다음 명령으로 `docs/`에 생성합니다. 전체 26개 허브 경로를 HTML로 내보내며, 검색은 `public/posts.json`을 이용해 브라우저에서 동작합니다.
+GitHub Pages의 기존 검색 URL은 다음 명령으로 `docs/`에 생성합니다. 26개 기존 경로는 같은 경로의 `ssundesk.com` 주소로 즉시 이전되며, 0초 meta refresh와 canonical을 함께 사용합니다.
 
 ```bash
 npm run export:static
 ```
 
-Vercel 주 배포용 루트 정적 사이트는 다음 명령으로 `vercel-dist/`에 생성합니다. Vercel 빌드에서는 `VERCEL_PROJECT_PRODUCTION_URL`을 자동으로 사용하고, 커스텀 도메인을 연결한 뒤에는 `NEXT_PUBLIC_SITE_URL`에 최종 주소를 지정하면 됩니다.
+Vercel 주 배포용 루트 정적 사이트는 다음 명령으로 `vercel-dist/`에 생성합니다. 기본값과 프로덕션 환경 변수 모두 `https://ssundesk.com`을 사용합니다.
 
 ```bash
 npm run export:vercel
 ```
 
-Vercel 프로젝트는 저장소의 `vercel.json`을 사용해 위 명령을 실행하고 `vercel-dist/`를 배포합니다. GitHub Pages의 `docs/`는 기존 검색 노출을 보존하는 백업으로 계속 유지합니다.
+Vercel 프로젝트는 저장소의 `vercel.json`을 사용해 위 명령을 실행하고 `vercel-dist/`를 배포합니다. GitHub Pages의 `docs/`는 기존 검색 URL의 이전 신호로 최소 1년 유지하고, 별도 Sites 배포를 운영 백업으로 유지합니다.
 
 공개 배포와 키 파일의 `200` 응답을 확인한 뒤에만 다음 명령으로 허브 URL을 IndexNow에 제출합니다.
 

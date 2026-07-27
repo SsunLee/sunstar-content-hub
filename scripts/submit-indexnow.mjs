@@ -1,6 +1,6 @@
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ||
-  "https://ssunlee.github.io/sunstar-content-hub"
+  "https://ssundesk.com"
 ).replace(/\/+$/, "");
 
 const indexNowKey = "8fd6498b0d274934ad567cecd1fae369";
