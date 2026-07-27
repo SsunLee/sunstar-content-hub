@@ -61,6 +61,11 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
+  verification: {
+    other: {
+      "msvalidate.01": "1155F1214144455C499E39A6173CFE8F",
+    },
+  },
 };
 
 export const viewport: Viewport = {

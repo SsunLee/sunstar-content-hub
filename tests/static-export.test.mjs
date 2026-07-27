@@ -64,3 +64,11 @@ test("static search-engine files stay on the owned mirror host", async () => {
   );
   assert.equal(indexNowKey.trim(), "8fd6498b0d274934ad567cecd1fae369");
 });
+
+test("static homepage exposes the Bing ownership token", async () => {
+  const homepage = await readFile(join(docsPath, "index.html"), "utf8");
+  assert.match(
+    homepage,
+    /<meta name="msvalidate\.01" content="1155F1214144455C499E39A6173CFE8F"\/?>/,
+  );
+});
