@@ -8,10 +8,15 @@ import {
   index,
   posts,
 } from "@/lib/posts";
-import { absoluteUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
+import {
+  absoluteUrl,
+  HOME_TITLE,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+} from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: `${SITE_NAME} | 연예·주식 원문 아카이브`,
+  title: { absolute: HOME_TITLE },
   description: SITE_DESCRIPTION,
   alternates: { canonical: absoluteUrl("/") },
 };
@@ -22,23 +27,35 @@ export default function Home() {
   const lead = entertainment[0];
   const support = entertainment.slice(1, 3);
   const latest = posts.slice(0, 6);
+  const homeUrl = absoluteUrl("/");
+  const websiteId = `${homeUrl}#website`;
 
   const structuredData = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: SITE_NAME,
-    description: SITE_DESCRIPTION,
-    url: absoluteUrl("/"),
-    isPartOf: {
-      "@type": "WebSite",
-      name: SITE_NAME,
-      url: absoluteUrl("/"),
-      potentialAction: {
-        "@type": "SearchAction",
-        target: `${absoluteUrl("/archive")}?q={search_term_string}`,
-        "query-input": "required name=search_term_string",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": websiteId,
+        name: SITE_NAME,
+        alternateName: ["쑨쑨 데스크"],
+        url: homeUrl,
+        potentialAction: {
+          "@type": "SearchAction",
+          target: `${absoluteUrl("/archive")}?q={search_term_string}`,
+          "query-input": "required name=search_term_string",
+        },
       },
-    },
+      {
+        "@type": "CollectionPage",
+        "@id": `${homeUrl}#collection-page`,
+        name: HOME_TITLE,
+        description: SITE_DESCRIPTION,
+        url: homeUrl,
+        isPartOf: {
+          "@id": websiteId,
+        },
+      },
+    ],
   };
 
   return (

@@ -1,0 +1,13 @@
+.git
+.next
+.vinext
+.wrangler
+coverage
+dist
+docs
+node_modules
+outputs
+vercel-dist
+work
+.dev-server.*.log
+*.tsbuildinfo

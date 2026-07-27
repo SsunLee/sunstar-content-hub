@@ -24,6 +24,8 @@ npm run dev
 ```bash
 npm test
 npm run lint
+npm run test:static
+npm run test:vercel
 ```
 
 ## 콘텐츠 동기화
@@ -48,6 +50,14 @@ GitHub Pages용 정적 미러는 다음 명령으로 `docs/`에 생성합니다.
 ```bash
 npm run export:static
 ```
+
+Vercel 주 배포용 루트 정적 사이트는 다음 명령으로 `vercel-dist/`에 생성합니다. Vercel 빌드에서는 `VERCEL_PROJECT_PRODUCTION_URL`을 자동으로 사용하고, 커스텀 도메인을 연결한 뒤에는 `NEXT_PUBLIC_SITE_URL`에 최종 주소를 지정하면 됩니다.
+
+```bash
+npm run export:vercel
+```
+
+Vercel 프로젝트는 저장소의 `vercel.json`을 사용해 위 명령을 실행하고 `vercel-dist/`를 배포합니다. GitHub Pages의 `docs/`는 기존 검색 노출을 보존하는 백업으로 계속 유지합니다.
 
 공개 배포와 키 파일의 `200` 응답을 확인한 뒤에만 다음 명령으로 허브 URL을 IndexNow에 제출합니다.
 

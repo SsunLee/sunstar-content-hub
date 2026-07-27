@@ -69,6 +69,13 @@ test("static homepage exposes search-console ownership tokens", async () => {
   const homepage = await readFile(join(docsPath, "index.html"), "utf8");
   assert.match(
     homepage,
+    /<title>오늘의 연예·주식 이슈 \| 쑨쑨 콘텐츠 데스크<\/title>/,
+  );
+  assert.match(homepage, /"@graph":\[/);
+  assert.match(homepage, /"@type":"WebSite"/);
+  assert.match(homepage, /"alternateName":\["쑨쑨 데스크"\]/);
+  assert.match(
+    homepage,
     /<meta name="msvalidate\.01" content="1155F1214144455C499E39A6173CFE8F"\/?>/,
   );
   assert.match(

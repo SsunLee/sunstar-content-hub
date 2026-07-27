@@ -1,13 +1,69 @@
 import { cp, mkdir, rm, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
+import { spawnSync } from "node:child_process";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
-const outputRoot = resolve(projectRoot, "docs");
+const targetName = process.argv[2] ?? "github";
+const targets = {
+  github: {
+    outputDirectory: "docs",
+    basePath: "/sunstar-content-hub",
+    siteUrl: "https://ssunlee.github.io/sunstar-content-hub",
+  },
+  vercel: {
+    outputDirectory: "vercel-dist",
+    basePath: "",
+    siteUrl: resolveVercelSiteUrl(),
+  },
+};
+const target = targets[targetName];
+
+if (!target) {
+  throw new Error(
+    `Unknown static export target "${targetName}". Use "github" or "vercel".`,
+  );
+}
+
+const outputRoot = resolve(projectRoot, target.outputDirectory);
 const clientRoot = resolve(projectRoot, "dist", "client");
 const workerPath = resolve(projectRoot, "dist", "server", "index.js");
-const basePath = "/sunstar-content-hub";
-const siteUrl = "https://ssunlee.github.io/sunstar-content-hub";
+const { basePath, siteUrl } = target;
+
+function normalizeSiteUrl(value) {
+  const trimmed = value.trim();
+  const withProtocol = /^https?:\/\//i.test(trimmed)
+    ? trimmed
+    : `https://${trimmed}`;
+  return withProtocol.replace(/\/+$/, "");
+}
+
+function resolveVercelSiteUrl() {
+  const configuredUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
+  if (configuredUrl) return normalizeSiteUrl(configuredUrl);
+
+  const productionHost = process.env.VERCEL_PROJECT_PRODUCTION_URL?.trim();
+  if (productionHost) return normalizeSiteUrl(productionHost);
+
+  return "https://sunstar-content-hub.vercel.app";
+}
+
+const isWindows = process.platform === "win32";
+const npmCommand = isWindows ? "npm.cmd" : "npm";
+const build = spawnSync(npmCommand, ["run", "build"], {
+  cwd: projectRoot,
+  env: {
+    ...process.env,
+    NEXT_PUBLIC_SITE_URL: siteUrl,
+  },
+  shell: isWindows,
+  stdio: "inherit",
+});
+
+if (build.error) throw build.error;
+if (build.status !== 0) {
+  throw new Error(`Application build failed with exit code ${build.status}.`);
+}
 
 const primaryRoutes = ["/", "/entertainment", "/stocks", "/archive", "/about"];
 const archiveRoutes = Array.from(
@@ -107,6 +163,7 @@ console.log(
   JSON.stringify(
     {
       output: outputRoot,
+      target: targetName,
       routes: routes.length,
       sitemapUrls: sitemapUrls.length,
       siteUrl,

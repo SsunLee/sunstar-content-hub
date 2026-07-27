@@ -2,14 +2,19 @@ import type { Metadata, Viewport } from "next";
 
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
-import { absoluteUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
+import {
+  absoluteUrl,
+  HOME_TITLE,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+} from "@/lib/site";
 
 import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(absoluteUrl("/")),
   title: {
-    default: `${SITE_NAME} | 연예·주식 원문 아카이브`,
+    default: HOME_TITLE,
     template: `%s | ${SITE_NAME}`,
   },
   description: SITE_DESCRIPTION,
@@ -33,7 +38,7 @@ export const metadata: Metadata = {
     locale: "ko_KR",
     url: absoluteUrl("/"),
     siteName: SITE_NAME,
-    title: `${SITE_NAME} | 연예·주식 원문 아카이브`,
+    title: HOME_TITLE,
     description: SITE_DESCRIPTION,
     images: [
       {
@@ -46,7 +51,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} | 연예·주식 원문 아카이브`,
+    title: HOME_TITLE,
     description: SITE_DESCRIPTION,
     images: [absoluteUrl("/og-editorial.png")],
   },

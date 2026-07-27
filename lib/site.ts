@@ -1,6 +1,7 @@
 const DEFAULT_SITE_URL = "https://ssunlee.github.io/sunstar-content-hub";
 
 export const SITE_NAME = "쑨쑨 콘텐츠 데스크";
+export const HOME_TITLE = `오늘의 연예·주식 이슈 | ${SITE_NAME}`;
 export const SITE_DESCRIPTION =
   "연예와 주식, 그리고 쑨쑨배 블로그의 공개 기록을 한곳에서 찾는 콘텐츠 허브";
 export const NAVER_BLOG_URL = "https://blog.naver.com/tnsqo1126";
