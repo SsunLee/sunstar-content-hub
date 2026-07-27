@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element -- 정적 내보내기에서 생성 원본 로고 경로를 그대로 보존합니다. */
 import Link from "next/link";
 
 const navItems = [
@@ -28,9 +29,22 @@ export function SiteHeader() {
       </div>
       <header className="site-header">
         <div className="page-shell masthead">
-          <Link className="wordmark" href="/" aria-label="쑨쑨 콘텐츠 데스크 홈">
-            <span className="wordmark-kicker">SUNSUN CONTENT ARCHIVE</span>
-            <span>쑨쑨 콘텐츠 데스크</span>
+          <Link className="wordmark" href="/" aria-label="썬데스크 홈">
+            <span className="wordmark-frame" aria-hidden="true">
+              <img
+                className="wordmark-image"
+                src="/brand/ssdesk-logo-v1.png"
+                alt=""
+                width="1536"
+                height="1536"
+                decoding="async"
+                fetchPriority="high"
+              />
+            </span>
+            <span className="wordmark-meta">
+              <strong>썬데스크</strong>
+              <span>문화와 시장을 읽는 에디토리얼 허브</span>
+            </span>
           </Link>
           <p className="masthead-note">
             지금 화제가 되는 작품과 배우,

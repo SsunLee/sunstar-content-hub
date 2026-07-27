@@ -29,12 +29,15 @@ test("server-renders the finished editorial home", async () => {
 
   const html = await response.text();
   assert.match(html, /<html[^>]*lang="ko"/i);
-  assert.match(html, /쑨쑨 콘텐츠 데스크/);
+  assert.match(html, /썬데스크/);
   assert.match(html, /2013—2026/);
   assert.match(html, /1,084/);
   assert.match(html, /연예 데스크/);
   assert.match(html, /주식 데스크/);
-  assert.match(html, /og-editorial\.png/);
+  assert.match(html, /brand\/ssdesk-logo-v1\.png/);
+  assert.match(html, /brand\/ssdesk-og-v1\.png/);
+  assert.match(html, /"@type":"Organization"/);
+  assert.match(html, /"@type":"ImageObject"/);
   assert.match(html, /application\/ld\+json/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/i);
 });

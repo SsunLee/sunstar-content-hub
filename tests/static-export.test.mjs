@@ -88,18 +88,41 @@ test("legacy sitemap keeps old URLs discoverable during migration", async () => 
 });
 
 test("static homepage exposes search-console ownership tokens", async () => {
-  const homepage = await readFile(join(docsPath, "index.html"), "utf8");
-  const lastArchivePage = await readFile(
-    join(docsPath, "archive", "page", "22", "index.html"),
-    "utf8",
-  );
+  const [homepage, lastArchivePage, favicon] = await Promise.all([
+    readFile(join(docsPath, "index.html"), "utf8"),
+    readFile(
+      join(docsPath, "archive", "page", "22", "index.html"),
+      "utf8",
+    ),
+    readFile(join(docsPath, "favicon.svg"), "utf8"),
+  ]);
   assert.match(
     homepage,
-    /<title>오늘의 연예·주식 이슈 \| 쑨쑨 콘텐츠 데스크<\/title>/,
+    /<title>오늘의 연예·주식 이슈 \| 썬데스크<\/title>/,
   );
   assert.match(homepage, /"@graph":\[/);
   assert.match(homepage, /"@type":"WebSite"/);
-  assert.match(homepage, /"alternateName":\["쑨쑨 데스크"\]/);
+  assert.match(homepage, /"@type":"Organization"/);
+  assert.match(
+    homepage,
+    /"publisher":\{"@id":"https:\/\/ssundesk\.com\/#organization"\}/,
+  );
+  assert.match(
+    homepage,
+    /"alternateName":\["SS\.Desk","쑨쑨 콘텐츠 데스크","쑨쑨 데스크"\]/,
+  );
+  assert.match(
+    homepage,
+    /https:\/\/ssundesk\.com\/brand\/ssdesk-logo-v1\.png/,
+  );
+  assert.match(
+    homepage,
+    /src="\/sunstar-content-hub\/brand\/ssdesk-logo-v1\.png"/,
+  );
+  assert.match(
+    homepage,
+    /https:\/\/ssundesk\.com\/brand\/ssdesk-og-v1\.png/,
+  );
   assert.match(homepage, /"url":"https:\/\/ssundesk\.com\/"/);
   assert.match(
     lastArchivePage,
@@ -113,4 +136,12 @@ test("static homepage exposes search-console ownership tokens", async () => {
     homepage,
     /<meta name="google-site-verification" content="gP_sQo1TJMDeAIUZpttQV4hrN8Zg7L48d1dQCQBpKbA"\/?>/,
   );
+  const [logo, socialImage] = await Promise.all([
+    readFile(join(docsPath, "brand", "ssdesk-logo-v1.png")),
+    readFile(join(docsPath, "brand", "ssdesk-og-v1.png")),
+  ]);
+  assert.ok(logo.byteLength > 10_000 && logo.byteLength < 600_000);
+  assert.ok(socialImage.byteLength > 10_000 && socialImage.byteLength < 600_000);
+  assert.match(favicon, /썬데스크 SS 심벌/);
+  assert.doesNotMatch(favicon, /<text\b/);
 });

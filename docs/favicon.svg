@@ -1,8 +1,8 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="10" fill="#F2EDE2"/>
-  <path d="M14 13H50V18H14V13Z" fill="#171714"/>
-  <path d="M14 46H50V51H14V46Z" fill="#171714"/>
-  <path d="M18 22H29V42H18V22Z" fill="#6446A9"/>
-  <path d="M35 22H46V42H35V22Z" fill="#0F7354"/>
-  <path d="M23.5 25V39M40.5 25V39" stroke="#F2EDE2" stroke-width="3"/>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>썬데스크 SS 심벌</title>
+  <rect width="64" height="64" rx="10" fill="#050505"/>
+  <path d="M42 15C36 10 22 10 16 16C9 23 15 29 29 32C43 35 48 40 44 48C40 56 24 56 15 49" fill="none" stroke="#050505" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 15C36 10 22 10 16 16C9 23 15 29 29 32C43 35 48 40 44 48C40 56 24 56 15 49" fill="none" stroke="#F7F7F5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 24C46 19 34 19 29 25C24 31 29 36 40 38C51 41 55 45 51 52C48 58 36 58 28 53" fill="none" stroke="#050505" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 24C46 19 34 19 29 25C24 31 29 36 40 38C51 41 55 45 51 52C48 58 36 58 28 53" fill="none" stroke="#F7F7F5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

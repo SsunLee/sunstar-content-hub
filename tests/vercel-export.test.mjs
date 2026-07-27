@@ -68,7 +68,7 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
 
   assert.match(
     homepage,
-    /<title>오늘의 연예·주식 이슈 \| 쑨쑨 콘텐츠 데스크<\/title>/,
+    /<title>오늘의 연예·주식 이슈 \| 썬데스크<\/title>/,
   );
   assert.match(
     homepage,
@@ -76,8 +76,27 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
   );
   assert.match(homepage, /"@graph":\[/);
   assert.match(homepage, /"@type":"WebSite"/);
-  assert.match(homepage, /"name":"쑨쑨 콘텐츠 데스크"/);
-  assert.match(homepage, /"alternateName":\["쑨쑨 데스크"\]/);
+  assert.match(homepage, /"@type":"Organization"/);
+  assert.match(homepage, /"name":"썬데스크"/);
+  assert.match(
+    homepage,
+    new RegExp(
+      `"publisher":\\{"@id":"${escapedSiteUrl}/#organization"\\}`,
+    ),
+  );
+  assert.match(
+    homepage,
+    /"alternateName":\["SS\.Desk","쑨쑨 콘텐츠 데스크","쑨쑨 데스크"\]/,
+  );
+  assert.match(
+    homepage,
+    new RegExp(`${escapedSiteUrl}/brand/ssdesk-logo-v1\\.png`),
+  );
+  assert.match(
+    homepage,
+    new RegExp(`${escapedSiteUrl}/brand/ssdesk-og-v1\\.png`),
+  );
+  assert.match(homepage, /src="\/brand\/ssdesk-logo-v1\.png"/);
   assert.match(
     homepage,
     new RegExp(`"url":"${escapedSiteUrl}/"`),
@@ -90,6 +109,15 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
     homepage,
     /<meta name="google-site-verification" content="gP_sQo1TJMDeAIUZpttQV4hrN8Zg7L48d1dQCQBpKbA"\/?>/,
   );
+  const [logo, socialImage] = await Promise.all([
+    readFile(join(outputPath, "brand", "ssdesk-logo-v1.png")),
+    readFile(join(outputPath, "brand", "ssdesk-og-v1.png")),
+  ]);
+  assert.ok(logo.byteLength > 10_000 && logo.byteLength < 600_000);
+  assert.ok(socialImage.byteLength > 10_000 && socialImage.byteLength < 600_000);
+  const favicon = await readFile(join(outputPath, "favicon.svg"), "utf8");
+  assert.match(favicon, /썬데스크 SS 심벌/);
+  assert.doesNotMatch(favicon, /<text\b/);
 });
 
 test("Vercel search-engine files reference only the primary custom domain", async () => {

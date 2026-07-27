@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element -- 정적 내보내기에서 생성 원본 로고 경로를 그대로 보존합니다. */
 import Link from "next/link";
 
 export function SiteFooter() {
@@ -5,7 +6,20 @@ export function SiteFooter() {
     <footer className="site-footer">
       <div className="page-shell footer-grid">
         <div>
-          <p className="footer-mark">쑨쑨 콘텐츠 데스크</p>
+          <Link className="footer-brand" href="/" aria-label="썬데스크 홈">
+            <span className="footer-logo-frame" aria-hidden="true">
+              <img
+                className="footer-logo-image"
+                src="/brand/ssdesk-logo-v1.png"
+                alt=""
+                width="1536"
+                height="1536"
+                decoding="async"
+                loading="lazy"
+              />
+            </span>
+            <span>썬데스크</span>
+          </Link>
           <p className="footer-copy">
             흩어진 네이버 블로그 글을 주제와 날짜로 다시 발견하는 독립
             아카이브입니다.
@@ -26,7 +40,7 @@ export function SiteFooter() {
         </div>
       </div>
       <div className="page-shell footer-bottom">
-        <span>© 2026 SUNSUN CONTENT DESK</span>
+        <span>© 2026 SS.Desk</span>
         <span>원문과 이미지의 권리는 각 출처에 있습니다.</span>
       </div>
     </footer>

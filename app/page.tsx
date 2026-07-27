@@ -11,7 +11,9 @@ import {
 import {
   absoluteUrl,
   HOME_TITLE,
+  SITE_ALTERNATE_NAMES,
   SITE_DESCRIPTION,
+  SITE_LOGO_PATH,
   SITE_NAME,
 } from "@/lib/site";
 
@@ -29,6 +31,7 @@ export default function Home() {
   const latest = posts.slice(0, 6);
   const homeUrl = absoluteUrl("/");
   const websiteId = `${homeUrl}#website`;
+  const organizationId = `${homeUrl}#organization`;
 
   const structuredData = {
     "@context": "https://schema.org",
@@ -37,12 +40,28 @@ export default function Home() {
         "@type": "WebSite",
         "@id": websiteId,
         name: SITE_NAME,
-        alternateName: ["쑨쑨 데스크"],
+        alternateName: SITE_ALTERNATE_NAMES,
         url: homeUrl,
+        publisher: {
+          "@id": organizationId,
+        },
         potentialAction: {
           "@type": "SearchAction",
           target: `${absoluteUrl("/archive")}?q={search_term_string}`,
           "query-input": "required name=search_term_string",
+        },
+      },
+      {
+        "@type": "Organization",
+        "@id": organizationId,
+        name: SITE_NAME,
+        alternateName: SITE_ALTERNATE_NAMES,
+        url: homeUrl,
+        logo: {
+          "@type": "ImageObject",
+          url: absoluteUrl(SITE_LOGO_PATH),
+          width: 1536,
+          height: 1536,
         },
       },
       {

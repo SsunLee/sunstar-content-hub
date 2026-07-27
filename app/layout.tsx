@@ -6,7 +6,9 @@ import {
   absoluteUrl,
   HOME_TITLE,
   SITE_DESCRIPTION,
+  SITE_LOGO_PATH,
   SITE_NAME,
+  SITE_OG_IMAGE_PATH,
 } from "@/lib/site";
 
 import "./globals.css";
@@ -32,6 +34,7 @@ export const metadata: Metadata = {
   icons: {
     icon: absoluteUrl("/favicon.svg"),
     shortcut: absoluteUrl("/favicon.svg"),
+    apple: absoluteUrl(SITE_LOGO_PATH),
   },
   openGraph: {
     type: "website",
@@ -42,10 +45,10 @@ export const metadata: Metadata = {
     description: SITE_DESCRIPTION,
     images: [
       {
-        url: absoluteUrl("/og-editorial.png"),
-        width: 1536,
-        height: 1024,
-        alt: "연예와 주식 콘텐츠를 상징하는 쑨쑨 콘텐츠 데스크 편집 일러스트",
+        url: absoluteUrl(SITE_OG_IMAGE_PATH),
+        width: 1731,
+        height: 909,
+        alt: "검정 배경에 겹쳐진 SS와 Desk를 결합한 썬데스크 로고",
       },
     ],
   },
@@ -53,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: HOME_TITLE,
     description: SITE_DESCRIPTION,
-    images: [absoluteUrl("/og-editorial.png")],
+    images: [absoluteUrl(SITE_OG_IMAGE_PATH)],
   },
   robots: {
     index: true,
@@ -77,7 +80,7 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#f2ede2",
+  themeColor: "#050505",
   colorScheme: "light",
 };
 
