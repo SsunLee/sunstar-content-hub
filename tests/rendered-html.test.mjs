@@ -1,5 +1,12 @@
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
+
+const content = JSON.parse(
+  await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
+);
+const totalPosts = content.posts.length;
+const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
 
 async function render(pathname = "/") {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -28,10 +35,11 @@ test("server-renders the finished editorial home", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
+  const textHtml = html.replaceAll("<!-- -->", "");
   assert.match(html, /<html[^>]*lang="ko"/i);
   assert.match(html, /썬데스크/);
-  assert.match(html, /2013—2026/);
-  assert.match(html, /1,084/);
+  assert.match(textHtml, new RegExp(`2013—${new Date().getFullYear()}`));
+  assert.ok(textHtml.includes(totalPosts.toLocaleString("ko-KR")));
   assert.match(html, /연예 데스크/);
   assert.match(html, /주식 데스크/);
   assert.match(html, /brand\/ssdesk-logo-v1\.png/);
@@ -45,7 +53,11 @@ test("server-renders the finished editorial home", async () => {
 test("archive exposes public Naver links in paged HTML", async () => {
   const [firstResponse, lastResponse] = await Promise.all([
     render("/archive"),
-    render("/archive/page/22"),
+    render(
+      archivePageCount === 1
+        ? "/archive"
+        : `/archive/page/${archivePageCount}`,
+    ),
   ]);
 
   assert.equal(firstResponse.status, 200);
@@ -56,7 +68,12 @@ test("archive exposes public Naver links in paged HTML", async () => {
   const naverLink = /href="https:\/\/blog\.naver\.com\/tnsqo1126\/\d+"/g;
 
   assert.equal(new Set(firstHtml.match(naverLink)).size, 50);
-  assert.equal(new Set(lastHtml.match(naverLink)).size, 34);
+  assert.equal(
+    new Set(lastHtml.match(naverLink)).size,
+    totalPosts % 50 || Math.min(50, totalPosts),
+  );
   assert.match(firstHtml, /배우, 작품, 종목명, 제목 검색/);
-  assert.match(lastHtml, /22페이지/);
+  if (archivePageCount > 1) {
+    assert.match(lastHtml, new RegExp(`${archivePageCount}페이지`));
+  }
 });

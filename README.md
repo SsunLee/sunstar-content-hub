@@ -6,10 +6,10 @@
 
 ## 구성
 
-- 공개 글 1,084건의 제목·날짜·정규 URL 동기화
+- 공개 글 전체의 제목·날짜·정규 URL 동기화
 - 연예 데스크와 주식 데스크
 - 제목·배우·작품·종목명·종목코드 검색
-- 50건 단위의 22페이지 전체 아카이브
+- 50건 단위로 자동 확장되는 전체 아카이브
 - `robots.txt`, `sitemap.xml`, Open Graph, JSON-LD
 - Bing용 IndexNow 키와 제출 스크립트
 
@@ -42,6 +42,19 @@ npm run sync:naver
 - `public/posts.json`: 공개 데이터 사본
 
 기본키는 `naver:tnsqo1126:{logNo}`이며, 공개 목록에 없는 로컬 초안은 포함하지 않습니다.
+
+### 자동 업데이트 배치
+
+`.github/workflows/sync-naver.yml`이 2시간마다 네이버 공개 목록과 RSS를
+동기화합니다. 수집 결과를 검증한 뒤 실제 변경이 있을 때만
+`data/posts.json`과 `public/posts.json`을 커밋하며, `main` 푸시를 감지한
+Vercel이 새 정적 사이트를 배포합니다. GitHub Actions의 `Run workflow`로
+수동 실행할 수도 있습니다.
+
+수집 건수가 네이버가 알린 전체 건수와 다르거나 기존 공개 글이 하나라도
+사라진 경우에는 기존 데이터를 덮어쓰지 않고 실패합니다. 삭제·비공개
+전환이 의도된 경우에만 공개 목록을 직접 확인한 뒤 로컬에서
+`ALLOW_REMOVALS=1`로 실행합니다.
 
 ## 배포 환경 변수
 

@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element -- 정적 내보내기에서 생성 원본 로고 경로를 그대로 보존합니다. */
 import Link from "next/link";
 
+import { TOTAL_PUBLIC_POSTS } from "@/lib/site";
+
 const navItems = [
   { href: "/", label: "홈" },
   { href: "/entertainment", label: "연예 데스크" },
@@ -17,7 +19,10 @@ export function SiteHeader() {
       </a>
       <div className="utility-bar">
         <div className="page-shell utility-inner">
-          <p>2013—2026 · 공개 글 1,084건을 한곳에</p>
+          <p>
+            2013—{new Date().getFullYear()} · 공개 글{" "}
+            {TOTAL_PUBLIC_POSTS.toLocaleString("ko-KR")}건을 한곳에
+          </p>
           <a
             href="https://blog.naver.com/tnsqo1126"
             target="_blank"

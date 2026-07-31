@@ -128,7 +128,9 @@ export default function Home() {
 
       <section className="statement-band">
         <div className="page-shell statement-grid">
-          <p className="statement-number">1,084</p>
+          <p className="statement-number">
+            {index.total.toLocaleString("ko-KR")}
+          </p>
           <div>
             <p className="section-kicker">THE COMPLETE INDEX</p>
             <h2>13년의 공개 기록을, 다시 찾기 쉬운 한 권으로.</h2>

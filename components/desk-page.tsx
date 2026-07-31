@@ -30,7 +30,9 @@ export function DeskPage({ category }: DeskPageProps) {
   const richPosts = categoryPosts.filter((post) => post.image && post.summary);
   const lead = richPosts[0];
   const cards = richPosts.slice(1, 9);
-  const latest = categoryPosts.slice(0, 12);
+  const latest = categoryPosts
+    .filter((post) => post.id !== lead?.id)
+    .slice(0, 6);
 
   return (
     <main id="main-content">
@@ -56,7 +58,7 @@ export function DeskPage({ category }: DeskPageProps) {
           <p className="section-kicker">LATEST INDEX</p>
           <h2>최신 글</h2>
           <div className="desk-latest-list">
-            {latest.slice(1, 7).map((post, index) => (
+            {latest.map((post, index) => (
               <PostCard
                 key={post.id}
                 post={post}

@@ -6,6 +6,12 @@ import test from "node:test";
 
 const docsRoot = new URL("../docs/", import.meta.url);
 const docsPath = fileURLToPath(docsRoot);
+const content = JSON.parse(
+  await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
+);
+const totalPosts = content.posts.length;
+const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
+const routeCount = archivePageCount + 4;
 
 async function findIndexFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -21,7 +27,7 @@ async function findIndexFiles(directory) {
 
 test("legacy static pages preserve every Naver link while redirecting", async () => {
   const indexFiles = await findIndexFiles(docsPath);
-  assert.equal(indexFiles.length, 26);
+  assert.equal(indexFiles.length, routeCount);
 
   const html = (
     await Promise.all(indexFiles.map((file) => readFile(file, "utf8")))
@@ -32,7 +38,7 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
     ),
   );
 
-  assert.equal(logNos.size, 1084);
+  assert.equal(logNos.size, totalPosts);
   assert.doesNotMatch(html, /__VINEXT_RSC|sunstar-content-hub\.sites\.openai\.com/);
   assert.doesNotMatch(html, /(href|src)="\/assets\//);
   assert.doesNotMatch(
@@ -45,7 +51,7 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
         /rel="canonical" href="https:\/\/ssundesk\.com(?:\/[^"]*)?"/g,
       ) || []
     ).length,
-    26,
+      routeCount,
   );
   assert.equal(
     (
@@ -53,12 +59,15 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
         /<meta http-equiv="refresh" content="0;url=https:\/\/ssundesk\.com(?:\/[^"]*)?">/g,
       ) || []
     ).length,
-    26,
+      routeCount,
   );
-  assert.equal((html.match(/window\.location\.replace\(/g) || []).length, 26);
+  assert.equal(
+    (html.match(/window\.location\.replace\(/g) || []).length,
+    routeCount,
+  );
   assert.equal(
     (html.match(/새 주소에서 이 페이지 보기/g) || []).length,
-    26,
+      routeCount,
   );
   assert.doesNotMatch(
     html,
@@ -77,7 +86,7 @@ test("legacy sitemap keeps old URLs discoverable during migration", async () => 
     ),
   ]);
 
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 26);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, routeCount);
   assert.doesNotMatch(sitemap, /blog\.naver\.com/);
   assert.doesNotMatch(sitemap, /ssundesk\.com/);
   assert.match(
@@ -91,7 +100,15 @@ test("static homepage exposes search-console ownership tokens", async () => {
   const [homepage, lastArchivePage, favicon] = await Promise.all([
     readFile(join(docsPath, "index.html"), "utf8"),
     readFile(
-      join(docsPath, "archive", "page", "22", "index.html"),
+      archivePageCount === 1
+        ? join(docsPath, "archive", "index.html")
+        : join(
+            docsPath,
+            "archive",
+            "page",
+            String(archivePageCount),
+            "index.html",
+          ),
       "utf8",
     ),
     readFile(join(docsPath, "favicon.svg"), "utf8"),
@@ -126,7 +143,11 @@ test("static homepage exposes search-console ownership tokens", async () => {
   assert.match(homepage, /"url":"https:\/\/ssundesk\.com\/"/);
   assert.match(
     lastArchivePage,
-    /http-equiv="refresh" content="0;url=https:\/\/ssundesk\.com\/archive\/page\/22"/,
+    archivePageCount === 1
+      ? /http-equiv="refresh" content="0;url=https:\/\/ssundesk\.com\/archive"/
+      : new RegExp(
+          `http-equiv="refresh" content="0;url=https://ssundesk\\.com/archive/page/${archivePageCount}"`,
+        ),
   );
   assert.match(
     homepage,

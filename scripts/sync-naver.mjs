@@ -1,5 +1,13 @@
-import { access, mkdir, readFile, readdir, writeFile } from "node:fs/promises";
+import {
+  access,
+  mkdir,
+  readFile,
+  readdir,
+  rename,
+  writeFile,
+} from "node:fs/promises";
 import path from "node:path";
+import { setTimeout as delay } from "node:timers/promises";
 import { fileURLToPath } from "node:url";
 
 const BLOG_ID = process.env.NAVER_BLOG_ID || "tnsqo1126";
@@ -16,6 +24,8 @@ const categoryLabels = {
   stocks: "주식",
   archive: "기록",
 };
+const stockTitleKeyword =
+  /(?:^|[^가-힣A-Za-z0-9])(?:코스피|코스닥|주가|실적|공시|배당|급등|증시)(?=$|[^가-힣A-Za-z0-9])/;
 
 function decodeEntities(value = "") {
   return value
@@ -78,6 +88,18 @@ function parseAbsoluteDate(value = "") {
   return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}T00:00:00+09:00`;
 }
 
+function formatDateLabel(value = "") {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("ko-KR", {
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
+    timeZone: "Asia/Seoul",
+  }).format(date);
+}
+
 function pickTag(block, tag) {
   const cdata = block.match(
     new RegExp(`<${tag}(?:\\s[^>]*)?><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>`, "i"),
@@ -126,7 +148,11 @@ async function listMarkdownFiles(root) {
     for (const entry of await readdir(current, { withFileTypes: true })) {
       const fullPath = path.join(current, entry.name);
       if (entry.isDirectory()) {
-        if (!["work-cache", "paste-ready", "assets"].includes(entry.name)) {
+        if (
+          !["work-cache", "paste-ready", "assets", "_workspace"].includes(
+            entry.name,
+          )
+        ) {
           await walk(fullPath);
         }
       } else if (entry.isFile() && entry.name.endsWith(".md")) {
@@ -207,17 +233,29 @@ async function readLocalCanonicals() {
   return byTitle;
 }
 
-async function fetchText(url) {
-  const response = await fetch(url, {
-    headers: {
-      "user-agent": "SunstarContentHub/1.0 (+https://blog.naver.com/tnsqo1126)",
-      accept: "application/json,text/xml,text/plain,*/*",
-    },
-  });
-  if (!response.ok) {
-    throw new Error(`Fetch failed: ${response.status} ${url}`);
+async function fetchText(url, maxAttempts = 4) {
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    const response = await fetch(url, {
+      headers: {
+        "user-agent": "SunstarContentHub/1.0 (+https://blog.naver.com/tnsqo1126)",
+        accept: "application/json,text/xml,text/plain,*/*",
+      },
+    });
+    if (response.ok) return response.text();
+
+    const retryable = response.status === 429 || response.status >= 500;
+    if (!retryable || attempt === maxAttempts) {
+      throw new Error(`Fetch failed: ${response.status} ${url}`);
+    }
+
+    const retryAfter = Number(response.headers.get("retry-after"));
+    const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
+      ? Math.min(retryAfter * 1_000, 30_000)
+      : Math.min(1_000 * 2 ** (attempt - 1), 8_000);
+    await delay(waitMs);
   }
-  return response.text();
+
+  throw new Error(`Fetch failed after retries: ${url}`);
 }
 
 async function fetchPublicIndex() {
@@ -245,20 +283,27 @@ async function fetchPublicIndex() {
       records.set(post.logNo, post);
     }
     if (records.size >= expected || !payload.postList?.length || added === 0) break;
+    await delay(150);
   }
   return { records, expected };
 }
 
 async function loadExisting() {
   try {
-    const parsed = JSON.parse(await readFile(dataPath, "utf8"));
-    return new Map((parsed.posts || []).map((post) => [post.logNo, post]));
-  } catch {
-    return new Map();
+    return JSON.parse(await readFile(dataPath, "utf8"));
+  } catch (error) {
+    if (error?.code === "ENOENT") return null;
+    throw error;
   }
 }
 
-const [rssXml, localByTitle, publicIndex, existing] = await Promise.all([
+async function writeAtomic(filePath, contents) {
+  const temporaryPath = `${filePath}.${process.pid}.tmp`;
+  await writeFile(temporaryPath, contents, "utf8");
+  await rename(temporaryPath, filePath);
+}
+
+const [rssXml, localByTitle, publicIndex, existingIndex] = await Promise.all([
   fetchText(`https://rss.blog.naver.com/${BLOG_ID}.xml`),
   readLocalCanonicals(),
   fetchPublicIndex(),
@@ -266,6 +311,29 @@ const [rssXml, localByTitle, publicIndex, existing] = await Promise.all([
 ]);
 
 const rssByLogNo = parseRss(rssXml);
+const existing = new Map(
+  (existingIndex?.posts || []).map((post) => [post.logNo, post]),
+);
+
+if (!Number.isFinite(publicIndex.expected) || publicIndex.expected <= 0) {
+  throw new Error("Naver public index returned an invalid total count.");
+}
+if (publicIndex.records.size !== publicIndex.expected) {
+  throw new Error(
+    `Naver public index was incomplete: ${publicIndex.records.size}/${publicIndex.expected}.`,
+  );
+}
+
+const removedCount = [...existing.keys()].filter(
+  (logNo) => !publicIndex.records.has(logNo),
+).length;
+if (removedCount > 0 && process.env.ALLOW_REMOVALS !== "1") {
+  throw new Error(
+    `Refusing to remove ${removedCount} posts in one sync. ` +
+      "Set ALLOW_REMOVALS=1 only after verifying the Naver index.",
+  );
+}
+
 const posts = [];
 
 for (const source of publicIndex.records.values()) {
@@ -275,33 +343,39 @@ for (const source of publicIndex.records.values()) {
   const rss = rssByLogNo.get(logNo);
   const previous = existing.get(logNo);
 
+  const sourceCategoryNo = String(source.categoryNo || "");
+  const sourceCategory =
+    sourceCategoryNo === "110"
+      ? "entertainment"
+      : sourceCategoryNo === "109"
+        ? "stocks"
+        : "archive";
   let category =
     local?.category ||
-    (String(source.categoryNo) === "110"
-      ? "entertainment"
-      : String(source.categoryNo) === "109"
-        ? "stocks"
-        : "archive");
+    (previous?.sourceCategoryNo === sourceCategoryNo
+      ? previous.category
+      : sourceCategory);
 
-  if (local?.code || /\b(?:코스피|코스닥|주가|실적|공시|배당|급등|증시)\b/.test(title)) {
+  if (local?.code || stockTitleKeyword.test(title)) {
     category = "stocks";
   }
 
   const publishedAt =
     rss?.publishedAt ||
-    parseAbsoluteDate(source.addDate) ||
     previous?.publishedAt ||
+    parseAbsoluteDate(source.addDate) ||
     "";
   const summary =
-    rss?.summary || local?.summary || previous?.summary || "";
+    rss?.summary || previous?.summary || local?.summary || "";
   const tags = Array.from(
     new Set(
       [
-        ...(rss?.tags || []),
+        ...(rss?.tags || previous?.tags || []),
         local?.candidate,
         local?.work,
         local?.role,
         local?.code,
+        ...(rss ? previous?.tags || [] : []),
       ].filter(Boolean),
     ),
   ).slice(0, 8);
@@ -312,10 +386,11 @@ for (const source of publicIndex.records.values()) {
     title,
     url: `${BLOG_BASE}/${logNo}`,
     publishedAt,
-    dateLabel: source.addDate || "",
+    dateLabel:
+      formatDateLabel(publishedAt) || source.addDate || previous?.dateLabel || "",
     category,
     categoryLabel: categoryLabels[category],
-    sourceCategoryNo: String(source.categoryNo || ""),
+    sourceCategoryNo,
     summary,
     image: rss?.image || previous?.image || "",
     tags,
@@ -326,15 +401,19 @@ for (const source of publicIndex.records.values()) {
     searchAllowed: String(source.searchYn).toLowerCase() === "true",
     verificationLevel: rss
       ? "rss_verified"
-      : local
-        ? "canonical_public"
-        : "public_index_confirmed",
+      : previous?.verificationLevel === "rss_verified"
+        ? "rss_verified"
+        : local
+          ? "canonical_public"
+          : previous?.verificationLevel || "public_index_confirmed",
   });
 }
 
 posts.sort((a, b) => {
-  if (a.publishedAt && b.publishedAt) {
-    return b.publishedAt.localeCompare(a.publishedAt);
+  const aTime = Date.parse(a.publishedAt);
+  const bTime = Date.parse(b.publishedAt);
+  if (Number.isFinite(aTime) && Number.isFinite(bTime) && aTime !== bTime) {
+    return bTime - aTime;
   }
   return Number(b.logNo) - Number(a.logNo);
 });
@@ -346,17 +425,38 @@ const counts = Object.fromEntries(
   ]),
 );
 
-const output = {
+const snapshot = {
   blog: {
     id: BLOG_ID,
     title: "쑨쑨배 블로그",
     url: BLOG_BASE,
   },
-  generatedAt: new Date().toISOString(),
   expectedPublicCount: publicIndex.expected,
   total: posts.length,
   counts,
   posts,
+};
+
+const previousSnapshot = existingIndex
+  ? {
+      blog: existingIndex.blog,
+      expectedPublicCount: existingIndex.expectedPublicCount,
+      total: existingIndex.total,
+      counts: existingIndex.counts,
+      posts: existingIndex.posts,
+    }
+  : null;
+const changed = JSON.stringify(snapshot) !== JSON.stringify(previousSnapshot);
+const output = {
+  blog: snapshot.blog,
+  generatedAt:
+    changed || !existingIndex?.generatedAt
+      ? new Date().toISOString()
+      : existingIndex.generatedAt,
+  expectedPublicCount: snapshot.expectedPublicCount,
+  total: snapshot.total,
+  counts: snapshot.counts,
+  posts: snapshot.posts,
 };
 
 await Promise.all([
@@ -365,8 +465,8 @@ await Promise.all([
 ]);
 const serialized = `${JSON.stringify(output, null, 2)}\n`;
 await Promise.all([
-  writeFile(dataPath, serialized, "utf8"),
-  writeFile(publicPath, serialized, "utf8"),
+  writeAtomic(dataPath, serialized),
+  writeAtomic(publicPath, serialized),
 ]);
 
 console.log(
@@ -380,6 +480,8 @@ console.log(
       canonicalEnriched: posts.filter(
         (post) => post.verificationLevel === "canonical_public",
       ).length,
+      changed,
+      removed: removedCount,
     },
     null,
     2,

@@ -6,6 +6,12 @@ import test from "node:test";
 
 const outputRoot = new URL("../vercel-dist/", import.meta.url);
 const outputPath = fileURLToPath(outputRoot);
+const content = JSON.parse(
+  await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
+);
+const totalPosts = content.posts.length;
+const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
+const routeCount = archivePageCount + 4;
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -39,7 +45,7 @@ async function findIndexFiles(directory) {
 
 test("Vercel export exposes all posts from root-relative pages", async () => {
   const indexFiles = await findIndexFiles(outputPath);
-  assert.equal(indexFiles.length, 26);
+  assert.equal(indexFiles.length, routeCount);
 
   const html = (
     await Promise.all(indexFiles.map((file) => readFile(file, "utf8")))
@@ -50,7 +56,7 @@ test("Vercel export exposes all posts from root-relative pages", async () => {
     ),
   );
 
-  assert.equal(logNos.size, 1084);
+  assert.equal(logNos.size, totalPosts);
   assert.doesNotMatch(html, /__VINEXT_RSC|sunstar-content-hub\.sites\.openai\.com/);
   assert.doesNotMatch(html, /\/sunstar-content-hub\/assets\//);
   assert.doesNotMatch(
@@ -131,7 +137,7 @@ test("Vercel search-engine files reference only the primary custom domain", asyn
   ]);
   const siteUrl = expectedSiteUrl();
 
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 26);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, routeCount);
   assert.doesNotMatch(sitemap, /blog\.naver\.com|ssunlee\.github\.io/);
   assert.match(sitemap, new RegExp(`<loc>${siteUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/</loc>`));
   assert.equal(robots, `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);

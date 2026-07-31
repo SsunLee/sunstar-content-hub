@@ -1,4 +1,4 @@
-import { cp, mkdir, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath, pathToFileURL } from "node:url";
@@ -73,9 +73,13 @@ if (build.status !== 0) {
   throw new Error(`Application build failed with exit code ${build.status}.`);
 }
 
+const content = JSON.parse(
+  await readFile(resolve(projectRoot, "data", "posts.json"), "utf8"),
+);
+const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const primaryRoutes = ["/", "/entertainment", "/stocks", "/archive", "/about"];
 const archiveRoutes = Array.from(
-  { length: 21 },
+  { length: Math.max(0, archivePageCount - 1) },
   (_, index) => `/archive/page/${index + 2}`,
 );
 const routes = [...primaryRoutes, ...archiveRoutes];

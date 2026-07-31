@@ -12,6 +12,8 @@
     "export:vercel": "node scripts/export-static.mjs vercel",
     "start": "vinext start",
     "sync:naver": "node scripts/sync-naver.mjs",
+    "validate:posts": "node scripts/validate-posts.mjs",
+    "verify:production-sync": "node scripts/verify-production-sync.mjs",
     "submit:indexnow": "node scripts/submit-indexnow.mjs",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "test:static": "npm run export:static && node --test tests/static-export.test.mjs",

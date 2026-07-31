@@ -1,0 +1,130 @@
+name: Sync latest Naver posts
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-latest-naver-posts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out the production branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Use Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.13.0
+          cache: npm
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Collect the current public post index
+        env:
+          NAVER_BLOG_ID: tnsqo1126
+        run: npm run sync:naver
+
+      - name: Validate generated post data
+        run: npm run validate:posts
+
+      - name: Verify the production static export
+        run: npm run test:vercel
+
+      - name: Detect public index changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet -- data/posts.json public/posts.json; then
+            echo "No public post changes detected."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push the updated index
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posts.json public/posts.json
+          git commit \
+            --author="$(git log -1 --format='%an <%ae>')" \
+            -m "chore(content): sync latest Naver posts"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Check unchanged production data
+        id: production_check
+        if: steps.changes.outputs.changed == 'false'
+        continue-on-error: true
+        env:
+          NEXT_PUBLIC_SITE_URL: https://ssundesk.com
+          VERIFY_ATTEMPTS: 3
+          VERIFY_INTERVAL_MS: 5000
+        run: npm run verify:production-sync
+
+      - name: Redeploy when production missed the current index
+        id: recovery
+        if: >-
+          steps.changes.outputs.changed == 'false' &&
+          steps.production_check.outcome == 'failure'
+        shell: bash
+        run: |
+          sync_id=$(node -e "const fs=require('node:fs');process.stdout.write(JSON.parse(fs.readFileSync('data/posts.json','utf8')).generatedAt)")
+          recovery_prefix="chore(content): redeploy sync ${sync_id} attempt "
+          recovery_count=$(git log --all --format='%s' | grep -Fc "$recovery_prefix" || true)
+          if [ "$recovery_count" -ge 3 ]; then
+            echo "The three automatic recovery deployments for ${sync_id} were exhausted."
+            exit 1
+          fi
+          recovery_attempt=$((recovery_count + 1))
+          recovery_message="${recovery_prefix}${recovery_attempt}/3"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit \
+            --allow-empty \
+            --author="$(git log -1 --format='%an <%ae>')" \
+            -m "$recovery_message"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "redeployed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Verify the production deployment
+        env:
+          NEXT_PUBLIC_SITE_URL: https://ssundesk.com
+        run: npm run verify:production-sync
+
+      - name: Restore the search notification receipt
+        id: indexnow_receipt
+        uses: actions/cache@v4
+        with:
+          path: .cache/indexnow
+          key: indexnow-${{ hashFiles('data/posts.json') }}
+
+      - name: Notify IndexNow after production verification
+        if: steps.indexnow_receipt.outputs.cache-hit != 'true'
+        env:
+          NEXT_PUBLIC_SITE_URL: https://ssundesk.com
+        run: npm run submit:indexnow
+
+      - name: Record the successful search notification
+        if: steps.indexnow_receipt.outputs.cache-hit != 'true'
+        shell: bash
+        run: |
+          mkdir -p .cache/indexnow
+          node -e "const fs=require('node:fs');const data=JSON.parse(fs.readFileSync('data/posts.json','utf8'));fs.writeFileSync('.cache/indexnow/receipt', data.generatedAt + '\n')"

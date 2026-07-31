@@ -1,3 +1,5 @@
+import content from "@/data/posts.json";
+
 const DEFAULT_SITE_URL = "https://ssundesk.com";
 
 export const SITE_NAME = "썬데스크";
@@ -13,7 +15,7 @@ export const SITE_DESCRIPTION =
   "연예와 주식, 그리고 쑨쑨배 블로그의 공개 기록을 한곳에서 찾는 썬데스크 콘텐츠 허브";
 export const NAVER_BLOG_URL = "https://blog.naver.com/tnsqo1126";
 
-export const TOTAL_PUBLIC_POSTS = 1084;
+export const TOTAL_PUBLIC_POSTS = content.total;
 export const ARCHIVE_PAGE_SIZE = 50;
 export const ARCHIVE_PAGE_COUNT = Math.ceil(
   TOTAL_PUBLIC_POSTS / ARCHIVE_PAGE_SIZE,
