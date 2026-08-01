@@ -15,6 +15,15 @@ const localized = JSON.parse(
     "utf8",
   ),
 );
+const localizedPostIndex = JSON.parse(
+  await readFile(
+    new URL("../data/localized-post-index.json", import.meta.url),
+    "utf8",
+  ),
+);
+const posts = JSON.parse(
+  await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
+).posts;
 const locales = ["ko", "en", "ja"];
 
 function normalizeSiteUrl(value) {
@@ -42,6 +51,24 @@ function hasAlternate(html, locale, href) {
       new RegExp(`\\bhreflang="${locale}"`, "i").test(tag) &&
       tag.includes(`href="${href}"`),
   );
+}
+
+function escapeHtmlText(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#x27;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+function decodeHtmlText(value) {
+  return value
+    .replaceAll("&amp;", "&")
+    .replaceAll("&quot;", '"')
+    .replaceAll("&#x27;", "'")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">");
 }
 
 function hasReleaseEvidence(article, locale) {
@@ -155,8 +182,10 @@ test("localized hubs use native shells and fail closed until content is ready", 
         html.includes(`href="${articlePath(article, locale)}"`),
         `${locale} hub does not link ${article.sourceId}`,
       );
-      const imageTag = (html.match(/<img\b[^>]*>/gi) || []).find((tag) =>
-        tag.includes(`src="${article.image}"`),
+      const imageTag = (html.match(/<img\b[^>]*>/gi) || []).find(
+        (tag) =>
+          tag.includes(`src="${article.image}"`) &&
+          tag.includes(`alt="${article.imageAlt[locale]}"`),
       );
       assert.ok(
         imageTag,
@@ -175,11 +204,121 @@ test("localized hubs use native shells and fail closed until content is ready", 
       }
     }
     assert.match(html, /data-analytics-event="localized_article_opened"/);
-    assert.doesNotMatch(html, /<header class="site-header"|<footer class="site-footer"/);
+    assert.match(html, /<header class="site-header localized-site-header"/);
+    assert.match(html, new RegExp(`href="/${locale}/entertainment"`));
+    assert.match(html, new RegExp(`href="/${locale}/stocks"`));
     assert.doesNotMatch(html, /data-static-shell-marker=/);
     assert.match(html, /class="localized-footer"/);
     assert.doesNotMatch(html, /http-equiv="refresh"|window\.location\.replace/);
   }
+});
+
+test("localized entertainment and market desks expose all translated summaries", async () => {
+  const translations = new Map(
+    localizedPostIndex.translations.map((entry) => [entry.logNo, entry]),
+  );
+  for (const locale of locales) {
+    for (const category of ["entertainment", "stocks"]) {
+      const html = await readFile(
+        join(outputPath, locale, category, "index.html"),
+        "utf8",
+      );
+      const categoryPosts = posts.filter((post) => post.category === category);
+      const canonical = `${siteUrl}/${locale}/${category}`;
+      assert.match(html, new RegExp(`<html[^>]*lang="${locale}"`, "i"));
+      assert.ok(html.includes(`rel="canonical" href="${canonical}"`));
+      assert.match(html, /<meta name="robots" content="index, follow"/i);
+      assert.match(html, /<header class="site-header localized-site-header"/);
+      assert.doesNotMatch(html, /data-static-shell-marker=/);
+      const languageSwitcher = html.match(
+        /<nav class="language-switcher"[\s\S]*?<\/nav>/i,
+      )?.[0];
+      assert.ok(languageSwitcher, `${locale}/${category} has no language switcher`);
+      for (const alternateLocale of locales) {
+        if (alternateLocale === locale) continue;
+        assert.ok(
+          languageSwitcher.includes(`href="/${alternateLocale}/${category}"`),
+          `${locale}/${category} loses its category when switching to ${alternateLocale}`,
+        );
+      }
+      for (const alternateLocale of locales) {
+        assert.ok(
+          hasAlternate(
+            html,
+            alternateLocale,
+            `${siteUrl}/${alternateLocale}/${category}`,
+          ),
+        );
+      }
+      assert.ok(hasAlternate(html, "x-default", `${siteUrl}/ko/${category}`));
+      const displayedPosts =
+        locale === "ko"
+          ? categoryPosts
+          : categoryPosts.filter((post) => translations.has(post.logNo));
+      for (const post of displayedPosts) {
+        const copy =
+          locale === "ko"
+            ? post
+            : translations.get(post.logNo)?.locales[locale];
+        assert.ok(copy, `missing ${locale} translation for ${post.logNo}`);
+        assert.ok(
+          html.includes(escapeHtmlText(copy.title)),
+          `${locale}/${category} does not show ${post.logNo} title`,
+        );
+        assert.ok(
+          html.includes(escapeHtmlText(copy.summary)),
+          `${locale}/${category} does not show ${post.logNo} summary`,
+        );
+        assert.ok(html.includes(`data-analytics-article-id="${post.logNo}"`));
+        if (locale !== "ko") {
+          assert.doesNotMatch(copy.title, /[가-힣]/u);
+          assert.doesNotMatch(copy.summary, /[가-힣]/u);
+        }
+      }
+      if (locale !== "ko") {
+        const translationPending = categoryPosts.filter(
+          (post) => !translations.has(post.logNo),
+        );
+        for (const post of translationPending) {
+          assert.equal(
+            html.includes(`data-analytics-article-id="${post.logNo}"`),
+            false,
+            `${locale}/${category} must omit translation-pending source ${post.logNo}`,
+          );
+        }
+      }
+      assert.match(html, /class="story-image localized-source-image/);
+      assert.match(html, /class="localized-card-monogram"[^>]*>SS</);
+      assert.match(html, /src="\/brand\/ssdesk-logo-v1\.png"/);
+      const thumbnailLabels = [
+        ...html.matchAll(
+          /<span class="localized-card-work"[^>]*>([\s\S]*?)<\/span>/gi,
+        ),
+      ].map((match) => decodeHtmlText(match[1].replace(/<[^>]+>/g, "")).trim());
+      assert.ok(thumbnailLabels.length > 0);
+      for (const label of thumbnailLabels) {
+        assert.ok(
+          Array.from(label).length <= 32,
+          `${locale}/${category} thumbnail label is too long: ${label}`,
+        );
+      }
+    }
+  }
+});
+
+test("localized thumbnail overlays are constrained to two lines", async () => {
+  const css = await readFile(new URL("../app/globals.css", import.meta.url), "utf8");
+  const sourceOverlayRule = [
+    ...css.matchAll(
+      /\.localized-source-image \.localized-card-work\s*\{([^}]*)\}/gu,
+    ),
+  ]
+    .map((match) => match[1])
+    .find((rule) => rule.includes("max-width"));
+  assert.ok(sourceOverlayRule);
+  assert.match(sourceOverlayRule, /max-width:\s*min\(72%, 30ch\)/u);
+  assert.match(sourceOverlayRule, /overflow:\s*hidden/u);
+  assert.match(sourceOverlayRule, /-webkit-line-clamp:\s*2/u);
 });
 
 test("localized stories expose complete metadata, schema, switching, and source CTAs", async () => {
@@ -307,7 +446,9 @@ test("localized stories expose complete metadata, schema, switching, and source 
         /data-analytics-event="localized_article_outbound_clicked"/,
       );
       assert.ok(html.includes(`data-analytics-locale="${locale}"`));
-      assert.doesNotMatch(html, /<header class="site-header"|<footer class="site-footer"/);
+      assert.match(html, /<header class="site-header localized-site-header"/);
+      assert.match(html, new RegExp(`href="/${locale}/entertainment"`));
+      assert.match(html, new RegExp(`href="/${locale}/stocks"`));
       assert.doesNotMatch(html, /data-static-shell-marker=/);
       assert.doesNotMatch(html, /http-equiv="refresh"|window\.location\.replace/);
     }
@@ -325,6 +466,13 @@ test("sitemap includes only release-ready localized URLs and clusters", async ()
       sitemap.includes(`<loc>${siteUrl}/${locale}</loc>`),
       readyHubLocales.includes(locale),
     );
+    for (const category of ["entertainment", "stocks"]) {
+      const localizedDeskUrl = `${siteUrl}/${locale}/${category}`;
+      assert.ok(sitemap.includes(`<loc>${localizedDeskUrl}</loc>`));
+      assert.ok(
+        sitemap.includes(`hreflang="${locale}" href="${localizedDeskUrl}"`),
+      );
+    }
   }
   for (const article of localized.articles) {
     for (const locale of locales) {
@@ -354,6 +502,8 @@ test("IndexNow submits only ready localized pages without external sources", () 
       submitted.has(`${siteUrl}/${locale}`),
       readyHubLocales.includes(locale),
     );
+    assert.ok(submitted.has(`${siteUrl}/${locale}/entertainment`));
+    assert.ok(submitted.has(`${siteUrl}/${locale}/stocks`));
   }
   for (const article of localized.articles) {
     for (const locale of locales) {

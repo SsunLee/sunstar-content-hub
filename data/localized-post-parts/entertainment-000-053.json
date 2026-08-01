@@ -1,0 +1,819 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-01T12:44:51.880Z",
+  "category": "entertainment",
+  "start": 0,
+  "end": 53,
+  "translations": [
+    {
+      "logNo": "224364909378",
+      "en": {
+        "title": "Tom Hanks Update: Toy Story 5 Ranks No. 5 at the Korean Box Office with Woody",
+        "summary": "Tom Hanks once again voices Woody in Toy Story 5. According to the Korean Film Council, the film ranked No. 5 at the Korean daily box office on July 31, drawing 10,380 viewers that day. We take a measured look at the actor's recent work and his return to the role he has played since the first film in 1995.",
+        "work": "Toy Story 5",
+        "role": "Woody"
+      },
+      "ja": {
+        "title": "『トイ・ストーリー5』トム・ハンクス近況、ウッディ役で韓国興行5位",
+        "summary": "トム・ハンクスが『トイ・ストーリー5』で再びウッディの声を担当しました。韓国映画振興委員会の集計で、作品は7月31日の韓国デイリー興行ランキング5位に入り、同日の観客数は10,380人でした。1995年の第1作からウッディを演じてきた俳優の近況と、今回の役どころを丁寧に振り返ります。",
+        "work": "トイ・ストーリー5",
+        "role": "ウッディ"
+      }
+    },
+    {
+      "logNo": "224364297906",
+      "en": {
+        "title": "Tom Holland Update: Spider-Man: Brand New Day Tops the Korean Box Office with Peter Parker",
+        "summary": "Tom Holland is back in theaters as Peter Parker in Spider-Man: Brand New Day. According to the Korean Film Council, the film ranked No. 1 at the daily box office on July 30. It drew 441,554 viewers that day and had reached 1,131,219 viewers in total. We look at Peter Parker protecting New York alone after vanishing from everyone's memory, along with Holland's recent activities.",
+        "work": "Spider-Man: Brand New Day",
+        "role": "Peter Parker / Spider-Man"
+      },
+      "ja": {
+        "title": "『スパイダーマン：ブランド・ニュー・デイ』トム・ホランド近況、ピーター・パーカー役で韓国興行1位",
+        "summary": "トム・ホランドが『スパイダーマン：ブランド・ニュー・デイ』のピーター・パーカーとして再び劇場に立ちました。韓国映画振興委員会によると、作品は7月30日のデイリー興行ランキング1位を記録しました。同日の観客数は441,554人、累計観客数は1,131,219人です。人々の記憶から消えた後、一人でニューヨークを守るピーター・パーカーと、トム・ホランドの近況を追います。",
+        "work": "スパイダーマン：ブランド・ニュー・デイ",
+        "role": "ピーター・パーカー／スパイダーマン"
+      }
+    },
+    {
+      "logNo": "224361315975",
+      "en": {
+        "title": "Matt Damon Update: The Odyssey Tops the North American Daily Box Office with Odysseus",
+        "summary": "Matt Damon returns as Odysseus in Christopher Nolan's new film The Odyssey. According to Box Office Mojo, the film ranked No. 1 at the North American daily box office on July 27, earning $14,717,905 that day. We examine the story of a war hero's journey home and Damon's recent activities.",
+        "work": "The Odyssey",
+        "role": "Odysseus"
+      },
+      "ja": {
+        "title": "『オデュッセイア』マット・デイモン近況、オデュッセウス役で北米デイリー興行1位",
+        "summary": "マット・デイモンがクリストファー・ノーラン監督の新作『オデュッセイア』でオデュッセウス役として戻ってきました。Box Office Mojoによると、映画は7月27日の北米デイリー興行ランキング1位となり、同日の興行収入は14,717,905ドルでした。戦争の英雄が故郷へ帰る旅を描く作品と、マット・デイモンの近況を追います。",
+        "work": "オデュッセイア",
+        "role": "オデュッセウス"
+      }
+    },
+    {
+      "logNo": "224358966231",
+      "en": {
+        "title": "Dwayne Johnson Update: Live-Action Maui Takes Moana to No. 3 at the Korean Box Office",
+        "summary": "Dwayne Johnson returns as Maui in Disney's live-action Moana. The film ranked No. 3 at the Korean daily box office on July 26, with 34,802 viewers that day, according to the Korean Film Council. We look at his recent path as he expands from voicing the animated character to live-action acting and producing.",
+        "work": "Moana",
+        "role": "Maui"
+      },
+      "ja": {
+        "title": "『モアナ』ドウェイン・ジョンソン近況、実写版マウイ役で韓国興行3位",
+        "summary": "ドウェイン・ジョンソンがディズニーの実写映画『モアナ』でマウイ役として戻ってきました。韓国映画振興委員会の7月26日デイリー興行ランキングでは3位、同日の観客数は34,802人でした。アニメ版の声優から実写での演技と製作へ役割を広げた、彼の最近の歩みを紹介します。",
+        "work": "モアナ",
+        "role": "マウイ"
+      }
+    },
+    {
+      "logNo": "224358645515",
+      "en": {
+        "title": "Ahn Hee-yeon Update: Her First Drama in Three Years as Han Gyu-rim in Love Is Coming",
+        "summary": "Ahn Hee-yeon plays Han Gyu-rim, the eldest of five siblings, in KBS2's new weekend drama Love Is Coming. It marks her return to drama after about three years since Call It Love in 2023 and her first weekend series. The July 25 premiere recorded an 11.7% nationwide household rating from Nielsen Korea, placing second among terrestrial programs, with Gyu-rim's difficult reality and her guarded stance toward Kim Mu-jin at the center of the story.",
+        "work": "Love Is Coming",
+        "role": "Han Gyu-rim"
+      },
+      "ja": {
+        "title": "『愛がやってくる』アン・ヒヨン近況、ハン・ギュリム役で3年ぶりのドラマ復帰",
+        "summary": "アン・ヒヨンがKBS2の新週末ドラマ『愛がやってくる』で、5人きょうだいの長女ハン・ギュリムを演じます。2023年の『愛だと言って』以来、約3年ぶりのドラマ復帰であり、初の週末ドラマ挑戦です。7月25日の初回はニールセン・コリアの全国世帯基準で11.7％を記録し、地上波2位となりました。ギュリムの厳しい現実と、キム・ムジンへの警戒心が物語の中心に置かれています。",
+        "work": "愛がやってくる",
+        "role": "ハン・ギュリム"
+      }
+    },
+    {
+      "logNo": "224358639884",
+      "en": {
+        "title": "Ha Seok-jin Update: Weekend Drama Love Is Coming Opens at 11.7% with Chef Kim Mu-jin",
+        "summary": "Ha Seok-jin returns as Kim Mu-jin in KBS2's new weekend drama Love Is Coming. The July 25 premiere recorded an 11.7% nationwide household rating from Nielsen Korea, ranking second among terrestrial programs that day. With press-conference and radio promotions continuing, we recap how owner-chef Kim Mu-jin's story begins when he meets Han Gyu-rim, alongside Ha's recent activities.",
+        "work": "Love Is Coming",
+        "role": "Kim Mu-jin"
+      },
+      "ja": {
+        "title": "『愛がやってくる』ハ・ソクジン近況、キム・ムジン役で初回11.7％の週末ドラマ",
+        "summary": "ハ・ソクジンがKBS2の新週末ドラマ『愛がやってくる』のキム・ムジン役で戻ってきました。7月25日の初回はニールセン・コリアの全国世帯基準で11.7％を記録し、同日の地上波番組2位となりました。制作発表会やラジオでの広報も続くなか、オーナーシェフのキム・ムジンがハン・ギュリムと出会って始まる物語を、ハ・ソクジンの近況とともに整理します。",
+        "work": "愛がやってくる",
+        "role": "キム・ムジン"
+      }
+    },
+    {
+      "logNo": "224358621727",
+      "en": {
+        "title": "Why Did BIBI at Waterbomb 2026 Become a Real-Time Search Trend?",
+        "summary": "BIBI's Waterbomb performance is once again at the center of attention. The stage took place at Waterbomb Seoul 2026 on July 25 at the outdoor Global Stage at KINTEX in Goyang, Gyeonggi Province. The official lineup also confirms BIBI as a July 25 performer. Her styling drew attention from the moment she appeared: a fitted white jumpsuit, a bold studded belt and clear goggles captured Waterbomb's signature sporty mood.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "BIBIのWATERBOMB 2026、なぜリアルタイム検索で話題になったのか",
+        "summary": "BIBIのWATERBOMBステージが再び話題の中心になりました。7月25日、京畿道高陽市のKINTEX屋外グローバルステージで行われた「WATERBOMB SEOUL 2026」の公演です。公式ラインアップでもBIBIは25日の出演者として確認できます。登場直後から注目を集めたのはスタイリングでした。体に沿う白いジャンプスーツに大胆なスタッズベルトと透明ゴーグルを合わせ、WATERBOMBらしいスポーティーな雰囲気を演出しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224358584992",
+      "en": {
+        "title": "A Breakup 20 Years Ago Returns as a Robot War | Tears of Steel Ending Explained",
+        "summary": "A man apologizes to a former lover in the middle of a robot war. The scene may look like a sudden reunion, but humanity's survival depends on the two meeting again. Why did they reunite after 20 years? When he was young, Thom was in a relationship with robotics scientist Celia. He left her because he wanted to do something exciting in space, and that choice eventually planted the seed of the robot crisis that would devastate Earth.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "20年前の別れがロボット戦争として戻ってきた｜『Tears of Steel』結末解説",
+        "summary": "一人の男がロボット戦争のさなかで、かつての恋人に謝ります。突然の再会に見える場面ですが、二人が再び会った背景には人類の生存が懸かっています。なぜ20年後に再会したのでしょうか。若い頃、トムはロボット工学者セリアと恋人同士でした。しかし宇宙で刺激的な仕事をしたいという理由で彼女のもとを去り、その選択が後に地球を破壊するロボット危機の種となります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224358522490",
+      "en": {
+        "title": "Manager Kim Season 2 Clues: From Baekho Manpower's Lee Do-gyu to Production Talks",
+        "summary": "※ This article contains details from the finale of Manager Kim and basic elements of the original webtoon. Manager Kim closed its major conflict by rescuing Min-ji and bringing down Juhak Construction. Yet the final few minutes felt more like the next day at work than a farewell. We gathered the clues that could lead into a continuation, from the Baekho Manpower interview and Park Gang-seong's survival to Manager Kim and Min-ji's new identities and the Season 2 production discussions reported on July 26.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "『マネージャー・キム』シーズン2の伏線整理｜ペクホ人材のイ・ドギュから制作協議まで",
+        "summary": "※ この記事には『マネージャー・キム』最終話の内容と原作ウェブトゥーンの基本設定が含まれます。『マネージャー・キム』はミンジを救出し、チュハク建設を崩壊させて大きな事件を終えました。しかし最後の数分は別れというより、次の出勤に近いものでした。ペクホ人材の面接、パク・ガンソンの生存、キムとミンジの新たな身分、そして7月26日に伝えられたシーズン2制作協議まで、続編につながりそうな手掛かりを集めました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224358465464",
+      "en": {
+        "title": "Dawn on Home Alone: From His Home with Haetnim to an Intangible Heritage Project",
+        "summary": "Singer Dawn shared a look at his fourth year of living alone in Episode 657 of MBC's Home Alone, broadcast on July 24, 2026. From his morning with his dog Haetnim to making a traditional lamp with bamboo and hanji paper, the episode quietly showed what has been occupying Dawn's attention away from the stage.…",
+        "work": "Home Alone Episode 657",
+        "role": "Rainbow Live guest"
+      },
+      "ja": {
+        "title": "『シングル男のハッピーライフ』DAWN近況、ヘンニムと暮らす家から無形遺産プロジェクトまで",
+        "summary": "歌手DAWNが2026年7月24日放送のMBC『シングル男のハッピーライフ』第657回で、一人暮らし4年目の日常を公開しました。愛犬ヘンニムと過ごす朝から、竹と韓紙で伝統照明を作る過程まで、ステージを離れたDAWNが最近何に心を注いでいるのかを穏やかに見せた回でした。…",
+        "work": "シングル男のハッピーライフ 第657回",
+        "role": "レインボーライブ出演者"
+      }
+    },
+    {
+      "logNo": "224358283525",
+      "en": {
+        "title": "Netflix Picks 1 | 10 Series to Choose from Right Now",
+        "summary": "Sometimes choosing what to watch takes longer than watching it. To shorten that moment, this series offers brief introductions to 10 Netflix titles selected across genres. The list draws on 2026 buzz, official lineups, and critical and viewer response. Spoilers are kept to a minimum, leaving only each story's main thread and who might enjoy it. The images were selected from each title's official trailer.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "今見たいNetflixおすすめ1｜すぐ選べるシリーズ10選",
+        "summary": "何を見るか選ぶ時間が、再生時間より長くなることがあります。このシリーズでは、そんな時間を減らすため、ジャンルを横断して選んだNetflix作品10本を短く紹介します。2026年の話題性、公式ラインアップ、批評家と視聴者の反応を参考にしました。ネタバレは最小限にし、物語の軸と「こんな人におすすめ」だけを残しています。写真は各作品の公式予告編から選びました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357747994",
+      "en": {
+        "title": "Ji Chang-wook Update: Choi Hyun-seok, a Desperate Security Guard Protecting His Sister in The Colony",
+        "summary": "In The Colony, Ji Chang-wook plays Choi Hyun-seok, a member of the security team at the Dongwoori Building. At the Korean daily box office on July 24, 2026, the film ranked No. 9, drawing 1,198 viewers that day and 5,947,397 in total, according to the Korean Film Council. Inside a building sealed off by an infection, Hyun-seok fights to survive while protecting his only older sister, Choi Hyun-hee.…",
+        "work": "The Colony",
+        "role": "Choi Hyun-seok"
+      },
+      "ja": {
+        "title": "『ザ・コロニー』チ・チャンウク近況、姉を守ろうとする警備員チェ・ヒョンソクの切迫感",
+        "summary": "映画『ザ・コロニー』でチ・チャンウクは、トンウリビル警備チームのチェ・ヒョンソクを演じます。韓国映画振興委員会が集計した2026年7月24日のデイリー興行ランキングで、作品は9位、同日の観客数は1,198人、累計観客数は5,947,397人でした。感染拡大で封鎖された建物の中、ヒョンソクは唯一の姉チェ・ヒョンヒを守りながら生き残ろうとします。…",
+        "work": "ザ・コロニー",
+        "role": "チェ・ヒョンソク"
+      }
+    },
+    {
+      "logNo": "224357459389",
+      "en": {
+        "title": "Everything to Watch Before Avengers: Doomsday | No Spoilers",
+        "summary": "This is a starter guide for anyone waiting for Avengers: Doomsday and wondering which Marvel titles to watch first. It follows a strict no-spoiler policy. It does not discuss each title's key developments, the later fate of its characters, or the content of post-credit scenes.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "『アベンジャーズ／ドゥームズデイ』前に見るべき作品総まとめ｜ネタバレなし",
+        "summary": "『アベンジャーズ／ドゥームズデイ』を待ちながら、どのマーベル作品から見るべきか迷っている人のための入門ガイドです。この記事はネタバレなしを原則としています。各作品の核心的な展開、登場人物のその後の運命、エンドクレジット後の映像内容は扱いません。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357436523",
+      "en": {
+        "title": "Park Ji-hoon Update: Yi Hong-wi Finds the Face of a King Again in The Man Who Lives with the King",
+        "summary": "In The Man Who Lives with the King, Park Ji-hoon plays Yi Hong-wi, who is driven from the throne and exiled to Cheongnyeongpo in Yeongwol. In the Korean Film Council's integrated online-screening figures for July 20–26, 2026, the film ranked No. 1 overall with 60,406 uses and a 25.3% share. At first, Hong-wi barely seems able to lift his eyes, but as he shares meals with the people of Gwangcheongol, he regains the bearing of a king.…",
+        "work": "The Man Who Lives with the King",
+        "role": "Yi Hong-wi"
+      },
+      "ja": {
+        "title": "『王と暮らす男』パク・ジフン近況、流刑地で再び王の顔を取り戻すイ・ホンウィ",
+        "summary": "映画『王と暮らす男』でパク・ジフンは、王位を追われて寧越の清泠浦へ流刑となったイ・ホンウィを演じます。韓国映画振興委員会のオンライン上映館統合電算網による2026年7月20日～26日の集計で、作品は全映画1位、利用60,406件、シェア25.3％を記録しました。最初のホンウィは目を上げる力さえないように見えますが、クァンチョンゴルの人々と食事を分かち合い、再び王の姿勢を取り戻します。…",
+        "work": "王と暮らす男",
+        "role": "イ・ホンウィ"
+      }
+    },
+    {
+      "logNo": "224357434687",
+      "en": {
+        "title": "Yoo Hae-jin Update: Eom Heung-do Goes from Greedy Village Chief to Final Friend in The Man Who Lives with the King",
+        "summary": "In The Man Who Lives with the King, Yoo Hae-jin plays Eom Heung-do, chief of Gwangcheongol village in Yeongwol. In the Korean Film Council's integrated online-screening figures for July 20–26, 2026, the film ranked No. 1 overall with 60,406 uses and a 25.3% share. He initially brings the place of exile to his village hoping to improve its fortunes, but meeting the young king unsettles Heung-do's calculations.…",
+        "work": "The Man Who Lives with the King",
+        "role": "Eom Heung-do"
+      },
+      "ja": {
+        "title": "『王と暮らす男』ユ・ヘジン近況、欲深い村長から最後の友へ変わるオム・フンド",
+        "summary": "映画『王と暮らす男』でユ・ヘジンは、寧越クァンチョンゴルの村長オム・フンドを演じます。韓国映画振興委員会のオンライン上映館統合電算網による2026年7月20日～26日の集計で、作品は全映画1位、利用60,406件、シェア25.3％を記録しました。当初は村の暮らしを良くしようと流刑地を招き入れますが、予想に反して若い王を迎えたことで、フンドの計算も揺らぎます。…",
+        "work": "王と暮らす男",
+        "role": "オム・フンド"
+      }
+    },
+    {
+      "logNo": "224357404931",
+      "en": {
+        "title": "Choi Hyun-seo in Better Late Than Single 2: A Curator Intern's Five-Minute Bookstore Sprint and Changing Heart",
+        "summary": "In the Netflix dating reality show Better Late Than Single, Choi Hyun-seo is a contestant who, despite a calm first impression, moves first when an opportunity appears. Starting his career as a gallery curator intern, he spoke candidly about his favorite comics and perfumes. During the five-minute bookstore mission, which let contestants learn the preferences of someone they liked, he ran up the hill himself.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "『Better Late Than Single 2』チェ・ヒョンソ、キュレーター研修生の5分間書店ダッシュと変わった気持ち",
+        "summary": "Netflixの恋愛リアリティ番組『Better Late Than Single』で、チェ・ヒョンソは落ち着いた第一印象とは異なり、機会が来れば先に動く参加者です。ギャラリーのキュレーター研修生としてキャリアを始めた彼は、好きな漫画や香水について率直に語り、気になる相手の好みを確かめられる5分間の書店ミッションでは自ら坂道を走りました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357276911",
+      "en": {
+        "title": "Jodie Foster Update: Lilian, a Psychiatrist Pursuing a Patient's Death in A Private Life",
+        "summary": "In A Private Life, Jodie Foster plays Lilian Steiner, a psychiatrist who questions a patient's sudden death. In the Korean Film Council's figures for the third week of July 2026, the film entered the independent and art-film chart at No. 5, drawing 3,000 viewers for the week. A doctor accustomed to calmly listening to others begins to waver when confronted with her own emotions.…",
+        "work": "A Private Life",
+        "role": "Lilian Steiner"
+      },
+      "ja": {
+        "title": "『私生活』ジョディ・フォスター近況、患者の死を追う精神科医リリアン",
+        "summary": "映画『私生活』でジョディ・フォスターは、患者の突然の死に疑問を抱く精神科医リリアン・スタイナーを演じます。韓国映画振興委員会の2026年7月第3週集計で、作品は独立・アート映画5位に初登場し、週間観客数3,000人を記録しました。静かに他人の話を聞いてきた医師が、自分の感情を前に揺らぎ始めます。…",
+        "work": "私生活",
+        "role": "リリアン・スタイナー"
+      }
+    },
+    {
+      "logNo": "224357275000",
+      "en": {
+        "title": "Timothée Chalamet Update: Marty Mauser's Drive Extends Beyond the Table in Marty Supreme",
+        "summary": "In Marty Supreme, Timothée Chalamet plays Marty Mauser, who is determined to turn his life around through table tennis. In the Korean Film Council's figures for the third week of July 2026, the film ranked No. 2 among independent and art films, drawing 15,000 viewers for the week. Hiding fierce ambition behind a neat suit and round glasses, Marty immediately looks for his next move even after failure.…",
+        "work": "Marty Supreme",
+        "role": "Marty Mauser"
+      },
+      "ja": {
+        "title": "『マーティ・シュプリーム』ティモシー・シャラメ近況、卓球台の外まで押し進むマーティ・マウザーの勝負欲",
+        "summary": "映画『マーティ・シュプリーム』でティモシー・シャラメは、卓球で人生を変えようとするマーティ・マウザーを演じます。韓国映画振興委員会の2026年7月第3週集計で、作品は独立・アート映画2位、週間観客数15,000人を記録しました。端正なスーツと丸眼鏡の奥に激しい野心を隠すマーティは、失敗してもすぐ次の一手を探します。…",
+        "work": "マーティ・シュプリーム",
+        "role": "マーティ・マウザー"
+      }
+    },
+    {
+      "logNo": "224357169831",
+      "en": {
+        "title": "Kim Eui-sung Update: Chief Choi, the Operator Holding the Key to a State Project in Lobby",
+        "summary": "In Lobby, Kim Eui-sung plays Chief Choi, the husband of Minister Cho and the working-level official who holds the reins of a state project. In the Korean Film Council's integrated online-screening figures for July 13–19, 2026, the film ranked No. 1 among weekly films on Wavve. Chang-wook and Gwang-woo's lobbying teams gather at the same golf course to win Choi over. Kim deftly portrays a man who gauges others' usefulness behind a friendly smile.…",
+        "work": "Lobby",
+        "role": "Chief Choi"
+      },
+      "ja": {
+        "title": "『ロビー』キム・ウィソン近況、国家事業の鍵を握る実務者チェ室長の計算",
+        "summary": "映画『ロビー』でキム・ウィソンは、チョ長官の夫であり国家事業の実務を握るチェ室長を演じます。韓国映画振興委員会のオンライン上映館統合電算網による2026年7月13日～19日の集計で、作品はWavve週間映画1位となりました。チャンウクとグァンウのロビーチームは、チェ室長の心をつかもうと同じゴルフ場に集まります。キム・ウィソンは親切な笑顔の裏で相手の価値を測る人物を、飄々と描きます。…",
+        "work": "ロビー",
+        "role": "チェ室長"
+      }
+    },
+    {
+      "logNo": "224357168996",
+      "en": {
+        "title": "Ha Jung-woo Update: Yoon Chang-wook's First Lobbying Golf Game for a KRW 4 Trillion Project",
+        "summary": "In Lobby, Ha Jung-woo plays Yoon Chang-wook, a startup founder who built his company on faith in technology alone. In the Korean Film Council's integrated online-screening figures for July 13–19, 2026, the film ranked No. 1 among weekly films on Wavve. To win a state project worth KRW 4 trillion, Chang-wook enters his first-ever lobbying golf game. Ha brings together the desperate urgency of an inexperienced businessman and the bravado of a man trying to save face through rapid-fire dialogue.",
+        "work": "Lobby",
+        "role": "Yoon Chang-wook"
+      },
+      "ja": {
+        "title": "『ロビー』ハ・ジョンウ近況、4兆ウォン事業を前に始めたユン・チャンウク初の接待ゴルフ",
+        "summary": "映画『ロビー』でハ・ジョンウは、技術だけを信じて会社を育ててきたスタートアップ代表ユン・チャンウクを演じます。韓国映画振興委員会のオンライン上映館統合電算網による2026年7月13日～19日の集計で、作品はWavve週間映画1位となりました。チャンウクは4兆ウォン規模の国家事業を勝ち取るため、人生初の接待ゴルフに飛び込みます。ハ・ジョンウは不慣れな実業家の焦りと、体面を守ろうとする虚勢を、テンポの速いせりふに同居させました。",
+        "work": "ロビー",
+        "role": "ユン・チャンウク"
+      }
+    },
+    {
+      "logNo": "224357096245",
+      "en": {
+        "title": "Koo Kyo-hwan Update: Seo Young-cheol, a Dangerous Biologist Controlling the Infected in The Colony",
+        "summary": "In The Colony, Koo Kyo-hwan plays Seo Young-cheol, the biologist who caused the infection. At the Korean daily box office on July 24, 2026, the film ranked No. 9, drawing 1,198 viewers that day and 5,947,397 in total, according to the Korean Film Council. Young-cheol is not someone trying to escape the chaos; he brings the infected under an order of his own making.…",
+        "work": "The Colony",
+        "role": "Seo Young-cheol"
+      },
+      "ja": {
+        "title": "『ザ・コロニー』ク・ギョファン近況、感染者の群れを操る危険な生物学者ソ・ヨンチョル",
+        "summary": "映画『ザ・コロニー』でク・ギョファンは、感染事態を引き起こした生物学者ソ・ヨンチョルを演じます。韓国映画振興委員会が集計した2026年7月24日のデイリー興行ランキングで、作品は9位、同日の観客数は1,198人、累計観客数は5,947,397人でした。ヨンチョルは混乱を避けようとする人物ではなく、感染者の群れを自らの秩序の中に組み込む人物です。…",
+        "work": "ザ・コロニー",
+        "role": "ソ・ヨンチョル"
+      }
+    },
+    {
+      "logNo": "224357094264",
+      "en": {
+        "title": "Jun Ji-hyun Update: Biotechnologist Kwon Se-jeong Chooses to Lead the Survivors in The Colony",
+        "summary": "In The Colony, Jun Ji-hyun plays Kwon Se-jeong, a biotechnologist at the center of a group of survivors. At the Korean daily box office on July 24, 2026, the film ranked No. 9, drawing 1,198 viewers that day and 5,947,397 in total, according to the Korean Film Council. In an enclosed space where infection is spreading, Se-jeong must do more than present her knowledge; she has to move people to act.…",
+        "work": "The Colony",
+        "role": "Kwon Se-jeong"
+      },
+      "ja": {
+        "title": "『ザ・コロニー』チョン・ジヒョン近況、生存者を率いる生命工学者クォン・セジョンの選択",
+        "summary": "映画『ザ・コロニー』でチョン・ジヒョンは、生存者集団の中心に立つ生命工学者クォン・セジョンを演じます。韓国映画振興委員会が集計した2026年7月24日のデイリー興行ランキングで、作品は9位、同日の観客数は1,198人、累計観客数は5,947,397人でした。感染が広がる閉鎖空間で、セジョンは知識を示すだけでなく、人々を動かさなければなりません。…",
+        "work": "ザ・コロニー",
+        "role": "クォン・セジョン"
+      }
+    },
+    {
+      "logNo": "224356950981",
+      "en": {
+        "title": "Kim Nam-hee Update: Detective Do-hyeok Becomes Seo-jin's Eyes in Nundongja",
+        "summary": "In Nundongja, Kim Nam-hee plays Detective Lee Do-hyeok, who is assigned to Seo-in's death. In figures released by the Korean Film Council on July 21, 2026, for the third week of July, the film ranked No. 5 at the weekly box office, drawing 150,000 viewers for the week and 1.43 million in total. Do-hyeok stays beside the suspicious Seo-jin without readily revealing his true thoughts, carrying the story's tension forward.",
+        "work": "Nundongja",
+        "role": "Lee Do-hyeok"
+      },
+      "ja": {
+        "title": "『ヌントンジャ』キム・ナムヒ近況、ソジンの目となる刑事イ・ドヒョクの追跡",
+        "summary": "映画『ヌントンジャ』でキム・ナムヒは、ソインの死を担当する刑事イ・ドヒョクを演じます。韓国映画振興委員会が2026年7月21日に公表した7月第3週の集計で、作品は週間興行ランキング5位、週間観客数15万人、累計143万人を記録しました。疑い深いソジンのそばを守りながらも簡単には本心を見せないドヒョクが、物語の緊張を引っ張ります。",
+        "work": "ヌントンジャ",
+        "role": "イ・ドヒョク"
+      }
+    },
+    {
+      "logNo": "224356949132",
+      "en": {
+        "title": "Shin Min-a Update: Seo-jin and Seo-in Pursue the Truth of a Death with Two Faces in Nundongja",
+        "summary": "In Nundongja, Shin Min-a plays both photographer Seo-jin and her younger twin sister Seo-in. In figures released by the Korean Film Council on July 21, 2026, for the third week of July, the film ranked No. 5 at the weekly box office, drawing 150,000 viewers for the week and 1.43 million in total. The dual role, showing completely different approaches to life through one face, sits at the center of this thriller.",
+        "work": "Nundongja",
+        "role": "Park Seo-jin / Park Seo-in"
+      },
+      "ja": {
+        "title": "『ヌントンジャ』シン・ミナ近況、ソジンとソインの二つの顔で追う死の真実",
+        "summary": "映画『ヌントンジャ』でシン・ミナは、写真家ソジンと双子の妹ソインを一人二役で演じます。韓国映画振興委員会が2026年7月21日に公表した7月第3週の集計で、作品は週間興行ランキング5位、週間観客数15万人、累計143万人を記録しました。一つの顔でまったく異なる生き方を見せる一人二役が、このスリラーの中心です。",
+        "work": "ヌントンジャ",
+        "role": "パク・ソジン／パク・ソイン"
+      }
+    },
+    {
+      "logNo": "224356881612",
+      "en": {
+        "title": "Kim Soo-hyun in Better Late Than Single 2: The Western Painting Student's Episode 7 One-on-One Date and Honest Feelings",
+        "summary": "In the Netflix dating reality show Better Late Than Single, Kim Soo-hyun is remembered for a comfortable presence rather than flashy words. From her introduction as she attempts a first relationship with her family's support to the way she reconsiders her own standards after learning another person's preferences, she showed the process candidly.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "『Better Late Than Single 2』キム・スヒョン、西洋画専攻大学生の第7話1対1デートと本音",
+        "summary": "Netflixの恋愛リアリティ番組『Better Late Than Single』で、キム・スヒョンは華やかな言葉よりも心地よい雰囲気で記憶に残る参加者です。家族の応援を受けて初めての恋愛に挑む自己紹介から、相手の好みを知った後に自分の基準を考え直す過程まで、率直に見せました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356836488",
+      "en": {
+        "title": "Kim Jae-seo in Better Late Than Single 2: A 32-Year-Old Game Developer's Dramatic Makeover and Episode 5 Feelings",
+        "summary": "In the Netflix dating reality show Better Late Than Single, Kim Jae-seo made a strong impression from his first appearance. He arrived with graying hair, a beard and clothes chosen for comfort, but revealed a completely different mood after a makeover. Rather than focusing only on his change in appearance, this article looks at the job and reason for appearing confirmed in official footage, along with the feelings he shared directly in Episode 5.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "『Better Late Than Single 2』キム・ジェソ、32歳ゲーム開発者の意外な変身と第5話の本音",
+        "summary": "Netflixの恋愛リアリティ番組『Better Late Than Single』で、キム・ジェソは初登場から強い印象を残した参加者です。白髪交じりの髪とひげ、着心地を優先した服装で現れましたが、メイクオーバー後にはまったく違う雰囲気を見せました。ただしこの記事では外見の変化だけを扱うのではなく、公式映像で確認できる職業と出演のきっかけ、そして第5話で自ら明かした感情に焦点を当てます。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356766495",
+      "en": {
+        "title": "Zo In-sung Update: Seong-gi, the Horseback Hunter Pursuing an Unknown Being in Hope",
+        "summary": "In Hope, Zo In-sung plays Seong-gi, a hunter from Hopo Port. The film ranked No. 1 at the Korean daily box office on July 22, 2026, drawing 131,833 viewers that day and 2,533,448 in total, according to the Korean Film Council. After seeing an unidentified being in the mountains for the first time, Seong-gi enters the danger one step ahead of the other villagers.",
+        "work": "Hope",
+        "role": "Seong-gi"
+      },
+      "ja": {
+        "title": "『HOPE』チョ・インソン近況、馬で未知の存在を追う猟師ソンギ",
+        "summary": "映画『HOPE』でチョ・インソンは、ホポ港の猟師ソンギを演じます。韓国映画振興委員会が集計した2026年7月22日のデイリー興行ランキングで作品は1位となり、同日の観客数131,833人、累計観客数2,533,448人を記録しました。ソンギは山で正体不明の存在を初めて目撃した後、村人たちより一歩先に危険の中へ入っていきます。",
+        "work": "HOPE",
+        "role": "ソンギ"
+      }
+    },
+    {
+      "logNo": "224356764114",
+      "en": {
+        "title": "Hwang Jung-min Update: Branch Chief Beom-seok Races to Protect Hopo Port in Hope",
+        "summary": "In Hope, Hwang Jung-min plays Beom-seok, chief of the branch office at the remote Hopo Port. The film ranked No. 1 at the Korean daily box office on July 22, 2026, drawing 131,833 viewers that day and 2,533,448 in total, according to the Korean Film Council. When an ordinary police officer trying to protect his village encounters an unknown being, Hwang's grounded presence and rough physical drive come alive at once.",
+        "work": "Hope",
+        "role": "Beom-seok"
+      },
+      "ja": {
+        "title": "『HOPE』ファン・ジョンミン近況、ホポ港を守る出張所長ボムソクの疾走",
+        "summary": "映画『HOPE』でファン・ジョンミンは、離れたホポ港の出張所長ボムソクを演じます。韓国映画振興委員会が集計した2026年7月22日のデイリー興行ランキングで作品は1位となり、同日の観客数131,833人、累計観客数2,533,448人を記録しました。村を守ろうとする平凡な警察官が未知の存在に出会う瞬間、ファン・ジョンミンらしい生活感と荒々しい行動力が同時に立ち上がります。",
+        "work": "HOPE",
+        "role": "ボムソク"
+      }
+    },
+    {
+      "logNo": "224356493733",
+      "en": {
+        "title": "Yoon Jong-hoon Update: Architect Go-gyeol Follows the Record of His Father's Accident in Our Happy Good Day",
+        "summary": "In KBS1's daily drama Our Happy Good Day, Yoon Jong-hoon plays Go-gyeol, an architect and prospective heir to Kangsu Group. Nielsen Korea measured a 10.8% weekly terrestrial-TV rating for July 13–19, 2026. Recently, Go-gyeol has cared for his girlfriend Jo Eun-ae and his family while searching past records to uncover the truth about his father's accident.",
+        "work": "Our Happy Good Day",
+        "role": "Go-gyeol"
+      },
+      "ja": {
+        "title": "『幸せな私たちの良き日』ユン・ジョンフン近況、父の事故記録を追う建築士コギョル",
+        "summary": "KBS1の連続ドラマ『幸せな私たちの良き日』でユン・ジョンフンは、建築士でカンスグループ後継者候補のコギョルを演じます。ニールセン・コリアが集計した2026年7月13日～19日の地上波週間視聴率は10.8％でした。最近のコギョルは恋人チョ・ウネと家族を気遣う一方、父の事故の真相を確かめるため過去の記録を探しています。",
+        "work": "幸せな私たちの良き日",
+        "role": "コギョル"
+      }
+    },
+    {
+      "logNo": "224356490733",
+      "en": {
+        "title": "Uhm Hyun-kyung Update: Developer Jo Eun-ae Faces a Family Secret in Our Happy Good Day",
+        "summary": "In KBS1's daily drama Our Happy Good Day, Uhm Hyun-kyung plays Jo Eun-ae, the developer who created the AI friend Joy. Nielsen Korea measured a 10.8% weekly terrestrial-TV rating for July 13–19, 2026. Recently, Eun-ae has moved closer to the story's long-buried secret as she follows the trail of her boyfriend Go-gyeol's past accident and records hidden by the family.",
+        "work": "Our Happy Good Day",
+        "role": "Jo Eun-ae"
+      },
+      "ja": {
+        "title": "『幸せな私たちの良き日』オム・ヒョンギョン近況、家族の秘密と向き合う開発者チョ・ウネ",
+        "summary": "KBS1の連続ドラマ『幸せな私たちの良き日』でオム・ヒョンギョンは、AIの友人「ジョイ」を作った開発者チョ・ウネを演じます。ニールセン・コリアが集計した2026年7月13日～19日の地上波週間視聴率は10.8％でした。最近のウネは恋人コギョルの過去の事故と家族が隠した記録をたどり、物語に長く埋もれていた秘密へ近づいています。",
+        "work": "幸せな私たちの良き日",
+        "role": "チョ・ウネ"
+      }
+    },
+    {
+      "logNo": "224356288927",
+      "en": {
+        "title": "Park Jin-hee Update: Kim Dan-hee Stands at the Center of Revenge, Recovering Even the Slush Fund in Red Pearl",
+        "summary": "In KBS2's daily drama Red Pearl, Park Jin-hee plays both Kim Dan-hee and her older twin sister Kim Myeong-hee. Nielsen Korea measured a 7.6% weekly terrestrial-TV rating for July 13–19, 2026. As the series approaches its finale, the story centers on Dan-hee personally completing the revenge she has prepared for so long.",
+        "work": "Red Pearl",
+        "role": "Kim Dan-hee"
+      },
+      "ja": {
+        "title": "『赤い真珠』パク・ジニ近況、裏金まで回収した復讐の中心キム・ダニ",
+        "summary": "KBS2の連続ドラマ『赤い真珠』でパク・ジニは、キム・ダニと双子の姉キム・ミョンヒを一人二役で演じます。ニールセン・コリアが集計した2026年7月13日～19日の地上波週間視聴率は7.6％でした。最終回へ向かう現在、ダニが長い間準備してきた復讐を自ら終わらせる過程が物語の中心に置かれています。",
+        "work": "赤い真珠",
+        "role": "キム・ダニ"
+      }
+    },
+    {
+      "logNo": "224356283737",
+      "en": {
+        "title": "Nam Sang-ji Update: Baek Jin-ju Pushes Back with an Exposé Broadcast in Red Pearl",
+        "summary": "In KBS2's daily drama Red Pearl, Nam Sang-ji plays both Baek Jin-ju and brand consultant Chloe Lee. Nielsen Korea measured a 7.6% weekly terrestrial-TV rating for July 13–19, 2026. Recently, Jin-ju has taken the case beyond personal revenge by bringing it into public view through open testimony and a request for reinvestigation.",
+        "work": "Red Pearl",
+        "role": "Baek Jin-ju"
+      },
+      "ja": {
+        "title": "『赤い真珠』ナム・サンジ近況、告発放送で反撃を押し進めるペク・ジンジュ",
+        "summary": "KBS2の連続ドラマ『赤い真珠』でナム・サンジは、ペク・ジンジュでありブランドコンサルタントのクロエ・リーとして活躍します。ニールセン・コリアが集計した2026年7月13日～19日の地上波週間視聴率は7.6％でした。最近のジンジュは個人的な復讐にとどまらず、公開証言と再捜査要請によって事件を世に出しています。",
+        "work": "赤い真珠",
+        "role": "ペク・ジンジュ"
+      }
+    },
+    {
+      "logNo": "224356010813",
+      "en": {
+        "title": "Jo Han-chul Update: Park Hyung-jong Creates a Realistic Fracture in The Boy in the Last Row",
+        "summary": "The Netflix series The Boy in the Last Row was released on June 26, 2026. Jo Han-chul plays university professor Park Hyung-jong, adding both familiar routine and subtle tension to the world around protagonist Heo Mun-o. He has also continued onto the stage in the play Big Mother, moving between screen and theater in characteristic fashion.",
+        "work": "",
+        "role": "Park Hyung-jong"
+      },
+      "ja": {
+        "title": "『最後列の少年』チョ・ハンチョル近況、パク・ヒョンジョンが生む現実的な亀裂",
+        "summary": "Netflixシリーズ『最後列の少年』は2026年6月26日に配信されました。チョ・ハンチョルは大学教授パク・ヒョンジョンを演じ、主人公ホ・ムノの周囲に見慣れた日常と微妙な緊張を加えます。最近は舞台『ビッグ・マザー』にも出演し、映像と舞台を行き来する俳優らしい歩みを見せました。",
+        "work": "",
+        "role": "パク・ヒョンジョン"
+      }
+    },
+    {
+      "logNo": "224355967490",
+      "en": {
+        "title": "Cha Mi-kyung Update: Paeng Myo-soon's Grandmotherly Heart Runs Deeper Than a Back Slap in Spooky Romance",
+        "summary": "In Spooky Romance, Cha Mi-kyung plays Paeng Myo-soon, the grandmother of prosecutor Ma Gang-wook. She combines the resilience and affection of someone who raised her timid grandson to be strong. When Park Eun-bin and Yang Se-jong's partnership raises the tension, one practical remark from Myo-soon brings the drama's temperature back to ordinary human life.",
+        "work": "",
+        "role": "Paeng Myo-soon"
+      },
+      "ja": {
+        "title": "『ゾクッとする恋愛』チャ・ミギョン近況、背中をたたく手より深い祖母ペン・ミョスンの心",
+        "summary": "『ゾクッとする恋愛』でチャ・ミギョンは、検事マ・ガンウクの祖母ペン・ミョスンを演じます。怖がりな孫をたくましく育てた生活力と愛情を併せ持つ人物です。パク・ウンビンとヤン・セジョンの共闘が緊張を高めるとき、ミョスンの現実的な一言が作品の温度を再び人間の暮らしへ戻します。",
+        "work": "",
+        "role": "ペン・ミョスン"
+      }
+    },
+    {
+      "logNo": "224355965433",
+      "en": {
+        "title": "Cha Chung-hwa Update: Everyday Realism as Jo Maeng-suk in This Damn Love",
+        "summary": "Cha Chung-hwa is an actor who can make a character's daily life come to mind even in a brief appearance. In the Netflix series This Damn Love, due on August 7, she plays Jo Maeng-suk. Attention is on the grounded warmth and humor she may add to the romantic comedy led by Jung Hae-in and Ha Young.",
+        "work": "",
+        "role": "Jo Maeng-suk"
+      },
+      "ja": {
+        "title": "『こんな最悪な恋』チャ・チョンファ近況、チョ・メンスク役で加える生活感ある演技",
+        "summary": "チャ・チョンファは、短い登場でも人物の日常を先に思い浮かべさせる俳優です。8月7日配信のNetflix『こんな最悪な恋』ではチョ・メンスク役を務めます。チョン・ヘインとハヨンを中心に進むロマンチックコメディーに、どんな現実的な温度と笑いを加えるのか期待されています。",
+        "work": "",
+        "role": "チョ・メンスク"
+      }
+    },
+    {
+      "logNo": "224355918399",
+      "en": {
+        "title": "Won Hyun-jun Update: Kang Guk-cheol, the Special Missions Blade Hidden Behind a Smile in Manager Kim",
+        "summary": "In Manager Kim, the mood hardens before a man in a black fedora even speaks. Won Hyun-jun plays Kang Guk-cheol, director of the Special Missions Bureau, known by the codename Mole Cricket. He smiles with easy charm on the surface, but his eyes change as soon as operations are discussed, firmly establishing him as a source of tension linking Manager Kim's past and present.",
+        "work": "",
+        "role": "Kang Guk-cheol"
+      },
+      "ja": {
+        "title": "『マネージャー・キム』ウォン・ヒョンジュン近況、笑顔の裏に特任局の刃を隠すカン・グクチョル",
+        "summary": "『マネージャー・キム』で黒い中折れ帽を深くかぶった男が現れると、空気が先に固まります。ウォン・ヒョンジュン演じるカン・グクチョルは、コードネーム「ケラ」と呼ばれる特殊任務局長です。表向きは飄々と笑っていても作戦の話が始まると目つきから変わる人物で、キムの過去と現在をつなぐ緊張の軸として確かな位置を占めます。",
+        "work": "",
+        "role": "カン・グクチョル"
+      }
+    },
+    {
+      "logNo": "224355915177",
+      "en": {
+        "title": "Jo Bok-rae Update: Gold Tooth, the Relentless Pursuer Defined by One Gold Tooth in Manager Kim",
+        "summary": "The moment Jo Bok-rae smiles and reveals a gold tooth in Manager Kim, his expression feels more like a warning than a greeting. Known only as Gold Tooth, the head of a contract-killer outfit moves with revenge against Joo Gang-chan in mind. His unusual appearance and easygoing speech conceal a cold persistence that changes the atmosphere whenever he appears.",
+        "work": "",
+        "role": "Gold Tooth"
+      },
+      "ja": {
+        "title": "『マネージャー・キム』チョ・ボンネ近況、金歯一つで戻った執念深い追跡者",
+        "summary": "『マネージャー・キム』で金色の歯を見せて笑う瞬間、チョ・ボンネの表情は歓迎より警告に近く見えます。名前の代わりに「金歯」と呼ばれる請負業者の代表は、チュ・ガンチャンへの復讐を胸に動きます。独特な装いと飄々とした話し方の裏に冷たい執念があり、登場するたび画面の空気が変わります。",
+        "work": "",
+        "role": "金歯"
+      }
+    },
+    {
+      "logNo": "224355726107",
+      "en": {
+        "title": "Baek Joo-hee Update: Park Sung-hee Brings Lived-In Warmth to The Boy in the Last Row",
+        "summary": "In the Netflix series The Boy in the Last Row, Baek Joo-hee plays Park Sung-hee, the wife of Park Hyung-jong. The role expands protagonist Heo Mun-o's surrounding cast through family ties. Having begun on stage and expanded her work through Extracurricular, Doctor Cha and Your Honor, Baek's grounded acting is a welcome presence here as well.",
+        "work": "",
+        "role": "Park Sung-hee"
+      },
+      "ja": {
+        "title": "『最後列の少年』ペク・チュヒ近況、パク・ソンヒが満たす生活演技の温度",
+        "summary": "Netflixシリーズ『最後列の少年』でペク・チュヒは、パク・ヒョンジョンの妻パク・ソンヒを演じます。主人公ホ・ムノの周囲を家族関係まで広げる役です。舞台から出発し、『人間レッスン』『医師チャ・ジョンスク』『Your Honor』へ活動領域を広げてきたペク・チュヒの生活感ある演技が、今回の作品でもうれしい存在です。",
+        "work": "",
+        "role": "パク・ソンヒ"
+      }
+    },
+    {
+      "logNo": "224355722089",
+      "en": {
+        "title": "Lim Sa-rang Update: Min-jun's Mom Finds Lived-In Detail Among the Mothers in Apartment",
+        "summary": "JTBC's weekend drama Apartment premiered on July 11 and was released on Netflix at the same time. In a story exposing massive maintenance-fee corruption, the residents' words and glances are clues as important as the case itself. Lim Sa-rang appears as Min-jun's Mom, a member of the parents' group known as the Juns Moms, adding a vivid, everyday temperature to the apartment community.",
+        "work": "",
+        "role": "Min-jun's Mom"
+      },
+      "ja": {
+        "title": "『アパート』イム・サラン近況、母親たちの中で生活感を見つけたミンジュンママ",
+        "summary": "JTBC土日ドラマ『アパート』は7月11日の初放送と同時にNetflixでも配信されました。巨額の管理費不正を暴く物語のなかで、住民たちの言葉と視線は事件に劣らず重要な手掛かりになります。イム・サランは保護者グループ「ジュンズママ」のミンジュンママとして登場し、アパート共同体に生々しい日常の温度を加えます。",
+        "work": "",
+        "role": "ミンジュンママ"
+      }
+    },
+    {
+      "logNo": "224355638580",
+      "en": {
+        "title": "Kim Do-wan Update: The Truth Park Seung-jae Hides Behind a Smile in Spooky Romance",
+        "summary": "The final manuscript, reviewed with humanize-korean, was saved at `articles/celebrity-updates/2026-07-22-kim-do-wan-spooky-in-love-park-seung-jae.md`.",
+        "work": "",
+        "role": "Park Seung-jae"
+      },
+      "ja": {
+        "title": "『ゾクッとする恋愛』キム・ドワン近況、パク・スンジェが笑顔の裏に隠す真実",
+        "summary": "humanize-koreanの確認を終えた最終原稿は、`articles/celebrity-updates/2026-07-22-kim-do-wan-spooky-in-love-park-seung-jae.md`に保存しました。",
+        "work": "",
+        "role": "パク・スンジェ"
+      }
+    },
+    {
+      "logNo": "224355635079",
+      "en": {
+        "title": "Jo Hye-joo Update: Cheon Ha-ri's Jealousy Behind a Bright Smile in Spooky Romance",
+        "summary": "tvN's weekend drama Spooky Romance premiered on July 18 and was also released on Netflix. The partnership between an heiress who sees ghosts and a timid prosecutor is central, but the arrival of Cheon Ha-ri, Cheon Yeo-ri's younger cousin, quickly brings the family's tension to life. Jo Hye-joo layers jealousy and deprivation beneath a radiant expression, giving the supporting character a clear first impression.…",
+        "work": "",
+        "role": "Cheon Ha-ri"
+      },
+      "ja": {
+        "title": "『ゾクッとする恋愛』チョ・ヘジュ近況、チョン・ハリの明るい笑顔の裏にある嫉妬",
+        "summary": "tvN土日ドラマ『ゾクッとする恋愛』は7月18日の初放送と同時にNetflixでも配信されました。幽霊が見える相続人と怖がりな検事の共闘が中心ですが、チョン・ヨリの年下のいとこチョン・ハリが登場し、家族内の緊張が急速に立ち上がります。チョ・ヘジュは華やかな表情の中に嫉妬と欠落感を重ね、脇役の第一印象を鮮明にしました。…",
+        "work": "",
+        "role": "チョン・ハリ"
+      }
+    },
+    {
+      "logNo": "224355453398",
+      "en": {
+        "title": "Lee Sang-hee Update: Teacher Jung Sun-young's Lingering Impact and a Nonstop 2026 After True Education",
+        "summary": "One of the most memorable faces in Episode 3 of Netflix's True Education is teacher Jung Sun-young. Lee Sang-hee portrays a teacher who refuses to give up on her students in a collapsing classroom, not as a grand hero but as a person enduring fear and making it through each day. With news of new dramas and films following the series' release, Lee's schedule in 2026 has become even fuller.…",
+        "work": "",
+        "role": "Jung Sun-young"
+      },
+      "ja": {
+        "title": "『真の教育』イ・サンヒ近況、チョン・ソニョン先生の余韻と休みない2026年",
+        "summary": "Netflix『真の教育』第3話で、長く心に残る顔の一人がチョン・ソニョン先生です。イ・サンヒは崩れた教室の中でも生徒を諦めない教師を、大げさな英雄ではなく、恐怖に耐えながら一日を生き抜く人として描きました。作品公開後も新ドラマと映画の知らせが続き、2026年のイ・サンヒの歩みはさらに密度を増しています。…",
+        "work": "",
+        "role": "チョン・ソニョン"
+      }
+    },
+    {
+      "logNo": "224355409711",
+      "en": {
+        "title": "Ha Young Update: From Choi Ga-yoon's Lingering Impact in True Education to a Netflix Lead in August",
+        "summary": "In Netflix's True Education, Ha Young appears as Choi Ga-yoon, Na Hwa-jin's fiancée and Choi Kang-seok's daughter. Her restrained performance adds warmth by connecting the wounds of the two characters rather than relying on screen time. As official accounts and Netflix continued to share new updates after the release, the impression she left in a supporting role has naturally carried into anticipation for her next leading project.…",
+        "work": "",
+        "role": "Choi Ga-yoon"
+      },
+      "ja": {
+        "title": "『真の教育』ハヨン近況、チェ・ガユンの余韻から8月のNetflix主演作まで",
+        "summary": "Netflix『真の教育』でハヨンは、ナ・ファジンの婚約者でチェ・ガンソクの娘チェ・ガユンとして登場します。出演量に頼らず、二人の傷をつなぐ落ち着いた演技で物語に温度を加えました。公開後も公式アカウントとNetflixから新しい知らせが相次ぎ、脇役として残した余韻が次の主演作への期待へ自然につながっています。…",
+        "work": "",
+        "role": "チェ・ガユン"
+      }
+    },
+    {
+      "logNo": "224355392596",
+      "en": {
+        "title": "Kael Update: From Volleyball Prospect Kim Nam-hoon in Manager Kim to New LUN8 Activities",
+        "summary": "Among the familiar faces in Manager Kim, now streaming on Netflix, one unusually realistic high school student stands out: LUN8's Kael as volleyball prospect Kim Nam-hoon. We look at how an idol with real volleyball experience used that strength in his acting debut, along with his recent appearances on official accounts.…",
+        "work": "",
+        "role": "Kim Nam-hoon"
+      },
+      "ja": {
+        "title": "『マネージャー・キム』カエル近況、バレーボール有望株キム・ナムフンからLUN8の新活動まで",
+        "summary": "Netflixで配信中の『マネージャー・キム』では、見慣れた顔ぶれの中でひときわ現実味のある高校生が目に入ります。バレーボール有望株キム・ナムフンを演じるLUN8のカエルです。実際にバレーボール経験を持つアイドルが、初演技で自分の強みをどう生かしたのかを、最近公式アカウントに掲載された姿とともに整理しました。…",
+        "work": "",
+        "role": "キム・ナムフン"
+      }
+    },
+    {
+      "logNo": "224355054537",
+      "en": {
+        "title": "Lim Yoon-a Update: A Cameo as Yong-gang's Wife Adds the Final Laugh to Husbands",
+        "summary": "After the commotion in the Netflix film Husbands subsides, Lim Yoon-a appears as an unexpected face. She plays the wife who comes looking for Yong-gang, played by Yoon Kyung-ho. Her screen time is brief, but the scene reframes everything that came before, making it fun to see where the story's final laugh is completed. On July 18, Lim posted photos from seeing the musical Yumi's Cells on her official Instagram account.…",
+        "work": "",
+        "role": "Yong-gang's wife"
+      },
+      "ja": {
+        "title": "『夫たち』イム・ユナ近況、最後の笑いを加えたヨンガンの妻役で特別出演",
+        "summary": "Netflix映画『夫たち』の騒動が一段落した後、イム・ユナが思いがけない顔として登場します。ユン・ギョンホ演じるヨンガンを訪ねてきた妻の役です。登場時間は短いものの、それまでの状況を一気に見直させる場面で、物語最後の笑いがどこで完成するのか確かめる楽しさがあります。イム・ユナは7月18日、公式Instagramにミュージカル『ユミの細胞たち』を観劇した写真を投稿しました。…",
+        "work": "",
+        "role": "ヨンガンの妻"
+      }
+    },
+    {
+      "logNo": "224355053086",
+      "en": {
+        "title": "Park Seo-jun Update: Choi Shin-hyung, a Brief but Vivid Black-Ops Agent in Bloodhounds Season 2",
+        "summary": "A familiar face arrives at an unexpected moment in Netflix's Bloodhounds Season 2. Park Seo-jun plays Choi Shin-hyung, a black-ops agent who conveys the weight of his mission through his eyes and posture instead of lengthy explanation. It is a cameo that changes the atmosphere without displacing the leads' story, making the impression left by his brief appearance worth examining. Park Seo-jun's official personal Instagram account is @bn_sj2013.…",
+        "work": "",
+        "role": "Choi Shin-hyung"
+      },
+      "ja": {
+        "title": "『ブラッドハウンド シーズン2』パク・ソジュン近況、短いからこそ鮮明だった黒色要員チェ・シニョン",
+        "summary": "Netflix『ブラッドハウンド シーズン2』では、見慣れた顔が思いがけない瞬間に現れます。パク・ソジュン演じるチェ・シニョンは、長い説明ではなく視線と姿勢で任務の重さを伝える黒色要員です。主演の物語を押しのけず場面の空気を変える特別出演であり、短い登場の後に何が残るのか注目できます。パク・ソジュンの個人公式Instagramアカウントは@bn_sj2013です。…",
+        "work": "",
+        "role": "チェ・シニョン"
+      }
+    },
+    {
+      "logNo": "224354994982",
+      "en": {
+        "title": "Ong Seong-wu Update: Kang Min-hwan's Ambition Behind a Smile in Spooky Romance",
+        "summary": "tvN's weekend drama Spooky Romance premiered on July 18 and was also released on Netflix. Amid the occult romance led by Park Eun-bin and Yang Se-jong, Ong Seong-wu appears as hotel heir Kang Min-hwan, a role in which a gentle impression clashes with firm ambition. Ong posted photos from a golf driving range on his official Instagram account on July 19.…",
+        "work": "",
+        "role": "Kang Min-hwan"
+      },
+      "ja": {
+        "title": "『ゾクッとする恋愛』オン・ソンウ近況、カン・ミンファンの笑顔の裏にある野心",
+        "summary": "tvN土日ドラマ『ゾクッとする恋愛』は7月18日の初放送と同時にNetflixでも配信されました。パク・ウンビンとヤン・セジョンが率いるオカルトロマンスの中で、オン・ソンウはホテルの後継者カン・ミンファンとして登場します。柔らかな印象と強い欲望が一人の中でぶつかる役です。オン・ソンウは7月19日、公式Instagramにゴルフ練習場の写真を投稿しました。…",
+        "work": "",
+        "role": "カン・ミンファン"
+      }
+    },
+    {
+      "logNo": "224354568787",
+      "en": {
+        "title": "Ok Taec-yeon Update: Park Young-gwang's Brief, Fiery Friendship in Manager Kim",
+        "summary": "Ok Taec-yeon makes a special appearance as Park Young-gwang in SBS's Friday-Saturday drama Manager Kim, which is also streaming on Netflix. Young-gwang is Manager Kim's colleague and friend from the time they trained as agents for operations in the North. He does not drive the present-day case, but he is a key piece of the past that explains why Kim wants to protect his family and an ordinary life. Ok extended the impression of his brief appearance by personally sharing behind-the-scenes photos on his official Instagram account.…",
+        "work": "",
+        "role": "Park Young-gwang"
+      },
+      "ja": {
+        "title": "『マネージャー・キム』オク・テギョン近況、パク・ヨングァンとして残した短く熱い友情",
+        "summary": "Netflixでも同時配信されるSBS金土ドラマ『マネージャー・キム』に、オク・テギョンがパク・ヨングァン役で特別出演しました。ヨングァンはキムが北派工作員として訓練を受けた時代をともに過ごした同僚で友人です。現在の事件を動かす人物ではありませんが、キムがなぜ家族と平凡な日常を守ろうとするのかを説明する、過去の重要な一片です。オク・テギョンは公式Instagramに撮影現場の舞台裏写真を自ら公開し、短い出演の余韻をつなぎました。…",
+        "work": "",
+        "role": "パク・ヨングァン"
+      }
+    },
+    {
+      "logNo": "224354512013",
+      "en": {
+        "title": "Park Jin-woo Update: Mr. Lim at the Laundry, a Familiar Face Preserving the Neighborhood's Warmth in Manager Kim",
+        "summary": "Between the rough chases in Manager Kim is a face that gives viewers a moment to breathe: Mr. Lim at the laundry, played by Park Jin-woo. Even standing quietly at the edge of the frame, he feels like someone long familiar from the neighborhood, making the disruption of Manager Kim's ordinary life land with greater weight. Park posted a photo taken in a space packed with laundry on his official Instagram account on June 27.…",
+        "work": "",
+        "role": "Mr. Lim at the laundry"
+      },
+      "ja": {
+        "title": "『マネージャー・キム』パク・ジヌ近況、町の温かさを守る見慣れた顔・クリーニング店のイムさん",
+        "summary": "『マネージャー・キム』の激しい追跡劇の間には、少し息を整えさせる顔があります。パク・ジヌ演じるクリーニング店のイムさんです。画面の片隅に静かに立っていても、町で長く顔を合わせてきた人のように親しみがあり、そのためキムの平凡な日常が揺らぐとき、いっそう重く響きます。パク・ジヌは6月27日、公式Instagramに洗濯物がぎっしり並ぶ空間で撮った写真を投稿しました。…",
+        "work": "",
+        "role": "クリーニング店のイムさん"
+      }
+    },
+    {
+      "logNo": "224354393893",
+      "en": {
+        "title": "Lee Chae-min Update: The Hunter Hidden Behind Jonathan's Smile in Cashero",
+        "summary": "In the Netflix series Cashero, Lee Chae-min plays Jonathan. He is the public face of Beominhoe, an organization that hunts superpowered people, and the younger brother of Joanna, hiding desire behind a smiling face. It was Lee's first full-fledged villain role. After the series was released, his official Instagram featured awards ceremonies, fashion events and performance behind-the-scenes posts, followed by news of a new Netflix variety show.…",
+        "work": "",
+        "role": "Jonathan"
+      },
+      "ja": {
+        "title": "『キャッシャーロ』イ・チェミン近況、ジョナサンの笑顔の裏に隠れたハンター",
+        "summary": "Netflixシリーズ『キャッシャーロ』でイ・チェミンはジョナサン役を務めます。超能力者を狩る組織ボミン会の顔であり、ジョアンナの弟として、笑顔の裏に欲望を隠す人物です。イ・チェミンにとって初の本格的な悪役でした。作品公開後、公式Instagramには授賞式やファッションイベント、公演の舞台裏が続き、Netflixの新バラエティー番組の知らせも加わりました。…",
+        "work": "",
+        "role": "ジョナサン"
+      }
+    },
+    {
+      "logNo": "224354056445",
+      "en": {
+        "title": "Shin Soo-jung Update: The Actor Bringing Realism to the Juns Moms as Hye-jun's Mom in Apartment",
+        "summary": "Apartment has residents who move as busily as the tenants' council. One group is the Juns Moms, young parents attentive to their children's education and living environment. As Hye-jun's Mom, Shin Soo-jung brings the speech and expressions of a familiar neighborhood parent, making the conflicts inside the complex feel far more real. On July 19, Shin posted a photo with fellow Apartment cast members on her official Instagram account.…",
+        "work": "",
+        "role": "Hye-jun's Mom"
+      },
+      "ja": {
+        "title": "『アパート』シン・スジョン近況、ジュンズママの現実感を生かすヘジュンママ役",
+        "summary": "『アパート』には入居者代表会議に負けないほど忙しく動く住民たちがいます。子どもの教育と生活環境に敏感な若い保護者グループ、いわゆる「ジュンズママ」もその一つです。ヘジュンママ役のシン・スジョンは、身近な近所の親の話し方と表情を持ち込み、団地内の葛藤をずっと現実的にします。シン・スジョンは7月19日、公式Instagramに『アパート』の共演者たちと撮った写真を投稿しました。…",
+        "work": "",
+        "role": "ヘジュンママ"
+      }
+    },
+    {
+      "logNo": "224354053056",
+      "en": {
+        "title": "Lim So-yoon Update: The Actor Bringing Energy to the Management Office as Oh Yoon-seo in Apartment",
+        "summary": "As JTBC's weekend drama Apartment streams on Netflix, the grounded performances of the management-office staff also draw attention. Lim So-yoon, who plays administrative supervisor Oh Yoon-seo, naturally connects scenes with bright energy and quick timing. Knowing that she began on stage and steadily built a career in everyday character acting makes even her brief appearances look a little different. Her official Instagram has recently featured photos from the filming waiting room and daily life.…",
+        "work": "",
+        "role": "Oh Yoon-seo"
+      },
+      "ja": {
+        "title": "『アパート』イム・ソユン近況、管理事務所に活気を加えるオ・ユンソ役",
+        "summary": "JTBC土日ドラマ『アパート』がNetflixでも配信され、管理事務所職員たちの生活感ある演技にも目が向きます。庶務主任オ・ユンソを演じるイム・ソユンは、明るい力と速いテンポで場面の間を自然につないでいます。舞台から出発し、生活演技を着実に積み重ねてきた俳優だと知れば、短い登場も少し違って見えます。イム・ソユンの公式Instagramには、最近、撮影待機室や日常の写真が続いています。…",
+        "work": "",
+        "role": "オ・ユンソ"
+      }
+    },
+    {
+      "logNo": "224353933448",
+      "en": {
+        "title": "Baek Hyun-jin Update: Seo Gang-won Hides the True Face of a Redevelopment Complex in Apartment",
+        "summary": "Apartment, now streaming on Netflix and JTBC, is a drama in which residents' desires and secrets emerge in an aging complex awaiting redevelopment. Baek Hyun-jin plays Seo Gang-won, president of the tenants' council. Because he has covered up the complex's defects and managed its competing interests, Park Hae-gang's arrival is the most uncomfortable variable threatening the order he has worked to maintain. Baek's verified official Instagram continued to feature short texts and visual works on July 18 and 19.…",
+        "work": "",
+        "role": "Seo Gang-won"
+      },
+      "ja": {
+        "title": "『アパート』ペク・ヒョンジン近況、ソ・ガンウォンが隠した再開発団地の素顔",
+        "summary": "NetflixとJTBCで配信中の『アパート』は、再開発を控えた古い団地で住民たちの欲望と秘密が明らかになるドラマです。ペク・ヒョンジンは入居者代表会議会長ソ・ガンウォンを演じます。団地の欠陥を覆い隠し、利害を調整してきた人物だけに、パク・ヘガンの登場は彼が苦心して維持してきた秩序を揺さぶる最も不都合な変数です。ペク・ヒョンジンの認証済み公式Instagramには、7月18日と19日にも短い文章と視覚作品が掲載されました。…",
+        "work": "",
+        "role": "ソ・ガンウォン"
+      }
+    },
+    {
+      "logNo": "224353925022",
+      "en": {
+        "title": "Jung Soon-won Update: Gyeongnam, Hae-gang's Gentle Right-Hand Man, Creates Everyday Humor in Apartment",
+        "summary": "Apartment, now streaming on Netflix and JTBC, is a grounded drama set in an aging complex awaiting redevelopment, where residents and an undercover employee become entangled. Jung Soon-won plays Gyeongnam, Hae-gang's right-hand man and gentle second-in-command. He seems like someone who handles matters quietly, but he is also a father raising his son alone, allowing humor and responsibility to move side by side within the same scene.…",
+        "work": "",
+        "role": "Gyeongnam"
+      },
+      "ja": {
+        "title": "『アパート』チョン・スンウォン近況、ヘガンの穏やかな右腕ギョンナムが生む生活型の笑い",
+        "summary": "NetflixとJTBCで配信中の『アパート』は、再開発を控えた古い団地を舞台に、住民と偽装就職者が絡み合う生活密着型ドラマです。チョン・スンウォンはヘガンの右腕で穏やかなナンバー2、ギョンナムを演じます。静かに仕事を処理する人物に見えますが、一人で息子を育てる父親という事情も抱え、笑いと責任感が同じ場面の中で並んで動きます。…",
+        "work": "",
+        "role": "ギョンナム"
+      }
+    }
+  ]
+}

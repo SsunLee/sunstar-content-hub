@@ -199,10 +199,8 @@ export default async function LocalizedArticlePage({
           __html: JSON.stringify(structuredData).replaceAll("<", "\\u003c"),
         }}
       />
-      <div className="page-shell localized-context-bar">
-        <Link className="localized-brand" href={`/${locale}`}>
-          SS.Desk <span>Global</span>
-        </Link>
+      <div className="page-shell localized-article-language-bar">
+        <span>{localeConfig.languageVersionsLabel}</span>
         <LanguageSwitcher currentLocale={locale} article={article} />
       </div>
 

@@ -91,6 +91,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       ...(hubLanguages ? { alternates: { languages: hubLanguages } } : {}),
     }),
   );
+  const localizedDeskRoutes: SitemapEntry[] = [
+    "entertainment",
+    "stocks",
+  ].flatMap((desk) => {
+    const languages = {
+      ...Object.fromEntries(
+        SUPPORTED_LOCALES.map((locale) => [
+          locale,
+          absoluteUrl(`/${locale}/${desk}`),
+        ]),
+      ),
+      "x-default": absoluteUrl(`/ko/${desk}`),
+    };
+    return SUPPORTED_LOCALES.map((locale) => ({
+      url: absoluteUrl(`/${locale}/${desk}`),
+      lastModified,
+      changeFrequency: "daily" as const,
+      priority: 0.75,
+      alternates: { languages },
+    }));
+  });
   const localizedArticleRoutes: SitemapEntry[] = localizedArticles.flatMap(
     (article) => {
       const alternatePaths = getReadyArticleAlternates(article);
@@ -127,6 +148,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...archiveRoutes,
     ...postDetailRoutes,
     ...localizedHubRoutes,
+    ...localizedDeskRoutes,
     ...localizedArticleRoutes,
   ];
 }

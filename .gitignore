@@ -43,3 +43,7 @@ next-env.d.ts
 /work/
 .dev-server.*.log
 *.tsbuildinfo
+
+# local visual QA artifacts
+/design-qa-artifacts/
+/.codex-preview.*.log

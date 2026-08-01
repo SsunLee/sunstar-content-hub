@@ -6,16 +6,24 @@
       "_rolldown-runtime-S-ySWqyJ.js"
     ]
   },
-  "_query-BbOc3VB2.js": {
-    "file": "assets/query-BbOc3VB2.js",
-    "name": "query"
-  },
   "_rolldown-runtime-S-ySWqyJ.js": {
     "file": "assets/rolldown-runtime-S-ySWqyJ.js",
     "name": "rolldown-runtime"
   },
+  "components/localized-route-language-switcher.tsx": {
+    "file": "assets/localized-route-language-switcher-DDhEziWf.js",
+    "name": "localized-route-language-switcher",
+    "src": "components/localized-route-language-switcher.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-XU8gKkFC.js",
+      "node_modules/vinext/dist/shims/link.js"
+    ]
+  },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-q95O7D3L.js",
+    "file": "assets/layout-segment-context-f94JHS-Y.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -26,22 +34,21 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-BTQ12wYI.js",
+    "file": "assets/link-DC-dQhKC.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "virtual:vinext-app-browser-entry",
-      "_framework-XU8gKkFC.js",
-      "_query-BbOc3VB2.js"
+      "_framework-XU8gKkFC.js"
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/router.js"
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-DYcWRCyz.js",
+    "file": "assets/router-BVqBxt6F.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -49,14 +56,14 @@
       "_rolldown-runtime-S-ySWqyJ.js",
       "virtual:vinext-app-browser-entry",
       "_framework-XU8gKkFC.js",
-      "_query-BbOc3VB2.js"
+      "node_modules/vinext/dist/shims/link.js"
     ],
     "dynamicImports": [
       "_framework-XU8gKkFC.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-C-R6XvQX.js",
+    "file": "assets/index-CVMdu9cz.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -66,6 +73,7 @@
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "components/localized-route-language-switcher.tsx",
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/link.js"
     ]

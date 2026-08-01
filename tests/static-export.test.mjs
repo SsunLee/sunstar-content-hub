@@ -18,7 +18,7 @@ const localizedContent = JSON.parse(
 const totalPosts = content.posts.length;
 const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
 const routeCount =
-  archivePageCount + 4 + 3 + localizedContent.articles.length * 3;
+  archivePageCount + 4 + 3 + 6 + localizedContent.articles.length * 3;
 
 async function findIndexFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });

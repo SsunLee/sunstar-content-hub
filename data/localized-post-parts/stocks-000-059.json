@@ -1,0 +1,909 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-01T12:44:51.880Z",
+  "category": "stocks",
+  "start": 0,
+  "end": 59,
+  "translations": [
+    {
+      "logNo": "224357504345",
+      "en": {
+        "title": "BIOINFRA Q2 Results: KRW 230 Million Operating Profit Turnaround and Separate Review of the 16% Drop",
+        "summary": "This is a staged image created to aid understanding of the article. BIOINFRA's standalone revenue for Q2 2026 was KRW 8.662 billion, with operating profit of KRW 227 million. Revenue rose 42.5% year over year, and the company swung to profit from an operating loss of KRW 1.116 billion. Net income also returned to KRW 152 million. On the same day, the share price fell 16.10% to KRW 1,569.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "バイオインフラ第2四半期決算：営業利益2.3億ウォンで黒字転換、16%下落とは分けて点検",
+        "summary": "本文の理解を助けるための演出画像です。バイオインフラの2026年第2四半期の個別売上高は86億6,200万ウォン、営業利益は2億2,700万ウォンでした。売上高は前年同期比42.5%増え、営業損失11億1,600万ウォンから黒字へ転換しました。純利益も1億5,200万ウォンの黒字に戻りました。同日の株価は1,569ウォンで、16.10%下落しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357452111",
+      "en": {
+        "title": "Doosan Fuel Cell Q2 Results: KRW 50.9 Billion Operating Loss and 346% Debt Ratio",
+        "summary": "Doosan Fuel Cell posted consolidated revenue of KRW 44.3 billion and an operating loss of KRW 50.9 billion in Q2 2026. Revenue fell 65.5% year over year, while the operating loss widened from KRW 1.9 billion to KRW 50.9 billion. Its consolidated debt ratio at the end of June was also 346%, up 120 percentage points from the end of last year. The earnings disclosure, received at 16:26 on July 24, was released after the regular KRX session had closed.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "斗山フューエルセル第2四半期決算、営業損失509億ウォンと負債比率346%を点検",
+        "summary": "斗山フューエルセルは2026年第2四半期に連結売上高443億ウォン、営業損失509億ウォンを記録しました。売上高は前年同期比65.5%減少し、営業損失は19億ウォンから509億ウォンへ拡大しました。6月末の連結負債比率も346%となり、昨年末より120ポイント上昇しました。7月24日16時26分に受理された決算開示は、KRXの通常取引終了後に公表されました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357430260",
+      "en": {
+        "title": "What Drove iCRAFT's 8.8% Rise: KRW 32.2 Billion NVIDIA VeraRubin Network Contract",
+        "summary": "iCRAFT closed at KRW 3,400 on July 24, 2026, up 8.80% from the previous day. Trading volume was 1,062,145 shares, 4.49 times the average of the preceding 5 trading days. At 15:10 the same day, the company disclosed a 2026 NIPA NVIDIA VeraRubin Network supply contract worth KRW 32.28304 billion.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "アイ・クラフト8.8%上昇の背景、NVIDIA VeraRubinネットワーク322億ウォン契約",
+        "summary": "アイ・クラフトは2026年7月24日に3,400ウォンで取引を終え、前日比8.80%上昇しました。出来高は1,062,145株で、直前5取引日の平均の4.49倍でした。同日15時10分には、322億8,304万ウォン規模の2026年NIPA NVIDIA VeraRubin Network供給契約が開示されました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357393261",
+      "en": {
+        "title": "Hyundai Mobis Q2 Results: KRW 975.2 Billion Operating Profit and Reasons Behind the 8% Drop",
+        "summary": "Hyundai Mobis recorded revenue of KRW 16.3247 trillion and operating profit of KRW 975.2 billion in Q2 2026, increases of 2.44% and 12.09% year over year, respectively. Yet on July 24, its shares fell 8.02% to KRW 482,000. The scheduled earnings announcement time was 10:10. The stock had already been weak before the announcement, while the KOSPI fell 5.72% and the auto-parts sector declined 6.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代モービス第2四半期決算、営業利益9752億ウォンと8%下落の背景を点検",
+        "summary": "現代モービスは2026年第2四半期に売上高16兆3,247億ウォン、営業利益9,752億ウォンを記録しました。前年同期比でそれぞれ2.44%、12.09%増加しました。しかし7月24日の株価は48万2,000ウォンとなり、8.02%下落しました。決算発表の予定時刻は午前10時10分でした。株価は発表前から軟調で、同日のKOSPIは5.72%、自動車部品業種は6.…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224357166145",
+      "en": {
+        "title": "Samsung Biologics Q2 Results: KRW 586.4 Billion Operating Profit and a 10% Rise",
+        "summary": "This is a staged image created to aid understanding of the article. Samsung Biologics posted revenue of KRW 1.3209 trillion and operating profit of KRW 586.4 billion in Q2 2026. Revenue rose 30% year over year and operating profit increased 23%. On the next trading day, July 24, the stock closed 10.08% higher at KRW 1,518,000, with trading volume at 3.83 times the average of the preceding 20 trading days.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンバイオロジクス第2四半期決算、営業利益5864億ウォンと10%上昇を点検",
+        "summary": "本文の理解を助けるための演出画像です。サムスンバイオロジクスは2026年第2四半期に売上高1兆3,209億ウォン、営業利益5,864億ウォンを記録しました。売上高は前年同期比30%、営業利益は23%増加しました。次の取引日である7月24日の株価は10.08%高の151万8,000ウォンで取引を終え、出来高は直前20取引日の平均の3.83倍でした。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356930964",
+      "en": {
+        "title": "Why FINETEK Hit the Daily Limit: KRW 19.5 Billion Samsung Display Vietnam OLED Equipment Contract",
+        "summary": "This is a staged image created to aid understanding of the article. FINETEK closed at the daily upper limit on July 24, 2026. At 10:21 that day, the company disclosed a KRW 19.5 billion contract to supply OLED manufacturing equipment to Samsung Display's Vietnam subsidiary, and the share price jumped from KRW 1,739 immediately before the filing to KRW 2,085 at 10:23. At 10:41 it reached the upper limit of KRW 2,340 and stayed there through the close.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ファインテックがストップ高となった理由、サムスンディスプレイ・ベトナム向けOLED装置195億ウォン契約",
+        "summary": "本文の理解を助けるための演出画像です。ファインテックは2026年7月24日にストップ高で取引を終えました。同日10時21分、サムスンディスプレイのベトナム法人にOLED製造装置を供給する195億ウォン規模の契約が開示され、株価は開示直前の1,739ウォンから10時23分には2,085ウォンへ上昇しました。10時41分にはストップ高の2,340ウォンに到達し、終値まで維持しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356848867",
+      "en": {
+        "title": "Hyundai AutoEver's KRW 304.4 Billion GPU Server Supply Contracts: Scale for Hyundai Motor and Kia",
+        "summary": "This is a staged image created to aid understanding of the article. Hyundai AutoEver disclosed 2 contracts after the market closed on July 24, 2026, to supply GPU servers to Hyundai Motor and Kia. The contract values are KRW 166.29578 billion for Hyundai Motor and KRW 138.05512 billion for Kia, totaling KRW 304.3509 billion. Compared with consolidated revenue of KRW 4.25206726 trillion in 2025, the total is about 7.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代オートエバーのGPUサーバー供給契約3044億ウォン、現代自動車・起亜向け規模を点検",
+        "summary": "本文の理解を助けるための演出画像です。現代オートエバーは現代自動車と起亜にGPUサーバーを供給する2件の契約を、2026年7月24日の取引終了後に開示しました。契約金額は現代自動車向けが1,662億9,578万ウォン、起亜向けが1,380億5,512万ウォンで、合計3,043億5,090万ウォンです。2025年の連結売上高4兆2,520億6,726万ウォンと比べると約7.…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356758175",
+      "en": {
+        "title": "LX Semicon Q2 Results: KRW 22 Billion Operating Profit, Up 115.1% Year Over Year",
+        "summary": "This is a staged image created to aid understanding of the article. LX Semicon is a fabless semiconductor company that designs display driver chips. In Q2 2026, revenue increased moderately, while operating profit and net income more than doubled year over year. However, cumulative first-half results declined from last year and inventories increased from the end of 2025, so the recovery in a single quarter should be assessed separately from the cumulative trend.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LXセミコン第2四半期決算：営業利益220億ウォン、前年同期比115.1%増",
+        "summary": "本文の理解を助けるための演出画像です。LXセミコンはディスプレイドライバーICを設計するファブレス半導体企業です。2026年第2四半期は売上高が緩やかに増え、営業利益と純利益は前年同期の2倍以上に増加しました。一方、上半期累計業績は前年を下回り、棚卸資産は2025年末より増えたため、単一四半期の回復と累計の流れを分けて見る必要があります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356558493",
+      "en": {
+        "title": "Reviewing Kia's Sharp Share-Price Drop: Q2 Revenue of KRW 33 Trillion and a 4.9% Decline in Operating Profit",
+        "summary": "Kia shares fell sharply on the day the company announced preliminary Q2 2026 results. However, the KOSPI also dropped more than 5% that day, and the earnings briefing was scheduled to begin after the intraday price check, so the decline cannot be attributed to earnings alone. The figures were mixed, combining revenue growth with weaker profitability. The reference time is 14:01 on July 24, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "起亜の株価急落の背景を点検、第2四半期売上高33兆ウォン・営業利益4.9%減",
+        "summary": "起亜が2026年第2四半期の暫定業績を発表した日、株価は大幅に下落しました。ただし同日のKOSPIも5%超下落し、決算説明会は場中の株価確認後に始まる予定だったため、株価下落を業績だけで断定することはできません。数字は売上成長と収益性低下が同時に表れた混合型に近い内容です。基準時刻は2026年7月24日14時01分です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356419319",
+      "en": {
+        "title": "JB Financial Group Analysis: Q2 Controlling-Shareholder Net Income of KRW 219.6 Billion and KRW 100 Billion Share Cancellation",
+        "summary": "JB Financial Group is a financial holding company centered on Jeonbuk Bank and Kwangju Bank, with JB Woori Capital, JB Asset Management and overseas financial companies among its subsidiaries. In Q2 2026, both bank and non-bank subsidiaries grew, taking quarterly net income attributable to controlling shareholders to a record high. The analysis date is July 24, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "JB金融持株分析：第2四半期の支配株主帰属純利益2196億ウォンと1000億ウォンの自己株式消却",
+        "summary": "JB金融持株は全北銀行と光州銀行を中心に、JBウリィキャピタル、JB資産運用、海外金融会社を傘下に置く金融持株会社です。2026年第2四半期は銀行・ノンバンク子会社がそろって成長し、四半期の支配株主帰属純利益が過去最高を記録しました。分析基準日は2026年7月24日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356306826",
+      "en": {
+        "title": "IPARK Hyundai Development Company Analysis: Q2 Operating Profit of KRW 122.7 Billion and KRW 30 Billion Share Cancellation",
+        "summary": "This is a staged image created to aid understanding of the article. IPARK Hyundai Development Company is a general construction company engaged in housing, building and civil-engineering projects under the IPARK brand. In Q2 2026, revenue declined but operating profit and net income rose sharply, and the company also disclosed a plan to acquire and cancel KRW 30 billion of treasury shares. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "IPARK現代産業開発分析：第2四半期営業利益1227億ウォンと300億ウォンの自己株式消却",
+        "summary": "本文の理解を助けるための演出画像です。IPARK現代産業開発はIPARKブランドを中心に住宅、建築、土木事業を手がける総合建設会社です。2026年第2四半期は売上高が減少した一方、営業利益と純利益が大きく増え、300億ウォン規模の自己株式取得・消却計画も開示しました。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356191460",
+      "en": {
+        "title": "Doosan Bobcat Analysis: Q2 Operating Profit of KRW 291.7 Billion and USD 81 Million Tariff Refund",
+        "summary": "This is a staged image created to aid understanding of the article. Doosan Bobcat sells construction and industrial equipment including compact loaders, excavators, forklifts and portable generators. In Q2 2026, both revenue and operating profit increased, and the company declared a quarterly dividend of KRW 400 per share. However, operating profit included USD 81 million in one-off gains, mainly from tariff refunds.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "斗山ボブキャット分析：第2四半期営業利益2917億ウォンと関税還付8100万ドル",
+        "summary": "本文の理解を助けるための演出画像です。斗山ボブキャットは小型ローダー、掘削機、フォークリフト、移動式発電機などを販売する建設・産業機械企業です。2026年第2四半期は売上高と営業利益がともに増え、1株当たり400ウォンの四半期配当も決定しました。ただし営業利益には、関税還付を中心とする8,100万ドルの一時利益が含まれています。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224356130924",
+      "en": {
+        "title": "LIG Defense & Aerospace Analysis: Q1 Operating Profit of KRW 171.1 Billion and KRW 25.33 Trillion Order Backlog",
+        "summary": "LIG Defense & Aerospace develops and produces precision-guided weapons, surveillance and reconnaissance systems, command-control-communications systems, avionics and electronic-warfare systems. In Q1 2026, higher export revenue lifted both revenue and operating profit. The order backlog exceeds KRW 25 trillion, but the debt ratio and the burden of facility investment also require attention. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LIGディフェンス＆エアロスペース分析：第1四半期営業利益1711億ウォンと受注残高25.33兆ウォン",
+        "summary": "LIGディフェンス＆エアロスペースは精密誘導兵器、監視・偵察、指揮統制通信、航空電子、電子戦システムを開発・生産しています。2026年第1四半期は輸出売上高が増え、売上高と営業利益がともに成長しました。受注残高は25兆ウォンを超えますが、負債比率と設備投資負担もあわせて確認する必要があります。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224355957150",
+      "en": {
+        "title": "HD Hyundai Marine Solution Analysis: Q1 Operating Profit of KRW 93.4 Billion and July 27 Earnings",
+        "summary": "This is a staged image created to aid understanding of the article. HD Hyundai Marine Solution is a vessel life-cycle service company providing parts and maintenance, eco-friendly retrofits and digital solutions after vessel delivery. In Q1 2026, revenue and operating profit both increased, but the operating margin and operating cash flow declined.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "HD現代マリンソリューション分析：第1四半期営業利益934億ウォンと7月27日の決算",
+        "summary": "本文の理解を助けるための演出画像です。HD現代マリンソリューションは、船舶引き渡し後に必要な部品・整備、環境対応改造、デジタルソリューションを提供する船舶ライフサイクルサービス企業です。2026年第1四半期は売上高と営業利益がともに増えましたが、営業利益率と営業キャッシュフローは低下しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224355618892",
+      "en": {
+        "title": "SK Innovation Analysis: Q1 Operating Profit of KRW 2.16 Trillion and BESS Subsidiary Addition",
+        "summary": "SK Innovation is an integrated energy company spanning refining, chemicals and batteries as well as LNG and power. In Q1 2026, refining inventory effects and seasonal demand at E&S lifted operating profit above KRW 2 trillion. Losses continued in the battery business, but company-wide earnings recovered sharply, and in July the company added an energy-storage-system operator as a subsidiary. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SKイノベーション分析：第1四半期営業利益2.16兆ウォンとBESS子会社編入",
+        "summary": "SKイノベーションは精製、化学、バッテリーに加え、LNG・電力事業までつなぐ総合エネルギー企業です。2026年第1四半期は精製の在庫効果とE&Sの季節需要が重なり、営業利益が2兆ウォンを超えました。バッテリー部門の赤字は続きましたが、全社損益は大きく回復し、7月にはエネルギー貯蔵システム運営会社を子会社に編入しました。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224355444245",
+      "en": {
+        "title": "LG Display Analysis: Q2 Operating Loss of KRW 107.7 Billion and KRW 1.16 Trillion Cash Flow",
+        "summary": "LG Display supplies TV, IT, mobile and automotive panels. In Q2 2026, the company posted an operating loss because of seasonal weakness and costs related to workforce-efficiency measures, but cash flow from operating activities exceeded KRW 1 trillion. Because earnings and cash flow pointed in different directions, the income statement and cash-flow statement need to be assessed separately. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LGディスプレイ分析：第2四半期営業損失1077億ウォンとキャッシュフロー1.16兆ウォン",
+        "summary": "LGディスプレイはTV、IT、モバイル、車載向けパネルを供給するディスプレイ企業です。2026年第2四半期は季節的な閑散期と人員運営効率化費用により営業赤字となりましたが、営業活動キャッシュフローは1兆ウォンを超えました。損益とキャッシュフローが異なる方向を示した四半期であり、損益計算書とキャッシュフロー計算書を分けて見る必要があります。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224355126391",
+      "en": {
+        "title": "HD Hyundai Analysis: Q1 Operating Profit of KRW 2.83 Trillion and KRW 545.6 Billion VLAC Order",
+        "summary": "HD Hyundai is an industrial holding company that groups listed and unlisted subsidiaries across shipbuilding and offshore, refining, power equipment and construction machinery. In Q1 2026, a larger share of high-priced vessels in shipbuilding and recovered refining profitability combined to produce the highest quarterly operating profit since the transition to a holding-company structure. The quarter stood out for profit improvement across the portfolio rather than strength in a single business. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "HD現代分析：第1四半期営業利益2.83兆ウォンとVLAC 5456億ウォン受注",
+        "summary": "HD現代は造船・海洋、精製、電力機器、建設機械の複数の上場・非上場子会社を束ねる産業持株会社です。2026年第1四半期は造船で高船価船の比率が拡大し、精製の収益性も回復したことで、持株会社移行後で最大の四半期営業利益を記録しました。単一事業の好調より、ポートフォリオ全体の利益改善が目立った四半期です。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224355121153",
+      "en": {
+        "title": "Samsung Card Analysis: Q1 Net Income of KRW 156.3 Billion and KRW 29.7 Trillion in Receivables",
+        "summary": "Samsung Card is a specialized credit-finance company that earns revenue from card purchases, card loans, installment financing and leasing. Higher payment volume and receivables can expand the revenue base, but profit can fall if funding rates, delinquency and credit-loss costs rise at the same time. Both trends appeared in Q1 2026. The analysis date is July 23, 2026. Earnings and financial figures are based on Samsung Card's official Q1 2026 materials and OpenDART filings.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンカード分析：第1四半期純利益1563億ウォンと商品債権29.7兆ウォン",
+        "summary": "サムスンカードは信用販売、カードローン、割賦金融・リースから収益を得る専門与信金融会社です。決済額と商品債権が増えると収益基盤は広がりますが、資金調達金利と延滞・貸倒費用が同時に上昇すれば利益は減る可能性があります。2026年第1四半期にはこの2つの流れが同時に表れました。分析基準日は2026年7月23日です。業績と財務数値にはサムスンカードの2026年第1四半期公式資料とOpenDART開示を使用しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354969602",
+      "en": {
+        "title": "LG Uplus Analysis: Q1 Operating Profit of KRW 272.3 Billion and 31.0% AIDC Growth",
+        "summary": "LG Uplus generates recurring revenue from mobile communications, internet and IPTV while expanding into enterprise lines and data centers. In Q1 2026, operating revenue rose 1.5% while operating profit increased 6.6%, reflecting moderate growth in the core telecom business alongside cost efficiencies. AIDC revenue grew 31.0%, confirming the pace of the growth business. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LGユープラス分析：第1四半期営業利益2723億ウォンとAIDC 31.0%成長",
+        "summary": "LGユープラスは移動通信とインターネット・IPTVで継続収益を生み、法人回線とデータセンターへ事業範囲を広げる通信会社です。2026年第1四半期は営業収益が1.5%増える間に営業利益が6.6%増加しました。通信本業の緩やかな成長とコスト効率化がかみ合った結果です。AIDC売上高は31.0%増え、成長事業の速度も確認されました。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354910625",
+      "en": {
+        "title": "Korean Air Analysis: Q2 Revenue of KRW 5.02 Trillion and a 110.9% Increase in Fuel Costs",
+        "summary": "Korean Air is a major airline operating passenger, cargo and aerospace businesses. Standalone revenue in Q2 2026 reached KRW 5.0199 trillion, the highest ever for a Q2. Cargo revenue increased 46.1% and passenger revenue also grew, but fuel costs more than doubled, reducing operating profit by 34.4%. Costs and cash flow warrant as much attention as the record revenue. The analysis date is July 23, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "大韓航空分析：第2四半期売上高5.02兆ウォンと燃料費110.9%増",
+        "summary": "大韓航空は旅客、貨物、航空宇宙事業をともに運営する大手航空会社です。2026年第2四半期の単体売上高は、第2四半期として過去最大の5兆199億ウォンを記録しました。貨物売上高は46.1%増え、旅客売上高も成長しましたが、燃料費が2倍超に増加し、営業利益は34.4%減少しました。過去最大の売上高と同じくらい、費用とキャッシュフローにも注目する必要があります。分析基準日は2026年7月23日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354820409",
+      "en": {
+        "title": "Korea Aerospace Industries Analysis: Q1 Revenue of KRW 1.09 Trillion and KRW 26.55 Trillion Order Backlog",
+        "summary": "Korea Aerospace Industries is an aerospace systems company that produces the KF-21 and FA-50, the Surion and LAH, and commercial-aircraft structures. In Q1 2026, domestic-program and complete-aircraft export revenue both increased, taking consolidated revenue above KRW 1 trillion. The order backlog grew to KRW 26.5532 trillion, but the debt ratio and net borrowings also rose, so the pace of growth and the financial burden need to be considered together. The analysis date is July 22, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "韓国航空宇宙産業分析：第1四半期売上高1.09兆ウォンと受注残高26.55兆ウォン",
+        "summary": "韓国航空宇宙産業はKF-21、FA-50、スリオン・LAH、民間航空機の機体構造物をともに製造する航空宇宙システム企業です。2026年第1四半期は国内事業と完成機輸出の売上高がそろって増え、連結売上高が1兆ウォンを超えました。受注残高は26兆5,532億ウォンまで拡大しましたが、負債比率と純借入金も増えており、成長速度と財務負担をあわせて見る必要があります。分析基準日は2026年7月22日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354617075",
+      "en": {
+        "title": "POSCO International Analysis: Q1 Operating Profit of KRW 357.5 Billion and 230% Growth at Senex",
+        "summary": "POSCO International has evolved from a steel-focused trading company into an operating company spanning energy, materials and food. In Q1 2026, it posted its highest quarterly operating profit since the merger. Higher Senex gas sales, improved power-plant utilization, and profit contributions from steel and the Indonesian palm business lifted results. Borrowings and the net-debt ratio also rose, so growth investment and financial pressure need to be considered together. The analysis date is July 22, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ポスコインターナショナル分析：第1四半期営業利益3575億ウォンとセネックス230%成長",
+        "summary": "ポスコインターナショナルは鉄鋼中心の総合商社から、エネルギー、素材、食糧をともに運営する事業会社へ変化してきました。2026年第1四半期は合併後で最大の四半期営業利益を記録しました。セネックスのガス販売拡大、発電稼働率の改善、鉄鋼とインドネシアのパーム事業の利益寄与が業績を押し上げました。借入金と純借入金比率も上昇しており、成長投資と財務負担をあわせて見る必要があります。分析基準日は2026年7月22日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354426034",
+      "en": {
+        "title": "Hyundai Glovis Analysis: Q1 Operating Profit of KRW 521.5 Billion and 40.5% Shipping Growth",
+        "summary": "Hyundai Glovis is an integrated logistics company operating logistics, shipping and distribution within one organization. In Q1 2026, both revenue and operating profit increased, but trends diverged sharply by business. Shipping drove profit growth, while operating profit declined in logistics and distribution. This is why conclusions can differ when looking only at top-line growth versus examining the quality of profit. The analysis date is July 22, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代グロービス分析：第1四半期営業利益5215億ウォンと海運40.5%成長",
+        "summary": "現代グロービスは物流、海運、流通を1社で運営する総合物流企業です。2026年第1四半期は売上高と営業利益がともに増えましたが、事業別の流れは明確に分かれました。海運が利益成長をけん引した一方、物流と流通の営業利益は減少しました。外形成長だけを見る場合と、利益の質を分けて見る場合で判断が変わる理由です。分析基準日は2026年7月22日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224354393437",
+      "en": {
+        "title": "Samsung Life Insurance Analysis: Q1 Net Income of KRW 1.2 Trillion and CSM of KRW 13.6 Trillion",
+        "summary": "Samsung Life Insurance is a Korean life insurer that sells protection, pension and savings products and manages a large investment portfolio. In Q1 2026, net income attributable to controlling shareholders rose 89.5% year over year to KRW 1.2036 trillion. Contractual service margin, or CSM, also increased to KRW 13.6 trillion. It is worth examining whether the profit increase came from the core insurance business or investments, and what expectations the higher share price reflects.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン生命分析：第1四半期純利益1.2兆ウォンとCSM 13.6兆ウォン",
+        "summary": "サムスン生命は保障性保険と年金・貯蓄性保険を販売し、大規模な資産を運用する韓国の生命保険会社です。2026年第1四半期の支配株主帰属純利益は1兆2,036億ウォンとなり、前年同期比89.5%増加しました。保有する保険契約サービスマージン（CSM）も13.6兆ウォンへ増えました。利益増加が保険本業と投資部門のどちらから生じたのか、上昇した株価がどのような期待を反映するのかをあわせて確認する時点です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353898003",
+      "en": {
+        "title": "Samsung SDS Analysis: Q1 Operating Profit of KRW 78.3 Billion and KRW 10 Trillion Investment Plan",
+        "summary": "Samsung SDS operates enterprise IT services and logistics. Cloud is becoming a larger part of IT services, but operating profit fell sharply in Q1 2026 after one-off retirement benefits were recognized. The company launched a domestic-NPU-based service in July and is due to announce Q2 results on July 30. This is a point to assess the short-term profit decline alongside the medium- to long-term plan to invest KRW 10 trillion through 2031.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンSDS分析：第1四半期営業利益783億ウォンと10兆ウォン投資計画",
+        "summary": "サムスンSDSは法人向けITサービスと物流をともに運営しています。ITサービスではクラウドの比重が高まっていますが、2026年第1四半期は一時的な退職給付が反映され、営業利益が大きく減少しました。7月には韓国製NPUベースのサービスを開始し、7月30日には第2四半期決算発表を控えています。短期的な利益減少と、2031年までに10兆ウォンを投じる中長期計画をあわせて見る時点です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353778656",
+      "en": {
+        "title": "Hana Financial Group Analysis: Q1 Net Income of KRW 1.21 Trillion and Cancellation of 1.64 Million Shares",
+        "summary": "Hana Financial Group is a financial holding company centered on Hana Bank, combining securities, cards, capital finance, insurance and asset management. In Q1 2026, both interest income and fee income increased, while net income improved at the bank and major non-bank affiliates. In July, the group completed a KRW 200 billion treasury-share acquisition, making this a point to review earnings and shareholder returns together. The analysis date is July 22, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ハナ金融持株分析：第1四半期純利益1.21兆ウォンと自己株式164万株の消却",
+        "summary": "ハナ金融持株はハナ銀行を中心に、証券、カード、キャピタル、保険、資産運用事業を束ねる金融持株会社です。2026年第1四半期は利息利益と手数料利益がともに増え、銀行と主要ノンバンク系列会社の純利益も改善しました。7月には2,000億ウォン規模の自己株式取得を終え、業績と株主還元をあわせて見る時点です。分析基準日は2026年7月22日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353582588",
+      "en": {
+        "title": "POSCO Future M Analysis: Q1 Operating Profit of KRW 17.7 Billion and KRW 1.01 Trillion Synthetic-Graphite Contract",
+        "summary": "POSCO Future M produces both cathode and anode materials while also operating refractories, lime and chemical-product businesses. In Q1 2026, it emerged from the previous quarter's loss and posted operating profit of KRW 17.7 billion. However, the energy-materials division still recorded an operating loss of KRW 1.1 billion, while net borrowings increased to KRW 3.4301 trillion. More than the scale of the earnings rebound, the source of profit and the financial burden warrant attention. The reference date is July 21, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ポスコフューチャーM分析：第1四半期営業利益177億ウォンと人造黒鉛1.01兆ウォン契約",
+        "summary": "ポスコフューチャーMは正極材と負極材をともに生産しながら、耐火物・石灰・化成品事業も運営しています。2026年第1四半期は前四半期の赤字から脱し、営業利益177億ウォンを記録しました。ただしエネルギー素材部門はなお11億ウォンの営業損失を計上し、純借入金は3兆4,301億ウォンへ増えました。業績反発の幅より、利益を生んだ事業と財務負担をあわせて確認する時点です。基準日は2026年7月21日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353468037",
+      "en": {
+        "title": "S-OIL Analysis: Q1 Operating Profit of KRW 1.23 Trillion and KRW 9.26 Trillion Shaheen Project",
+        "summary": "S-OIL operates petrochemicals and lubricant base oils alongside its core refining business. Q1 2026 operating profit rose sharply to KRW 1.2311 trillion, but roughly half came from inventory-related gains caused by higher oil prices. At the same time, the KRW 9.258 trillion Shaheen Project is moving into commissioning. This article considers both the quality of the earnings recovery and the cash burden after the large investment. The reference date is July 21, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "S-OIL分析：第1四半期営業利益1.23兆ウォンとシャヒン9.26兆ウォンを点検",
+        "summary": "S-OILは精製を中心に石油化学と潤滑基油をともに運営しています。2026年第1四半期の営業利益は1兆2,311億ウォンへ大きく増えましたが、その約半分は原油価格上昇による在庫関連利益でした。同時に、9兆2,580億ウォン規模のシャヒンプロジェクトが試運転段階へ移っています。本稿では業績回復の質と、大規模投資後の現金負担をあわせて見ます。基準日は2026年7月21日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353342264",
+      "en": {
+        "title": "HD Korea Shipbuilding & Offshore Engineering Analysis: Q1 Operating Profit of KRW 1.36 Trillion and a 72.9% Increase in Cash",
+        "summary": "HD Korea Shipbuilding & Offshore Engineering is an intermediate holding company for shipbuilding affiliates that also covers marine engines and eco-friendly systems technology. In Q1 2026, revenue, operating profit and quarterly net income all increased year over year. Cash and cash equivalents also rose 72.9% from the end of 2025. Yet cash flow from operating activities declined year over year. This article focuses on the gap between earnings and cash. The reference date is July 21, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "HD韓国造船海洋分析：第1四半期営業利益1.36兆ウォンと現金72.9%増",
+        "summary": "HD韓国造船海洋は造船系列会社を傘下に置く中間持株会社であり、船舶エンジンと環境対応システム技術も手がけています。2026年第1四半期は売上高、営業利益、四半期純利益がすべて前年同期比で増加しました。現金及び現金同等物も2025年末より72.9%増えました。一方、営業活動キャッシュフローは前年同期より減少しました。本稿では損益と現金の温度差を中心に見ます。基準日は2026年7月21日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224353209958",
+      "en": {
+        "title": "Hyundai Rotem Analysis: Q1 Operating Profit of KRW 224.2 Billion and KRW 29.82 Trillion Order Backlog",
+        "summary": "Hyundai Rotem operates Defense Solutions, which produces K2 tanks and wheeled armored vehicles; Rail Solutions, responsible for rolling stock, signaling and maintenance; and Eco Plant, covering logistics and hydrogen infrastructure. In Q1 2026, both defense and rail increased revenue, but most profit still came from Defense Solutions. With the order backlog above KRW 29 trillion, production schedules and the durability of profitability need to be considered alongside the value of new contracts.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代ロテム分析：第1四半期営業利益2242億ウォンと受注残高29.82兆ウォン",
+        "summary": "現代ロテムはK2戦車と装輪装甲車を製造するディフェンスソリューション、鉄道車両と信号・保守を担うレールソリューション、物流・水素インフラを扱うエコプラントを運営しています。2026年第1四半期は防衛と鉄道がともに売上高を増やしましたが、利益の大半は依然としてディフェンスソリューションから生じました。受注残高が29兆ウォンを超えるだけに、新規契約規模より生産日程と収益性の持続可否をあわせて見る必要があります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224352839518",
+      "en": {
+        "title": "Samsung Fire & Marine Insurance Analysis: Q1 Net Income of KRW 634.7 Billion and CSM of KRW 14.47 Trillion",
+        "summary": "Samsung Fire & Marine Insurance is a major Korean non-life insurer centered on long-term, auto and general insurance and asset management. In Q1 2026, insurance profit returned to growth and investment profit also increased. Q1 profit reflected management of contractual service margin, or CSM, quality and loss ratios rather than simple expansion in scale. The reference date is July 21, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン火災分析：第1四半期純利益6347億ウォンとCSM 14.47兆ウォン",
+        "summary": "サムスン火災は長期保険、自動車保険、一般保険と資産運用を主軸とする韓国の大手損害保険会社です。2026年第1四半期は保険損益が再び成長し、投資損益も増加しました。規模拡大より、契約サービスマージン（CSM）の質と損害率を管理した成果が第1四半期利益に反映されました。基準日は2026年7月21日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224352776825",
+      "en": {
+        "title": "Woori Financial Group Analysis: Q1 Net Income of KRW 604.3 Billion and CET1 of 13.6%",
+        "summary": "Woori Financial Group is a financial holding company centered on Woori Bank, with securities, cards, capital finance, asset management, savings-bank and insurance subsidiaries. In Q1 2026, both interest and non-interest income increased, but net income remained near the year-earlier level because of market volatility and provisions. Over the same period, the common-equity ratio rose to 13.6%, making capital capacity and the sustainability of shareholder returns as important as the size of earnings. The reference date is July 21, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ウリィ金融持株分析：第1四半期純利益6043億ウォンとCET1 13.6%",
+        "summary": "ウリィ金融持株はウリィ銀行を中心に、証券、カード、キャピタル、資産運用、貯蓄銀行、保険を傘下に置く金融持株会社です。2026年第1四半期は利息利益と非利息利益がともに増えましたが、市場変動と引当金の影響で純利益は前年同期と同程度にとどまりました。同期間の普通株式等Tier1比率は13.6%へ上昇し、利益規模より資本余力と株主還元の持続性をあわせて見る時点です。基準日は2026年7月21日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224352417319",
+      "en": {
+        "title": "LG Innotek Analysis: Q1 Operating Profit of KRW 295.3 Billion and a 28.2% Increase in Inventory",
+        "summary": "LG Innotek operates Optical Solutions, centered on smartphone camera modules; Package Solutions, which makes semiconductor substrates; and Mobility Solutions, covering automotive sensors and communication components. Consolidated operating profit in Q1 2026 increased 136.0% year over year. Over the same period, inventories also rose 28.2% from the end of 2025, making this a point to consider profit improvement alongside the working-capital burden. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LGイノテック分析：第1四半期営業利益2953億ウォンと在庫28.2%増",
+        "summary": "LGイノテックはスマートフォン用カメラモジュール中心の光学ソリューション、半導体基板を製造するパッケージソリューション、車載センサーと通信部品を扱うモビリティソリューションを運営しています。2026年第1四半期の連結営業利益は前年同期比136.0%増加しました。同期間の棚卸資産も2025年末より28.2%増え、利益改善と運転資本負担をあわせて見る時点です。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224352308277",
+      "en": {
+        "title": "KT&G Analysis: Q1 Operating Profit of KRW 364.5 Billion and Cancellation of 9.5% of Treasury Shares",
+        "summary": "KT&G is known as a Korean tobacco company but also operates overseas cigarette, next-generation product, or NGP, health-functional-food and real-estate businesses. In Q1 2026, consolidated revenue and operating profit both increased, with overseas tobacco and NGP at the center of growth. Alongside the improved results, treasury-share cancellation and an announcement of the second-half shareholder-return policy are planned, making this a point to assess operating performance and capital allocation together. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "KT&G分析：第1四半期営業利益3645億ウォンと自己株式9.5%消却",
+        "summary": "KT&Gは韓国のたばこ会社として知られていますが、海外紙巻きたばこ、次世代たばこ製品（NGP）、健康機能食品、不動産も運営しています。2026年第1四半期は連結売上高と営業利益がともに増え、海外たばことNGPが成長の中心となりました。業績改善に加え、保有自己株式の消却と下半期の株主還元政策発表が予定されており、営業成果と資本配分をあわせて見る時点です。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224352057939",
+      "en": {
+        "title": "LG Chem Analysis: Q1 Operating Loss of KRW 49.7 Billion and Borrowings of KRW 35.7 Trillion",
+        "summary": "LG Chem is a company that builds advanced materials and life sciences on a petrochemical base while also consolidating the results of subsidiary LG Energy Solution. Its business scope is broad, but Q1 2026 brought a simultaneous decline in revenue, a swing to operating loss and higher borrowings. This is a period to check profitability and cash flow in the core business before focusing only on news about new businesses. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LG化学分析：第1四半期営業損失497億ウォンと借入金35.7兆ウォン",
+        "summary": "LG化学は石油化学を基盤に先端素材と生命科学を育て、連結子会社LGエナジーソリューションの業績も反映する企業です。事業範囲は広いものの、2026年第1四半期は売上高減少、営業赤字転換、借入金増加が同時に表れました。新事業の話題だけでなく、本業の収益性とキャッシュフローを先に確認すべき時期です。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351906956",
+      "en": {
+        "title": "Samsung C&T Analysis: Q1 Revenue of KRW 10.47 Trillion and July 29 Earnings",
+        "summary": "Samsung C&T is a diversified company combining construction, trading, fashion and resort businesses with consolidated bio results. In Q1 2026, trading and fashion grew, while profits weakened in construction and resorts. Because the businesses moved in different directions, revenue growth alone is not enough; segment profit and cash flow also need to be checked. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン物産分析：第1四半期売上高10.47兆ウォンと7月29日の決算",
+        "summary": "サムスン物産は建設・商社・ファッション・リゾートにバイオの連結業績まで加わる複合企業です。2026年第1四半期は商社とファッションが成長しましたが、建設とリゾートの利益は弱まりました。複数事業が異なる方向へ動いたため、売上高増加だけでなく部門別利益とキャッシュフローをあわせて確認する必要があります。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351761121",
+      "en": {
+        "title": "HMM Analysis: Q1 Operating Profit of KRW 269.1 Billion and a 54.7% Decline in Cash",
+        "summary": "HMM's profit fell sharply as freight rates declined, but it maintains an operating margin of 9.9% and a large capital base. That is why the company merits attention now. Consolidated Q1 2026 revenue was KRW 2.7187 trillion and operating profit was KRW 269.1 billion, down 4.8% and 56.2% year over year, respectively. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "HMM分析：第1四半期営業利益2691億ウォンと現金54.7%減",
+        "summary": "HMMは運賃低下により利益が大きく減りましたが、9.9%の営業利益率と大きな資本規模を維持しています。今この会社を見る理由です。2026年第1四半期の連結売上高は2兆7,187億ウォン、営業利益は2,691億ウォンで、前年同期比でそれぞれ4.8%、56.2%減少しました。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351691448",
+      "en": {
+        "title": "SAMG Entertainment Analysis: Overseas Revenue Up 45% in Q1 While Operating Profit Fell 38%",
+        "summary": "This AI-generated staged image symbolically depicts animation IP production and the character-merchandise business. SAMG Entertainment merits attention now because overseas revenue is growing quickly while its margin is lower than a year earlier. Q1 2026 consolidated revenue increased 5.5% to KRW 37.66 billion, and overseas revenue rose 45.3% to KRW 16.45 billion. In contrast, operating profit fell 38.2% to KRW 3.88 billion.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SAMGエンタ分析：第1四半期の海外売上高45%増、営業利益38%減",
+        "summary": "アニメーションIP制作とキャラクター商品事業を象徴的に構成したAI生成の演出画像です。SAMGエンタを今見る理由は、海外売上高が急速に増える一方、利益率が前年同期より低下したためです。2026年第1四半期の連結売上高は376億6,000万ウォンで5.5%増え、海外売上高は164億5,000万ウォンで45.3%増加しました。一方、営業利益は38億8,000万ウォンで38.2%減少しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351662623",
+      "en": {
+        "title": "KT Analysis: Q1 Operating Profit of KRW 482.7 Billion and KRW 600 Quarterly Dividend per Share",
+        "summary": "KT merits attention now because moderate growth in its core telecom business, an AX transition and shareholder returns are progressing together, while consolidated profit declined year over year. Consolidated operating profit in Q1 2026 fell 29.9% to KRW 482.7 billion. On July 14, the company also declared a quarterly cash dividend of KRW 600 per common share. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "KT分析：第1四半期営業利益4827億ウォンと1株600ウォンの四半期配当",
+        "summary": "KTを今見る理由は、通信本業の緩やかな成長、AX転換、株主還元が同時に進む一方、連結利益は前年同期より減ったためです。2026年第1四半期の連結営業利益は4,827億ウォンで29.9%減少しました。会社は7月14日、普通株式1株当たり600ウォンの現金による四半期配当も決定しました。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351596918",
+      "en": {
+        "title": "HD Hyundai Electric Analysis: Q1 Operating Profit of KRW 258.3 Billion and KRW 1.12 Trillion Contract",
+        "summary": "HD Hyundai Electric merits attention now because high margins and a growing order book are translating into a North American data-center contract. Consolidated operating profit in Q1 2026 increased 18.4% year over year to KRW 258.3 billion. In July, the company also announced a master agreement with a global big-tech company for power infrastructure worth up to KRW 1.1212 trillion. The reference date is July 20, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "HD現代エレクトリック分析：第1四半期営業利益2583億ウォンと1.12兆ウォン契約",
+        "summary": "HD現代エレクトリックを今見る理由は、高い利益率と増加した受注が北米データセンター契約につながっているためです。2026年第1四半期の連結営業利益は2,583億ウォンで、前年同期比18.4%増加しました。7月にはグローバル大手テクノロジー企業と、最大1兆1,212億ウォン規模の電力インフラ基本契約も発表しました。基準日は2026年7月20日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351448761",
+      "en": {
+        "title": "LS ELECTRIC Analysis: Q1 Operating Profit of KRW 126.6 Billion and KRW 5.64 Trillion Order Backlog",
+        "summary": "LS ELECTRIC merits attention now because investment in AI data centers and power grids is being reflected in revenue, profit and the order backlog at the same time. Q1 2026 consolidated revenue was KRW 1.3766 trillion and operating profit was KRW 126.6 billion. The product order backlog in the power business rose 45% from a year earlier to KRW 5.6425 trillion. The reference date is July 19, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LS ELECTRIC分析：第1四半期営業利益1266億ウォンと受注残高5.64兆ウォン",
+        "summary": "LS ELECTRICを今見る理由は、AIデータセンターと電力網への投資が実際の売上高、利益、受注残高にそろって反映されているためです。2026年第1四半期の連結売上高は1兆3,766億ウォン、営業利益は1,266億ウォンでした。電力事業の製品受注残高は5兆6,425億ウォンで、1年前より45%増加しました。基準日は2026年7月19日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351251859",
+      "en": {
+        "title": "SK Telecom Analysis: Q1 Operating Profit of KRW 537.6 Billion and 89.3% Growth in AI DC Revenue",
+        "summary": "SK Telecom merits attention now because the cash-generating power of its core telecom business and investment in AI data centers are meeting in the same financial statements. Consolidated operating profit in Q1 2026 recovered sharply from the previous quarter to KRW 537.6 billion, but was 5.3% lower year over year. Over the same period, AI data-center revenue rose 89.3% to KRW 131.4 billion. The pace at which recovery in the core business and expansion of AI infrastructure translate into actual profit needs to be assessed.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SKテレコム分析：第1四半期営業利益5376億ウォンとAI DC売上高89.3%成長",
+        "summary": "SKテレコムを今見る理由は、通信本業のキャッシュ創出力とAIデータセンター投資が同じ財務諸表の中で交わる時点だからです。2026年第1四半期の連結営業利益は5,376億ウォンと前四半期から大きく回復しましたが、前年同期比では5.3%減少しました。同期間のAIデータセンター売上高は1,314億ウォンで89.3%増加しました。本業回復とAIインフラ拡大が実際の利益につながる速度をあわせて見る必要があります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351210404",
+      "en": {
+        "title": "KEPCO Analysis: Q1 Operating Profit of KRW 3.78 Trillion and Debt of KRW 206.4 Trillion",
+        "summary": "Korea Electric Power Corporation merits attention now because financial normalization and large-scale grid investment are progressing together while Q1 profit remains intact. Consolidated operating profit in Q1 2026 increased 0.8% year over year to KRW 3.7842 trillion. Consolidated debt at the same point was KRW 206.3779 trillion. This is a stock where debt and cash flow need to be considered alongside the scale of profit. The reference date is July 19, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "韓国電力分析：第1四半期営業利益3.78兆ウォンと負債206.4兆ウォン",
+        "summary": "韓国電力を今見る理由は、第1四半期利益が維持される中で財務正常化と大規模な電力網投資が同時に進んでいるためです。2026年第1四半期の連結営業利益は3兆7,842億ウォンで、前年同期比0.8%増加しました。同時点の連結負債は206兆3,779億ウォンです。利益規模と同じくらい、負債とキャッシュフローをあわせて見るべき銘柄です。基準日は2026年7月19日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224351078908",
+      "en": {
+        "title": "Hyundai Mobis Analysis: Q1 Revenue of KRW 15.56 Trillion and KRW 500 Billion Share Cancellation",
+        "summary": "Hyundai Mobis merits attention now because revenue growth, an expanding global-customer order book and shareholder returns are progressing at the same time. Q1 2026 consolidated revenue increased year over year to KRW 15.5605 trillion, while operating profit reached KRW 802.6 billion. The company is pursuing the acquisition and cancellation of KRW 500 billion in treasury shares and will announce Q2 business results on July 24. The reference date is July 19, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代モービス分析：第1四半期売上高15.56兆ウォンと5000億ウォンの自己株式消却",
+        "summary": "現代モービスを今見る理由は、売上成長、グローバル顧客からの受注拡大、株主還元が同時に進んでいるためです。2026年第1四半期の連結売上高は15兆5,605億ウォンで前年同期より増え、営業利益も8,026億ウォンを記録しました。会社は5,000億ウォン規模の自己株式取得と消却を進めており、7月24日には第2四半期の経営実績を発表します。基準日は2026年7月19日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350994324",
+      "en": {
+        "title": "POSCO Holdings Analysis: Q1 Operating Profit of KRW 706.8 Billion and KRW 16.7 Trillion Investment",
+        "summary": "POSCO Holdings merits attention now because its strategy to broaden from a steel-centered holding company into lithium and energy has led to a concrete investment plan. Revenue and profit increased year over year in Q1 2026, and at the July CEO Investor Day the company presented KRW 16.7 trillion in future-growth investment over the next 3 years.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "POSCOホールディングス分析：第1四半期営業利益7068億ウォンと16.7兆ウォン投資",
+        "summary": "POSCOホールディングスを今見る理由は、鉄鋼中心の持株会社からリチウムとエネルギーへ事業軸を広げる戦略が、具体的な投資計画につながったためです。2026年第1四半期は売上高と利益が前年同期より増え、7月のCEO Investor Dayでは今後3年間の将来成長投資として16兆7,000億ウォンを提示しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350908362",
+      "en": {
+        "title": "Samsung Heavy Industries Analysis: Q1 Operating Profit of KRW 273.1 Billion and July 24 Earnings",
+        "summary": "Samsung Heavy Industries merits attention now because Q1 2026 operating profit more than doubled year over year and Q2 results are scheduled for July 24. A larger contribution from high-value vessels and offshore facilities lifted the margin, but the current share price already reflects a substantial portion of recent earnings improvement and expectations for future orders. This is a point to consider the pace of earnings growth alongside the financial burden. The reference date is July 19, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン重工業分析：第1四半期営業利益2731億ウォンと7月24日の決算",
+        "summary": "サムスン重工業を今見る理由は、2026年第1四半期の営業利益が前年同期比で2倍超に増え、7月24日に第2四半期決算発表が予定されているためです。高付加価値船と海洋設備の売上高が増えて利益率は上昇しましたが、現在の株価は直近の業績改善と今後の受注期待を相当部分織り込んでいます。業績成長の速度と財務負担をあわせて見る時点です。基準日は2026年7月19日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350838301",
+      "en": {
+        "title": "Kakao Analysis: Q1 Operating Profit of KRW 211.4 Billion and KRW 55 Billion AI Loss",
+        "summary": "Kakao merits attention now because recovery in its core-business profit and higher AI-service costs appeared in the same quarter. Q1 2026 consolidated revenue increased 11% year over year to KRW 1.9421 trillion, while operating profit rose 66% to KRW 211.4 billion. Over the same period, the standalone AI-services division's operating loss widened from KRW 36 billion to KRW 55 billion.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "カカオ分析：第1四半期営業利益2114億ウォンとAI赤字550億ウォン",
+        "summary": "カカオを今見る理由は、本業の利益回復とAIサービス費用の増加が同じ四半期に同時に表れたためです。2026年第1四半期の連結売上高は1兆9,421億ウォン、営業利益は2,114億ウォンで、前年同期比それぞれ11%、66%増加しました。同期間、カカオ単体のAIサービス部門の営業損失は360億ウォンから550億ウォンへ拡大しました。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350777740",
+      "en": {
+        "title": "Celltrion Analysis: Q2 Operating Profit of KRW 430 Billion and KRW 5.3 Trillion Full-Year Revenue Target",
+        "summary": "Celltrion merits attention now because preliminary Q2 2026 results showed increases in both revenue and operating profit, while the current share price reflects substantial growth expectations. Q2 revenue of KRW 1.3 trillion and operating profit of KRW 430 billion were both record highs for a Q2. Whether the company achieves its stated full-year revenue of KRW 5.3 trillion and operating profit of KRW 1.8 trillion depends on new-product sales and the cost ratio in the second half.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "セルトリオン分析：第2四半期営業利益4300億ウォンと年間売上高5.3兆ウォンを点検",
+        "summary": "セルトリオンを今見る理由は、2026年第2四半期の暫定業績で売上高と営業利益がともに増えた一方、現在の株価には相当な成長期待が織り込まれているためです。第2四半期の売上高は1兆3,000億ウォン、営業利益は4,300億ウォンで、ともに第2四半期として過去最高を記録しました。会社が示した年間売上高5兆3,000億ウォン、営業利益1兆8,000億ウォンの達成可否は、下半期の新製品販売と原価率にかかっています。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350737176",
+      "en": {
+        "title": "Kia Analysis: Q1 Revenue of KRW 29.5 Trillion and What to Check in the July 24 Results",
+        "summary": "Kia merits attention now because unit sales and revenue increased while profit declined under the burden of tariffs and selling expenses. Q1 2026 revenue reached a quarterly record of KRW 29.5019 trillion. In contrast, operating profit fell 26.7% year over year to KRW 2.2051 trillion. June sales and cumulative first-half sales returned to growth, so the July 24 Q2 results need to show whether higher sales translated into recovered profitability.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "起亜分析：第1四半期売上高29.5兆ウォンと7月24日の決算確認点",
+        "summary": "起亜を今見る理由は、販売台数と売上高が増えた一方、利益は関税と販売費の負担で減少したためです。2026年第1四半期の売上高は四半期過去最大の29兆5,019億ウォンを記録しました。一方、営業利益は2兆2,051億ウォンで、前年同期比26.7%減少しました。6月販売と上半期累計販売は再び増えたため、7月24日の第2四半期決算で販売増が収益性回復につながったかを確認する必要があります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350709480",
+      "en": {
+        "title": "Shinhan Financial Group Analysis: Q1 Net Income of KRW 1.62 Trillion and Shareholder Returns of 50%+",
+        "summary": "Shinhan Financial Group merits attention now because profit growth and expanded shareholder returns are progressing together while the share price has moved close to its 52-week high. Q1 2026 net income increased to KRW 1.6226 trillion, and the company set a total shareholder-return ratio of at least 50% as its new benchmark. With expectations higher, the sustainability of non-interest income, credit costs and capital ratios need to be considered together to judge the current valuation against earnings.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "新韓金融持株分析：第1四半期純利益1.62兆ウォンと株主還元50%以上",
+        "summary": "新韓金融持株を今見る理由は、利益成長と株主還元拡大が同時に進む中、株価が52週高値に近づいたためです。2026年第1四半期の純利益は1兆6,226億ウォンへ増え、会社は総株主還元率50%以上を新たな基準として示しました。期待が高まった分、非利息利益の持続性、信用コスト、資本比率をあわせて確認してこそ、現在の株価が業績に対してどの水準かを判断できます。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350672663",
+      "en": {
+        "title": "LG Energy Solution Analysis: Q2 Operating Profit of KRW 113.3 Billion and KRW 241 Billion Tax Credit",
+        "summary": "LG Energy Solution merits attention now because operating profit returned to positive territory in Q2 2026, but a loss remains when U.S. production tax credits are excluded. During a weak period for electric-vehicle battery demand, energy-storage systems, or ESS, and 46-series cylindrical batteries are growing into new growth pillars. Separating the reported profit turnaround from recovery in the underlying business makes the nature of current results clearer. The reference date is July 19, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LGエナジーソリューション分析：第2四半期営業利益1133億ウォンと税額控除2410億ウォン",
+        "summary": "LGエナジーソリューションを今見る理由は、2026年第2四半期に営業利益が黒字へ転換した一方、米国の生産税額控除を除けば赤字が残るためです。電気自動車用バッテリー需要が弱い局面で、エネルギー貯蔵システム（ESS）と46シリーズ円筒形バッテリーが新たな成長軸として拡大しています。数字上の黒字転換と本業の収益性回復を分けて見ると、現在の業績の性格が明確になります。基準日は2026年7月19日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350629561",
+      "en": {
+        "title": "Samsung SDI Analysis: Q1 Operating Loss of KRW 155.6 Billion and July 30 Earnings",
+        "summary": "Samsung SDI merits attention now because losses caused by weak electric-vehicle battery demand are narrowing while demand for energy-storage systems, or ESS, and power supplies for AI data centers is emerging as a new recovery driver. The company operates both a battery business producing prismatic and cylindrical cells and an electronic-materials business making semiconductor and display materials.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンSDI分析：第1四半期営業損失1556億ウォンと7月30日の決算",
+        "summary": "サムスンSDIを今見る理由は、電気自動車用バッテリー不振による赤字が縮小する中、エネルギー貯蔵システム（ESS）とAIデータセンター向け電源需要が新たな回復軸として浮上しているためです。会社は角形・円筒形セルを生産するバッテリー事業と、半導体・ディスプレイ素材を製造する電子材料事業をともに運営しています。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350457009",
+      "en": {
+        "title": "KB Financial Group Analysis: Q1 Net Income of KRW 1.89 Trillion and First-Half Results on July 23",
+        "summary": "KB Financial Group merits attention now because bank-led interest income remains stable while fee income at securities and asset-management businesses is growing quickly. As a financial group centered on KB Kookmin Bank with securities, non-life insurance, cards and asset management among its businesses, overall results are affected not only by interest rates but also by capital-market trading and insurance profit. The reference date is July 18, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "KB金融分析：第1四半期純利益1.89兆ウォンと7月23日の上半期決算",
+        "summary": "KB金融を今見る理由は、銀行中心の利息利益が安定して維持される中、証券と資産運用の手数料利益が急速に増えているためです。KB国民銀行を中心に証券、損害保険、カード、資産運用などを傘下に置く金融グループであるため、金利だけでなく資本市場取引と保険損益も全体業績に影響します。基準日は2026年7月18日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350387402",
+      "en": {
+        "title": "Hanwha Aerospace Analysis: KRW 38.2 Trillion Order Backlog and KRW 7.14 Trillion Net Debt",
+        "summary": "Hanwha Aerospace merits attention now because the composition of consolidated results and the financial burden are changing as the order backlog grows. Q1 2026 revenue and operating profit increased year over year, but operating profit in land defense declined. The inclusion of Hanwha Ocean and a recovery in aerospace drove the increase in overall profit. The reference date is July 18, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ハンファエアロスペース分析：受注残高38.2兆ウォンと純借入金7.14兆ウォンを点検",
+        "summary": "ハンファエアロスペースを今見る理由は、受注残高が厚くなる中で連結業績の構成と財務負担が変化しているためです。2026年第1四半期の売上高と営業利益は前年同期より増えましたが、地上防衛の営業利益は減少しました。ハンファオーシャンの連結効果と航空宇宙部門の回復が全体利益の増加をけん引しました。基準日は2026年7月18日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350303979",
+      "en": {
+        "title": "Samsung Biologics Analysis: Q1 Operating Profit of KRW 580.8 Billion and Variables to Watch on July 23",
+        "summary": "Samsung Biologics merits attention now because earnings growth and production-site expansion are progressing together, while its high market valuation also needs to be considered. Q1 2026 revenue and operating profit grew at double-digit rates, and the acquisition of the Rockville plant in the United States was completed. On the other hand, the current share price may already reflect a substantial portion of expectations for higher utilization at Plant 5 and performance from overseas sites. The reference date is July 18, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンバイオロジクス分析：第1四半期営業利益5808億ウォンと7月23日の確認変数",
+        "summary": "サムスンバイオロジクスを今見る理由は、業績成長と生産拠点拡大が同時に進む中、高い市場評価もあわせて確認する必要があるためです。2026年第1四半期の売上高と営業利益は2桁成長し、米国ロックビル工場の買収も完了しました。一方、現在の株価には第5工場の稼働率上昇と海外拠点の成果が相当部分織り込まれている可能性があります。基準日は2026年7月18日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350270388",
+      "en": {
+        "title": "LG Electronics Analysis: Q1 Operating Profit of KRW 1.67 Trillion and Variables to Watch on July 30",
+        "summary": "LG Electronics merits a closer look because profit recovery and a shift in the business portfolio appeared at the same time. Q1 2026 operating profit rose 32.9% year over year, while the combined quarterly revenue of home appliances and vehicle components exceeded KRW 10 trillion for the first time. U.S. tariffs, raw-material prices, TV demand and the burden of investment in new businesses remain. The reference date is July 18, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LG電子分析：第1四半期営業利益1.67兆ウォンと7月30日の確認変数",
+        "summary": "今回LG電子を見る理由は、利益回復と事業ポートフォリオの変化が同時に表れたためです。2026年第1四半期の営業利益は前年同期比32.9%増え、生活家電と車載事業の四半期売上高合計は初めて10兆ウォンを超えました。米国の関税、原材料価格、TV需要、新事業への投資負担はなお残っています。基準日は2026年7月18日です。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350236818",
+      "en": {
+        "title": "NAVER Analysis: Q1 Revenue of KRW 3.24 Trillion and a Lower Margin Amid AI Investment",
+        "summary": "NAVER merits attention now because revenue growth and profitability pressure have increased at the same time. Q1 2026 revenue rose 16.3% year over year, but operating expenses grew faster, lowering the operating margin to 16.7%. AI integration in search and commerce, C2C expansion and AI-infrastructure investment are moving together within the same set of results.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "NAVER分析：第1四半期売上高3.24兆ウォンとAI投資で低下した利益率",
+        "summary": "NAVERを今見る理由は、売上成長と収益性への負担が同時に高まったためです。2026年第1四半期の売上高は前年同期比16.3%増えましたが、営業費用がさらに速く増加し、営業利益率は16.7%へ低下しました。検索とコマースへのAI導入、C2C拡大、AIインフラ投資が1つの業績表の中で同時に動いています。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224350053955",
+      "en": {
+        "title": "Hyundai Motor Analysis: Record Q1 Revenue and Key Variables for the July 23 Earnings Release",
+        "summary": "Hyundai Motor merits attention now because revenue growth and profit moderation appeared in the same set of results. Q1 2026 revenue set a record for a Q1, but the operating margin declined under the impact of U.S. tariffs. Higher hybrid-vehicle sales provided resilience, while the July 23 Q2 earnings release will be the next basis for assessment.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "現代自動車分析：過去最大の第1四半期売上高と7月23日決算発表の主要変数",
+        "summary": "現代自動車を今見る理由は、売上成長と利益鈍化が1つの業績表に同時に表れたためです。2026年第1四半期の売上高は第1四半期として過去最高を記録しましたが、米国関税の影響で営業利益率は低下しました。ハイブリッド車の販売拡大が防御力を示す中、7月23日の第2四半期決算発表が次の判断基準となります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224349876893",
+      "en": {
+        "title": "SK hynix Analysis: KRW 52.6 Trillion Q1 Revenue and Variables to Watch After HBM4E",
+        "summary": "The most important question for SK hynix now is not whether its results are strong. Record figures were already confirmed in Q1 2026. The next questions are how long AI-memory demand can sustain the current high profitability and how much of that expectation is already reflected in the sharply higher share price.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SKハイニックス分析：第1四半期売上高52.6兆ウォンとHBM4E以降の確認変数",
+        "summary": "SKハイニックスを見る際、今最も重要な問いは業績が良いかどうかではありません。2026年第1四半期にすでに記録的な数字を確認したためです。これからはAIメモリー需要が現在の高い収益性をどれだけ長く支えられるか、そして大きく上昇した株価がその期待をどの程度織り込んでいるかをあわせて見る必要があります。…",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224349847158",
+      "en": {
+        "title": "Samsung Electronics Q2 2026 Preliminary Results: AI Memory Growth and What to Check on July 30",
+        "summary": "There are 2 reasons to examine Samsung Electronics (005930) now. The sharply improved earnings trend from Q1 2026 continued in the preliminary Q2 results, while semiconductor products for AI infrastructure, including HBM4 and enterprise SSDs, have entered actual mass production. However, the Q2 figures remain preliminary. Segment profit and cash flow need to be checked in the final results announcement on July 30. Data reference date: July 17, 2026.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン電子2026年第2四半期暫定業績を点検：AIメモリー成長と7月30日の確認点",
+        "summary": "サムスン電子（005930）を今見る理由は2つあります。2026年第1四半期に大きく改善した業績の流れが第2四半期の暫定業績でも続き、HBM4や企業向けSSDなどAIインフラ用半導体製品は実際の量産段階に入りました。ただし第2四半期の数字はまだ暫定値です。事業部門別利益とキャッシュフローは7月30日の確定決算発表で確認する必要があります。データ基準日：2026年7月17日。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

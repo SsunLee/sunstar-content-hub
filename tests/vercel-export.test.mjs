@@ -29,6 +29,7 @@ const routeCount =
   4 +
   eligiblePostDetails.length +
   3 +
+  6 +
   localizedContent.articles.length * 3;
 
 function isLocalizedLocaleReady(article, locale) {
@@ -66,6 +67,7 @@ const sitemapRouteCount =
   4 +
   eligiblePostDetails.length +
   readyHubLocales.length +
+  6 +
   readyLocalizedPages;
 
 function normalizeSiteUrl(value) {

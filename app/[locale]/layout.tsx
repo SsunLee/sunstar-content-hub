@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { LocalizedSiteHeader } from "@/components/localized-site-header";
 import { isLocale } from "@/lib/localized-content";
 
 type LocalizedLayoutProps = {
@@ -12,7 +13,10 @@ const shellCopy = {
     skip: "본문 바로가기",
     description: "세계가 주목하는 작품과 배우를 세 언어로 연결하는 썬데스크 글로벌 에디션입니다.",
     hub: "한국어 기사",
+    entertainment: "연예 데스크",
+    stocks: "주식 데스크",
     archive: "한국어 아카이브",
+    about: "소개",
     original: "네이버 블로그",
     rights: "원문과 이미지의 권리는 각 출처에 있습니다.",
     footerLabel: "하단 메뉴",
@@ -21,7 +25,10 @@ const shellCopy = {
     skip: "Skip to content",
     description: "The SS.Desk global edition connects timely film, series, and actor stories across three languages.",
     hub: "English stories",
+    entertainment: "Entertainment",
+    stocks: "Market desk",
     archive: "Korean archive",
+    about: "About",
     original: "Naver blog",
     rights: "Original text and image rights remain with their respective owners.",
     footerLabel: "Footer",
@@ -30,7 +37,10 @@ const shellCopy = {
     skip: "本文へ移動",
     description: "世界で注目される作品と俳優の話題を3つの言語でつなぐ、SS.Deskのグローバル版です。",
     hub: "日本語の記事",
+    entertainment: "エンタメ",
+    stocks: "マーケット",
     archive: "韓国語アーカイブ",
+    about: "紹介",
     original: "Naverブログ",
     rights: "原文および画像の権利は各権利者に帰属します。",
     footerLabel: "フッターメニュー",
@@ -50,6 +60,7 @@ export default async function LocalizedLayout({
       <a className="skip-link localized-skip-link" href="#main-content">
         {copy.skip}
       </a>
+      <LocalizedSiteHeader locale={locale} />
       {children}
       <footer className="localized-footer">
         <div className="page-shell localized-footer-grid">
@@ -61,7 +72,12 @@ export default async function LocalizedLayout({
           </div>
           <nav aria-label={copy.footerLabel}>
             <Link href={`/${locale}`}>{copy.hub}</Link>
-            <Link href="/">{copy.archive}</Link>
+            <Link href={`/${locale}/entertainment`}>
+              {copy.entertainment}
+            </Link>
+            <Link href={`/${locale}/stocks`}>{copy.stocks}</Link>
+            <Link href="/archive" hrefLang="ko">{copy.archive}</Link>
+            <Link href="/about" hrefLang="ko">{copy.about}</Link>
             <a
               href="https://blog.naver.com/tnsqo1126"
               target="_blank"

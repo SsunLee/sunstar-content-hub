@@ -41,6 +41,10 @@ const readyHubLocales = supportedLocales.filter((locale) =>
 );
 const localizedPages = [
   ...readyHubLocales.map((locale) => `${siteUrl}/${locale}`),
+  ...supportedLocales.flatMap((locale) => [
+    `${siteUrl}/${locale}/entertainment`,
+    `${siteUrl}/${locale}/stocks`,
+  ]),
   ...localizedContent.articles.flatMap((article) =>
     supportedLocales
       .filter((locale) => isLocalizedLocaleReady(article, locale, siteUrl))

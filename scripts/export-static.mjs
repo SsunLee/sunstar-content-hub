@@ -109,6 +109,10 @@ const archiveRoutes = Array.from(
   (_, index) => `/archive/page/${index + 2}`,
 );
 const localizedHubRoutes = supportedLocales.map((locale) => `/${locale}`);
+const localizedDeskRoutes = supportedLocales.flatMap((locale) => [
+  `/${locale}/entertainment`,
+  `/${locale}/stocks`,
+]);
 const localizedArticleRoutes = localizedContent.articles.flatMap((article) =>
   supportedLocales.map((locale) => {
     const slug = article.locales?.[locale]?.slug;
@@ -125,6 +129,7 @@ const routes = [
   ...archiveRoutes,
   ...(targetName === "vercel" ? postDetailRoutes : []),
   ...localizedHubRoutes,
+  ...localizedDeskRoutes,
   ...localizedArticleRoutes,
 ];
 
@@ -167,6 +172,7 @@ const sitemapRoutes = [
   ...archiveRoutes,
   ...(targetName === "vercel" ? postDetailRoutes : []),
   ...(targetName === "vercel" ? readyLocalizedHubRoutes : []),
+  ...(targetName === "vercel" ? localizedDeskRoutes : []),
   ...(targetName === "vercel" ? readyLocalizedArticleRoutes : []),
 ];
 const sitemapLastmods = new Map(
@@ -189,6 +195,17 @@ if (readyHubLocales.length >= 2) {
       ...hubAlternates,
       "x-default": `/${defaultHubLocale}`,
     });
+  }
+}
+for (const desk of ["entertainment", "stocks"]) {
+  const alternates = {
+    ...Object.fromEntries(
+      supportedLocales.map((locale) => [locale, `/${locale}/${desk}`]),
+    ),
+    "x-default": `/ko/${desk}`,
+  };
+  for (const locale of supportedLocales) {
+    localizedAlternates.set(`/${locale}/${desk}`, alternates);
   }
 }
 for (const article of localizedContent.articles) {
