@@ -1,6 +1,11 @@
 import { readFile } from "node:fs/promises";
 import { setTimeout as delay } from "node:timers/promises";
 
+import {
+  getEligiblePostDetails,
+  postDetailPath,
+} from "./post-detail-eligibility.mjs";
+
 const expected = JSON.parse(
   await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
 );
@@ -12,6 +17,11 @@ const intervalMs = Number(process.env.VERIFY_INTERVAL_MS || 10_000);
 const expectedLatest = expected.posts[0]?.logNo || "";
 const expectedLatestUrl = expected.posts[0]?.url || "";
 const expectedLatestCategory = expected.posts[0]?.category || "";
+const expectedLatestDetail = getEligiblePostDetails(expected.posts)[0];
+
+if (!expectedLatestDetail) {
+  throw new Error("No eligible post detail is available for production verification.");
+}
 
 async function fetchFresh(pathname) {
   const separator = pathname.includes("?") ? "&" : "?";
@@ -48,6 +58,19 @@ async function verifyRenderedPages() {
       `Latest post ${expectedLatest} is missing from rendered pages: ${missing.join(", ")}.`,
     );
   }
+
+  const detailPath = postDetailPath(expectedLatestDetail);
+  const detailUrl = `${siteUrl}${detailPath}`;
+  const detailHtml = await (await fetchFresh(detailPath)).text();
+  if (
+    !detailHtml.includes(`rel="canonical" href="${detailUrl}"`) ||
+    !detailHtml.includes(expectedLatestDetail.url) ||
+    !detailHtml.includes('"@type":"BlogPosting"')
+  ) {
+    throw new Error(
+      `Latest eligible detail ${expectedLatestDetail.logNo} is incomplete at ${detailPath}.`,
+    );
+  }
 }
 
 for (let attempt = 1; attempt <= attempts; attempt += 1) {
@@ -70,6 +93,8 @@ for (let attempt = 1; attempt <= attempts; attempt += 1) {
               generatedAt: deployed.generatedAt,
               total: deployed.total,
               latestLogNo: deployedLatest,
+              latestDetailLogNo: expectedLatestDetail.logNo,
+              latestDetailPath: postDetailPath(expectedLatestDetail),
               attempt,
             },
             null,

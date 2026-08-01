@@ -85,6 +85,11 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
     html,
     /_vercel\/insights\/script\.js|\/site-analytics\.js|window\.va\('beforeSend'/,
   );
+  assert.doesNotMatch(
+    html,
+    /href="\/sunstar-content-hub\/news\/\d{12}"/,
+  );
+  assert.match(html, /href="https:\/\/ssundesk\.com\/news\/\d{12}"/);
 });
 
 test("legacy sitemap keeps old URLs discoverable during migration", async () => {

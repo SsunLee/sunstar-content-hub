@@ -1,3 +1,7 @@
+import {
+  isPostDetailIndexable,
+  postDetailPath,
+} from "@/lib/post-detail";
 import type { Post } from "@/lib/posts";
 import { getDisplayDate } from "@/lib/posts";
 
@@ -15,11 +19,36 @@ function articleAnalytics(post: Post) {
   };
 }
 
+function detailAnalytics(post: Post) {
+  return {
+    "data-analytics-event": "article_detail_opened",
+    "data-analytics-article-id": post.logNo,
+    "data-analytics-category": post.category,
+  };
+}
+
+function storyLink(post: Post) {
+  if (isPostDetailIndexable(post)) {
+    return {
+      href: postDetailPath(post),
+      analytics: detailAnalytics(post),
+      isExternal: false,
+    };
+  }
+  return {
+    href: post.url,
+    analytics: articleAnalytics(post),
+    isExternal: true,
+  };
+}
+
 export function PostCard({
   post,
   variant = "story",
   number,
 }: PostCardProps) {
+  const primaryLink = storyLink(post);
+
   if (variant === "row") {
     return (
       <article className={`post-row post-row-${post.category}`}>
@@ -30,17 +59,17 @@ export function PostCard({
           </p>
           <h3>
             <a
-              href={post.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              {...articleAnalytics(post)}
+              href={primaryLink.href}
+              target={primaryLink.isExternal ? "_blank" : undefined}
+              rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
+              {...primaryLink.analytics}
             >
               {post.title}
             </a>
           </h3>
         </div>
         <span className="external-arrow" aria-hidden="true">
-          ↗
+          {primaryLink.isExternal ? "↗" : "→"}
         </span>
       </article>
     );
@@ -51,12 +80,12 @@ export function PostCard({
       {post.image ? (
         <a
           className="story-image"
-          href={post.url}
-          target="_blank"
-          rel="noopener noreferrer"
+          href={primaryLink.href}
+          target={primaryLink.isExternal ? "_blank" : undefined}
+          rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
           tabIndex={-1}
           aria-hidden="true"
-          {...articleAnalytics(post)}
+          {...primaryLink.analytics}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -77,10 +106,10 @@ export function PostCard({
         </p>
         <h3>
           <a
-            href={post.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            {...articleAnalytics(post)}
+            href={primaryLink.href}
+            target={primaryLink.isExternal ? "_blank" : undefined}
+            rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
+            {...primaryLink.analytics}
           >
             {post.title}
           </a>

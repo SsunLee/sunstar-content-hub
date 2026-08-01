@@ -21,7 +21,8 @@
     "test:static": "npm run export:static && node --test tests/static-export.test.mjs",
     "test:vercel": "npm run export:vercel && node --test tests/vercel-export.test.mjs tests/multilingual-export.test.mjs tests/site-analytics.test.mjs",
     "test:translations": "node --test tests/translation-manifests.test.mjs",
-    "test:release": "npm run test:translations && npm run test:vercel && npm run lint",
+    "test:sync": "node --test tests/naver-detail-extractor.test.mjs",
+    "test:release": "npm run test:translations && npm run test:sync && npm run test:vercel && npm run lint",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern docs --ignore-pattern vercel-dist",
     "db:generate": "drizzle-kit generate"
   },

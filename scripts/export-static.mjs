@@ -3,6 +3,12 @@ import { dirname, resolve } from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
+import {
+  getEligiblePostDetails,
+  postDetailLastmod,
+  postDetailPath,
+} from "./post-detail-eligibility.mjs";
+
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const targetName = process.argv[2] ?? "github";
 const primarySiteUrl = "https://ssundesk.com";
@@ -95,6 +101,8 @@ if (!Array.isArray(localizedContent.articles)) {
   throw new Error("Localized content must contain an articles array.");
 }
 const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
+const eligiblePostDetails = getEligiblePostDetails(content.posts);
+const postDetailRoutes = eligiblePostDetails.map(postDetailPath);
 const primaryRoutes = ["/", "/entertainment", "/stocks", "/archive", "/about"];
 const archiveRoutes = Array.from(
   { length: Math.max(0, archivePageCount - 1) },
@@ -115,6 +123,7 @@ const localizedArticleRoutes = localizedContent.articles.flatMap((article) =>
 const routes = [
   ...primaryRoutes,
   ...archiveRoutes,
+  ...(targetName === "vercel" ? postDetailRoutes : []),
   ...localizedHubRoutes,
   ...localizedArticleRoutes,
 ];
@@ -156,9 +165,16 @@ const readyLocalizedArticleRoutes = localizedContent.articles.flatMap(
 const sitemapRoutes = [
   ...primaryRoutes,
   ...archiveRoutes,
+  ...(targetName === "vercel" ? postDetailRoutes : []),
   ...(targetName === "vercel" ? readyLocalizedHubRoutes : []),
   ...(targetName === "vercel" ? readyLocalizedArticleRoutes : []),
 ];
+const sitemapLastmods = new Map(
+  eligiblePostDetails.map((post) => [
+    postDetailPath(post),
+    postDetailLastmod(post),
+  ]),
+);
 
 const localizedAlternates = new Map();
 const defaultHubLocale = readyHubLocales.includes("ko")
@@ -260,6 +276,10 @@ function toStaticHtml(html, route) {
   }
 
   if (redirectSiteUrl) {
+    result = result.replaceAll(
+      `href="${basePath}/news/`,
+      `href="${redirectSiteUrl}/news/`,
+    );
     const destination = routeUrl(redirectSiteUrl, route);
     const redirectScript = [
       "<script>",
@@ -315,7 +335,15 @@ function escapeXml(value) {
 const sitemapUrls = sitemapRoutes.map((route) => {
   const loc = routeUrl(sitemapSiteUrl, route);
   const alternates = localizedAlternates.get(route);
-  if (!alternates) return `  <url><loc>${escapeXml(loc)}</loc></url>`;
+  const lastmod = sitemapLastmods.get(route);
+  if (!alternates) {
+    return [
+      "  <url>",
+      `    <loc>${escapeXml(loc)}</loc>`,
+      ...(lastmod ? [`    <lastmod>${escapeXml(lastmod)}</lastmod>`] : []),
+      "  </url>",
+    ].join("\n");
+  }
   const links = Object.entries(alternates).map(
     ([locale, alternateRoute]) =>
       `    <xhtml:link rel="alternate" hreflang="${locale}" href="${escapeXml(routeUrl(sitemapSiteUrl, alternateRoute))}" />`,

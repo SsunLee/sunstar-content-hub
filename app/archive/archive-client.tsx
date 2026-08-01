@@ -1,5 +1,11 @@
 import Link from "next/link";
 
+import {
+  isPostDetailIndexable,
+  postDetailPath,
+} from "@/lib/post-detail";
+import type { Post } from "@/lib/posts";
+
 export const POSTS_PER_PAGE = 50;
 
 export type ArchivePost = {
@@ -18,6 +24,13 @@ export type ArchivePost = {
   work?: string;
   role?: string;
   stockCode?: string;
+  sourceCategoryNo: string;
+  searchAllowed: boolean;
+  verificationLevel: string;
+  detailSections?: Array<{ heading: string; body: string }>;
+  detailUpdatedAt?: string;
+  detailExtractionVersion?: number;
+  detailContentHash?: string;
 };
 
 export type ArchiveData = {
@@ -160,6 +173,10 @@ function cleanNaverUrl(post: ArchivePost) {
     : post.url;
 }
 
+function archiveDetailPath(post: ArchivePost) {
+  return isPostDetailIndexable(post as Post) ? postDetailPath(post.logNo) : null;
+}
+
 function categoryTone(category: string) {
   if (category === "entertainment") {
     return "border-[#6750a4]/30 bg-[#6750a4]/10 text-[#50398f]";
@@ -297,8 +314,10 @@ export default function ArchiveClient({
 
         {posts.length > 0 ? (
           <ol start={startIndex + 1}>
-            {posts.map((post, index) => (
-              <li
+            {posts.map((post, index) => {
+              const detailPath = archiveDetailPath(post);
+              return (
+                <li
                 key={post.id}
                 className="group grid gap-3 border-b border-black/15 py-6 transition-colors hover:bg-white/45 sm:grid-cols-[3.5rem_minmax(0,1fr)_1.5rem] sm:px-2"
               >
@@ -321,10 +340,10 @@ export default function ArchiveClient({
                   </div>
                   <h3 className="max-w-4xl text-balance font-serif text-[1.4rem] font-medium leading-snug tracking-[-0.025em] sm:text-[1.65rem]">
                     <a
-                      href={cleanNaverUrl(post)}
-                      target="_blank"
-                      rel="noopener"
-                      data-analytics-event="article_outbound_clicked"
+                      href={detailPath || cleanNaverUrl(post)}
+                      target={detailPath ? undefined : "_blank"}
+                      rel={detailPath ? undefined : "noopener noreferrer"}
+                      data-analytics-event={detailPath ? "article_detail_opened" : "article_outbound_clicked"}
                       data-analytics-article-id={post.logNo}
                       data-analytics-category={post.category}
                       className="decoration-1 underline-offset-4 outline-none group-hover:underline focus-visible:underline"
@@ -336,6 +355,19 @@ export default function ArchiveClient({
                     <p className="mt-2 line-clamp-2 max-w-3xl text-sm leading-6 text-black/60">
                       {post.summary}
                     </p>
+                  )}
+                  {detailPath && (
+                    <a
+                      href={cleanNaverUrl(post)}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      data-analytics-event="article_outbound_clicked"
+                      data-analytics-article-id={post.logNo}
+                      data-analytics-category={post.category}
+                      className="mt-3 inline-block text-xs font-semibold text-black/50 underline decoration-black/25 underline-offset-4 hover:text-black"
+                    >
+                      네이버 원문 ↗
+                    </a>
                   )}
                   {post.tags?.length > 0 && (
                     <ul aria-label="관련 키워드" className="mt-3 flex flex-wrap gap-x-3 gap-y-1 text-xs text-black/42">
@@ -349,10 +381,11 @@ export default function ArchiveClient({
                   aria-hidden="true"
                   className="hidden pt-2 text-lg text-black/30 transition group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-black sm:block"
                 >
-                  ↗
+                  {detailPath ? "→" : "↗"}
                 </span>
               </li>
-            ))}
+              );
+            })}
           </ol>
         ) : (
           <div className="border-b border-black/20 py-24 text-center">

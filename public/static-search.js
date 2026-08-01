@@ -36,6 +36,42 @@
     stocks: "주식",
     archive: "기록",
   };
+  const detailImageHosts = new Set([
+    "blogthumb.pstatic.net",
+    "phinf.pstatic.net",
+  ]);
+  const hasDetailPage = (post) => {
+    let imageHost = "";
+    try {
+      const imageUrl = new URL(post.image);
+      if (imageUrl.protocol !== "https:") return false;
+      imageHost = imageUrl.hostname;
+    } catch {
+      return false;
+    }
+    const sections = Array.isArray(post.detailSections)
+      ? post.detailSections
+      : [];
+    const visibleCharacters =
+      String(post.summary || "").trim().length +
+      sections.reduce(
+        (total, section) => total + String(section?.body || "").trim().length,
+        0,
+      );
+    return (
+      post.searchAllowed === true &&
+      ["entertainment", "stocks"].includes(post.category) &&
+      post.verificationLevel === "rss_verified" &&
+      /^\d{12}$/.test(post.logNo || "") &&
+      post.url === `https://blog.naver.com/tnsqo1126/${post.logNo}` &&
+      String(post.summary || "").trim().length >= 120 &&
+      Array.isArray(post.tags) &&
+      post.tags.length >= 3 &&
+      sections.length >= 3 &&
+      visibleCharacters >= 500 &&
+      detailImageHosts.has(imageHost)
+    );
+  };
 
   fetch(`${base}/posts.json`)
     .then((response) => {
@@ -90,10 +126,17 @@
 
         const title = document.createElement("h3");
         const link = document.createElement("a");
-        link.href = `https://blog.naver.com/tnsqo1126/${post.logNo}`;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.dataset.analyticsEvent = "article_outbound_clicked";
+        const detailPageAvailable = hasDetailPage(post);
+        link.href = detailPageAvailable
+          ? `https://ssundesk.com/news/${post.logNo}`
+          : `https://blog.naver.com/tnsqo1126/${post.logNo}`;
+        if (!detailPageAvailable) {
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+        }
+        link.dataset.analyticsEvent = detailPageAvailable
+          ? "article_detail_opened"
+          : "article_outbound_clicked";
         link.dataset.analyticsArticleId = post.logNo;
         link.dataset.analyticsCategory = post.category;
         link.textContent = post.title;
@@ -105,6 +148,19 @@
           summary.className = "static-result-summary";
           summary.textContent = post.summary;
           article.append(summary);
+        }
+
+        if (detailPageAvailable) {
+          const original = document.createElement("a");
+          original.href = `https://blog.naver.com/tnsqo1126/${post.logNo}`;
+          original.target = "_blank";
+          original.rel = "noopener noreferrer";
+          original.dataset.analyticsEvent = "article_outbound_clicked";
+          original.dataset.analyticsArticleId = post.logNo;
+          original.dataset.analyticsCategory = post.category;
+          original.className = "static-result-original";
+          original.textContent = "네이버 원문 ↗";
+          article.append(original);
         }
 
         item.append(number, article);

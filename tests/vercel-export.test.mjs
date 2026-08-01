@@ -1,8 +1,14 @@
 import assert from "node:assert/strict";
+import { execFileSync } from "node:child_process";
 import { readFile, readdir } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import test from "node:test";
+
+import {
+  getEligiblePostDetails,
+  postDetailPath,
+} from "../scripts/post-detail-eligibility.mjs";
 
 const outputRoot = new URL("../vercel-dist/", import.meta.url);
 const outputPath = fileURLToPath(outputRoot);
@@ -16,9 +22,14 @@ const localizedContent = JSON.parse(
   ),
 );
 const totalPosts = content.posts.length;
+const eligiblePostDetails = getEligiblePostDetails(content.posts);
 const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
 const routeCount =
-  archivePageCount + 4 + 3 + localizedContent.articles.length * 3;
+  archivePageCount +
+  4 +
+  eligiblePostDetails.length +
+  3 +
+  localizedContent.articles.length * 3;
 
 function isLocalizedLocaleReady(article, locale) {
   const localized = article.locales?.[locale];
@@ -51,7 +62,11 @@ const readyLocalizedPages = localizedContent.articles.reduce(
   0,
 );
 const sitemapRouteCount =
-  archivePageCount + 4 + readyHubLocales.length + readyLocalizedPages;
+  archivePageCount +
+  4 +
+  eligiblePostDetails.length +
+  readyHubLocales.length +
+  readyLocalizedPages;
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -69,6 +84,15 @@ function expectedSiteUrl() {
     return normalizeSiteUrl(process.env.VERCEL_PROJECT_PRODUCTION_URL);
   }
   return "https://ssundesk.com";
+}
+
+function escapeHtmlText(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#x27;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
 }
 
 async function findIndexFiles(directory) {
@@ -105,6 +129,12 @@ test("Vercel export exposes all posts from root-relative pages", async () => {
   );
   assert.match(html, /(href|src)="\/assets\//);
   assert.match(html, /data-analytics-event="article_outbound_clicked"/);
+  for (const post of eligiblePostDetails) {
+    assert.ok(
+      html.includes(`href="/news/${post.logNo}"`),
+      `eligible detail ${post.logNo} has no internal inbound link`,
+    );
+  }
   assert.doesNotMatch(html, /http-equiv="refresh"|window\.location\.replace/);
 });
 
@@ -206,4 +236,81 @@ test("Vercel search-engine files reference only the primary custom domain", asyn
   assert.match(sitemap, new RegExp(`<loc>${siteUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/</loc>`));
   assert.equal(robots, `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);
   assert.equal(indexNowKey.trim(), "8fd6498b0d274934ad567cecd1fae369");
+});
+
+test("eligible Naver posts have indexable detail pages and truthful sitemap dates", async () => {
+  assert.ok(
+    eligiblePostDetails.some((post) => post.logNo === "224364909378"),
+    "the Toy Story 5 post that prompted the detail-page rollout must remain indexable",
+  );
+  const siteUrl = expectedSiteUrl();
+  const sitemap = await readFile(new URL("sitemap.xml", outputRoot), "utf8");
+
+  for (const post of eligiblePostDetails) {
+    const route = postDetailPath(post);
+    const canonical = `${siteUrl}${route}`;
+    const html = await readFile(
+      join(outputPath, "news", post.logNo, "index.html"),
+      "utf8",
+    );
+    assert.ok(html.includes(`rel="canonical" href="${canonical}"`));
+    assert.ok(html.includes(post.url));
+    assert.ok(html.includes('"@type":"BlogPosting"'));
+    assert.match(html, /<meta name="robots" content="index, follow"/i);
+    assert.ok(html.includes(`<p>${escapeHtmlText(post.summary.trim())}</p>`));
+    const publishedTimestamp = Date.parse(post.publishedAt);
+    const detailTimestamp = Date.parse(post.detailUpdatedAt || "");
+    const expectedLastmod = new Date(
+      Number.isFinite(detailTimestamp)
+        ? Math.max(publishedTimestamp, detailTimestamp)
+        : publishedTimestamp,
+    ).toISOString();
+    assert.ok(html.includes(`"dateModified":"${expectedLastmod}"`));
+    for (const section of post.detailSections) {
+      assert.ok(html.includes(`<h2>${escapeHtmlText(section.heading.trim())}</h2>`));
+      for (const paragraph of section.body.split(/\n{2,}/u)) {
+        assert.ok(html.includes(`<p>${escapeHtmlText(paragraph.trim())}</p>`));
+      }
+    }
+
+    const sitemapEntry = sitemap.match(
+      new RegExp(
+        `<url>\\s*<loc>${canonical.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\$&")}</loc>\\s*<lastmod>([^<]+)</lastmod>\\s*</url>`,
+      ),
+    );
+    assert.ok(sitemapEntry, `sitemap entry is missing for ${post.logNo}`);
+    assert.equal(sitemapEntry[1], expectedLastmod);
+    assert.equal(new Date(sitemapEntry[1]).toISOString(), sitemapEntry[1]);
+  }
+});
+
+test("IndexNow submits only same-host eligible detail URLs", () => {
+  const output = execFileSync(
+    process.execPath,
+    [fileURLToPath(new URL("../scripts/submit-indexnow.mjs", import.meta.url))],
+    {
+      encoding: "utf8",
+      env: { ...process.env, INDEXNOW_DRY_RUN: "1" },
+    },
+  );
+  const result = JSON.parse(output);
+  const siteUrl = expectedSiteUrl();
+  const expectedHost = new URL(siteUrl).host;
+  const submitted = new Set(result.payload.urlList);
+  const eligibleLogNos = new Set(
+    eligiblePostDetails.map((post) => post.logNo),
+  );
+
+  assert.equal(submitted.size, result.payload.urlList.length);
+  assert.ok(
+    result.payload.urlList.every((url) => new URL(url).host === expectedHost),
+  );
+  for (const post of content.posts) {
+    assert.equal(
+      submitted.has(`${siteUrl}/news/${post.logNo}`),
+      eligibleLogNos.has(post.logNo),
+      `unexpected IndexNow eligibility for ${post.logNo}`,
+    );
+    assert.equal(submitted.has(post.url), false);
+  }
 });

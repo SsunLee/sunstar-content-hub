@@ -6,9 +6,10 @@ import {
   rename,
   writeFile,
 } from "node:fs/promises";
+import { createHash } from "node:crypto";
 import path from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 
 const BLOG_ID = process.env.NAVER_BLOG_ID || "tnsqo1126";
 const BLOG_BASE = `https://blog.naver.com/${BLOG_ID}`;
@@ -18,6 +19,16 @@ const canonicalRoot =
   path.resolve(projectRoot, "..", "articles");
 const dataPath = path.join(projectRoot, "data", "posts.json");
 const publicPath = path.join(projectRoot, "public", "posts.json");
+const syncStartedAt = new Date().toISOString();
+const INDEXABLE_IMAGE_HOSTS = new Set([
+  "blogthumb.pstatic.net",
+  "phinf.pstatic.net",
+]);
+const DETAIL_REFRESH_COUNT = 5;
+const DETAIL_FETCH_CONCURRENCY = 4;
+const DETAIL_EXTRACTION_VERSION = 3;
+const MIN_DETAIL_SECTIONS = 3;
+const MIN_DETAIL_VISIBLE_CHARACTERS = 500;
 
 const categoryLabels = {
   entertainment: "연예",
@@ -29,13 +40,284 @@ const stockTitleKeyword =
 
 function decodeEntities(value = "") {
   return value
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) =>
+      String.fromCodePoint(Number.parseInt(code, 16)),
+    )
     .replaceAll("&quot;", '"')
     .replaceAll("&#39;", "'")
     .replaceAll("&apos;", "'")
+    .replaceAll("&nbsp;", " ")
+    .replaceAll("&middot;", "·")
+    .replaceAll("&ndash;", "–")
+    .replaceAll("&mdash;", "—")
+    .replaceAll("&lsquo;", "‘")
+    .replaceAll("&rsquo;", "’")
+    .replaceAll("&ldquo;", "“")
+    .replaceAll("&rdquo;", "”")
     .replaceAll("&amp;", "&")
     .replaceAll("&lt;", "<")
     .replaceAll("&gt;", ">")
     .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)));
+}
+
+function normalizeComparableText(value = "") {
+  return normalizeTitle(value)
+    .replace(/[\u200b-\u200d\ufeff]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function stripPostViewMarkup(value = "") {
+  return normalizeComparableText(
+    decodeEntities(
+      value
+        .replace(/<br\s*\/?>/gi, " ")
+        .replace(/<!--[^]*?-->/g, "")
+        .replace(/<[^>]+>/g, ""),
+    ),
+  );
+}
+
+function isDetailNoise(value = "") {
+  const text = normalizeComparableText(value);
+  return (
+    !text ||
+    /^(?:사진|이미지|영상)\s*출처\s*:/i.test(text) ||
+    /^(?:출처|자료)\s*:/i.test(text) ||
+    /^(?:차트 원자료|누계 실적|시장 데이터|주주환원 공시)\s*:/i.test(text) ||
+    /^(?:시세 확인|시장 비교|(?:\d{1,2}시대\s*)?거래량 확인)\s*:/i.test(text) ||
+    /^[+\-−]?\s*\d[\d,.]*(?:\s*(?:조|억|만|천))?\s*(?:원|주|명|건|%|%p|배)?\s*[▲▼△▽]?$/i.test(
+      text,
+    ) ||
+    /[▲▼△▽]/.test(text) ||
+    /^https?:\/\//i.test(text) ||
+    /^(?:#\S+\s*)+$/.test(text) ||
+    /^(?:이 글은|본 포스팅은).*?(?:광고|협찬|제공)/i.test(text)
+  );
+}
+
+function readMetaContent(html, attributeName, attributeValue) {
+  const attributePattern = /([:\w-]+)\s*=\s*(["'])([^"']*)\2/g;
+  for (const tag of html.match(/<meta\b[^>]*>/gi) || []) {
+    const attributes = Object.fromEntries(
+      Array.from(tag.matchAll(attributePattern), (match) => [
+        match[1].toLocaleLowerCase("en-US"),
+        decodeEntities(match[3]),
+      ]),
+    );
+    if (
+      attributes[attributeName.toLocaleLowerCase("en-US")] === attributeValue
+    ) {
+      return attributes.content || "";
+    }
+  }
+  return "";
+}
+
+function validatePostViewIdentity(html, post) {
+  const ogUrl = readMetaContent(html, "property", "og:url");
+  const ogTitle = readMetaContent(html, "property", "og:title");
+  const robots = readMetaContent(html, "name", "robots");
+  if (ogUrl !== post.url) {
+    throw new Error(
+      `PostView URL mismatch for ${post.logNo}: ${ogUrl || "missing og:url"}.`,
+    );
+  }
+  if (normalizeComparableText(ogTitle) !== normalizeComparableText(post.title)) {
+    throw new Error(`PostView title mismatch for ${post.logNo}.`);
+  }
+  if (/\bnoindex\b/i.test(robots)) {
+    throw new Error(`PostView is noindex for ${post.logNo}.`);
+  }
+}
+
+function isLikelySectionHeading(value = "") {
+  const text = normalizeComparableText(value);
+  return (
+    text.length >= 2 &&
+    text.length <= 55 &&
+    !isDetailNoise(text) &&
+    !/[.!?。！？…]$/.test(text) &&
+    !/(?:습니다|했습니다|됩니다|입니다|했어요|해요|이다|였다)$/.test(text)
+  );
+}
+
+function isSameExcerpt(left = "", right = "") {
+  const normalizedLeft = normalizeComparableText(left);
+  const normalizedRight = normalizeComparableText(right);
+  if (!normalizedLeft || !normalizedRight) return false;
+  if (normalizedLeft === normalizedRight) return true;
+  const sampleLength = Math.min(90, normalizedLeft.length, normalizedRight.length);
+  if (sampleLength < 45) return false;
+  return (
+    normalizedLeft.slice(0, sampleLength) ===
+    normalizedRight.slice(0, sampleLength)
+  );
+}
+
+function clipDetailBody(value = "", max = 320) {
+  const text = normalizeComparableText(value);
+  if (text.length <= max) return text;
+
+  const clipped = text.slice(0, max);
+  const sentenceEnd = Math.max(
+    clipped.lastIndexOf("."),
+    clipped.lastIndexOf("다."),
+    clipped.lastIndexOf("요."),
+  );
+  if (sentenceEnd >= max * 0.55) {
+    return clipped.slice(0, sentenceEnd + 1).trim();
+  }
+  return `${clipped.trim()}…`;
+}
+
+function extractDetailSections(html, post) {
+  const paragraphs = Array.from(
+    html.matchAll(
+      /<p\b[^>]*class=["'][^"']*\bse-text-paragraph\b[^"']*["'][^>]*>([^]*?)<\/p>/gi,
+    ),
+    (match) => stripPostViewMarkup(match[1]),
+  ).filter((paragraph) => !isDetailNoise(paragraph));
+
+  const content = paragraphs.filter(
+    (paragraph) =>
+      !isSameExcerpt(paragraph, post.title) &&
+      !isSameExcerpt(paragraph, post.summary),
+  );
+  const sections = [];
+  const seenHeadings = new Set();
+  const seenBodies = new Set();
+
+  for (let index = 0; index < content.length - 1; index += 1) {
+    const heading = content[index];
+    const body = content[index + 1];
+    if (!isLikelySectionHeading(heading) || body.length < 80) continue;
+
+    const clippedBody = clipDetailBody(body);
+    const headingKey = heading.toLocaleLowerCase("ko-KR");
+    const bodyKey = clippedBody.slice(0, 120).toLocaleLowerCase("ko-KR");
+    if (seenHeadings.has(headingKey) || seenBodies.has(bodyKey)) continue;
+
+    seenHeadings.add(headingKey);
+    seenBodies.add(bodyKey);
+    sections.push({ heading, body: clippedBody });
+    index += 1;
+  }
+
+  return sections.slice(0, 6);
+}
+
+function hasStrongDetailSections(post, sections = post.detailSections) {
+  if (!Array.isArray(sections) || sections.length < MIN_DETAIL_SECTIONS) {
+    return false;
+  }
+  const visibleCharacters =
+    normalizeComparableText(post.summary).length +
+    sections.reduce(
+      (total, section) =>
+        total + normalizeComparableText(section?.body || "").length,
+      0,
+    );
+  return visibleCharacters >= MIN_DETAIL_VISIBLE_CHARACTERS;
+}
+
+function detailContentHash(post) {
+  const visibleDetail = {
+    title: post.title,
+    summary: post.summary,
+    image: post.image,
+    publishedAt: post.publishedAt,
+    category: post.category,
+    categoryLabel: post.categoryLabel,
+    tags: post.tags,
+    candidate: post.candidate,
+    work: post.work,
+    role: post.role,
+    stockCode: post.stockCode,
+    detailSections: post.detailSections,
+  };
+  return `sha256:${createHash("sha256")
+    .update(JSON.stringify(visibleDetail))
+    .digest("hex")}`;
+}
+
+function hasIndexableImage(value = "") {
+  try {
+    const url = new URL(value);
+    return (
+      url.protocol === "https:" && INDEXABLE_IMAGE_HOSTS.has(url.hostname)
+    );
+  } catch {
+    return false;
+  }
+}
+
+function isDetailBaseCandidate(post) {
+  return Boolean(
+    post.searchAllowed === true &&
+      ["entertainment", "stocks"].includes(post.category) &&
+      post.verificationLevel === "rss_verified" &&
+      /^\d{12}$/.test(post.logNo) &&
+      post.url === `${BLOG_BASE}/${post.logNo}` &&
+      normalizeComparableText(post.summary).length >= 120 &&
+      Array.isArray(post.tags) &&
+      post.tags.length >= 3 &&
+      hasIndexableImage(post.image),
+  );
+}
+
+async function mapWithConcurrency(items, concurrency, operation) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex;
+      nextIndex += 1;
+      results[index] = await operation(items[index], index);
+    }
+  }
+
+  await Promise.all(
+    Array.from(
+      { length: Math.min(concurrency, Math.max(items.length, 1)) },
+      () => worker(),
+    ),
+  );
+  return results;
+}
+
+function postViewUrls(logNo) {
+  const search = new URLSearchParams({
+    blogId: BLOG_ID,
+    logNo,
+    redirect: "Dlog",
+    widgetTypeCall: "true",
+    noTrackingCode: "true",
+    directAccess: "false",
+  }).toString();
+  return [
+    `https://m.blog.naver.com/PostView.naver?${search}`,
+    `https://blog.naver.com/PostView.naver?${search}`,
+  ];
+}
+
+async function fetchDetailSections(post) {
+  let lastError;
+  for (const url of postViewUrls(post.logNo)) {
+    try {
+      const html = await fetchText(url, 3);
+      validatePostViewIdentity(html, post);
+      const sections = extractDetailSections(html, post);
+      if (hasStrongDetailSections(post, sections)) return sections;
+      lastError = new Error(
+        `PostView detail gate failed for ${post.logNo}: ${sections.length} sections.`,
+      );
+    } catch (error) {
+      lastError = error;
+    }
+  }
+  throw lastError || new Error(`PostView detail fetch failed for ${post.logNo}.`);
 }
 
 function decodeTitle(value = "") {
@@ -237,8 +519,8 @@ async function fetchText(url, maxAttempts = 4) {
   for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
     const response = await fetch(url, {
       headers: {
-        "user-agent": "SunstarContentHub/1.0 (+https://blog.naver.com/tnsqo1126)",
-        accept: "application/json,text/xml,text/plain,*/*",
+        "user-agent": "SunstarContentHub/1.0 (+https://ssundesk.com)",
+        accept: "text/html,application/json,text/xml,text/plain,*/*",
       },
     });
     if (response.ok) return response.text();
@@ -303,6 +585,13 @@ async function writeAtomic(filePath, contents) {
   await rename(temporaryPath, filePath);
 }
 
+export {
+  extractDetailSections,
+  hasStrongDetailSections,
+  validatePostViewIdentity,
+};
+
+async function main() {
 const [rssXml, localByTitle, publicIndex, existingIndex] = await Promise.all([
   fetchText(`https://rss.blog.naver.com/${BLOG_ID}.xml`),
   readLocalCanonicals(),
@@ -380,7 +669,7 @@ for (const source of publicIndex.records.values()) {
     ),
   ).slice(0, 8);
 
-  posts.push({
+  const post = {
     id: `naver:${BLOG_ID}:${logNo}`,
     logNo,
     title,
@@ -406,7 +695,65 @@ for (const source of publicIndex.records.values()) {
         : local
           ? "canonical_public"
           : previous?.verificationLevel || "public_index_confirmed",
-  });
+  };
+
+  if (Array.isArray(previous?.detailSections)) {
+    post.detailSections = previous.detailSections;
+    post.detailUpdatedAt =
+      previous.detailUpdatedAt || existingIndex?.generatedAt || publishedAt;
+    post.detailExtractionVersion = previous.detailExtractionVersion;
+    post.detailContentHash = previous.detailContentHash;
+  }
+  posts.push(post);
+}
+
+const detailCandidates = posts.filter(isDetailBaseCandidate);
+const refreshLogNos = new Set(
+  detailCandidates
+    .toSorted((left, right) => {
+      const timeDifference =
+        Date.parse(right.publishedAt) - Date.parse(left.publishedAt);
+      return timeDifference || Number(right.logNo) - Number(left.logNo);
+    })
+    .slice(0, DETAIL_REFRESH_COUNT)
+    .map((post) => post.logNo),
+);
+const detailHydrationTargets = detailCandidates.filter(
+  (post) =>
+    refreshLogNos.has(post.logNo) ||
+    !hasStrongDetailSections(post) ||
+    post.detailExtractionVersion !== DETAIL_EXTRACTION_VERSION,
+);
+let detailFetchFailures = 0;
+
+await mapWithConcurrency(
+  detailHydrationTargets,
+  DETAIL_FETCH_CONCURRENCY,
+  async (post) => {
+    try {
+      const sections = await fetchDetailSections(post);
+      if (JSON.stringify(sections) !== JSON.stringify(post.detailSections || [])) {
+        post.detailSections = sections;
+        post.detailUpdatedAt = syncStartedAt;
+      }
+      post.detailExtractionVersion = DETAIL_EXTRACTION_VERSION;
+    } catch (error) {
+      detailFetchFailures += 1;
+      console.warn(
+        `[detail] ${post.logNo}: ${error instanceof Error ? error.message : String(error)}`,
+      );
+    }
+  },
+);
+
+for (const post of detailCandidates) {
+  if (!hasStrongDetailSections(post)) continue;
+  const currentHash = detailContentHash(post);
+  const previousHash = existing.get(post.logNo)?.detailContentHash;
+  if (!previousHash || previousHash !== currentHash) {
+    post.detailUpdatedAt = syncStartedAt;
+  }
+  post.detailContentHash = currentHash;
 }
 
 posts.sort((a, b) => {
@@ -451,7 +798,7 @@ const output = {
   blog: snapshot.blog,
   generatedAt:
     changed || !existingIndex?.generatedAt
-      ? new Date().toISOString()
+      ? syncStartedAt
       : existingIndex.generatedAt,
   expectedPublicCount: snapshot.expectedPublicCount,
   total: snapshot.total,
@@ -480,6 +827,12 @@ console.log(
       canonicalEnriched: posts.filter(
         (post) => post.verificationLevel === "canonical_public",
       ).length,
+      detailCandidates: detailCandidates.length,
+      detailReady: posts.filter(
+        (post) => isDetailBaseCandidate(post) && hasStrongDetailSections(post),
+      ).length,
+      detailFetched: detailHydrationTargets.length,
+      detailFetchFailures,
       changed,
       removed: removedCount,
     },
@@ -487,3 +840,11 @@ console.log(
     2,
   ),
 );
+}
+
+const invokedModuleUrl = process.argv[1]
+  ? pathToFileURL(path.resolve(process.argv[1])).href
+  : "";
+if (import.meta.url === invokedModuleUrl) {
+  await main();
+}

@@ -115,6 +115,23 @@ test("delegated tracking records one event for static and dynamic actions", asyn
     ],
   ]);
 
+  const detailLink = new FakeElement("A", {
+    "data-analytics-event": "article_detail_opened",
+    "data-analytics-article-id": "224364909378",
+    "data-analytics-category": "entertainment",
+  });
+  listeners.get("click").listener({ target: detailLink });
+  assert.deepEqual(JSON.parse(JSON.stringify(calls.at(-1))), [
+    "event",
+    {
+      name: "article_detail_opened",
+      data: {
+        article_id: "224364909378",
+        category: "entertainment",
+      },
+    },
+  ]);
+
   const form = new FakeElement("FORM", {
     "data-analytics-event": "archive_search_submitted",
   });

@@ -5,6 +5,10 @@ import {
   SUPPORTED_LOCALES,
   isLocalizedLocaleReady,
 } from "./localized-release-readiness.mjs";
+import {
+  getEligiblePostDetails,
+  postDetailPath,
+} from "./post-detail-eligibility.mjs";
 
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ||
@@ -26,6 +30,9 @@ const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const archivePages = Array.from(
   { length: Math.max(0, archivePageCount - 1) },
   (_, index) => `${siteUrl}/archive/page/${index + 2}`,
+);
+const postDetailPages = getEligiblePostDetails(content.posts).map(
+  (post) => `${siteUrl}${postDetailPath(post)}`,
 );
 const readyHubLocales = supportedLocales.filter((locale) =>
   localizedContent.articles.some((article) =>
@@ -58,14 +65,26 @@ const urlList = [
   `${siteUrl}/archive`,
   `${siteUrl}/about`,
   ...archivePages,
+  ...postDetailPages,
   ...localizedPages,
 ];
 
+const siteHost = new URL(siteUrl).host;
+const uniqueUrlList = [...new Set(urlList)];
+if (uniqueUrlList.some((url) => new URL(url).host !== siteHost)) {
+  throw new Error("IndexNow URL list contains a URL outside the site host.");
+}
+if (uniqueUrlList.length > 10_000) {
+  throw new Error(
+    `IndexNow URL list exceeds the 10,000 URL request limit: ${uniqueUrlList.length}.`,
+  );
+}
+
 const payload = {
-  host: new URL(siteUrl).host,
+  host: siteHost,
   key: indexNowKey,
   keyLocation: `${siteUrl}/${indexNowKey}.txt`,
-  urlList,
+  urlList: uniqueUrlList,
 };
 
 if (process.env.INDEXNOW_DRY_RUN === "1") {
@@ -108,7 +127,7 @@ console.log(
       accepted: true,
       status: response.status,
       host: payload.host,
-      submitted: urlList.length,
+      submitted: payload.urlList.length,
       keyLocation: payload.keyLocation,
     },
     null,

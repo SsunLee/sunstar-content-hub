@@ -8,12 +8,18 @@ import {
   localizedArticles,
   localizedArticlePath,
 } from "../lib/localized-content";
+import {
+  getIndexablePostDetails,
+  getPostDetailLastModified,
+  postDetailPath,
+} from "../lib/post-detail";
+import { index } from "../lib/posts";
 import { absoluteUrl, ARCHIVE_PAGE_COUNT } from "../lib/site";
 
 type SitemapEntry = MetadataRoute.Sitemap[number];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const lastModified = new Date();
+  const lastModified = new Date(index.generatedAt);
 
   const primaryRoutes: SitemapEntry[] = [
     {
@@ -107,10 +113,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }));
     },
   );
+  const postDetailRoutes: SitemapEntry[] = getIndexablePostDetails().map(
+    (post) => ({
+      url: absoluteUrl(postDetailPath(post)),
+      lastModified: getPostDetailLastModified(post),
+      changeFrequency: "weekly" as const,
+      priority: 0.75,
+    }),
+  );
 
   return [
     ...primaryRoutes,
     ...archiveRoutes,
+    ...postDetailRoutes,
     ...localizedHubRoutes,
     ...localizedArticleRoutes,
   ];

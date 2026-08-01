@@ -21,6 +21,13 @@ export type Post = {
   stockCode: string;
   searchAllowed: boolean;
   verificationLevel: string;
+  detailSections?: Array<{
+    heading: string;
+    body: string;
+  }>;
+  detailUpdatedAt?: string;
+  detailExtractionVersion?: number;
+  detailContentHash?: string;
 };
 
 type ContentIndex = {
