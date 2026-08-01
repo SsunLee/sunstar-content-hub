@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-01T12:44:51.880Z",
-  "expectedPublicCount": 1088,
-  "total": 1088,
+  "generatedAt": "2026-08-01T17:13:49.149Z",
+  "expectedPublicCount": 1089,
+  "total": 1089,
   "counts": {
     "entertainment": 107,
     "stocks": 60,
-    "archive": 921
+    "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224365280307",
+      "logNo": "224365280307",
+      "title": "2026 비대면 주민등록 사실조사 방법|정부24 앱, GPS, 세대원 1명 참여",
+      "url": "https://blog.naver.com/tnsqo1126/224365280307",
+      "publishedAt": "2026-08-01T16:03:47.000Z",
+      "dateLabel": "2026. 8. 2.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "행정안전부 보도자료의 제목과 핵심 일정 부분입니다. 원문은 공공누리 제1유형으로 공개됐으며, 출처는 글 아래에 연결했습니다. 2026년 주민등록 사실조사가 시작됐습니다. 집에서 먼저 끝내려면 7월 20일 오전 9시부터 9월 7일 밤 12시까지 참여하면 됩니다. 이번 비대면 조사는 PC가 아니라 정부24 모바일 앱에서 진행합니다. 다만 앱만 열면 어디서든 되는 것은 아닙니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDJfMjQw/MDAxNzg1NjAwMDMzOTE1.CAHHNbWvmF6zEeWrcjaIxhjJ6vKxyjfgtedZ6gJ4ldUg.6CbCBcn6mprhd7Cu-hatMH_QBOD0Ld7H4d8F3KX-M7wg.PNG/exec-7a984e93-b126-440a-bfdd-27fee7ec0934.png?type=s3",
+      "tags": [
+        "2026주민등록사실조사",
+        "비대면사실조사",
+        "정부24",
+        "주민등록사실조사",
+        "정부24앱",
+        "비대면조사",
+        "주민등록",
+        "생활정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224364909378",
       "logNo": "224364909378",
