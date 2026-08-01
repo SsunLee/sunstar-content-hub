@@ -64,11 +64,16 @@ test("Vercel export exposes all posts from root-relative pages", async () => {
     /https:\/\/(?:ssunlee\.github\.io\/sunstar-content-hub|sunstar-content-hub\.vercel\.app)/,
   );
   assert.match(html, /(href|src)="\/assets\//);
+  assert.match(html, /data-analytics-event="article_outbound_clicked"/);
   assert.doesNotMatch(html, /http-equiv="refresh"|window\.location\.replace/);
 });
 
 test("Vercel homepage uses the production title, canonical, and WebSite graph", async () => {
-  const homepage = await readFile(join(outputPath, "index.html"), "utf8");
+  const [homepage, analyticsScript, staticSearch] = await Promise.all([
+    readFile(join(outputPath, "index.html"), "utf8"),
+    readFile(join(outputPath, "site-analytics.js"), "utf8"),
+    readFile(join(outputPath, "static-search.js"), "utf8"),
+  ]);
   const siteUrl = expectedSiteUrl();
   const escapedSiteUrl = siteUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
@@ -115,6 +120,25 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
     homepage,
     /<meta name="google-site-verification" content="gP_sQo1TJMDeAIUZpttQV4hrN8Zg7L48d1dQCQBpKbA"\/?>/,
   );
+  assert.match(homepage, /window\.va\('beforeSend'/);
+  assert.match(
+    homepage,
+    /<script defer src="\/_vercel\/insights\/script\.js"><\/script>/,
+  );
+  assert.match(homepage, /<script defer src="\/site-analytics\.js"><\/script>/);
+  assert.ok(
+    homepage.indexOf("window.va('beforeSend'") <
+      homepage.indexOf("/_vercel/insights/script.js"),
+  );
+  assert.ok(
+    homepage.indexOf("/_vercel/insights/script.js") <
+      homepage.indexOf("/site-analytics.js"),
+  );
+  assert.match(analyticsScript, /article_outbound_clicked/);
+  assert.match(analyticsScript, /archive_search_submitted/);
+  assert.match(homepage, /searchParams\.delete\('q'\)/);
+  assert.match(staticSearch, /analyticsEvent = "article_outbound_clicked"/);
+  assert.match(staticSearch, /analyticsArticleId = post\.logNo/);
   const [logo, socialImage] = await Promise.all([
     readFile(join(outputPath, "brand", "ssdesk-logo-v1.png")),
     readFile(join(outputPath, "brand", "ssdesk-og-v1.png")),

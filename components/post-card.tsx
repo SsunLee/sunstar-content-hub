@@ -7,6 +7,14 @@ type PostCardProps = {
   number?: number;
 };
 
+function articleAnalytics(post: Post) {
+  return {
+    "data-analytics-event": "article_outbound_clicked",
+    "data-analytics-article-id": post.logNo,
+    "data-analytics-category": post.category,
+  };
+}
+
 export function PostCard({
   post,
   variant = "story",
@@ -21,7 +29,12 @@ export function PostCard({
             {post.categoryLabel} · {getDisplayDate(post.publishedAt)}
           </p>
           <h3>
-            <a href={post.url} target="_blank" rel="noopener noreferrer">
+            <a
+              href={post.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              {...articleAnalytics(post)}
+            >
               {post.title}
             </a>
           </h3>
@@ -43,6 +56,7 @@ export function PostCard({
           rel="noopener noreferrer"
           tabIndex={-1}
           aria-hidden="true"
+          {...articleAnalytics(post)}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -62,7 +76,12 @@ export function PostCard({
           </time>
         </p>
         <h3>
-          <a href={post.url} target="_blank" rel="noopener noreferrer">
+          <a
+            href={post.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            {...articleAnalytics(post)}
+          >
             {post.title}
           </a>
         </h3>
@@ -75,6 +94,7 @@ export function PostCard({
           target="_blank"
           rel="noopener noreferrer"
           aria-label={`${post.title} 네이버 원문 읽기`}
+          {...articleAnalytics(post)}
         >
           원문 읽기 <span aria-hidden="true">↗</span>
         </a>

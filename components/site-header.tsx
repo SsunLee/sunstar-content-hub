@@ -27,6 +27,8 @@ export function SiteHeader() {
             href="https://blog.naver.com/tnsqo1126"
             target="_blank"
             rel="noopener noreferrer"
+            data-analytics-event="naver_profile_clicked"
+            data-analytics-placement="header"
           >
             네이버 블로그 원문 ↗
           </a>

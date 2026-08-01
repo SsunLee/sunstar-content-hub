@@ -69,6 +69,8 @@ export default function AboutPage() {
                 href={NAVER_BLOG_URL}
                 target="_blank"
                 rel="noopener noreferrer"
+                data-analytics-event="naver_profile_clicked"
+                data-analytics-placement="about"
               >
                 네이버 블로그 원문 보기
                 <span aria-hidden="true">↗</span>

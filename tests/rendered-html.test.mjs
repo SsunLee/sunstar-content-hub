@@ -47,6 +47,8 @@ test("server-renders the finished editorial home", async () => {
   assert.match(html, /"@type":"Organization"/);
   assert.match(html, /"@type":"ImageObject"/);
   assert.match(html, /application\/ld\+json/);
+  assert.match(html, /data-analytics-event="article_outbound_clicked"/);
+  assert.match(html, /data-analytics-event="naver_profile_clicked"/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/i);
 });
 
@@ -73,6 +75,8 @@ test("archive exposes public Naver links in paged HTML", async () => {
     totalPosts % 50 || Math.min(50, totalPosts),
   );
   assert.match(firstHtml, /배우, 작품, 종목명, 제목 검색/);
+  assert.match(firstHtml, /data-analytics-event="archive_search_submitted"/);
+  assert.match(firstHtml, /data-analytics-article-id="\d+"/);
   if (archivePageCount > 1) {
     assert.match(lastHtml, new RegExp(`${archivePageCount}페이지`));
   }

@@ -17,7 +17,7 @@
     "submit:indexnow": "node scripts/submit-indexnow.mjs",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "test:static": "npm run export:static && node --test tests/static-export.test.mjs",
-    "test:vercel": "npm run export:vercel && node --test tests/vercel-export.test.mjs",
+    "test:vercel": "npm run export:vercel && node --test tests/vercel-export.test.mjs tests/site-analytics.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern docs --ignore-pattern vercel-dist",
     "db:generate": "drizzle-kit generate"
   },

@@ -37,6 +37,14 @@ const outputRoot = resolve(projectRoot, target.outputDirectory);
 const clientRoot = resolve(projectRoot, "dist", "client");
 const workerPath = resolve(projectRoot, "dist", "server", "index.js");
 const { basePath, redirectSiteUrl, sitemapSiteUrl, siteUrl } = target;
+const analyticsScripts =
+  targetName === "vercel"
+    ? [
+        "<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};window.va('beforeSend',function(event){try{var url=new URL(event.url,window.location.origin);url.searchParams.delete('q');url.hash='';return Object.assign({},event,{url:url.toString()})}catch{return event}});</script>",
+        '<script defer src="/_vercel/insights/script.js"></script>',
+        '<script defer src="/site-analytics.js"></script>',
+      ].join("")
+    : "";
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -121,6 +129,10 @@ function toStaticHtml(html, route) {
         "</body>",
         `<script src="${basePath}/static-search.js" defer></script></body>`,
       );
+  }
+
+  if (analyticsScripts) {
+    result = result.replace("</body>", `${analyticsScripts}</body>`);
   }
 
   if (redirectSiteUrl) {

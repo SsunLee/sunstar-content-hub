@@ -74,6 +74,10 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
     /rel="(?:shortcut )?icon" href="https:\/\/ssunlee\.github\.io\/favicon\.svg"/,
   );
   assert.doesNotMatch(html, /name="robots" content="noindex/i);
+  assert.doesNotMatch(
+    html,
+    /_vercel\/insights\/script\.js|\/site-analytics\.js|window\.va\('beforeSend'/,
+  );
 });
 
 test("legacy sitemap keeps old URLs discoverable during migration", async () => {

@@ -93,6 +93,9 @@
         link.href = `https://blog.naver.com/tnsqo1126/${post.logNo}`;
         link.target = "_blank";
         link.rel = "noopener noreferrer";
+        link.dataset.analyticsEvent = "article_outbound_clicked";
+        link.dataset.analyticsArticleId = post.logNo;
+        link.dataset.analyticsCategory = post.category;
         link.textContent = post.title;
         title.append(link);
         article.append(meta, title);

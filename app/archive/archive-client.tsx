@@ -208,7 +208,12 @@ export default function ArchiveClient({
         <h2 id="archive-search-heading" className="sr-only">
           글 검색 및 분류
         </h2>
-        <form action="/archive" method="get" className="grid gap-3 md:grid-cols-[minmax(0,1fr)_12rem_auto]">
+        <form
+          action="/archive"
+          method="get"
+          data-analytics-event="archive_search_submitted"
+          className="grid gap-3 md:grid-cols-[minmax(0,1fr)_12rem_auto]"
+        >
           <label className="group relative block">
             <span className="sr-only">검색어</span>
             <span aria-hidden="true" className="absolute left-4 top-1/2 -translate-y-1/2 text-lg text-black/45">
@@ -317,6 +322,9 @@ export default function ArchiveClient({
                       href={cleanNaverUrl(post)}
                       target="_blank"
                       rel="noopener"
+                      data-analytics-event="article_outbound_clicked"
+                      data-analytics-article-id={post.logNo}
+                      data-analytics-category={post.category}
                       className="decoration-1 underline-offset-4 outline-none group-hover:underline focus-visible:underline"
                     >
                       {post.title}
