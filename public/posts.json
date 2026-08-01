@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-07-31T18:32:03.972Z",
-  "expectedPublicCount": 1087,
-  "total": 1087,
+  "generatedAt": "2026-08-01T10:10:06.472Z",
+  "expectedPublicCount": 1088,
+  "total": 1088,
   "counts": {
-    "entertainment": 106,
+    "entertainment": 107,
     "stocks": 60,
     "archive": 921
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224364909378",
+      "logNo": "224364909378",
+      "title": "《토이 스토리 5》 톰 행크스 근황, 우디로 국내 박스오피스 5위",
+      "url": "https://blog.naver.com/tnsqo1126/224364909378",
+      "publishedAt": "2026-08-01T07:11:14.000Z",
+      "dateLabel": "2026. 8. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "톰 행크스가 《토이 스토리 5》에서 다시 우디의 목소리를 맡았습니다. 영화진흥위원회 집계에서 작품은 7월 31일 국내 일별 박스오피스 5위에 올랐고 하루 관객 1만 380명을 기록했습니다. 1995년 첫 영화부터 우디와 함께한 배우의 최근 활동과 이번 역할을 차근차근 짚어봤습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDFfMTIw/MDAxNzg1NTY3OTMwNDY3.h5MFChGV5YLGLy_DvxMat859lq18NGF6vqbSunj38P0g.PkoTst5AgCqb9E0zOVAYqiBXTyKVOEcZH_4207qHFKsg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "토이스토리5",
+        "톰행크스",
+        "톰행크스근황",
+        "우디",
+        "픽사",
+        "디즈니"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224364297906",
       "logNo": "224364297906",
