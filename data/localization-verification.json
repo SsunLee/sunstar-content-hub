@@ -1,0 +1,3437 @@
+{
+  "schemaVersion": 1,
+  "siteUrl": "https://ssundesk.com",
+  "articles": [
+    {
+      "articleId": "tom-holland-spider-man-brand-new-day",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224364297906",
+      "sourcePackage": "2026-07-31-tom-holland-spider-man-brand-new-day.publish.json",
+      "sourceHash": "sha256:42bb41eaaacf72b53e236018f3a9aa4c975e98139e9a6ed375f1c5b216a51502",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224364297906"
+      },
+      "sourceFragments": {
+        "facts": {
+          "role": "톰 홀랜드가 《스파이더맨: 브랜드 뉴 데이》의 피터 파커로 다시 극장에 섰습니다."
+        },
+        "properNames": {
+          "subject": "톰 홀랜드",
+          "work": "스파이더맨: 브랜드 뉴 데이"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "role": "톰 홀랜드가 《스파이더맨: 브랜드 뉴 데이》의 피터 파커로 국내 극장에 돌아왔습니다."
+            },
+            "properNames": {
+              "subject": "톰 홀랜드",
+              "work": "스파이더맨: 브랜드 뉴 데이"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:e76375e086cf1430f9f18501961f066a22c2d1df60c0835d371ff4e123cf8a1f",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:bfe55765f044d3a7788d1e0080dcc1b1bf66ce2e710a324c66d2d88abc909606",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:bd3895903a55bf385eee637e2f0697f4b9737a9db355ca152833948b97398317",
+                "values": [
+                  {
+                    "sourceToken": "44만 1,554",
+                    "localizedToken": "44만 1,554"
+                  },
+                  {
+                    "sourceToken": "113만 1,219",
+                    "localizedToken": "113만 1,219"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:bfe55765f044d3a7788d1e0080dcc1b1bf66ce2e710a324c66d2d88abc909606",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:bfe55765f044d3a7788d1e0080dcc1b1bf66ce2e710a324c66d2d88abc909606",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:21c027a753d26b0b6285074613783b6e8c1afab5116f2925f0d8d211042c0ec1",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "6"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:21c027a753d26b0b6285074613783b6e8c1afab5116f2925f0d8d211042c0ec1",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "31",
+                    "localizedToken": "31"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-3",
+                "sourceSelector": "source.s3.3",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:6eeedc8f3cd050da7f0d29ee48b4e5cfae5cda91f18617ec5a09873ea7aeea02",
+                "values": [
+                  {
+                    "sourceToken": "2008",
+                    "localizedToken": "2008"
+                  },
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:d5ef45d268ec4882bcbd5c0053c8eb055290cdbcdd0846c09083cef8fea903af",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:d5ef45d268ec4882bcbd5c0053c8eb055290cdbcdd0846c09083cef8fea903af",
+                "values": [
+                  {
+                    "sourceToken": "2017",
+                    "localizedToken": "2017"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-4",
+                "sourceSelector": "source.s4.4",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:b2aef47f622949107184431ed81ed8bea1af6092f1b73f4d7bdea0b966dcd9ec",
+                "values": [
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "Tom Holland returned to Korean cinemas as Peter Parker in Spider-Man: Brand New Day."
+            },
+            "properNames": {
+              "subject": "Tom Holland",
+              "work": "Spider-Man: Brand New Day"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.h1",
+                "localizedHash": "sha256:1465004ac54c935a06f95507b669de9851e47e7f8acfa83e2bcba62b491dfdf9",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:13dcdf66cb88ebd70b84049a22e14e3687210ce2747d5fd744c6bb15de851ef0",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:13dcdf66cb88ebd70b84049a22e14e3687210ce2747d5fd744c6bb15de851ef0",
+                "values": [
+                  {
+                    "sourceToken": "44만 1,554",
+                    "localizedToken": "441,554"
+                  },
+                  {
+                    "sourceToken": "113만 1,219",
+                    "localizedToken": "1,131,219"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:6dd666484be6d30a4cec89bcbabd37ea998238e056f880bce8975cfc21332d21",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:13dcdf66cb88ebd70b84049a22e14e3687210ce2747d5fd744c6bb15de851ef0",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:0085c41471acbfb01a3570dedb7ad629ddc9404f7e0774659c9129998fdbcfe4",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "June"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:0085c41471acbfb01a3570dedb7ad629ddc9404f7e0774659c9129998fdbcfe4",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "31",
+                    "localizedToken": "31"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-3",
+                "sourceSelector": "source.s3.3",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:8cc9ce6e62c8b50221d057317f01a7b58c7307096eb5a33e09f1e955544a084f",
+                "values": [
+                  {
+                    "sourceToken": "2008",
+                    "localizedToken": "2008"
+                  },
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:0e546896430ebc32e482fdce604ab922c18057a00e22cf539d38ce9f1a6c2053",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:bcb804515b49d22d044549d675d463e916c2883a2ed78ffe40bfcc003f3ec81f",
+                "values": [
+                  {
+                    "sourceToken": "2017",
+                    "localizedToken": "2017"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-4",
+                "sourceSelector": "source.s4.4",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:f5d8627ad9f3dfdb0b85f46f5eb9866872ebf49bf52e6f2da3d9a020f02f825b",
+                "values": [
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "トム・ホランドが『スパイダーマン：ブランド・ニュー・デイ』のピーター・パーカーとして韓国の映画館に戻ってきました。"
+            },
+            "properNames": {
+              "subject": "トム・ホランド",
+              "work": "スパイダーマン：ブランド・ニュー・デイ"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.h1",
+                "localizedHash": "sha256:129f32c8144f42eedb94055ab5653cdcf3540fe8222943bf3cb00dbb8f6c8ab9",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:3023bb40a7be192a61d34f3bb3eb7303c0a93ff979e09c03f763c154d00cf18c",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:3dd9b00afeb06bcc41e1d1be946d617583ac6e4a3bb29565545bbcd4b607840b",
+                "values": [
+                  {
+                    "sourceToken": "44만 1,554",
+                    "localizedToken": "44万1,554"
+                  },
+                  {
+                    "sourceToken": "113만 1,219",
+                    "localizedToken": "113万1,219"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:3023bb40a7be192a61d34f3bb3eb7303c0a93ff979e09c03f763c154d00cf18c",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:3023bb40a7be192a61d34f3bb3eb7303c0a93ff979e09c03f763c154d00cf18c",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:99c4104cb1082a0ff0fa27fd954e6089d47923643d3607870ca703bf1cc4c59c",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "6"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:99c4104cb1082a0ff0fa27fd954e6089d47923643d3607870ca703bf1cc4c59c",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "31",
+                    "localizedToken": "31"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-3",
+                "sourceSelector": "source.s3.3",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:da9456d67b3be2f34682f0c8b5455137e7864ddee8dc4dc8a9c5cd8c22b20825",
+                "values": [
+                  {
+                    "sourceToken": "2008",
+                    "localizedToken": "2008"
+                  },
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:08e60ce9aba45f9dc4e579289eaec5978bf2b8080a5cd59cf7397db897444996",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:7b144e879befdea75943488272ace21bd5d9fdae2111c15318b152a645b701f5",
+                "values": [
+                  {
+                    "sourceToken": "2017",
+                    "localizedToken": "2017"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-4",
+                "sourceSelector": "source.s4.4",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:d23576ac4e88383a294e470aa5b1609777f50689dbba2fbee54901e58276b6e8",
+                "values": [
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "articleId": "matt-damon-the-odyssey-odysseus",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224361315975",
+      "sourcePackage": "2026-07-29-matt-damon-the-odyssey.publish.json",
+      "sourceHash": "sha256:1203d50c617ad5190f542da87b443d0a7bf3cb46233864dbf3d598f324cf4d1f",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224361315975"
+      },
+      "sourceFragments": {
+        "facts": {
+          "role": "맷 데이먼이 크리스토퍼 놀런 감독의 신작 《오디세이》에서 오디세우스로 돌아왔습니다."
+        },
+        "properNames": {
+          "subject": "맷 데이먼",
+          "work": "오디세이"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "role": "맷 데이먼은 크리스토퍼 놀런 감독의 《오디세이》에서 오디세우스를 맡았습니다."
+            },
+            "properNames": {
+              "subject": "맷 데이먼",
+              "work": "오디세이"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:7f38125f7971a2969755736859d06f55999ea626fe1412c0b70c06b2bab5da48",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:5b5aeffeb321a02fb0b82648ba65af9117009d070e5103b3f7e394bcd23ade34",
+                "values": [
+                  {
+                    "sourceToken": "1,471만 7,905",
+                    "localizedToken": "1,471만 7,905"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.b1",
+                "localizedHash": "sha256:022b6b04eca1baafa0ff0476be16a443722c0705185c2fb9db78594988440683",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:659a64493ec461a862abac21458e1b22c42170651593486bc09d5f2576bf3ca1",
+                "values": [
+                  {
+                    "sourceToken": "70",
+                    "localizedToken": "70"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:177f4d985e08530d9a3fda4cd10660fb30264341a7a451aef429cfeb9bba66ae",
+                "values": [
+                  {
+                    "sourceToken": "2억 6,380만",
+                    "localizedToken": "2억 6,380만"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "20",
+                    "localizedToken": "20"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:8c98e678d2c66aa477075458b47022003d189c93b62a85ca1bcf451a513cf04f",
+                "values": [
+                  {
+                    "sourceToken": "1970",
+                    "localizedToken": "1970"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  },
+                  {
+                    "sourceToken": "55",
+                    "localizedToken": "55"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:1baeca98720ec6a69f8a4839e69132417286f7e60c7ce2bbf33d7760bc5b8125",
+                "values": [
+                  {
+                    "sourceToken": "1988",
+                    "localizedToken": "1988"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:5c20ac3761a46709b5f40cd1741f70644eaeb8466850b84748725b481122d79a",
+                "values": [
+                  {
+                    "sourceToken": "1997",
+                    "localizedToken": "1997"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "Matt Damon stars as Odysseus in Christopher Nolan's The Odyssey."
+            },
+            "properNames": {
+              "subject": "Matt Damon",
+              "work": "The Odyssey"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:af801cda7cdb67c20ff15ada05d7dfcf35d70c07eb7c794375a9c376328a9608",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:535cdd7b683779e1eee476f022254bfacc47c913b6d95cf6720ef2f77f9a8ee6",
+                "values": [
+                  {
+                    "sourceToken": "1,471만 7,905",
+                    "localizedToken": "14,717,905"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.b1",
+                "localizedHash": "sha256:f863f05f052e352ea62653c9201a1de0f9b6b0c8be96f3fc48de88905894024d",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:68b1a42560e4fc63f9fbbc02ee3b9eebd731fb8434e357bbfd70a800458d2a5f",
+                "values": [
+                  {
+                    "sourceToken": "70",
+                    "localizedToken": "70"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:4d85f0bc73d2ede9ab0a23da5bd0da775af897a91a1daacc8617715180beb243",
+                "values": [
+                  {
+                    "sourceToken": "2억 6,380만",
+                    "localizedToken": "263.8"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "20",
+                    "localizedToken": "20"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:152830206cec407804c3f960ac9a0218a1b1459637044df0bdaa5c9dda2b278b",
+                "values": [
+                  {
+                    "sourceToken": "1970",
+                    "localizedToken": "1970"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "October"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  },
+                  {
+                    "sourceToken": "55",
+                    "localizedToken": "55"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:71d8c34cfce189319787420af08010d87113a68851c01a9b19f68bc71f22d2f7",
+                "values": [
+                  {
+                    "sourceToken": "1988",
+                    "localizedToken": "1988"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:8dfc4d40b221fcc91a8af4faf816bf00cf52efe45e5245200a15ed0e19fcc3f4",
+                "values": [
+                  {
+                    "sourceToken": "1997",
+                    "localizedToken": "1997"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "マット・デイモンはクリストファー・ノーラン監督の『オデュッセイア』でオデュッセウスを演じます。"
+            },
+            "properNames": {
+              "subject": "マット・デイモン",
+              "work": "オデュッセイア"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:6d51256e927fc1a0af51ad92c4f5830f07378ff35ef20b0f5f6332b219f00666",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:dde8940542bbd6a4bf7299e94b96102ffa8737308c2aba655a6b3387f444ea49",
+                "values": [
+                  {
+                    "sourceToken": "1,471만 7,905",
+                    "localizedToken": "1,471万7,905"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.b1",
+                "localizedHash": "sha256:86d9d5ca4f7059a5fa27fa79b4e23d186e07db0ccd7a79b04d0f673ccee5c5f4",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "17",
+                    "localizedToken": "17"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:0e619c397d29396e94e137e1c2d56deae112d4cc26bc2cbd1225b129f28f945a",
+                "values": [
+                  {
+                    "sourceToken": "70",
+                    "localizedToken": "70"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:7d026021f4078d4a0b5b103cfe12aca17971d3774c71a9c7dee9e591c3fb0982",
+                "values": [
+                  {
+                    "sourceToken": "2억 6,380만",
+                    "localizedToken": "2億6,380万"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "20",
+                    "localizedToken": "20"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:8e256ad220c521e9fce1108c5c3150f56cc042c93d6065f3f1097b691e645374",
+                "values": [
+                  {
+                    "sourceToken": "1970",
+                    "localizedToken": "1970"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "29",
+                    "localizedToken": "29"
+                  },
+                  {
+                    "sourceToken": "55",
+                    "localizedToken": "55"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:5e85ef0c7b87b3c5d494089c655f71eb1d5e4483654feada1163312985865c91",
+                "values": [
+                  {
+                    "sourceToken": "1988",
+                    "localizedToken": "1988"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:5e85ef0c7b87b3c5d494089c655f71eb1d5e4483654feada1163312985865c91",
+                "values": [
+                  {
+                    "sourceToken": "1997",
+                    "localizedToken": "1997"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "articleId": "dwayne-johnson-live-action-moana-maui",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224358966231",
+      "sourcePackage": "2026-07-27-dwayne-johnson-moana-maui.publish.json",
+      "sourceHash": "sha256:bf012f7d731d1a7c826ec8c0436b42c4c96ada959abb849e284bc65cb2b95378",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224358966231"
+      },
+      "sourceFragments": {
+        "facts": {
+          "role": "드웨인 존슨이 디즈니 실사 영화 《모아나》에서 마우이로 돌아왔습니다."
+        },
+        "properNames": {
+          "subject": "드웨인 존슨",
+          "work": "모아나"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "role": "드웨인 존슨은 이 작품에서 마우이를 연기하는 동시에 제작자로도 참여했습니다."
+            },
+            "properNames": {
+              "subject": "드웨인 존슨",
+              "work": "모아나"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.h1",
+                "localizedHash": "sha256:5c5d1b713af74de08c108eff1f3f334f72e1735239fc11418cc8c949496f51db",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:33085d903b53df65dc34369b72aa1e4f8e2f9024229d12d0eef4aae588f3cd8e",
+                "values": [
+                  {
+                    "sourceToken": "3만 4,802",
+                    "localizedToken": "3만 4,802"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:71066ffbaeb54bf71d3888f091ffd9768bd603ffd13f12e51dcedf2655a5ebad",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "9",
+                    "localizedToken": "9"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:b92fe97a69a80a7626c63f0eb47af61ae1b045e3e41651a2560ec4b704e6def4",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  },
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:d70f31f79937017ba88a1072fee701676c03454b7ce437bc5a5b9427cafb5db5",
+                "values": [
+                  {
+                    "sourceToken": "1972",
+                    "localizedToken": "1972"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "5"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "54",
+                    "localizedToken": "54"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:af26e355851f7b50c027d732ac596ae2715c6310bfc8e27cdb2407a893591e8a",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "2001",
+                    "localizedToken": "2001"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-3",
+                "sourceSelector": "source.s4.3",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:871e1a588fde408fe340dd2d9f5d40c06a6ce15832041ce10a86f27a5c469d5e",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:6a84e1a6cd3de416c9fd90c171a6e363951cbc611c120962ba14d7fe68d095c2",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "Dwayne Johnson's connection to the release is broader than a leading performance: he plays Maui and also participated as a producer."
+            },
+            "properNames": {
+              "subject": "Dwayne Johnson",
+              "work": "Moana"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.h1",
+                "localizedHash": "sha256:dd8e68c04c5a1bf81cc6db718e3e68429152817e41cd1b0044da3f45b12f6f91",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:18e0af5477b950e476eba361b56bcd791dbb876d5bc951565f325a9a68463a32",
+                "values": [
+                  {
+                    "sourceToken": "3만 4,802",
+                    "localizedToken": "34,802"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:8504abf31e9a1631cdc3c26ec0c6909f28c539e3103c1a01883612a69672d4b7",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "9",
+                    "localizedToken": "9"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:b204fae7da6bbe9deed6d1ae5b560b5d1ee1186998984ffb00e80ec46898f4c1",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  },
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:bca0d1c2017c82e54e1400f79c6ea5dd5369cdcb7ef89e8a4ea16f17d8006db9",
+                "values": [
+                  {
+                    "sourceToken": "1972",
+                    "localizedToken": "1972"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "May"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "54",
+                    "localizedToken": "54"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:070a6905f99f1c07e7a4f29a966044b919520858fcee0f2249c6ef7b828c0c84",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "2001",
+                    "localizedToken": "2001"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-3",
+                "sourceSelector": "source.s4.3",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:5d11f50f498d92e3b05cc5b1479b1417ac554a7bafeca052a1415d2949cf3f92",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:942422ed74f64ab6bfaec90f3a75250130f61bf70bad71ca80577d2b3ef5b110",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "ドウェイン・ジョンソンは本作でマウイを演じるだけでなく、製作にも参加しました。"
+            },
+            "properNames": {
+              "subject": "ドウェイン・ジョンソン",
+              "work": "モアナと伝説の海"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.h1",
+                "localizedHash": "sha256:2e509d2247becf4f01d8a63f2a8d62ae9984bb2d33ce05c10996782b6a29b063",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:f455309a05689e5d734141576bd220a6c1d1151bd045a807ac0cbcc634bd4659",
+                "values": [
+                  {
+                    "sourceToken": "3만 4,802",
+                    "localizedToken": "3万4,802"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:84e94b51149b9f4f587011a311b874776313f0d51620143a3203d2422db745d3",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "9",
+                    "localizedToken": "9"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:a6e03f636b0f2adcdea78020fe5b76918aee24ac6fcaeef372a17330a8c94a5e",
+                "values": [
+                  {
+                    "sourceToken": "2016",
+                    "localizedToken": "2016"
+                  },
+                  {
+                    "sourceToken": "2024",
+                    "localizedToken": "2024"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:347a3a4a3bf7c980f175d2261506c636c7f7573e4cdd4ff4b6621fae33d9c19f",
+                "values": [
+                  {
+                    "sourceToken": "1972",
+                    "localizedToken": "1972"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "5"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "54",
+                    "localizedToken": "54"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:25210c07bd949f1ba96f7b6236bc4b6ae4acb36433532f0e6acd2c4f4a9feaba",
+                "values": [
+                  {
+                    "sourceToken": "1996",
+                    "localizedToken": "1996"
+                  },
+                  {
+                    "sourceToken": "2001",
+                    "localizedToken": "2001"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-3",
+                "sourceSelector": "source.s4.3",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:c5077864eb907203803dbab312ecd4b7fe00ba6a10303657ea02c90a6ac0948b",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:4c6e6429b5d982813e2a1480a99f48070180d13220e1e4366e6af2485ed1533a",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "articleId": "ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224358645515",
+      "sourcePackage": "2026-07-26-ahn-hee-yeon-love-is-coming-han-gyu-rim.publish.json",
+      "sourceHash": "sha256:e0c57b89b5bcbd1d124ff414fe4113fda2ba5b583d160986cc02ebd9440ee312",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224358645515"
+      },
+      "sourceFragments": {
+        "facts": {
+          "role": "안희연이 KBS2 새 주말드라마 《사랑이 온다》에서 다섯 남매의 장녀 한규림을 맡았습니다."
+        },
+        "properNames": {
+          "subject": "안희연",
+          "work": "사랑이 온다"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "role": "안희연은 KBS2 주말드라마 《사랑이 온다》에서 다섯 남매의 장녀 한규림을 맡았습니다."
+            },
+            "properNames": {
+              "subject": "안희연",
+              "work": "사랑이 온다"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.title",
+                "localizedHash": "sha256:e28ff8b9e6c5c463711c99effc2ffaa481d0f90a557006aa0d8bb6bfc68c90f2",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:dcfc6616845d440bc81ebab244d8f97b9c8a058a327cfe6b6ea7c870a779fede",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:0a5717e1198fd1e2fc286fc7800ebc8f7b444502e3df4fa9eb0626a438b2ccce",
+                "values": [
+                  {
+                    "sourceToken": "2023",
+                    "localizedToken": "2023"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:b86273fdfbe6254f49bdb51d765ddde620fa34c2f91d31970dcd8c36d96af8a3",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:0b63f4ccea1ecf0816847af5d14895f8d0ad46a1eb1438418660a47ed43ba5f3",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:89f7197c3273dc0abe139432a77564f04da50ddc846f6edfd79f48a16102aa76",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:f482e9a3603bac2348eca5c5ec505bc1497357c365225fa75ec7144b782599a4",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:43effcfb1bb33d86328967d58f019bd69ced7b8ba076cefa905b39eac1275ad9",
+                "values": [
+                  {
+                    "sourceToken": "1992",
+                    "localizedToken": "1992"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "5"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "34",
+                    "localizedToken": "34"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:a5c25bf65383a76356284b68705cb7263f137addeccbf7ed12cdcc9fb58d8385",
+                "values": [
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:4a62832e4434ae4f87528d9b603bb19d020e7233e421466c8b653a840bf9f237",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:2faaa35cc718d26b704bb533909bd1af078fc0ead71077d772506bc9746d610b",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "Ahn Hee-yeon plays Han Gyu-rim, the eldest of five siblings, in the KBS2 weekend drama Love on the Menu."
+            },
+            "properNames": {
+              "subject": "Ahn Hee-yeon",
+              "work": "Love on the Menu"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:f25d6cd29b99d037fff36338a4ed0198c2efa2408118549d80403eb761aebb7e",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "three"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:43cd77ec0c283118d2a887ee1e6fa5af732f5b0fee4035c3d1f36f7e0766b6ac",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:f25d6cd29b99d037fff36338a4ed0198c2efa2408118549d80403eb761aebb7e",
+                "values": [
+                  {
+                    "sourceToken": "2023",
+                    "localizedToken": "2023"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "three"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:9bacf3781eea0bb29a985996a00baab6cd8701b49d53b49a878e8db42a20cbda",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "second"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:2b7f757c1de4213025fab8efd743201eeb98afed351b3c8ac2634e29f15de168",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:f5e7a771438666a5b05a5f93a5d5c0c6e05d836d2b1e7c9f900fbc025de29ece",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:d01d2e17d6b76d1d02336fe07402cd7c47fbf0e0f1ced7da3338464e23dd1bcf",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:e24adcccba951da21f84dd32760d1d8689ecceaf8a246fcfd5cf36cae4967876",
+                "values": [
+                  {
+                    "sourceToken": "1992",
+                    "localizedToken": "1992"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "May"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "34",
+                    "localizedToken": "34"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:46f7b0e1bca6e0e4367e3fdbb43ac79c55506623b94993fe50cdfbd5ab0a89d0",
+                "values": [
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:f60635950873d4a306ae6d31148d0f3cd1ab24b08644330c37d18a3c8589b7a2",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:2491382e4e3056c1b3b563e4fa946c4ac2749885216015da86984d8d7485788e",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "アン・ヒヨンはKBS2週末ドラマ『Love on the Menu』で、5人きょうだいの長女ハン・ギュリムを演じます。"
+            },
+            "properNames": {
+              "subject": "アン・ヒヨン",
+              "work": "Love on the Menu"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.title",
+                "localizedHash": "sha256:e35f8a79d30049383022b5c8c94dac9bce91bdd40da185f1a5277f1c6358e6d0",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:ce77059d851a591e051f95e93ea73e762ea022523c3498f95ca4838f518c5281",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:2c222a6b121f25524cec23e891fad5a33739b4370c122ecc5ae553c4d65c553b",
+                "values": [
+                  {
+                    "sourceToken": "2023",
+                    "localizedToken": "2023"
+                  },
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i3",
+                "sourceSelector": "source.i3",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:7c234e06508fe6689f7404cb23c7b81672e663c75b9f69385be55ecbd9b8fae4",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:18671aa6d874eb7fe9f16cb60644c9091bf4a6cb24f6a5b79254f74305dbfdc9",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:e80534ac6df2c0a004284b1e51e66420abb295243dcf137f70fe2309f338f4ea",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:1718bae775b0fc81351a45a654d542c4259e28e3e82f8f985f8e055923b605eb",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:2ae9a8728f60005d32569e306ed9b1e01584f7bc64976d88679e846271090036",
+                "values": [
+                  {
+                    "sourceToken": "1992",
+                    "localizedToken": "1992"
+                  },
+                  {
+                    "sourceToken": "5",
+                    "localizedToken": "5"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "34",
+                    "localizedToken": "34"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:6a7b3116b340e56726c5d6dcb08d2e2c2e7ba29d1a9ce456630db738e8933c57",
+                "values": [
+                  {
+                    "sourceToken": "2012",
+                    "localizedToken": "2012"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-2",
+                "sourceSelector": "source.s4.2",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:2a8dc62671e3096b18f052667f940756c59d3229d5e6621d25c1101c8d3ea427",
+                "values": [
+                  {
+                    "sourceToken": "3",
+                    "localizedToken": "3"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:c15684d054aed4dc1623f66d37a0464802d97445cb4e26b23c18d96ddf3c40a2",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "articleId": "ha-seok-jin-love-is-coming-kim-mu-jin",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224358639884",
+      "sourcePackage": "2026-07-26-ha-seok-jin-love-is-coming-kim-mu-jin.publish.json",
+      "sourceHash": "sha256:563216220db2534515927678b8ee66a966b47eb17361cb376745be55cd6e5d1a",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224358639884"
+      },
+      "sourceFragments": {
+        "facts": {
+          "role": "하석진이 KBS2 새 주말드라마 《사랑이 온다》의 김무진으로 돌아왔습니다."
+        },
+        "properNames": {
+          "subject": "하석진",
+          "work": "사랑이 온다"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "role": "하석진은 KBS2 주말드라마 《사랑이 온다》에서 이탈리안 레스토랑 오너 셰프 김무진을 연기합니다."
+            },
+            "properNames": {
+              "subject": "하석진",
+              "work": "사랑이 온다"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:2441aef4ddfe1bc1a6b43837dfef579ddd8b5bf1ea20e8ea494b79b0000e19e2",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:43697d9224c460a0cd0649fe434291d1710da6e472f8dde88b507636ed2a76ca",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:e4c4c632b681a9791def3d0ffa0cd4d89d028c048f5525719eb753dfc1306b5d",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:ac12c6d927f541e8207a26b6e207a582f97aa05c3b92a6a6a290192cb14ad044",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:1863f9b00f64c424e96e50f6444ac33f5f0e0db3ca7fa971aad9983bdfb91a93",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:67c9ab2df32fd7b4c3c5093378b1fbce32540828be9068eaec2a4a9de3664d23",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:d8e2e7c690e3458c3181dfcc7ea300c4b0799f2d5aa8edaf841ccb8bdac734a4",
+                "values": [
+                  {
+                    "sourceToken": "1982",
+                    "localizedToken": "1982"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "44",
+                    "localizedToken": "44"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:0804ee03a3309ef8d93c0ade48ed22730841966ac5d6decef2f1d5e4ed4d41fd",
+                "values": [
+                  {
+                    "sourceToken": "2005",
+                    "localizedToken": "2005"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:2523226f7cb86363baa937253fd973c1c3911903f74880168b9cc23f5ec11c76",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:961e981510aeeb96f7034028071d9f9d0257e245d40a70f6e0b5985f5fa0397a",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:2441aef4ddfe1bc1a6b43837dfef579ddd8b5bf1ea20e8ea494b79b0000e19e2",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": [
+            {
+              "id": "film-debut-year",
+              "sourceValue": "2005년 드라마 《슬픈 연가》로 연기 활동을 시작했고 같은 해 영화 《방과후 옥상》을 통해 스크린에도 진출했습니다.",
+              "localizedValue": "2005년 드라마 《슬픈 연가》로 연기 활동을 시작했고 2006년 개봉한 영화 《방과후 옥상》으로 스크린에 데뷔했습니다.",
+              "reason": "The owned source ties the film debut to 2005, but KOFIC records the film as a 2006 release.",
+              "evidenceUrl": "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20060046"
+            },
+            {
+              "id": "younger-sibling-count",
+              "sourceValue": "김무진의 직진은 빠르지만 한규림에게는 돌봐야 할 다섯 동생과 팍팍한 현실이 있습니다.",
+              "localizedValue": "무진의 직진은 빠르지만 규림에게는 돌봐야 할 네 동생과 생계의 부담이 있습니다.",
+              "reason": "The owned source says five younger siblings, while the KBS character setup identifies Gyu-rim as the eldest of five siblings, which means four younger siblings.",
+              "evidenceUrl": "https://program.kbs.co.kr/2tv/drama/loveonthemenu/pc/index.html"
+            }
+          ]
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "Ha Seok-jin plays Kim Mu-jin, the owner-chef of an Italian restaurant, in the KBS2 weekend drama Love on the Menu."
+            },
+            "properNames": {
+              "subject": "Ha Seok-jin",
+              "work": "Love on the Menu"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:b26adc646e2ea90dbb94d393c9fcbaf24368b3c1319dc33abe06e625b7767db9",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:54cd0085a65222b3664d5f1b3ccd60156a196fd9b8802d0d7d2040a6543ee1a2",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:639deed231f9b4e975dba1c1ce2ca0ebebd18dd1b3061f309b610af11513eb1c",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "second"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:573c574cebbeb11af66ae9b9d8e6acbd5faef375bb4f86ae159d4e6372e201ad",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:3ee6978527d11ed3b7333b348f201ce3d4d10d58c13e5da3732a5a5971f4bbd9",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "first"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "two"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:559ac1774b19afa88fbba21d908d816e164d8058dc1119b314f3d3b681606756",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:16e98332503b4628e9e989b58476937f32e7618a1a864c49f950a5949bde8273",
+                "values": [
+                  {
+                    "sourceToken": "1982",
+                    "localizedToken": "1982"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "February"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "44",
+                    "localizedToken": "44"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:0a81f73dde853abd796970139fb9b2132cd056fd5ea55453ae0ecf851971cb93",
+                "values": [
+                  {
+                    "sourceToken": "2005",
+                    "localizedToken": "2005"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:ef02dc530ea330c272e9dba3ae483cb829b8a1edc04018f932142b005b84f365",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:0618ec426fad097c23ee1aaee66fab8678d20b1ccfebb3cb9e9bcb575e6fcb05",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:b26adc646e2ea90dbb94d393c9fcbaf24368b3c1319dc33abe06e625b7767db9",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": [
+            {
+              "id": "film-debut-year",
+              "sourceValue": "2005년 드라마 《슬픈 연가》로 연기 활동을 시작했고 같은 해 영화 《방과후 옥상》을 통해 스크린에도 진출했습니다.",
+              "localizedValue": "He began acting in the 2005 drama Sad Love Story and made his film debut in See You After School, released in 2006.",
+              "reason": "The owned source ties the film debut to 2005, but KOFIC records the film as a 2006 release.",
+              "evidenceUrl": "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20060046"
+            },
+            {
+              "id": "younger-sibling-count",
+              "sourceValue": "김무진의 직진은 빠르지만 한규림에게는 돌봐야 할 다섯 동생과 팍팍한 현실이 있습니다.",
+              "localizedValue": "Mu-jin can state what he wants quickly, but Gyu-rim supports her four younger siblings and lives with practical responsibilities that cannot be swept aside by a romantic gesture.",
+              "reason": "The owned source says five younger siblings, while the KBS character setup identifies Gyu-rim as the eldest of five siblings, which means four younger siblings.",
+              "evidenceUrl": "https://program.kbs.co.kr/2tv/drama/loveonthemenu/pc/index.html"
+            }
+          ]
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "role": "ハ・ソクジンはKBS2週末ドラマ『Love on the Menu』で、イタリアンレストランのオーナーシェフ、キム・ムジンを演じます。"
+            },
+            "properNames": {
+              "subject": "ハ・ソクジン",
+              "work": "Love on the Menu"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "role",
+                "sourceRef": "role",
+                "localizedRef": "role",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "work",
+                "sourceRef": "work",
+                "localizedRef": "work",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:e79a18015a5602da092b9221cb4574fb5526d41be5e0ecf371c3a14b04de7052",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i1",
+                "sourceSelector": "source.i1",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:c7ea3cd6c2a6bb9b99724779ebf9d5704bc44400859dbfda4e818f5aca76004c",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "KBS2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:7c234e06508fe6689f7404cb23c7b81672e663c75b9f69385be55ecbd9b8fae4",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "25",
+                    "localizedToken": "25"
+                  },
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-1",
+                "sourceSelector": "source.s1.1",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:5e78f2af88fea6b0461939e3f835561633c13525b5fb2b74d3b1cd8b476b4659",
+                "values": [
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "22",
+                    "localizedToken": "22"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-3",
+                "sourceSelector": "source.s1.3",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:a537c357357c03983f5b251c26a4a87aebedcceb6958cf3f85cda9ae4cf199ba",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-3",
+                "sourceSelector": "source.s2.3",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:f19ee0a96c07abb5dfa0802f812d13fbab279aa810966f5613852ac7a9f7e79b",
+                "values": [
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:054ab73df2ba958606e584832f8b0b540b59dcef208c3205371f551136483098",
+                "values": [
+                  {
+                    "sourceToken": "1982",
+                    "localizedToken": "1982"
+                  },
+                  {
+                    "sourceToken": "2",
+                    "localizedToken": "2"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  },
+                  {
+                    "sourceToken": "26",
+                    "localizedToken": "26"
+                  },
+                  {
+                    "sourceToken": "44",
+                    "localizedToken": "44"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:a6137321c1c990bed6c3f53bfc0811320e9c0e8e4bf56999f8b53a3fde43347b",
+                "values": [
+                  {
+                    "sourceToken": "2005",
+                    "localizedToken": "2005"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s4-1",
+                "sourceSelector": "source.s4.1",
+                "localizedSelector": "localized.p3.2",
+                "localizedHash": "sha256:e3789f60e5c5d768e5a1ef47123e108b3bb627d6de11be5721b2d9e750980015",
+                "values": [
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p2.2",
+                "localizedHash": "sha256:237e0e60c16c9bc50c88e8fd928bd37b692cba7df9af54da3f1e453a33e454ff",
+                "values": [
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-4",
+                "sourceSelector": "source.s5.4",
+                "localizedSelector": "localized.description",
+                "localizedHash": "sha256:e79a18015a5602da092b9221cb4574fb5526d41be5e0ecf371c3a14b04de7052",
+                "values": [
+                  {
+                    "sourceToken": "11.7",
+                    "localizedToken": "11.7"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": [
+            {
+              "id": "film-debut-year",
+              "sourceValue": "2005년 드라마 《슬픈 연가》로 연기 활동을 시작했고 같은 해 영화 《방과후 옥상》을 통해 스크린에도 진출했습니다.",
+              "localizedValue": "2005年のドラマ『悲しき恋歌』で俳優活動を始め、2006年公開の映画『放課後の屋上』でスクリーンデビューしました。",
+              "reason": "The owned source ties the film debut to 2005, but KOFIC records the film as a 2006 release.",
+              "evidenceUrl": "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20060046"
+            },
+            {
+              "id": "younger-sibling-count",
+              "sourceValue": "김무진의 직진은 빠르지만 한규림에게는 돌봐야 할 다섯 동생과 팍팍한 현실이 있습니다.",
+              "localizedValue": "ムジンは自分の思いを早く言葉にできますが、ギュリムには4人の弟妹と暮らしを支える責任があります。",
+              "reason": "The owned source says five younger siblings, while the KBS character setup identifies Gyu-rim as the eldest of five siblings, which means four younger siblings.",
+              "evidenceUrl": "https://program.kbs.co.kr/2tv/drama/loveonthemenu/pc/index.html"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

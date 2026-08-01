@@ -22,6 +22,9 @@ Vercel Web Analytics로 어떤 페이지가 방문을 만들고, 그 방문이 �
 | `article_outbound_clicked` | 네이버 글 원문 열기 | `article_id`, `category` | 카드 이미지·제목·원문 읽기 또는 아카이브 제목 클릭 |
 | `naver_profile_clicked` | 네이버 블로그 홈 열기 | `placement` | 헤더·푸터의 네이버 블로그 링크 클릭 |
 | `archive_search_submitted` | 아카이브 검색 실행 | `category`, `has_query` | 검색 폼 제출 |
+| `localized_article_opened` | 언어 허브에서 번역 기사 열기 | `article_id`, `locale` | 번역 기사 카드 클릭 |
+| `localized_article_outbound_clicked` | 번역 기사에서 네이버 원문 열기 | `article_id`, `locale` | 언어별 상세 페이지 원문 CTA 클릭 |
+| `language_version_clicked` | 표시 언어 변경 | `from_locale`, `to_locale` | 전역 또는 기사별 언어 선택 클릭 |
 
 ## 개인정보와 데이터 품질
 
@@ -33,7 +36,7 @@ Vercel Web Analytics로 어떤 페이지가 방문을 만들고, 그 방문이 �
 ## 보는 방법
 
 Vercel의 `sunstar-content-hub` 프로젝트에서 **Analytics**를 열어 페이지 지표를
-확인하고, **Events**에서 위 세 가지 커스텀 이벤트를 선택합니다.
+확인하고, **Events**에서 위 커스텀 이벤트를 선택합니다.
 `article_id`와 `category`로 나누면 어떤 글과 분야가 네이버 원문 유입을 만드는지
 볼 수 있습니다.
 

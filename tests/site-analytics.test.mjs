@@ -128,4 +128,41 @@ test("delegated tracking records one event for static and dynamic actions", asyn
       data: { category: "stocks", has_query: true },
     },
   ]);
+
+  const localizedLink = new FakeElement("A", {
+    "data-analytics-event": "localized_article_outbound_clicked",
+    "data-analytics-article-id": "224364297906",
+    "data-analytics-locale": "en",
+  });
+  listeners.get("click").listener({ target: localizedLink });
+  assert.deepEqual(JSON.parse(JSON.stringify(calls.at(-1))), [
+    "event",
+    {
+      name: "localized_article_outbound_clicked",
+      data: { article_id: "224364297906", locale: "en" },
+    },
+  ]);
+
+  const languageLink = new FakeElement("A", {
+    "data-analytics-event": "language_version_clicked",
+    "data-analytics-from-locale": "en",
+    "data-analytics-to-locale": "ja",
+  });
+  listeners.get("click").listener({ target: languageLink });
+  assert.deepEqual(JSON.parse(JSON.stringify(calls.at(-1))), [
+    "event",
+    {
+      name: "language_version_clicked",
+      data: { from_locale: "en", to_locale: "ja" },
+    },
+  ]);
+
+  const countBeforeSameLocaleClick = calls.length;
+  const sameLanguageLink = new FakeElement("A", {
+    "data-analytics-event": "language_version_clicked",
+    "data-analytics-from-locale": "en",
+    "data-analytics-to-locale": "en",
+  });
+  listeners.get("click").listener({ target: sameLanguageLink });
+  assert.equal(calls.length, countBeforeSameLocaleClick);
 });

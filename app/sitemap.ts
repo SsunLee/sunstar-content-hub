@@ -1,5 +1,13 @@
 import type { MetadataRoute } from "next";
 
+import {
+  SUPPORTED_LOCALES,
+  getReadyArticleAlternates,
+  getReadyLocalizedArticles,
+  isLocalizedLocaleReady,
+  localizedArticles,
+  localizedArticlePath,
+} from "../lib/localized-content";
 import { absoluteUrl, ARCHIVE_PAGE_COUNT } from "../lib/site";
 
 type SitemapEntry = MetadataRoute.Sitemap[number];
@@ -50,5 +58,60 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }),
   );
 
-  return [...primaryRoutes, ...archiveRoutes];
+  const readyHubLocales = SUPPORTED_LOCALES.filter(
+    (locale) => getReadyLocalizedArticles(locale).length > 0,
+  );
+  const defaultHubLocale = readyHubLocales.includes("ko")
+    ? "ko"
+    : readyHubLocales[0];
+  const hubLanguages =
+    readyHubLocales.length >= 2
+      ? {
+          ...Object.fromEntries(
+            readyHubLocales.map((locale) => [
+              locale,
+              absoluteUrl(`/${locale}`),
+            ]),
+          ),
+          "x-default": absoluteUrl(`/${defaultHubLocale}`),
+        }
+      : null;
+  const localizedHubRoutes: SitemapEntry[] = readyHubLocales.map(
+    (locale) => ({
+      url: absoluteUrl(`/${locale}`),
+      lastModified,
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+      ...(hubLanguages ? { alternates: { languages: hubLanguages } } : {}),
+    }),
+  );
+  const localizedArticleRoutes: SitemapEntry[] = localizedArticles.flatMap(
+    (article) => {
+      const alternatePaths = getReadyArticleAlternates(article);
+      const languages = alternatePaths
+        ? Object.fromEntries(
+            Object.entries(alternatePaths).map(([locale, path]) => [
+              locale,
+              absoluteUrl(path),
+            ]),
+          )
+        : null;
+      return SUPPORTED_LOCALES.filter((locale) =>
+        isLocalizedLocaleReady(article, locale),
+      ).map((locale) => ({
+        url: absoluteUrl(localizedArticlePath(article, locale)),
+        lastModified: new Date(article.locales[locale].updatedAt),
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+        ...(languages ? { alternates: { languages } } : {}),
+      }));
+    },
+  );
+
+  return [
+    ...primaryRoutes,
+    ...archiveRoutes,
+    ...localizedHubRoutes,
+    ...localizedArticleRoutes,
+  ];
 }

@@ -10,6 +10,8 @@
 - 연예 데스크와 주식 데스크
 - 제목·배우·작품·종목명·종목코드 검색
 - 50건 단위로 자동 확장되는 전체 아카이브
+- 한국어·영어·일본어 기사 허브와 언어별 고유 URL
+- 언어별 canonical, 상호 `hreflang`, `x-default`, NewsArticle JSON-LD
 - `robots.txt`, `sitemap.xml`, Open Graph, JSON-LD
 - Bing용 IndexNow 키와 제출 스크립트
 
@@ -43,6 +45,18 @@ npm run sync:naver
 
 기본키는 `naver:tnsqo1126:{logNo}`이며, 공개 목록에 없는 로컬 초안은 포함하지 않습니다.
 
+다국어 기사는 `data/localized-articles.json`에서 관리합니다. 각 기사는
+`ko`, `en`, `ja` 본문을 모두 갖춰야 공개되며 `/ko`, `/en`, `/ja` 허브와
+`/{locale}/news/{slug}` 상세 페이지로 정적 생성됩니다. 브라우저 언어에 따른
+강제 이동은 하지 않고 사용자가 화면의 언어 선택기를 사용합니다.
+
+새 언어판은 기본적으로 `draft`와 `noindex,nofollow`로 처리됩니다. 원문
+`sourceHash`와 언어판 `translatedFromSourceHash`가 같고, `status: ready`,
+`robots: index,follow`, 정확한 공개 URL의 HTTP 200 검증 기록이 모두 있어야만
+release evidence가 됩니다. 같은 기사에서 이런 언어판이 2개 이상이고 상호
+`hreflang` 클러스터가 완성돼야 실제 indexable 상태가 되며, 그 전에는 단일
+언어판을 `ready`로 표시했더라도 사이트맵과 IndexNow에 포함하지 않습니다.
+
 ### 자동 업데이트 배치
 
 `.github/workflows/sync-naver.yml`이 2시간마다 네이버 공개 목록과 RSS를
@@ -60,7 +74,9 @@ Vercel이 새 정적 사이트를 배포합니다. GitHub Actions의 `Run workfl
 
 최종 공개 주소는 `https://ssundesk.com`입니다. `NEXT_PUBLIC_SITE_URL`로 배포별 주소를 명시할 수 있으며, canonical, Open Graph, sitemap, robots의 호스트가 함께 바뀝니다.
 
-GitHub Pages의 기존 검색 URL은 다음 명령으로 `docs/`에 생성합니다. 26개 기존 경로는 같은 경로의 `ssundesk.com` 주소로 즉시 이전되며, 0초 meta refresh와 canonical을 함께 사용합니다.
+GitHub Pages의 기존 검색 URL은 다음 명령으로 `docs/`에 생성합니다. 모든 생성
+경로는 같은 경로의 `ssundesk.com` 주소로 즉시 이전되며, 0초 meta refresh와
+canonical을 함께 사용합니다.
 
 ```bash
 npm run export:static
@@ -72,7 +88,11 @@ Vercel 주 배포용 루트 정적 사이트는 다음 명령으로 `vercel-dist
 npm run export:vercel
 ```
 
-Vercel 프로젝트는 저장소의 `vercel.json`을 사용해 위 명령을 실행하고 `vercel-dist/`를 배포합니다. GitHub Pages의 `docs/`는 기존 검색 URL의 이전 신호로 최소 1년 유지하고, 별도 Sites 배포를 운영 백업으로 유지합니다.
+Vercel 프로젝트는 저장소의 `vercel.json`에 따라 `npm run test:release`를
+실행합니다. 이 게이트가 번역 manifest·수치 대응·정적 산출물·lint를 모두
+통과한 뒤 내부적으로 `npm run export:vercel`로 만든 `vercel-dist/`를
+배포합니다. GitHub Pages의 `docs/`는 기존 검색 URL의 이전 신호로 최소 1년
+유지하고, 별도 Sites 배포를 운영 백업으로 유지합니다.
 
 공개 배포와 키 파일의 `200` 응답을 확인한 뒤에만 다음 명령으로 허브 URL을 IndexNow에 제출합니다.
 

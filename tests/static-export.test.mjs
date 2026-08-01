@@ -9,9 +9,16 @@ const docsPath = fileURLToPath(docsRoot);
 const content = JSON.parse(
   await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
 );
+const localizedContent = JSON.parse(
+  await readFile(
+    new URL("../data/localized-articles.json", import.meta.url),
+    "utf8",
+  ),
+);
 const totalPosts = content.posts.length;
 const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
-const routeCount = archivePageCount + 4;
+const routeCount =
+  archivePageCount + 4 + 3 + localizedContent.articles.length * 3;
 
 async function findIndexFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -90,7 +97,7 @@ test("legacy sitemap keeps old URLs discoverable during migration", async () => 
     ),
   ]);
 
-  assert.equal((sitemap.match(/<loc>/g) || []).length, routeCount);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, archivePageCount + 4);
   assert.doesNotMatch(sitemap, /blog\.naver\.com/);
   assert.doesNotMatch(sitemap, /ssundesk\.com/);
   assert.match(

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clusterId": "ahn-hee-yeon-love-is-coming-han-gyu-rim",
+  "xDefaultLocale": "ko",
+  "members": [
+    {
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "canonical": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "en": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "ja": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "x-default": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      }
+    },
+    {
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "canonical": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "en": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "ja": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "x-default": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      }
+    },
+    {
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "canonical": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "en": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "ja": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+        "x-default": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim"
+      }
+    }
+  ]
+}

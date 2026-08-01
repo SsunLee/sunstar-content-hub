@@ -1,6 +1,9 @@
 /* eslint-disable @next/next/no-img-element -- 정적 내보내기에서 생성 원본 로고 경로를 그대로 보존합니다. */
 import Link from "next/link";
 
+import {
+  getReadyLocalizedArticles,
+} from "@/lib/localized-content";
 import { TOTAL_PUBLIC_POSTS } from "@/lib/site";
 
 const navItems = [
@@ -14,6 +17,7 @@ const navItems = [
 export function SiteHeader() {
   return (
     <>
+      <template data-static-shell-marker="header-start" />
       <a className="skip-link" href="#main-content">
         본문 바로가기
       </a>
@@ -23,15 +27,41 @@ export function SiteHeader() {
             2013—{new Date().getFullYear()} · 공개 글{" "}
             {TOTAL_PUBLIC_POSTS.toLocaleString("ko-KR")}건을 한곳에
           </p>
-          <a
-            href="https://blog.naver.com/tnsqo1126"
-            target="_blank"
-            rel="noopener noreferrer"
-            data-analytics-event="naver_profile_clicked"
-            data-analytics-placement="header"
-          >
-            네이버 블로그 원문 ↗
-          </a>
+          <div className="utility-actions">
+            <nav className="global-language-links" aria-label="다국어 기사">
+              {([
+                ["ko", "KO"],
+                ["en", "EN"],
+                ["ja", "日本語"],
+              ] as const).map(([locale, label]) => (
+                <Link
+                  key={locale}
+                  href={`/${locale}`}
+                  hrefLang={locale}
+                  lang={locale}
+                  rel={
+                    getReadyLocalizedArticles(locale).length > 0
+                      ? undefined
+                      : "nofollow"
+                  }
+                  data-analytics-event="language_version_clicked"
+                  data-analytics-from-locale="root"
+                  data-analytics-to-locale={locale}
+                >
+                  {label}
+                </Link>
+              ))}
+            </nav>
+            <a
+              href="https://blog.naver.com/tnsqo1126"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-analytics-event="naver_profile_clicked"
+              data-analytics-placement="header"
+            >
+              네이버 블로그 원문 ↗
+            </a>
+          </div>
         </div>
       </div>
       <header className="site-header">
@@ -72,6 +102,7 @@ export function SiteHeader() {
           </div>
         </nav>
       </header>
+      <template data-static-shell-marker="header-end" />
     </>
   );
 }

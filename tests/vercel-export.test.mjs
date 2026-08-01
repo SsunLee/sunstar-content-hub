@@ -9,9 +9,49 @@ const outputPath = fileURLToPath(outputRoot);
 const content = JSON.parse(
   await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
 );
+const localizedContent = JSON.parse(
+  await readFile(
+    new URL("../data/localized-articles.json", import.meta.url),
+    "utf8",
+  ),
+);
 const totalPosts = content.posts.length;
 const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
-const routeCount = archivePageCount + 4;
+const routeCount =
+  archivePageCount + 4 + 3 + localizedContent.articles.length * 3;
+
+function isLocalizedLocaleReady(article, locale) {
+  const localized = article.locales?.[locale];
+  const verification = localized?.publicVerification;
+  const expectedUrl = `${expectedSiteUrl()}/${locale}/news/${localized?.slug || ""}`;
+  return Boolean(
+    localized?.status === "ready" &&
+      localized?.robots === "index,follow" &&
+      /^sha256:[a-f0-9]{64}$/.test(article.sourceHash || "") &&
+      localized.translatedFromSourceHash === article.sourceHash &&
+      verification?.status === "verified" &&
+      verification.httpStatus === 200 &&
+      verification.checkedAt &&
+      (verification.resolvedUrl || "").replace(/\/+$/, "") ===
+        expectedUrl.replace(/\/+$/, ""),
+  );
+}
+
+const readyHubLocales = ["ko", "en", "ja"].filter((locale) =>
+  localizedContent.articles.some((article) =>
+    isLocalizedLocaleReady(article, locale),
+  ),
+);
+const readyLocalizedPages = localizedContent.articles.reduce(
+  (total, article) =>
+    total +
+    ["ko", "en", "ja"].filter((locale) =>
+      isLocalizedLocaleReady(article, locale),
+    ).length,
+  0,
+);
+const sitemapRouteCount =
+  archivePageCount + 4 + readyHubLocales.length + readyLocalizedPages;
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -161,7 +201,7 @@ test("Vercel search-engine files reference only the primary custom domain", asyn
   ]);
   const siteUrl = expectedSiteUrl();
 
-  assert.equal((sitemap.match(/<loc>/g) || []).length, routeCount);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, sitemapRouteCount);
   assert.doesNotMatch(sitemap, /blog\.naver\.com|ssunlee\.github\.io/);
   assert.match(sitemap, new RegExp(`<loc>${siteUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/</loc>`));
   assert.equal(robots, `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);

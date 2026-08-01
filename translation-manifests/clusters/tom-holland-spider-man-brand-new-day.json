@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clusterId": "tom-holland-spider-man-brand-new-day",
+  "xDefaultLocale": "ko",
+  "members": [
+    {
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+      "canonical": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+        "en": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+        "ja": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+        "x-default": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day"
+      }
+    },
+    {
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+      "canonical": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+        "en": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+        "ja": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+        "x-default": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day"
+      }
+    },
+    {
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+      "canonical": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+        "en": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+        "ja": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+        "x-default": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day"
+      }
+    }
+  ]
+}

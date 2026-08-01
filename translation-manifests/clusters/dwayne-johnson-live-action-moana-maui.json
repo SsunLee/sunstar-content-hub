@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clusterId": "dwayne-johnson-live-action-moana-maui",
+  "xDefaultLocale": "ko",
+  "members": [
+    {
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+      "canonical": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+        "en": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+        "ja": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+        "x-default": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui"
+      }
+    },
+    {
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+      "canonical": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+        "en": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+        "ja": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+        "x-default": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui"
+      }
+    },
+    {
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+      "canonical": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+        "en": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+        "ja": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+        "x-default": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui"
+      }
+    }
+  ]
+}

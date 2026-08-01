@@ -84,13 +84,116 @@ if (build.status !== 0) {
 const content = JSON.parse(
   await readFile(resolve(projectRoot, "data", "posts.json"), "utf8"),
 );
+const localizedContent = JSON.parse(
+  await readFile(
+    resolve(projectRoot, "data", "localized-articles.json"),
+    "utf8",
+  ),
+);
+const supportedLocales = ["ko", "en", "ja"];
+if (!Array.isArray(localizedContent.articles)) {
+  throw new Error("Localized content must contain an articles array.");
+}
 const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const primaryRoutes = ["/", "/entertainment", "/stocks", "/archive", "/about"];
 const archiveRoutes = Array.from(
   { length: Math.max(0, archivePageCount - 1) },
   (_, index) => `/archive/page/${index + 2}`,
 );
-const routes = [...primaryRoutes, ...archiveRoutes];
+const localizedHubRoutes = supportedLocales.map((locale) => `/${locale}`);
+const localizedArticleRoutes = localizedContent.articles.flatMap((article) =>
+  supportedLocales.map((locale) => {
+    const slug = article.locales?.[locale]?.slug;
+    if (typeof slug !== "string" || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) {
+      throw new Error(
+        `Localized article ${article.sourceId || "unknown"} has an invalid ${locale} slug.`,
+      );
+    }
+    return `/${locale}/news/${slug}`;
+  }),
+);
+const routes = [
+  ...primaryRoutes,
+  ...archiveRoutes,
+  ...localizedHubRoutes,
+  ...localizedArticleRoutes,
+];
+
+function normalizeVerifiedUrl(value) {
+  return value.replace(/\/+$/, "");
+}
+
+function isLocalizedLocaleReady(article, locale) {
+  const localized = article.locales?.[locale];
+  const verification = localized?.publicVerification;
+  const path = `/${locale}/news/${localized?.slug || ""}`;
+  const expectedUrl = routeUrl(siteUrl, path);
+  return Boolean(
+    localized?.status === "ready" &&
+      localized?.robots === "index,follow" &&
+      /^sha256:[a-f0-9]{64}$/.test(article.sourceHash || "") &&
+      localized.translatedFromSourceHash === article.sourceHash &&
+      verification?.status === "verified" &&
+      verification.httpStatus === 200 &&
+      verification.checkedAt &&
+      normalizeVerifiedUrl(verification.resolvedUrl || "") ===
+        normalizeVerifiedUrl(expectedUrl),
+  );
+}
+
+const readyHubLocales = supportedLocales.filter((locale) =>
+  localizedContent.articles.some((article) =>
+    isLocalizedLocaleReady(article, locale),
+  ),
+);
+const readyLocalizedHubRoutes = readyHubLocales.map((locale) => `/${locale}`);
+const readyLocalizedArticleRoutes = localizedContent.articles.flatMap(
+  (article) =>
+    supportedLocales
+      .filter((locale) => isLocalizedLocaleReady(article, locale))
+      .map((locale) => `/${locale}/news/${article.locales[locale].slug}`),
+);
+const sitemapRoutes = [
+  ...primaryRoutes,
+  ...archiveRoutes,
+  ...(targetName === "vercel" ? readyLocalizedHubRoutes : []),
+  ...(targetName === "vercel" ? readyLocalizedArticleRoutes : []),
+];
+
+const localizedAlternates = new Map();
+const defaultHubLocale = readyHubLocales.includes("ko")
+  ? "ko"
+  : readyHubLocales[0];
+const hubAlternates = Object.fromEntries(
+  readyHubLocales.map((locale) => [locale, `/${locale}`]),
+);
+if (readyHubLocales.length >= 2) {
+  for (const route of readyLocalizedHubRoutes) {
+    localizedAlternates.set(route, {
+      ...hubAlternates,
+      "x-default": `/${defaultHubLocale}`,
+    });
+  }
+}
+for (const article of localizedContent.articles) {
+  const readyLocales = supportedLocales.filter((locale) =>
+    isLocalizedLocaleReady(article, locale),
+  );
+  if (readyLocales.length < 2) continue;
+  const alternates = Object.fromEntries(
+    readyLocales.map((locale) => [
+      locale,
+      `/${locale}/news/${article.locales[locale].slug}`,
+    ]),
+  );
+  const defaultLocale = readyLocales.includes("ko") ? "ko" : readyLocales[0];
+  for (const route of Object.values(alternates)) {
+    localizedAlternates.set(route, {
+      ...alternates,
+      "x-default": alternates[defaultLocale],
+    });
+  }
+}
 
 await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
@@ -109,6 +212,11 @@ function routeUrl(rootUrl, route) {
   return route === "/" ? `${rootUrl}/` : `${rootUrl}${route}`;
 }
 
+function routeLocale(route) {
+  const locale = route.split("/")[1];
+  return supportedLocales.includes(locale) ? locale : null;
+}
+
 function toStaticHtml(html, route) {
   let result = html
     .replace(
@@ -118,6 +226,22 @@ function toStaticHtml(html, route) {
     .replace(/<link[^>]*rel="modulepreload"[^>]*\/?>/gi, "")
     .replace(/\sdata-rsc-css-href="[^"]*"/gi, "")
     .replace(/(href|src|action)="\/(?!\/)/g, `$1="${basePath}/`);
+
+  const locale = routeLocale(route);
+  if (locale) {
+    result = result.replace(
+      /(<html\b[^>]*\blang=")[^"]*(")/i,
+      `$1${locale}$2`,
+    );
+    const headerShell =
+      /<template\b[^>]*data-static-shell-marker="header-start"[^>]*><\/template>[\s\S]*?<template\b[^>]*data-static-shell-marker="header-end"[^>]*><\/template>/i;
+    const footerShell =
+      /<template\b[^>]*data-static-shell-marker="footer-start"[^>]*><\/template>[\s\S]*?<template\b[^>]*data-static-shell-marker="footer-end"[^>]*><\/template>/i;
+    if (!headerShell.test(result) || !footerShell.test(result)) {
+      throw new Error(`Localized shell markers are missing for ${route}.`);
+    }
+    result = result.replace(headerShell, "").replace(footerShell, "");
+  }
 
   if (route.startsWith("/archive")) {
     result = result
@@ -180,13 +304,32 @@ for (const route of routes) {
   await writeFile(destination, toStaticHtml(await response.text(), route));
 }
 
-const sitemapUrls = routes.map((route) => {
+function escapeXml(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+const sitemapUrls = sitemapRoutes.map((route) => {
   const loc = routeUrl(sitemapSiteUrl, route);
-  return `  <url><loc>${loc}</loc></url>`;
+  const alternates = localizedAlternates.get(route);
+  if (!alternates) return `  <url><loc>${escapeXml(loc)}</loc></url>`;
+  const links = Object.entries(alternates).map(
+    ([locale, alternateRoute]) =>
+      `    <xhtml:link rel="alternate" hreflang="${locale}" href="${escapeXml(routeUrl(sitemapSiteUrl, alternateRoute))}" />`,
+  );
+  return [
+    "  <url>",
+    `    <loc>${escapeXml(loc)}</loc>`,
+    ...links,
+    "  </url>",
+  ].join("\n");
 });
 const sitemap = [
   '<?xml version="1.0" encoding="UTF-8"?>',
-  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">',
   ...sitemapUrls,
   "</urlset>",
   "",

@@ -41,7 +41,7 @@ jobs:
         run: npm run validate:posts
 
       - name: Verify the production static export
-        run: npm run test:vercel
+        run: npm run test:release
 
       - name: Detect public index changes
         id: changes

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clusterId": "ha-seok-jin-love-is-coming-kim-mu-jin",
+  "xDefaultLocale": "ko",
+  "members": [
+    {
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "canonical": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "en": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "ja": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "x-default": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      }
+    },
+    {
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "canonical": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "en": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "ja": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "x-default": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      }
+    },
+    {
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "canonical": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-01T08:50:35.668Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "en": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "ja": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+        "x-default": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin"
+      }
+    }
+  ]
+}

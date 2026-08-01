@@ -1,6 +1,11 @@
 import { readFile } from "node:fs/promises";
 import { setTimeout as delay } from "node:timers/promises";
 
+import {
+  SUPPORTED_LOCALES,
+  isLocalizedLocaleReady,
+} from "./localized-release-readiness.mjs";
+
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ||
   "https://ssundesk.com"
@@ -10,11 +15,42 @@ const indexNowKey = "8fd6498b0d274934ad567cecd1fae369";
 const content = JSON.parse(
   await readFile(new URL("../data/posts.json", import.meta.url), "utf8"),
 );
+const localizedContent = JSON.parse(
+  await readFile(
+    new URL("../data/localized-articles.json", import.meta.url),
+    "utf8",
+  ),
+);
+const supportedLocales = SUPPORTED_LOCALES;
 const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const archivePages = Array.from(
   { length: Math.max(0, archivePageCount - 1) },
   (_, index) => `${siteUrl}/archive/page/${index + 2}`,
 );
+const readyHubLocales = supportedLocales.filter((locale) =>
+  localizedContent.articles.some((article) =>
+    isLocalizedLocaleReady(article, locale, siteUrl),
+  ),
+);
+const localizedPages = [
+  ...readyHubLocales.map((locale) => `${siteUrl}/${locale}`),
+  ...localizedContent.articles.flatMap((article) =>
+    supportedLocales
+      .filter((locale) => isLocalizedLocaleReady(article, locale, siteUrl))
+      .map((locale) => {
+        const slug = article.locales?.[locale]?.slug;
+        if (
+          typeof slug !== "string" ||
+          !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)
+        ) {
+          throw new Error(
+            `Localized article ${article.sourceId || "unknown"} has an invalid ${locale} slug.`,
+          );
+        }
+        return `${siteUrl}/${locale}/news/${slug}`;
+      }),
+  ),
+];
 const urlList = [
   `${siteUrl}/`,
   `${siteUrl}/entertainment`,
@@ -22,6 +58,7 @@ const urlList = [
   `${siteUrl}/archive`,
   `${siteUrl}/about`,
   ...archivePages,
+  ...localizedPages,
 ];
 
 const payload = {
@@ -30,6 +67,11 @@ const payload = {
   keyLocation: `${siteUrl}/${indexNowKey}.txt`,
   urlList,
 };
+
+if (process.env.INDEXNOW_DRY_RUN === "1") {
+  console.log(JSON.stringify({ dryRun: true, payload }, null, 2));
+  process.exit(0);
+}
 
 const maxAttempts = Number(process.env.INDEXNOW_ATTEMPTS || 4);
 let response;

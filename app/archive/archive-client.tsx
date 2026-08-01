@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const POSTS_PER_PAGE = 50;
 
 export type ArchivePost = {
@@ -271,9 +273,9 @@ export default function ArchiveClient({
             );
           })}
           {(query || category !== "all") && (
-            <a href="/archive" className="ml-auto py-1 text-black/45 underline underline-offset-4 hover:text-black">
+            <Link href="/archive" className="ml-auto py-1 text-black/45 underline underline-offset-4 hover:text-black">
               조건 지우기
-            </a>
+            </Link>
           )}
         </nav>
       </section>
@@ -356,12 +358,12 @@ export default function ArchiveClient({
           <div className="border-b border-black/20 py-24 text-center">
             <p className="font-serif text-3xl tracking-[-0.035em]">일치하는 글이 없습니다.</p>
             <p className="mt-3 text-sm text-black/55">검색어를 줄이거나 다른 분류를 선택해 보세요.</p>
-            <a
+            <Link
               href="/archive"
               className="mt-7 inline-block border-b border-black pb-1 text-sm font-semibold"
             >
               전체 글로 돌아가기
-            </a>
+            </Link>
           </div>
         )}
       </section>

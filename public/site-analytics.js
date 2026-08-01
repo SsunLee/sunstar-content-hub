@@ -30,6 +30,30 @@
         var placement = element.getAttribute("data-analytics-placement");
         if (!placement) return;
         send(eventName, { placement: placement });
+        return;
+      }
+
+      if (
+        eventName === "localized_article_opened" ||
+        eventName === "localized_article_outbound_clicked"
+      ) {
+        var localizedArticleId = element.getAttribute(
+          "data-analytics-article-id",
+        );
+        var locale = element.getAttribute("data-analytics-locale");
+        if (!localizedArticleId || !locale) return;
+        send(eventName, { article_id: localizedArticleId, locale: locale });
+        return;
+      }
+
+      if (eventName === "language_version_clicked") {
+        var fromLocale = element.getAttribute("data-analytics-from-locale");
+        var toLocale = element.getAttribute("data-analytics-to-locale");
+        if (!fromLocale || !toLocale || fromLocale === toLocale) return;
+        send(eventName, {
+          from_locale: fromLocale,
+          to_locale: toLocale,
+        });
       }
     },
     true,

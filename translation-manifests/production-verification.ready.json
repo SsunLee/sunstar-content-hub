@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "expectedState": "ready",
+  "checkedAt": "2026-08-01T08:53:26.282Z",
+  "valid": true,
+  "pages": [
+    {
+      "articleId": "ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/en/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ja/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ko/news/ahn-hee-yeon-love-is-coming-han-gyu-rim",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "dwayne-johnson-live-action-moana-maui",
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/en/news/dwayne-johnson-live-action-moana-maui",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "dwayne-johnson-live-action-moana-maui",
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ja/news/dwayne-johnson-live-action-moana-maui",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "dwayne-johnson-live-action-moana-maui",
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ko/news/dwayne-johnson-live-action-moana-maui",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "ha-seok-jin-love-is-coming-kim-mu-jin",
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/en/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "ha-seok-jin-love-is-coming-kim-mu-jin",
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ja/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "ha-seok-jin-love-is-coming-kim-mu-jin",
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ko/news/ha-seok-jin-love-is-coming-kim-mu-jin",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "matt-damon-the-odyssey-odysseus",
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/matt-damon-the-odyssey-odysseus",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/en/news/matt-damon-the-odyssey-odysseus",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "matt-damon-the-odyssey-odysseus",
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/matt-damon-the-odyssey-odysseus",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ja/news/matt-damon-the-odyssey-odysseus",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "matt-damon-the-odyssey-odysseus",
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/matt-damon-the-odyssey-odysseus",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ko/news/matt-damon-the-odyssey-odysseus",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "tom-holland-spider-man-brand-new-day",
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/en/news/tom-holland-spider-man-brand-new-day",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "tom-holland-spider-man-brand-new-day",
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ja/news/tom-holland-spider-man-brand-new-day",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "articleId": "tom-holland-spider-man-brand-new-day",
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+      "httpStatus": 200,
+      "resolvedUrl": "https://ssundesk.com/ko/news/tom-holland-spider-man-brand-new-day",
+      "valid": true,
+      "errors": []
+    }
+  ]
+}
