@@ -50,6 +50,11 @@ npm run sync:naver
 `/{locale}/news/{slug}` 상세 페이지로 정적 생성됩니다. 브라우저 언어에 따른
 강제 이동은 하지 않고 사용자가 화면의 언어 선택기를 사용합니다.
 
+다국어 카드도 한국어 메인과 같은 공개 네이버 썸네일 URL을 사용합니다. 각
+기사의 `imageAlt`에는 `ko`·`en`·`ja` 설명을 모두 기록하고, 외부 이미지 요청은
+referrer 정보를 보내지 않습니다. 상세 기사의 공유 이미지는 SS.Desk 자체
+브랜드 자산을 유지합니다.
+
 새 언어판은 기본적으로 `draft`와 `noindex,nofollow`로 처리됩니다. 원문
 `sourceHash`와 언어판 `translatedFromSourceHash`가 같고, `status: ready`,
 `robots: index,follow`, 정확한 공개 URL의 HTTP 200 검증 기록이 모두 있어야만

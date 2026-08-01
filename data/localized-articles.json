@@ -9,6 +9,11 @@
       "sourceUrl": "https://blog.naver.com/tnsqo1126/224364297906",
       "publishedAt": "2026-07-31T13:31:45.000Z",
       "image": "https://blogthumb.pstatic.net/MjAyNjA3MzFfMTA3/MDAxNzg1NTA0NTEzNDg5.JV4F8c_YW1AVHnQJCdsSg-X1sKRMa57U0qiiwclxTLEg.tcO2WjCxDDId5zdqkdo3FK-POVnN8WPLn24l1aWLul0g.JPEG/photo-01.jpg?type=s3",
+      "imageAlt": {
+        "ko": "공식 예매 안내 영상에서 관객에게 인사하는 톰 홀랜드",
+        "en": "Tom Holland greeting viewers in an official ticket-booking video",
+        "ja": "公式のチケット予約案内映像で観客にあいさつするトム・ホランド"
+      },
       "work": "스파이더맨: 브랜드 뉴 데이",
       "subject": "톰 홀랜드",
       "sourceHash": "sha256:42bb41eaaacf72b53e236018f3a9aa4c975e98139e9a6ed375f1c5b216a51502",
@@ -215,6 +220,11 @@
       "sourceUrl": "https://blog.naver.com/tnsqo1126/224361315975",
       "publishedAt": "2026-07-28T23:21:06.000Z",
       "image": "https://blogthumb.pstatic.net/MjAyNjA3MjlfMTE5/MDAxNzg1MjgwNzEwMTM0.KG9xAyHrPTiF9Gy99tzYesWElOp3AYdE9oiuQ1_9zPwg.qjKERYHQJ5KwcJhQef6hQPe8dIP3_KDI3uTfCUCtoeog.JPEG/photo-05.jpg?type=s3",
+      "imageAlt": {
+        "ko": "숲속 전투에서 칼을 휘두르는 오디세우스 역의 맷 데이먼",
+        "en": "Matt Damon as Odysseus wielding a sword during a forest battle",
+        "ja": "森の戦いで剣を振るうオデュッセウス役のマット・デイモン"
+      },
       "work": "오디세이",
       "subject": "맷 데이먼",
       "sourceHash": "sha256:1203d50c617ad5190f542da87b443d0a7bf3cb46233864dbf3d598f324cf4d1f",
@@ -429,6 +439,11 @@
       "sourceUrl": "https://blog.naver.com/tnsqo1126/224358966231",
       "publishedAt": "2026-07-26T23:49:37.000Z",
       "image": "https://blogthumb.pstatic.net/MjAyNjA3MjdfMTk5/MDAxNzg1MTA5NDI0NDA5.QIBKWRF5LdYSkCfBTlErxkfqUK4cyybbRl2g5hMtVP8g.JnlrzpP-_yU1EBlWA1u4h8ARQsTLduMsavXV017AmQgg.JPEG/photo-01.jpg?type=s3",
+      "imageAlt": {
+        "ko": "해변에서 모아나와 마주 선 마우이 역의 드웨인 존슨",
+        "en": "Dwayne Johnson as Maui facing Moana on the beach",
+        "ja": "浜辺でモアナと向き合うマウイ役のドウェイン・ジョンソン"
+      },
       "work": "모아나",
       "subject": "드웨인 존슨",
       "sourceHash": "sha256:bf012f7d731d1a7c826ec8c0436b42c4c96ada959abb849e284bc65cb2b95378",
@@ -639,6 +654,11 @@
       "sourceUrl": "https://blog.naver.com/tnsqo1126/224358645515",
       "publishedAt": "2026-07-26T12:58:26.000Z",
       "image": "https://blogthumb.pstatic.net/MjAyNjA3MjZfMTc3/MDAxNzg1MDcwNTMyOTI5.2bGqR2dMKn4_qWRJHPmghr82XNdEQfby9uIbV4ZFKZAg.hgSz7LvICStTS0GpWbrybtUpTKekpgfK2__xzqhmSaQg.JPEG/photo-01.jpg?type=s3",
+      "imageAlt": {
+        "ko": "버스 정류장에서 생각에 잠긴 안희연",
+        "en": "Ahn Hee-yeon lost in thought at a bus stop",
+        "ja": "バス停で物思いにふけるアン・ヒヨン"
+      },
       "work": "사랑이 온다",
       "subject": "안희연",
       "sourceHash": "sha256:e0c57b89b5bcbd1d124ff414fe4113fda2ba5b583d160986cc02ebd9440ee312",
@@ -850,6 +870,11 @@
       "sourceUrl": "https://blog.naver.com/tnsqo1126/224358639884",
       "publishedAt": "2026-07-26T12:51:17.000Z",
       "image": "https://blogthumb.pstatic.net/MjAyNjA3MjZfMiAg/MDAxNzg1MDcwMTI2NjY4.fABSvZ1Wx1EGC53Tz639whyLVCSqLDEq9Q7g4YjnyEIg.yf44nMkrg8a574pY52AhiQddZSyQKvynXTEwmZdSDpwg.JPEG/photo-01.jpg?type=s3",
+      "imageAlt": {
+        "ko": "초록색 니트 차림으로 버스 정류장에 선 하석진",
+        "en": "Ha Seok-jin standing at a bus stop in a green knit sweater",
+        "ja": "緑のニット姿でバス停に立つハ・ソクジン"
+      },
       "work": "사랑이 온다",
       "subject": "하석진",
       "sourceHash": "sha256:563216220db2534515927678b8ee66a966b47eb17361cb376745be55cd6e5d1a",

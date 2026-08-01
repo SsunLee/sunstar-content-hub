@@ -55,6 +55,7 @@ export type LocalizedArticle = {
   sourceUrl: string;
   publishedAt: string;
   image: string;
+  imageAlt: Record<Locale, string>;
   work: string;
   subject: string;
   sourceHash: string;
@@ -174,6 +175,22 @@ function requireUrl(value: unknown, path: string) {
     fail(path, "expected a valid URL");
   }
   return text;
+}
+
+function parseLocalizedStrings(value: unknown, path: string) {
+  const record = requireRecord(value, path);
+  const localized = Object.fromEntries(
+    SUPPORTED_LOCALES.map((locale) => [
+      locale,
+      requireString(record[locale], `${path}.${locale}`),
+    ]),
+  ) as Record<Locale, string>;
+  for (const locale of ["en", "ja"] as const) {
+    if (/[가-힣]/u.test(localized[locale])) {
+      fail(`${path}.${locale}`, "must not contain untranslated Korean text");
+    }
+  }
+  return localized;
 }
 
 function requireStringArray(value: unknown, path: string) {
@@ -389,6 +406,7 @@ export function parseLocalizedContent(value: unknown): LocalizedContentIndex {
       sourceUrl: requireUrl(article.sourceUrl, `${path}.sourceUrl`),
       publishedAt: requireDate(article.publishedAt, `${path}.publishedAt`),
       image: requireUrl(article.image, `${path}.image`),
+      imageAlt: parseLocalizedStrings(article.imageAlt, `${path}.imageAlt`),
       work: requireString(article.work, `${path}.work`),
       subject: requireString(article.subject, `${path}.subject`),
       sourceHash: optionalHash(article.sourceHash, `${path}.sourceHash`),

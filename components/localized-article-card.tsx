@@ -28,10 +28,20 @@ export function LocalizedArticleCard({
       <Link
         className="localized-card-image"
         href={localizedArticlePath(article, locale)}
-        tabIndex={-1}
-        aria-hidden="true"
+        aria-label={copy.title}
         {...analytics}
       >
+        {/* The static export keeps parity with the existing Korean thumbnail feed. */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={article.image}
+          alt={article.imageAlt[locale]}
+          width={365}
+          height={365}
+          loading="lazy"
+          decoding="async"
+          referrerPolicy="no-referrer"
+        />
         <span className="localized-card-monogram">SS</span>
         <span className="localized-card-work">{copy.work}</span>
       </Link>
