@@ -177,6 +177,20 @@ function requireUrl(value: unknown, path: string) {
   return text;
 }
 
+const NAVER_IMAGE_HOSTS = new Set([
+  "blogthumb.pstatic.net",
+  "phinf.pstatic.net",
+]);
+
+function requireNaverThumbnailUrl(value: unknown, path: string) {
+  const text = requireUrl(value, path);
+  const url = new URL(text);
+  if (url.protocol !== "https:" || !NAVER_IMAGE_HOSTS.has(url.hostname)) {
+    fail(path, "expected an HTTPS Naver thumbnail URL");
+  }
+  return text;
+}
+
 function parseLocalizedStrings(value: unknown, path: string) {
   const record = requireRecord(value, path);
   const localized = Object.fromEntries(
@@ -405,7 +419,7 @@ export function parseLocalizedContent(value: unknown): LocalizedContentIndex {
       category: requireString(article.category, `${path}.category`),
       sourceUrl: requireUrl(article.sourceUrl, `${path}.sourceUrl`),
       publishedAt: requireDate(article.publishedAt, `${path}.publishedAt`),
-      image: requireUrl(article.image, `${path}.image`),
+      image: requireNaverThumbnailUrl(article.image, `${path}.image`),
       imageAlt: parseLocalizedStrings(article.imageAlt, `${path}.imageAlt`),
       work: requireString(article.work, `${path}.work`),
       subject: requireString(article.subject, `${path}.subject`),

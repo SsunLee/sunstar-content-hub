@@ -155,13 +155,20 @@ test("localized hubs use native shells and fail closed until content is ready", 
         html.includes(`href="${articlePath(article, locale)}"`),
         `${locale} hub does not link ${article.sourceId}`,
       );
+      const imageTag = (html.match(/<img\b[^>]*>/gi) || []).find((tag) =>
+        tag.includes(`src="${article.image}"`),
+      );
       assert.ok(
-        html.includes(`src="${article.image}"`),
+        imageTag,
         `${locale} hub does not show the thumbnail for ${article.sourceId}`,
       );
       assert.ok(
-        html.includes(`alt="${article.imageAlt[locale]}"`),
+        imageTag.includes(`alt="${article.imageAlt[locale]}"`),
         `${locale} hub does not localize the thumbnail alt for ${article.sourceId}`,
+      );
+      assert.ok(
+        imageTag.includes('referrerPolicy="no-referrer"'),
+        `${locale} hub thumbnail does not suppress the referrer for ${article.sourceId}`,
       );
       if (locale !== "ko") {
         assert.doesNotMatch(article.imageAlt[locale], /[가-힣]/u);
