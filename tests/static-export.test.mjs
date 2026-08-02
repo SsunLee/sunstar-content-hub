@@ -87,6 +87,10 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
   );
   assert.doesNotMatch(
     html,
+    /data-coupang-banner|coupang-partners-banner\.vercel\.app/,
+  );
+  assert.doesNotMatch(
+    html,
     /href="\/sunstar-content-hub\/news\/\d{12}"/,
   );
   assert.match(html, /href="https:\/\/ssundesk\.com\/news\/\d{12}"/);

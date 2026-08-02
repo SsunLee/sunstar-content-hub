@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { CoupangHorizontalBanner } from "@/components/coupang-horizontal-banner";
 import { PostCard } from "@/components/post-card";
 import { getPosts, type PostCategory } from "@/lib/posts";
 
@@ -69,6 +70,19 @@ export function DeskPage({ category }: DeskPageProps) {
           </div>
         </aside>
       </section>
+
+      <div className="page-shell">
+        <CoupangHorizontalBanner
+          placement={`${category}-after-lead`}
+          category={category}
+          source="search"
+          keyword={
+            category === "entertainment"
+              ? "영화 드라마 굿즈"
+              : "재테크 투자 도서"
+          }
+        />
+      </div>
 
       <section className="page-shell all-stories">
         <div className="section-heading">

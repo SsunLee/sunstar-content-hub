@@ -25,6 +25,7 @@ Vercel Web Analytics로 어떤 페이지가 방문을 만들고, 그 방문이 �
 | `localized_article_opened` | 언어 허브에서 번역 기사 열기 | `article_id`, `locale` | 번역 기사 카드 클릭 |
 | `localized_article_outbound_clicked` | 번역 기사에서 네이버 원문 열기 | `article_id`, `locale` | 언어별 상세 페이지 원문 CTA 클릭 |
 | `language_version_clicked` | 표시 언어 변경 | `from_locale`, `to_locale` | 전역 또는 기사별 언어 선택 클릭 |
+| `coupang_banner_clicked` | 쿠팡 파트너스 배너 열기 | `placement`, `variant` (`category:size`) | 홈·데스크·한국어 상세의 가로 배너 클릭 |
 
 ## 개인정보와 데이터 품질
 

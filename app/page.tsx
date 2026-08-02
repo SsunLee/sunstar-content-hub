@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
+import { CoupangHorizontalBanner } from "@/components/coupang-horizontal-banner";
 import { PostCard } from "@/components/post-card";
 import {
   getFeaturedPosts,
@@ -126,6 +127,14 @@ export default function Home() {
         </aside>
       </section>
 
+      <div className="page-shell">
+        <CoupangHorizontalBanner
+          placement="home-after-lead"
+          category="home"
+          desktopSize="970x250"
+        />
+      </div>
+
       <section className="statement-band">
         <div className="page-shell statement-grid">
           <p className="statement-number">
@@ -165,6 +174,15 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <div className="page-shell">
+        <CoupangHorizontalBanner
+          placement="home-between-desks"
+          category="entertainment"
+          source="search"
+          keyword="영화 드라마 굿즈"
+        />
+      </div>
 
       <section className="stock-stage">
         <div className="page-shell desk-section stock-desk">

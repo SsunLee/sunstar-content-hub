@@ -76,6 +76,7 @@ const build = spawnSync(npmCommand, ["run", "build"], {
   cwd: projectRoot,
   env: {
     ...process.env,
+    NEXT_PUBLIC_EXPORT_TARGET: targetName,
     NEXT_PUBLIC_SITE_URL: siteUrl,
   },
   shell: isWindows,
