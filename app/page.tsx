@@ -178,9 +178,7 @@ export default function Home() {
       <div className="page-shell">
         <CoupangHorizontalBanner
           placement="home-between-desks"
-          category="entertainment"
-          source="search"
-          keyword="영화 드라마 굿즈"
+          category="home"
         />
       </div>
 

@@ -78,8 +78,8 @@ export function DeskPage({ category }: DeskPageProps) {
           source="search"
           keyword={
             category === "entertainment"
-              ? "영화 드라마 굿즈"
-              : "재테크 투자 도서"
+              ? "영화 굿즈"
+              : "사무용품 모니터"
           }
         />
       </div>

@@ -108,8 +108,8 @@ test("Coupang banners occupy the requested editorial positions only", async () =
     assert.equal(
       bannerUrl.searchParams.get("keyword"),
       post.category === "entertainment"
-        ? `${post.tags[0]} 굿즈`
-        : "재테크 투자 도서",
+        ? "영화 굿즈"
+        : "사무용품 모니터",
     );
   }
 
@@ -145,6 +145,7 @@ test("every banner preserves URL parity, stable slots, disclosure, and CLS dimen
 
   assert.equal(blocks.length, detailPosts.length + 4);
   const slots = new Set();
+  const productPools = new Set();
 
   for (const block of blocks) {
     const openingTag = block.match(/^<aside\b[^>]*>/u)?.[0];
@@ -187,6 +188,19 @@ test("every banner preserves URL parity, stable slots, disclosure, and CLS dimen
       );
       assert.equal(href.searchParams.has("keyword"), source === "search");
 
+      const keyword = href.searchParams.get("keyword");
+      if (category === "home") {
+        assert.equal(source, "goldbox");
+        assert.equal(keyword, null);
+      } else if (category === "entertainment") {
+        assert.equal(source, "search");
+        assert.equal(keyword, "영화 굿즈");
+      } else {
+        assert.equal(source, "search");
+        assert.equal(keyword, "사무용품 모니터");
+      }
+      productPools.add(source === "goldbox" ? source : `${source}:${keyword}`);
+
       const expectedWidth =
         viewport === "mobile"
           ? "320"
@@ -214,4 +228,8 @@ test("every banner preserves URL parity, stable slots, disclosure, and CLS dimen
   }
 
   assert.equal(slots.size, detailPosts.length + 4);
+  assert.deepEqual(
+    productPools,
+    new Set(["goldbox", "search:영화 굿즈", "search:사무용품 모니터"]),
+  );
 });

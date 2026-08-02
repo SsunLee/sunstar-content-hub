@@ -47,8 +47,8 @@ export function PostDetailArticle({
   const detailSections = getPostDetailSections(post);
   const commerceKeyword =
     post.category === "entertainment"
-      ? `${tags[0] || "영화 드라마"} 굿즈`
-      : "재테크 투자 도서";
+      ? "영화 굿즈"
+      : "사무용품 모니터";
 
   return (
     <main id="main-content" className={`post-detail post-detail-${post.category}`}>
