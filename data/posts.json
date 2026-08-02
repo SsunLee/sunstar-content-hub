@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-02T06:44:42.701Z",
-  "expectedPublicCount": 1091,
-  "total": 1091,
+  "generatedAt": "2026-08-02T13:53:12.987Z",
+  "expectedPublicCount": 1092,
+  "total": 1092,
   "counts": {
-    "entertainment": 108,
+    "entertainment": 109,
     "stocks": 60,
     "archive": 923
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224365960375",
+      "logNo": "224365960375",
+      "title": "배우 이상이 근황, 청룡시리즈어워즈 남우조연상 후보가 된 특별출연",
+      "url": "https://blog.naver.com/tnsqo1126/224365960375",
+      "publishedAt": "2026-08-02T12:16:07.000Z",
+      "dateLabel": "2026. 8. 2.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "배우 이상이가 《취사병 전설이 되다》의 황석호 대위로 제5회 청룡시리즈어워즈 남우조연상 최종 후보에 이름을 올렸습니다. 출발은 특별출연이었지만 유쾌함과 카리스마를 오가며 마지막 회까지 작품의 한 축을 맡았습니다. 후보 지명부터 청룡 무대의 깜짝 공연, 곧바로 이어진 새 드라마까지 최근 행보를 정리했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDJfOTUg/MDAxNzg1NjcwOTA2Mzcw.RlaVz-eYLZuLTiZ13lIYWzFhdsdW7uD4UQxg9qzadgAg.3dZKVvNdqzDTqNSy8h_uKpEHmh8vaXHMwja7VN2qBBog.JPEG/photo-02.jpg?type=s3",
+      "tags": [
+        "이상이",
+        "배우이상이",
+        "청룡시리즈어워즈",
+        "제5회청룡시리즈어워즈",
+        "취사병전설이되다",
+        "황석호",
+        "유부녀킬러",
+        "이동진"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224365633575",
       "logNo": "224365633575",
