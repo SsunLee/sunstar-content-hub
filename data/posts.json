@@ -4,15 +4,68 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-03T11:43:08.311Z",
-  "expectedPublicCount": 1094,
-  "total": 1094,
+  "generatedAt": "2026-08-04T03:35:41.813Z",
+  "expectedPublicCount": 1095,
+  "total": 1095,
   "counts": {
-    "entertainment": 110,
+    "entertainment": 111,
     "stocks": 61,
     "archive": 923
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224367634161",
+      "logNo": "224367634161",
+      "title": "노을 강균성 결혼 발표, 배우 유하진과 10월 30일 웨딩마치",
+      "url": "https://blog.naver.com/tnsqo1126/224367634161",
+      "publishedAt": "2026-08-04T02:50:09.000Z",
+      "dateLabel": "2026. 8. 4.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "노을 강균성이 결혼 소식을 전했습니다. 소속사 S27M엔터테인먼트가 8월 4일 밝힌 내용에 따르면 강균성과 배우 유하진은 오는 10월 30일 서울에서 예식을 올릴 예정입니다. 공개된 사실을 중심으로 결혼 발표와 최근 활동, 데뷔 이후 걸어온 길을 정리했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfMjY2/MDAxNzg1ODExNTc2NTY2.thQj89IyF2rGTbS-j5mEp6ie5rRjYctd0G0ZjLK6Ezkg.kVn8wfaueVE8oOuNHLMt_tU7dDIepmHez1DCz9bgWRog.JPEG/image-01.jpg?type=s3",
+      "tags": [
+        "강균성",
+        "강균성결혼",
+        "유하진",
+        "노을",
+        "노을강균성",
+        "결혼발표",
+        "연예뉴스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 4일 전해진 결혼 발표",
+          "body": "소속사는 두 사람이 서로를 향한 신뢰와 사랑을 바탕으로 결혼을 결정했다고 알렸습니다. 예식은 10월 30일 서울 모처에서 열릴 예정입니다. 발표 당일 강균성도 손편지로 소식을 전하며 축하와 응원에 고마운 마음을 밝혔습니다."
+        },
+        {
+          "heading": "예비신부 유하진과 공개된 내용",
+          "body": "예비신부는 강균성보다 14세 연하인 배우 유하진으로 소개됐습니다. 두 사람이 언제부터 교제했는지, 예식의 정확한 장소처럼 공식적으로 밝히지 않은 내용은 공개되지 않았습니다. 결혼을 축하하는 마음과 별개로, 두 사람이 알리지 않은 사적인 정보까지 추측하지 않는 것이 좋겠습니다."
+        },
+        {
+          "heading": "기본 정보, 만 45세에 맞은 새 출발",
+          "body": "강균성은 1981년 4월 18일생으로 2026년 8월 4일 기준 만 45세입니다. 2002년 4인조 보컬 그룹 노을의 정규 1집으로 데뷔했습니다. 힘 있는 고음과 감정선을 살린 보컬로 팀의 색을 만들어 왔고, 오랜 시간 같은 멤버들과 무대를 이어가고 있습니다."
+        },
+        {
+          "heading": "노을과 솔로, 예능을 오간 활동",
+          "body": "노을은 《붙잡고도》, 《청혼》, 《그리워 그리워》, 《늦은 밤 너의 집 앞 골목길에서》 같은 곡으로 사랑받았습니다. 강균성은 팀 활동과 함께 솔로 음반도 발표했고, 여러 예능에서 특유의 솔직한 말투와 성대모사로 대중에게 친근하게 다가갔습니다. 노래와 예능을 오가면서도 보컬리스트라는 중심은 놓치지 않았습니다."
+        },
+        {
+          "heading": "결혼을 앞두고 이어가는 최근 활동",
+          "body": "강균성은 2026년에도 음악과 방송 활동을 이어왔습니다. 4월에는 김장훈과 함께 《HONEY》를 선보였고, 6월 KBS 《불후의 명곡》 무대와 7월 KBS 라디오에도 출연했습니다. 결혼 발표 뒤의 세부 일정은 아직 공개되지 않았지만, 오랫동안 무대를 지켜온 가수의 새로운 출발에 따뜻한 축하가 이어지고 있습니다. 참고 자료: S27M엔터테인먼트 결혼 공식 발표 인용 보도 · iMBC연예 강균성 결혼 발표 공식 뉴스 영상 · KBS 불후의 명곡 강균성 공식 무대 · KBS CoolFM 강균성 공식 방송"
+        }
+      ],
+      "detailUpdatedAt": "2026-08-04T03:35:41.813Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:212c4a267711d77a19cef0caa5ca3b4338d0ca8445910a0a8485182f1e5690e3"
+    },
     {
       "id": "naver:tnsqo1126:224366889815",
       "logNo": "224366889815",
