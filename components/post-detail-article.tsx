@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element -- 네이버 원문의 공개 대표 이미지를 재저장하지 않고 직접 표시합니다. */
 import Link from "next/link";
 
-import { CoupangHorizontalBanner } from "@/components/coupang-horizontal-banner";
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 import {
   getPostCategoryPath,
   getPostDetailSections,
@@ -45,10 +45,6 @@ export function PostDetailArticle({
   const categoryPath = getPostCategoryPath(post);
   const tags = getPostDetailTags(post);
   const detailSections = getPostDetailSections(post);
-  const commerceKeyword =
-    post.category === "entertainment"
-      ? "영화 굿즈"
-      : "사무용품 모니터";
 
   return (
     <main id="main-content" className={`post-detail post-detail-${post.category}`}>
@@ -115,12 +111,13 @@ export function PostDetailArticle({
                 <p>{post.summary}</p>
               </div>
             </section>
-            <CoupangHorizontalBanner
-              placement={`news-${post.logNo}-after-summary`}
-              category={post.category}
-              source="search"
-              keyword={commerceKeyword}
-              className="coupang-interlude-detail"
+            <KakaoAdFitBanner
+              placement={
+                post.category === "entertainment"
+                  ? "entertainment-article"
+                  : "stocks-article"
+              }
+              className="adfit-interlude-detail"
             />
             {detailSections.map((section, sectionIndex) => (
               <section

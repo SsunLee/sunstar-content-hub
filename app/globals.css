@@ -611,20 +611,29 @@ img {
   padding-block: 82px;
 }
 
-.coupang-interlude {
+.adfit-interlude {
   margin-block: clamp(22px, 2.2vw, 34px);
   border-block: 1px solid var(--rule);
   padding-block: clamp(18px, 2.4vw, 28px);
+  visibility: hidden;
 }
 
-.coupang-interlude-heading,
-.coupang-banner-media,
-.coupang-partners-disclosure {
-  width: min(100%, var(--coupang-banner-max-width));
+.adfit-interlude.is-adfit-filled {
+  visibility: visible;
+}
+
+.adfit-interlude.is-adfit-empty,
+.adfit-interlude[hidden] {
+  display: none;
+}
+
+.adfit-interlude-heading,
+.adfit-banner-media {
+  width: min(100%, var(--adfit-unit-width));
   margin-inline: auto;
 }
 
-.coupang-interlude-heading {
+.adfit-interlude-heading {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -632,7 +641,7 @@ img {
   margin-bottom: 13px;
 }
 
-.coupang-interlude-heading > p:last-child {
+.adfit-interlude-heading > p:last-child {
   margin: 0;
   color: var(--muted);
   font-size: 0.7rem;
@@ -640,77 +649,20 @@ img {
   text-align: right;
 }
 
-.coupang-banner-variant,
-.coupang-banner-link {
-  position: relative;
-}
-
-.coupang-banner-mobile {
-  display: none;
-}
-
-.coupang-banner-link {
-  display: block;
+.adfit-banner-unit {
+  width: min(100%, var(--adfit-unit-width));
+  min-height: var(--adfit-unit-height);
+  margin-inline: auto;
   overflow: hidden;
-  background: var(--paper-deep);
-  transition:
-    opacity 180ms ease,
-    transform 180ms ease;
 }
 
-.coupang-banner-link:hover,
-.coupang-banner-link:focus-visible {
-  opacity: 0.96;
-  transform: translateY(-2px);
+.adfit-banner-unit > .kakao_ad_area {
+  width: var(--adfit-unit-width);
+  height: var(--adfit-unit-height);
+  max-width: 100%;
 }
 
-.coupang-banner-link:focus-visible {
-  outline: 2px solid var(--violet);
-  outline-offset: 4px;
-}
-
-.coupang-banner-link img,
-.coupang-banner-fallback {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.coupang-banner-link img {
-  z-index: 1;
-  object-fit: cover;
-}
-
-.coupang-banner-fallback {
-  display: grid;
-  place-items: center;
-  padding: 18px;
-  color: var(--muted);
-  font-size: 0.72rem;
-  text-align: center;
-}
-
-.coupang-banner-variant.is-unavailable .coupang-banner-link {
-  cursor: default;
-  opacity: 1;
-  pointer-events: none;
-  transform: none;
-}
-
-.coupang-banner-variant.is-unavailable img {
-  display: none;
-}
-
-.coupang-partners-disclosure {
-  margin-top: 10px;
-  margin-bottom: 0;
-  color: var(--muted);
-  font-size: 0.62rem;
-  line-height: 1.65;
-}
-
-.coupang-interlude-detail {
+.adfit-interlude-detail {
   margin-block: 48px 0;
 }
 
@@ -2257,37 +2209,23 @@ body:has(.localized-route-shell) > .site-footer {
     width: min(100% - 32px, 1280px);
   }
 
-  .coupang-interlude {
+  .adfit-interlude {
     margin-block: 26px;
     padding-block: 16px 18px;
   }
 
-  .coupang-interlude-heading {
+  .adfit-interlude-heading {
     display: block;
     margin-bottom: 11px;
   }
 
-  .coupang-interlude-heading > p:last-child {
+  .adfit-interlude-heading > p:last-child {
     margin-top: 6px;
     font-size: 0.64rem;
     text-align: left;
   }
 
-  .coupang-banner-desktop {
-    display: none;
-  }
-
-  .coupang-banner-mobile {
-    display: block;
-    width: min(100%, 320px);
-    margin-inline: auto;
-  }
-
-  .coupang-partners-disclosure {
-    font-size: 0.58rem;
-  }
-
-  .coupang-interlude-detail {
+  .adfit-interlude-detail {
     margin-block: 42px 0;
   }
 

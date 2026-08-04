@@ -44,6 +44,7 @@ export function SiteFooter() {
               다국어 기사
             </Link>
             <Link href="/about">편집 원칙</Link>
+            <Link href="/about#advertising-privacy">광고·개인정보</Link>
             <a
               href="https://blog.naver.com/tnsqo1126"
               target="_blank"

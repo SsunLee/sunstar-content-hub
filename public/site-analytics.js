@@ -36,31 +36,6 @@
         return;
       }
 
-      if (eventName === "coupang_banner_clicked") {
-        var bannerPlacement = element.getAttribute(
-          "data-analytics-placement",
-        );
-        var bannerSize = element.getAttribute("data-analytics-size");
-        var bannerCategory = element.getAttribute("data-analytics-category");
-        var allowedBannerSizes = ["970x250", "728x250", "320x100"];
-        var allowedBannerCategories = ["home", "entertainment", "stocks"];
-        if (
-          !bannerPlacement ||
-          !/^[a-z0-9-]{1,40}$/.test(bannerPlacement) ||
-          !allowedBannerSizes.includes(bannerSize) ||
-          !allowedBannerCategories.includes(bannerCategory)
-        ) {
-          return;
-        }
-        // Vercel Pro supports two custom keys, so one value preserves both
-        // the category and the responsive creative size without data loss.
-        send(eventName, {
-          placement: bannerPlacement,
-          variant: bannerCategory + ":" + bannerSize,
-        });
-        return;
-      }
-
       if (
         eventName === "localized_article_opened" ||
         eventName === "localized_article_outbound_clicked"
@@ -114,33 +89,4 @@
     true,
   );
 
-  function markBannerUnavailable(image) {
-    var variant = image.closest("[data-coupang-banner-variant]");
-    var link = image.closest("a");
-    if (!variant || !link) return;
-
-    variant.classList.add("is-unavailable");
-    link.removeAttribute("href");
-    link.setAttribute("aria-disabled", "true");
-    link.setAttribute("aria-label", "관련 상품을 불러오지 못했습니다.");
-    link.setAttribute("tabindex", "-1");
-    var fallback = link.querySelector(".coupang-banner-fallback");
-    if (fallback) fallback.removeAttribute("aria-hidden");
-  }
-
-  function initBannerFallbacks() {
-    if (typeof document.querySelectorAll !== "function") return;
-    document.querySelectorAll("[data-coupang-banner-image]").forEach(
-      function (image) {
-        image.addEventListener("error", function () {
-          markBannerUnavailable(image);
-        });
-        if (image.complete && image.naturalWidth === 0) {
-          markBannerUnavailable(image);
-        }
-      },
-    );
-  }
-
-  initBannerFallbacks();
 })();

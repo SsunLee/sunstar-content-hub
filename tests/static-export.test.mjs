@@ -87,7 +87,7 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
   );
   assert.doesNotMatch(
     html,
-    /data-coupang-banner|coupang-partners-banner\.vercel\.app/,
+    /data-coupang-banner|coupang-partners-banner\.vercel\.app|AF8916827|data-adfit-slot|kakao_ad_area|\/adfit-loader\.js/,
   );
   assert.doesNotMatch(
     html,

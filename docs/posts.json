@@ -4,15 +4,160 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-02T06:44:42.701Z",
-  "expectedPublicCount": 1091,
-  "total": 1091,
+  "generatedAt": "2026-08-03T11:43:08.311Z",
+  "expectedPublicCount": 1094,
+  "total": 1094,
   "counts": {
-    "entertainment": 108,
-    "stocks": 60,
+    "entertainment": 110,
+    "stocks": 61,
     "archive": 923
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224366889815",
+      "logNo": "224366889815",
+      "title": "지엔씨에너지 14.75% 상승 배경, KT 데이터센터 발전기 755억 계약 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224366889815",
+      "publishedAt": "2026-08-03T08:27:43.000Z",
+      "dateLabel": "2026. 8. 3.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "지엔씨에너지는 2026년 8월 3일 KRX에서 42,000원으로 마감해 전일보다 14.75% 올랐습니다. 같은 날 9시 53분에는 KT에 SGC AI Infra 군산 데이터센터 발전기를 공급하는 계약이 공시됐습니다. 확정 계약금액은 755억 861만 원으로 2025년 연결 매출의 28.75%입니다. 장중 흐름은 한 방향으로만 설명하기 어렵습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDNfMjAw/MDAxNzg1NzQzMjQwMTA3.2BnSmpGegjuRFO637c-L_qngUE-0J5OVAbU41J5lVbAg.2i2gkCZxt5jSewKyvf3o1fRdeZqADSwSfpVKJbhtX4Mg.PNG/2026-08-03-119850-hero.png?type=s3",
+      "tags": [
+        "지엔씨에너지",
+        "119850",
+        "KT",
+        "데이터센터",
+        "비상발전기",
+        "공급계약",
+        "주가상승",
+        "공시분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 3일 주가와 거래량",
+          "body": "지엔씨에너지는 36,050원에 출발해 장중 44,850원까지 올랐고 42,000원에 거래를 마쳤습니다. 거래량은 1,752,297주, 거래대금은 736억 4,800만 원입니다. 직전 5거래일 평균 거래량 1,130,859주와 비교하면 1.55배입니다."
+        },
+        {
+          "heading": "755억 원 공급계약의 내용",
+          "body": "공시된 계약명은 SGC AI Infra 군산 데이터센터 발전기입니다. 계약 상대는 주식회사 케이티이며 확정 계약금액은 부가가치세를 제외한 75,508,619,091원입니다. 2025년 연결 매출 262,633,597,538원의 28.75%에 해당합니다."
+        },
+        {
+          "heading": "자체생산·외주생산 모두 해당",
+          "body": "대금은 계약금 5%, 중도금 15%·20%·30%·20%, 잔금 10%로 나뉩니다. 계약기간은 2026년 7월 31일부터 2027년 12월 31일까지입니다. 계약금액과 기간 등 조건은 진행 과정에서 달라질 수 있다고 회사는 밝혔습니다."
+        },
+        {
+          "heading": "공시 전후 가격 변화",
+          "body": "DART 코스닥시장 공시 목록의 접수 시각은 9시 53분입니다. 네이버페이 증권 시간별 시세에서 9시 52분 체결가는 39,850원, 누적 거래량은 346,267주였습니다. 1분 뒤 체결가는 41,050원으로 1,200원 올랐고 누적 거래량은 408,929주로 늘었습니다."
+        },
+        {
+          "heading": "9시대 체결가 확인: 네이버페이 증권 지엔씨에너지 시간별시세",
+          "body": "공시 직전에도 주가는 이미 8% 넘게 오른 상태였습니다. 7월 31일에도 29,750원에서 36,600원으로 23.03% 상승했습니다. 8월 3일의 추가 상승에는 계약 공시가 확인 가능한 재료로 작용했지만 최근 며칠의 변동성과 다른 수급 요인까지 분리해 판단해야 합니다."
+        },
+        {
+          "heading": "매출 반영 전에 확인할 점",
+          "body": "계약금액 755억 원은 규모를 보여 주는 수치이지 영업이익을 뜻하지 않습니다. 공시에는 원가율이나 예상 이익률이 나오지 않았습니다. 자체생산과 외주생산이 모두 포함되므로 장비 조달비와 공사 진행률에 따라 실제 수익성은 달라집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-03T11:43:08.311Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:08441e2ebd43c3512ff520fb49664a76a2d55226037239da637d25c95a0dea09"
+    },
+    {
+      "id": "naver:tnsqo1126:224366139869",
+      "logNo": "224366139869",
+      "title": "스파이더맨 브랜드 뉴 데이 스포 포함 후기, 쿠키영상 1개·진 그레이·둠스데이 떡밥 총정리",
+      "url": "https://blog.naver.com/tnsqo1126/224366139869",
+      "publishedAt": "2026-08-02T16:04:42.000Z",
+      "dateLabel": "2026. 8. 3.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "가장 궁금한 것부터 짚겠습니다. 《스파이더맨: 브랜드 뉴 데이》의 쿠키영상은 정확히 1개입니다. 미드 크레딧 장면은 없습니다. 전체 크레딧이 끝난 뒤 마지막에 나옵니다. 여기서부터는 결말과 쿠키영상, 진 그레이의 정체까지 가감 없이 다룹니다. 《노 웨이 홈》 이후 4년. 세상은 여전히 피터 파커를 기억하지 못합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDNfMTM3/MDAxNzg1NjgzODU3NjEy.Ctp744-3xvUN2uDiy4qOHt9C8QJz1dZQ3_CbGRB7CLkg.6NRHfN4XfCgOItU8JrnCt-0Cu8qTkTltWtRDJa4hFiUg.JPEG/tom-holland.jpg?type=s3",
+      "tags": [
+        "스파이더맨브랜드뉴데이",
+        "스포포함",
+        "스파이더맨쿠키영상",
+        "진그레이",
+        "어벤져스둠스데이",
+        "시크릿워즈",
+        "마블떡밥",
+        "MJ"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "쿠키영상 속 스파이디 트래커가 가리킨 곳",
+          "body": "쿠키에 배우는 나오지 않습니다. 화면에 뜨는 것은 네드가 만든 스파이디 트래커뿐입니다. 뉴욕에서 스파이더맨을 추적하던 장치는 갑자기 신호를 놓칩니다. Location unknown 표시가 반복되자 지도는 지구 전체가 보일 만큼 멀어집니다. 이어서 화면은 우주로 넘어갑니다. 그곳에서 스파이더맨의 위치를 다시 찾은 뒤 마지막에 Spider-Man Will Return 문구를 띄웁니다."
+        },
+        {
+          "heading": "둠스데이·시크릿 워즈 연결은 아직 미확인",
+          "body": "개봉 순서상 《브랜드 뉴 데이》는 《어벤져스: 둠스데이》보다 앞섭니다. 두 작품 사이의 MCU 내부 시간대와 직접적인 사건 연결은 공식적으로 확정되지 않았습니다. 옐레나 벨로바는 두 차례 등장합니다. 뉴 어벤져스가 더 큰 위협을 다룬다는 말도 나옵니다. 2026년 8월 2일 현재 공식 발표된 《둠스데이》 출연진에 톰 홀랜드의 이름은 없습니다. 그렇다고 깜짝 출연이나 불참 가운데 어느 쪽이 확정되는 것은 아닙니다."
+        },
+        {
+          "heading": "스파이디트래커 : https://spideytracker.net/intl/kr/",
+          "body": "트래커가 다른 스파이더맨이나 심비오트의 신호를 잡았다는 풀이도 나옵니다. 영화가 답을 숨긴 만큼 한 가지 이론을 정답처럼 고를 필요는 없습니다. 확인된 변화는 스파이더맨 신호를 찾는 범위가 뉴욕에서 우주로 커졌다는 사실입니다. 친절한 이웃이 향후 대형 MCU 크로스오버와 만날 가능성을 열어 둔 신호로 읽힙니다."
+        },
+        {
+          "heading": "결말을 움직인 MJ와 네드, 기억은 정말 돌아왔나",
+          "body": "MJ와 네드는 MIT 졸업 뒤 한집에서 지냅니다. 연인은 아닙니다. MJ에게는 이름이 공개되지 않은 남자친구가 따로 있습니다. 팬들 사이에서는 그 남자친구가 해리 오스본이라는 말도, MJ가 거절한 회사가 오스코프라는 말도 나옵니다. 영화가 확인한 내용은 없습니다."
+        },
+        {
+          "heading": "올리비아 부스포드 (사라 그레이) 출처 : appletv",
+          "body": "프랭크가 진을 향해 쏜 총알은 피터가 대신 맞습니다. 진은 텔레파시로 그의 생명을 붙잡습니다. 이후 진은 업스테이트 뉴욕으로 보이는 곳을 향하는 버스에 오릅니다. 엑스맨션으로 간다고 볼 여지는 있습니다. 하지만 목적지는 화면에 나오지 않습니다. 피닉스 포스라는 이름도, 불꽃새 형상도 없습니다. 아직 다크 피닉스 각성으로 부를 단계는 아닙니다."
+        },
+        {
+          "heading": "마블 코믹스 브랜드 뉴 데이와 영화의 같은 점과 다른 점",
+          "body": "코믹스에서 《Brand New Day》는 단일 사건이 아닙니다. 2008년 《Amazing Spider-Man》 546호부터 이어진 장기 시대입니다. 직전 이야기인 《One More Day》에서 피터와 메리 제인 부부는 메피스토의 제안을 받아들입니다. 메이 숙모를 살리는 대신 두 사람의 결혼이 역사에서 지워지고 피터의 비밀 정체성도 다시 보호됩니다. 이후 피터는 독신에 돈도 부족한 생활로 돌아가 미스터 네거티브, 메너스, 오버드라이브 같은 새 악당과 마주합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-02T17:14:26.886Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ca3223064bf7df0f4bb423f6aedbdb81be5d583967cacb07bcdfac15109e3624"
+    },
+    {
+      "id": "naver:tnsqo1126:224365960375",
+      "logNo": "224365960375",
+      "title": "배우 이상이 근황, 청룡시리즈어워즈 남우조연상 후보가 된 특별출연",
+      "url": "https://blog.naver.com/tnsqo1126/224365960375",
+      "publishedAt": "2026-08-02T12:16:07.000Z",
+      "dateLabel": "2026. 8. 2.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "배우 이상이가 《취사병 전설이 되다》의 황석호 대위로 제5회 청룡시리즈어워즈 남우조연상 최종 후보에 이름을 올렸습니다. 출발은 특별출연이었지만 유쾌함과 카리스마를 오가며 마지막 회까지 작품의 한 축을 맡았습니다. 후보 지명부터 청룡 무대의 깜짝 공연, 곧바로 이어진 새 드라마까지 최근 행보를 정리했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDJfOTUg/MDAxNzg1NjcwOTA2Mzcw.RlaVz-eYLZuLTiZ13lIYWzFhdsdW7uD4UQxg9qzadgAg.3dZKVvNdqzDTqNSy8h_uKpEHmh8vaXHMwja7VN2qBBog.JPEG/photo-02.jpg?type=s3",
+      "tags": [
+        "이상이",
+        "배우이상이",
+        "청룡시리즈어워즈",
+        "제5회청룡시리즈어워즈",
+        "취사병전설이되다",
+        "황석호",
+        "유부녀킬러",
+        "이동진"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224365633575",
       "logNo": "224365633575",

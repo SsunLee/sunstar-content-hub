@@ -143,6 +143,43 @@ export default function AboutPage() {
         </div>
       </section>
 
+      <section
+        className="border-b border-black/20 px-5 py-14 sm:px-8 lg:px-12 lg:py-20"
+        id="advertising-privacy"
+      >
+        <div className="mx-auto grid max-w-6xl gap-12 lg:grid-cols-[0.42fr_1fr]">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-[#5f3dc4]">
+              Advertising & privacy
+            </p>
+            <h2 className="mt-3 font-serif text-3xl tracking-[-0.035em]">
+              광고와 이용정보
+            </h2>
+          </div>
+          <div className="max-w-3xl space-y-5 text-sm leading-7 text-black/65">
+            <p>
+              썬데스크는 사이트 운영을 위해 카카오 애드핏 광고를 표시할 수
+              있습니다. 카카오와 광고 운영자는 광고 품질과 성과 측정을 위해
+              쿠키를 포함한 익명화된 브라우저 이용정보를 수집·활용할 수
+              있습니다.
+            </p>
+            <p>
+              썬데스크는 광고 프레임의 개별 클릭 내용을 직접 가로채거나
+              개인별 행동 기록으로 저장하지 않습니다. 광고 노출·클릭·수익은
+              카카오 애드핏의 집계 지표로 확인합니다.
+            </p>
+            <a
+              className="inline-flex border-b border-black/70 pb-0.5 font-semibold text-black transition-colors hover:border-[#5f3dc4] hover:text-[#5f3dc4] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4"
+              href="https://adfit.kakao.com/web/html/use_kakao.html"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              카카오 애드핏 운영정책 보기 ↗
+            </a>
+          </div>
+        </div>
+      </section>
+
       <section className="px-5 py-12 sm:px-8 lg:px-12">
         <div className="mx-auto flex max-w-6xl flex-col gap-5 border-t border-black/80 pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-sm text-black/58">

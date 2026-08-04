@@ -51,6 +51,10 @@ const analyticsScripts =
         '<script defer src="/site-analytics.js"></script>',
       ].join("")
     : "";
+const adFitLoaderScript =
+  targetName === "vercel"
+    ? '<script defer src="/adfit-loader.js"></script>'
+    : "";
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -287,6 +291,10 @@ function toStaticHtml(html, route) {
         "</body>",
         `<script src="${basePath}/static-search.js" defer></script></body>`,
       );
+  }
+
+  if (adFitLoaderScript && result.includes('class="kakao_ad_area"')) {
+    result = result.replace("</body>", `${adFitLoaderScript}</body>`);
   }
 
   if (analyticsScripts) {

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { CoupangHorizontalBanner } from "@/components/coupang-horizontal-banner";
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 import { PostCard } from "@/components/post-card";
 import { getPosts, type PostCategory } from "@/lib/posts";
 
@@ -72,14 +72,11 @@ export function DeskPage({ category }: DeskPageProps) {
       </section>
 
       <div className="page-shell">
-        <CoupangHorizontalBanner
-          placement={`${category}-after-lead`}
-          category={category}
-          source="search"
-          keyword={
+        <KakaoAdFitBanner
+          placement={
             category === "entertainment"
-              ? "영화 굿즈"
-              : "사무용품 모니터"
+              ? "entertainment-desk"
+              : "stocks-desk"
           }
         />
       </div>

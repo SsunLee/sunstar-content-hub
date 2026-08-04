@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-import { CoupangHorizontalBanner } from "@/components/coupang-horizontal-banner";
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 import { PostCard } from "@/components/post-card";
 import {
   getFeaturedPosts,
@@ -128,11 +128,7 @@ export default function Home() {
       </section>
 
       <div className="page-shell">
-        <CoupangHorizontalBanner
-          placement="home-after-lead"
-          category="home"
-          desktopSize="970x250"
-        />
+        <KakaoAdFitBanner placement="home-after-lead" />
       </div>
 
       <section className="statement-band">
@@ -176,10 +172,7 @@ export default function Home() {
       </section>
 
       <div className="page-shell">
-        <CoupangHorizontalBanner
-          placement="home-between-desks"
-          category="home"
-        />
+        <KakaoAdFitBanner placement="home-between-desks" />
       </div>
 
       <section className="stock-stage">
