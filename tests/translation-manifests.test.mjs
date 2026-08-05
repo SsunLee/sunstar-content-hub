@@ -379,9 +379,9 @@ test("a reviewed/noindex fixture cannot pass ready production inspection", () =>
   assert.ok(result.errors.length > 0);
 });
 
-test("ready fixtures create five reciprocal clusters that pass the skill validator", async () => {
+test("ready fixtures create six reciprocal clusters that pass the skill validator", async () => {
   const articleIds = [...new Set(manifests.map(({ data }) => data.articleId))].sort();
-  assert.equal(articleIds.length, 5);
+  assert.equal(articleIds.length, 6);
   const temporaryRoot = await mkdtemp(join(tmpdir(), "ssundesk-cluster-"));
   try {
     for (const articleId of articleIds) {

@@ -3432,6 +3432,688 @@
           ]
         }
       }
+    },
+    {
+      "articleId": "kang-kyun-sung-marriage",
+      "sourceUrl": "https://blog.naver.com/tnsqo1126/224367634161",
+      "sourcePackage": "2026-08-04-kang-kyun-sung-marriage.publish.json",
+      "sourceHash": "sha256:ea4af9e425cd2b160d2a4bcf6f681f9baf3eac3db0741e1ecd2b7bd8c1360b35",
+      "rights": {
+        "status": "verified",
+        "basis": "owned",
+        "evidenceUrl": "https://blog.naver.com/tnsqo1126/224367634161"
+      },
+      "sourceFragments": {
+        "facts": {
+          "announcement": "소속사 S27M엔터테인먼트가 8월 4일 밝힌 내용에 따르면 강균성과 배우 유하진은 오는 10월 30일 서울에서 예식을 올릴 예정입니다."
+        },
+        "properNames": {
+          "subject": "강균성",
+          "spouse": "유하진"
+        }
+      },
+      "locales": {
+        "ko": {
+          "mode": "source-edition",
+          "localizedFragments": {
+            "facts": {
+              "announcement": "소속사 S27M엔터테인먼트가 8월 4일 밝힌 내용에 따르면 강균성과 배우 유하진은 오는 10월 30일 서울에서 예식을 올릴 예정입니다."
+            },
+            "properNames": {
+              "subject": "강균성",
+              "spouse": "유하진"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "announcement",
+                "sourceRef": "announcement",
+                "localizedRef": "announcement",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "spouse",
+                "sourceRef": "spouse",
+                "localizedRef": "spouse",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.title",
+                "localizedHash": "sha256:c093d50ba51ec73364039d55148269ba5dd43b83ae2168da2555c0572b9aef03",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:05ebd964313a9b836201bf0e52d580808c7093972d9e5da9ed68840d594de02a",
+                "values": [
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:ced9df42ababa66ef81e1ffd3de07ca79b27f062ecb004183f8da96068a72585",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-1",
+                "sourceSelector": "source.s2.1",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:1593b2a66a26f8f44b29b6c84a8efbf4994d29112f840d9fb8216871e4cac83a",
+                "values": [
+                  {
+                    "sourceToken": "1995",
+                    "localizedToken": "1995"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:625d7ec9610f2dc1dba944c458846be2ed1f782bb00a52af53f4d75c34bf990c",
+                "values": [
+                  {
+                    "sourceToken": "14",
+                    "localizedToken": "14"
+                  },
+                  {
+                    "sourceToken": "2019",
+                    "localizedToken": "2019"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:4ab519b5879bea49c664bdbfc014116f8a4d2373fb007e8e85af1b8e667ecfa0",
+                "values": [
+                  {
+                    "sourceToken": "1981",
+                    "localizedToken": "1981"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "18",
+                    "localizedToken": "18"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "45",
+                    "localizedToken": "45"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:76e867e36fb3729242340a5b67cdcef7b6feb50672cffaae86b17d3e6efa8303",
+                "values": [
+                  {
+                    "sourceToken": "2002",
+                    "localizedToken": "2002"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:b19e926f6ab2a1c5d51377439dd54c174b1bc843c7c197acf080bb80e2c78d39",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-2",
+                "sourceSelector": "source.s5.2",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:003771fcfa26a7684ea86c2898545139b08f78b46470737008d64b5026ce4547",
+                "values": [
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "6"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": []
+        },
+        "en": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "announcement": "According to an announcement from his agency, S27M Entertainment, on August 4, Kang Kyun-sung and actress Yoo Ha-jin will hold their wedding in Seoul on October 30."
+            },
+            "properNames": {
+              "subject": "Kang Kyun-sung",
+              "spouse": "Yoo Ha-jin"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "announcement",
+                "sourceRef": "announcement",
+                "localizedRef": "announcement",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "spouse",
+                "sourceRef": "spouse",
+                "localizedRef": "spouse",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.title",
+                "localizedHash": "sha256:7246a5f3ae160e326bbe7eeee2e2add25b6703e81067a1b1533faf9696fb87a4",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "October"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:ae89e39fdfe4decc77dc31c409153fcda9a0dcf763ce5c5dfa36e22fbcc1e8e1",
+                "values": [
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "August"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "October"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:b13af6dc9bd24b7eb2b25304043e5fba4c75bb90e7f34086ff072d4d05fce9a9",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "October"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-1",
+                "sourceSelector": "source.s2.1",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:62bff60c5f20359211e3105e845ce97167bee17dc163678f04fc249b38a29c86",
+                "values": [
+                  {
+                    "sourceToken": "1995",
+                    "localizedToken": "1995"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:8076e66fb4a1201cf362a5af17ae1a7503a7eeef332bd6c915d30aa4030806a7",
+                "values": [
+                  {
+                    "sourceToken": "14",
+                    "localizedToken": "14"
+                  },
+                  {
+                    "sourceToken": "2019",
+                    "localizedToken": "2019"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:dc4b1cec09684c62394374babe851e29b5f4d06f6bf2ae917e343b0eb44bcf33",
+                "values": [
+                  {
+                    "sourceToken": "1981",
+                    "localizedToken": "1981"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "18",
+                    "localizedToken": "18"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "August"
+                  },
+                  {
+                    "sourceToken": "45",
+                    "localizedToken": "45"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:e2f4af471e7f54aece08c0f9ccf7d013143f2e09da0480c42c375e7d512e77df",
+                "values": [
+                  {
+                    "sourceToken": "2002",
+                    "localizedToken": "2002"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "four"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "first"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:ebb2a0c8d79f4563d15e5556ff6e72333aac28aa499b5c4cca320ec0745b15d1",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-2",
+                "sourceSelector": "source.s5.2",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:48d876543462ae2d5567d6cc988451c9e9fc933b2337bfb3d4bc2c6ef3816a22",
+                "values": [
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "April"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "June"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "July"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": []
+        },
+        "ja": {
+          "mode": "translation",
+          "localizedFragments": {
+            "facts": {
+              "announcement": "所属事務所S27Mエンターテインメントが8月4日に発表した内容によると、カン・ギュンソンと女優ユ・ハジンは来る10月30日にソウルで結婚式を挙げる予定です。"
+            },
+            "properNames": {
+              "subject": "カン・ギュンソン",
+              "spouse": "ユ・ハジン"
+            }
+          },
+          "verification": {
+            "facts": [
+              {
+                "id": "announcement",
+                "sourceRef": "announcement",
+                "localizedRef": "announcement",
+                "verified": true
+              }
+            ],
+            "properNames": [
+              {
+                "id": "subject",
+                "sourceRef": "subject",
+                "localizedRef": "subject",
+                "verified": true
+              },
+              {
+                "id": "spouse",
+                "sourceRef": "spouse",
+                "localizedRef": "spouse",
+                "verified": true
+              }
+            ],
+            "numbers": [
+              {
+                "id": "t",
+                "sourceSelector": "source.t",
+                "localizedSelector": "localized.title",
+                "localizedHash": "sha256:8ab85bca4ccc3e7052bdb38010df9e6e0d4463003df0abc6e407521633e08744",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "i2",
+                "sourceSelector": "source.i2",
+                "localizedSelector": "localized.p1.1",
+                "localizedHash": "sha256:75b1763d52552b6abe3056e75b08b7c76ba390aef2fc13e628c55a03524ea2d5",
+                "values": [
+                  {
+                    "sourceToken": "27",
+                    "localizedToken": "27"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s1-2",
+                "sourceSelector": "source.s1.2",
+                "localizedSelector": "localized.p1.2",
+                "localizedHash": "sha256:f012c647019e8f08b6f49ddb63dcb4299a99675811c411573d5b0d0539117650",
+                "values": [
+                  {
+                    "sourceToken": "10",
+                    "localizedToken": "10"
+                  },
+                  {
+                    "sourceToken": "30",
+                    "localizedToken": "30"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-1",
+                "sourceSelector": "source.s2.1",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:78edf7685ce0d98c3a8e1d64edf31839d5487434d79cc2ec8ef0e02068cf4ad3",
+                "values": [
+                  {
+                    "sourceToken": "1995",
+                    "localizedToken": "1995"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s2-2",
+                "sourceSelector": "source.s2.2",
+                "localizedSelector": "localized.p2.1",
+                "localizedHash": "sha256:7b8afaf4ff7f363eb2f89c5c7e0bdeaab1d278375219bda34f8cf84c003d02a4",
+                "values": [
+                  {
+                    "sourceToken": "14",
+                    "localizedToken": "14"
+                  },
+                  {
+                    "sourceToken": "2019",
+                    "localizedToken": "2019"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-1",
+                "sourceSelector": "source.s3.1",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:fae2ed24ee31870dadf4551505a91ac8b07c7abe69ec6e1ccdc3a654e9350cc9",
+                "values": [
+                  {
+                    "sourceToken": "1981",
+                    "localizedToken": "1981"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "18",
+                    "localizedToken": "18"
+                  },
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  },
+                  {
+                    "sourceToken": "8",
+                    "localizedToken": "8"
+                  },
+                  {
+                    "sourceToken": "45",
+                    "localizedToken": "45"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s3-2",
+                "sourceSelector": "source.s3.2",
+                "localizedSelector": "localized.p3.1",
+                "localizedHash": "sha256:9ba45ee25447304b037660b0891ebcecc572a82031eb8c0ae8a08371358970df",
+                "values": [
+                  {
+                    "sourceToken": "2002",
+                    "localizedToken": "2002"
+                  },
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "1",
+                    "localizedToken": "1"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-1",
+                "sourceSelector": "source.s5.1",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:243a944829b60602a9e962e1aa311e30f50bfd975052292b120e32d53f2820dc",
+                "values": [
+                  {
+                    "sourceToken": "2026",
+                    "localizedToken": "2026"
+                  }
+                ],
+                "verified": true
+              },
+              {
+                "id": "s5-2",
+                "sourceSelector": "source.s5.2",
+                "localizedSelector": "localized.p5.1",
+                "localizedHash": "sha256:c9df9eec27d27334bed5a1bfba55893ada80be817c7b0bd64fe62e1f38dda71c",
+                "values": [
+                  {
+                    "sourceToken": "4",
+                    "localizedToken": "4"
+                  },
+                  {
+                    "sourceToken": "6",
+                    "localizedToken": "6"
+                  },
+                  {
+                    "sourceToken": "7",
+                    "localizedToken": "7"
+                  }
+                ],
+                "verified": true
+              }
+            ]
+          },
+          "corrections": []
+        }
+      }
     }
   ]
 }
