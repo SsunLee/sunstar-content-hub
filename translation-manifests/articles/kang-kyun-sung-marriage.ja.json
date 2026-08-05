@@ -22,8 +22,8 @@
   },
   "sourceHash": "sha256:ea4af9e425cd2b160d2a4bcf6f681f9baf3eac3db0741e1ecd2b7bd8c1360b35",
   "translatedFromSourceHash": "sha256:ea4af9e425cd2b160d2a4bcf6f681f9baf3eac3db0741e1ecd2b7bd8c1360b35",
-  "status": "reviewed",
-  "robots": "noindex,nofollow",
+  "status": "ready",
+  "robots": "index,follow",
   "canonical": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
   "verification": {
     "fullBody": true,
@@ -225,5 +225,10 @@
     ]
   },
   "corrections": [],
-  "publicVerification": null
+  "publicVerification": {
+    "status": "verified",
+    "checkedAt": "2026-08-05T19:00:39.000Z",
+    "httpStatus": 200,
+    "resolvedUrl": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage"
+  }
 }

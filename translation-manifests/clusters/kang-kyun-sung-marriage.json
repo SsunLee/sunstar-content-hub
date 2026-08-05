@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clusterId": "kang-kyun-sung-marriage",
+  "xDefaultLocale": "ko",
+  "members": [
+    {
+      "locale": "ko",
+      "url": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage",
+      "canonical": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-05T19:00:39.000Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage",
+        "en": "https://ssundesk.com/en/news/kang-kyun-sung-marriage",
+        "ja": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
+        "x-default": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage"
+      }
+    },
+    {
+      "locale": "en",
+      "url": "https://ssundesk.com/en/news/kang-kyun-sung-marriage",
+      "canonical": "https://ssundesk.com/en/news/kang-kyun-sung-marriage",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-05T19:00:39.000Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/en/news/kang-kyun-sung-marriage"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage",
+        "en": "https://ssundesk.com/en/news/kang-kyun-sung-marriage",
+        "ja": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
+        "x-default": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage"
+      }
+    },
+    {
+      "locale": "ja",
+      "url": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
+      "canonical": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
+      "robots": "index,follow",
+      "publicVerification": {
+        "status": "verified",
+        "checkedAt": "2026-08-05T19:00:39.000Z",
+        "httpStatus": 200,
+        "resolvedUrl": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage"
+      },
+      "alternates": {
+        "ko": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage",
+        "en": "https://ssundesk.com/en/news/kang-kyun-sung-marriage",
+        "ja": "https://ssundesk.com/ja/news/kang-kyun-sung-marriage",
+        "x-default": "https://ssundesk.com/ko/news/kang-kyun-sung-marriage"
+      }
+    }
+  ]
+}
