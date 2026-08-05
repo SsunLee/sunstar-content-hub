@@ -4,15 +4,170 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-04T06:40:14.093Z",
-  "expectedPublicCount": 1096,
-  "total": 1096,
+  "generatedAt": "2026-08-05T07:48:37.709Z",
+  "expectedPublicCount": 1099,
+  "total": 1099,
   "counts": {
-    "entertainment": 111,
-    "stocks": 62,
-    "archive": 923
+    "entertainment": 112,
+    "stocks": 66,
+    "archive": 921
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224367803124",
+      "logNo": "224367803124",
+      "title": "비에이치 2분기 영업이익 50.79% 감소, 매출은 6.29% 증가",
+      "url": "https://blog.naver.com/tnsqo1126/224367803124",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
+      "dateLabel": "2026. 8. 5.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위해 만든 연출 이미지입니다. 비에이치가 2026년 8월 4일 2분기 잠정실적을 공시했습니다. 연결 매출은 4,142억 3,700만 원으로 지난해 같은 기간보다 6.29% 늘었습니다. 영업이익은 78억 9,100만 원으로 50.79% 줄었습니다. 매출 증가가 곧바로 이익 증가로 이어지지는 않은 분기입니다.…",
+      "image": "",
+      "tags": [],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224368542028",
+      "logNo": "224368542028",
+      "title": "SAMG엔터 8월 4일 6.21% 상승, ‘고래보석의 전설’ 예매 10만 명 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224368542028",
+      "publishedAt": "2026-08-04T23:52:16.000Z",
+      "dateLabel": "2026. 8. 5.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. SAMG엔터는 2026년 8월 4일 KRX 장마감 기준 2만 8,200원으로 전일보다 6.21% 올랐습니다. 8월 5일은 극장판 애니메이션 ‘사랑의 하츄핑: 고래보석의 전설’ 개봉일입니다. 영화진흥위원회 실시간 집계에서 예매 관객 수는 10만 44명, 예매율은 9.4%입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDVfMzYg/MDAxNzg1ODcyODgxMzk4.dwR6afi3xsbMjVZQeeUhGZn4Zvzs6ZFfLGMLYVPGa4Ug.8o0VAMurdi6WtPbvRVCWun1633ld704cR5-W5TEJd-0g.PNG/2026-08-04-419530-film-hero.png?type=s3",
+      "tags": [
+        "SAMG엔터",
+        "419530",
+        "SAMG엔터주가",
+        "사랑의하츄핑",
+        "고래보석의전설",
+        "티니핑",
+        "영화예매율",
+        "코스닥"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 4일 주가는 6.21% 상승",
+          "body": "SAMG엔터의 8월 4일 종가는 2만 8,200원입니다. 시가 2만 7,000원에서 출발해 장중 2만 9,650원까지 올랐고, 저가는 2만 6,150원이었습니다. 거래량은 12만 961주, 거래대금은 33억 6,300만 원입니다."
+        },
+        {
+          "heading": "9.15배·3.28배",
+          "body": "종가는 오르는 분위기였지만 장중 고가보다 1,450원 낮은 수준에서 마감했습니다. 개봉 전 기대감과 함께 장중 변동성도 크게 나타났다는 뜻입니다."
+        },
+        {
+          "heading": "SAMG엔터 8월 4일 주가와 고래보석의 전설 개봉 전 예매 지표 차트",
+          "body": "주가는 2026년 8월 4일 오후 3시 47분 KRX 장마감, 영화 지표는 같은 날 오후 4시 10분 영화진흥위원회 KOBIS 실시간 예매율 확인값입니다."
+        },
+        {
+          "heading": "예매 10만 명이 보여주는 것",
+          "body": "영화진흥위원회 KOBIS는 이 영화의 개봉일을 8월 5일로 표시하고 있습니다. 8월 4일 오후 4시 10분 확인 기준 예매 관객 수는 10만 44명이고 예매율은 9.4%로 실시간 예매 순위 3위입니다. 사전 집계에 반영된 누적 관객 수는 2만 6,494명, 누적 매출액은 3억 704만 원입니다."
+        },
+        {
+          "heading": "실시간 예매 지표: 영화진흥위원회 KOBIS",
+          "body": "예매 숫자는 초반 관심을 보여주지만 최종 흥행 성적은 아닙니다. 개봉 후 실제 상영 횟수, 주말 관객, 관객 평가가 추가로 반영됩니다. 2024년 개봉한 전작은 누적 124만 관객을 기록했지만, 후속작이 같은 성적을 보장하지는 않습니다."
+        },
+        {
+          "heading": "영화 흥행과 실적은 다른 숫자",
+          "body": "SAMG엔터는 애니메이션 영상 매출만 올리는 회사가 아닙니다. 완구·패션잡화, 라이선스, 온·오프라인 유통이 함께 실적에 영향을 줍니다. 영화 관객이 늘어나더라도 관련 제품 판매와 라이선스 수익으로 얼마나 연결되는지가 중요합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-05T07:48:37.709Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8b001b2448820b8dd17f89d77e5bd277d79bc1bba87b28ed37b6c42cdd0b25b7"
+    },
+    {
+      "id": "naver:tnsqo1126:224367971305",
+      "logNo": "224367971305",
+      "title": "《재벌X형사2》 정은채, 새 팀장 주혜라로 합류...8월 7일 첫 방송",
+      "url": "https://blog.naver.com/tnsqo1126/224367971305",
+      "publishedAt": "2026-08-04T07:58:01.000Z",
+      "dateLabel": "2026. 8. 4.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "정은채가 SBS 새 금토드라마 《재벌X형사2》의 새 팀장 주혜라로 합류합니다. 작품은 첫 방송을 앞두고 2026년 7월 4주 TV 드라마 화제성 9위에 올랐습니다. 8월 7일 밤 9시 50분 첫 방송을 기다리며, 정은채의 새 역할과 배우로서 걸어온 길을 정리했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfMSAg/MDAxNzg1ODM1NzkwMjcx.lg11QyCBCBwWXupb8NjxNI3TXZlP5j6aFYl0uzP8o-Eg.TpYagr3pyev6wqZlCDi1puU7ZNyAq6ElKgHkpnP6_Xsg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "재벌X형사2",
+        "정은채",
+        "주혜라",
+        "SBS금토드라마",
+        "안보현",
+        "드라마추천",
+        "연예뉴스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224367951080",
+      "logNo": "224367951080",
+      "title": "카카오페이 2분기 영업이익 586억 원, 전년 대비 528.2% 증가",
+      "url": "https://blog.naver.com/tnsqo1126/224367951080",
+      "publishedAt": "2026-08-04T07:40:10.000Z",
+      "dateLabel": "2026. 8. 4.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 카카오페이가 2026년 8월 4일 2분기 잠정실적을 공시했습니다. 연결 매출은 3,351억 원, 영업이익은 586억 원입니다. 지난해 같은 기간보다 매출은 40.6%, 영업이익은 528.2% 늘었습니다. 1분기와 비교해도 매출은 11.6%, 영업이익은 81.7% 증가했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfMjUg/MDAxNzg1ODI4NDc0MjE3.Zefbq328dx825ymbW38FJR6FrJCY6N-02O7Tbq5oJK0g.AiHkouRjG9Gck7lvSHdEO4GP6sJ2-QW99rO0wsbJTOkg.PNG/2026-08-04-377300-hero.png?type=s3",
+      "tags": [
+        "카카오페이",
+        "377300",
+        "카카오페이실적",
+        "2분기실적",
+        "영업이익",
+        "핀테크",
+        "결제주",
+        "공시분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224367800997",
+      "logNo": "224367800997",
+      "title": "아이쓰리시스템 2분기 매출 56.0%·영업이익 79.9% 증가",
+      "url": "https://blog.naver.com/tnsqo1126/224367800997",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "dateLabel": "2026. 8. 4.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위해 만든 연출 이미지입니다. 아이쓰리시스템이 2026년 8월 4일 2분기 잠정실적을 공시했습니다. 별도 매출은 394억 7,600만 원, 영업이익은 47억 5,900만 원입니다. 지난해 같은 기간과 비교하면 매출은 56.0%, 영업이익은 79.9% 늘었습니다.…",
+      "image": "",
+      "tags": [],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224367798760",
       "logNo": "224367798760",
@@ -44,7 +199,7 @@
       "categoryLabel": "연예",
       "sourceCategoryNo": "110",
       "summary": "노을 강균성이 결혼 소식을 전했습니다. 소속사 S27M엔터테인먼트가 8월 4일 밝힌 내용에 따르면 강균성과 배우 유하진은 오는 10월 30일 서울에서 예식을 올릴 예정입니다. 공개된 사실을 중심으로 결혼 발표와 최근 활동, 데뷔 이후 걸어온 길을 정리했습니다.",
-      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfNTkg/MDAxNzg1ODI1MjUxNjc5.3Nu4E1_xHK8NLFWCDZ5DoJvzzTjt15NEsCJWgM0qp28g.pQ5InH2VuRvBWPAzoe18-BDuzW8q0Nz9UA9mHpILRbMg.JPEG/final-collage-01.jpg?type=s3",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfMjQz/MDAxNzg1ODI2NjQyNDY3.5v1ppPUjxGufDrTxINEoBQvZOmhMtQWudUI2GO13Sgwg.7NmSTyrbmUQacHYq39YyZUWkSDWpBdp-O6RT3TE69zEg.JPEG/final-collage-01.jpg?type=s3",
       "tags": [
         "강균성",
         "강균성결혼",
@@ -79,12 +234,12 @@
         },
         {
           "heading": "결혼을 앞두고 이어가는 최근 활동",
-          "body": "강균성은 2026년에도 음악과 방송 활동을 이어왔습니다. 4월에는 김장훈과 함께 《HONEY》를 선보였고, 6월 KBS 《불후의 명곡》 무대와 7월 KBS 라디오에도 출연했습니다. 결혼 발표 뒤의 세부 일정은 아직 공개되지 않았지만, 오랫동안 무대를 지켜온 가수의 새로운 출발에 따뜻한 축하가 이어지고 있습니다. 참고 자료: 스포츠조선 강균성·유하진 결혼 및 배우 경력 보도 · 빌리언스 여성 배우 유하진 공식 프로필 · iMBC연예 강균성 결혼 발표 공식 뉴스 영상 · KBS 불후의 명곡 강균성 공식 무대 · KBS CoolFM 강균성 공식 방송 · 콜라주 1 강균성…"
+          "body": "강균성은 2026년에도 음악과 방송 활동을 이어왔습니다. 4월에는 김장훈과 함께 《HONEY》를 선보였고, 6월 KBS 《불후의 명곡》 무대와 7월 KBS 라디오에도 출연했습니다. 결혼 발표 뒤의 세부 일정은 아직 공개되지 않았지만, 오랫동안 무대를 지켜온 가수의 새로운 출발에 따뜻한 축하가 이어지고 있습니다. 참고 자료: 스포츠조선 강균성·유하진 결혼 및 배우 경력 보도 · 빌리언스 여성 배우 유하진 공식 프로필 · iMBC연예 강균성 결혼 발표 공식 뉴스 영상 · KBS 불후의 명곡 강균성 공식 무대 · KBS CoolFM 강균성 공식 방송 · 빌리언스 유하진 공…"
         }
       ],
-      "detailUpdatedAt": "2026-08-04T06:40:14.093Z",
+      "detailUpdatedAt": "2026-08-05T07:48:37.709Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:ddecc1dd6a0d272f1ee6283231963a4de1a4990ec6cd0f76290fa120a4a78437"
+      "detailContentHash": "sha256:054600975e948078c74a7e7a7b044662fe6df84c6916e11ad39d2da5ca12a185"
     },
     {
       "id": "naver:tnsqo1126:224366889815",
@@ -10611,26 +10766,6 @@
       "verificationLevel": "public_index_confirmed"
     },
     {
-      "id": "naver:tnsqo1126:222396264835",
-      "logNo": "222396264835",
-      "title": "신중동 왁싱/부천 왁싱) 남자 브라질리언왁싱 후기 '다온왁싱'에서 !!",
-      "url": "https://blog.naver.com/tnsqo1126/222396264835",
-      "publishedAt": "2021-06-13T00:00:00+09:00",
-      "dateLabel": "2021. 6. 13.",
-      "category": "archive",
-      "categoryLabel": "기록",
-      "sourceCategoryNo": "23",
-      "summary": "",
-      "image": "",
-      "tags": [],
-      "candidate": "",
-      "work": "",
-      "role": "",
-      "stockCode": "",
-      "searchAllowed": true,
-      "verificationLevel": "public_index_confirmed"
-    },
-    {
       "id": "naver:tnsqo1126:222387713728",
       "logNo": "222387713728",
       "title": "아이폰 배경화면) 꼬북좌 배경화면 꼬북칩",
@@ -11440,26 +11575,6 @@
       "category": "archive",
       "categoryLabel": "기록",
       "sourceCategoryNo": "87",
-      "summary": "",
-      "image": "",
-      "tags": [],
-      "candidate": "",
-      "work": "",
-      "role": "",
-      "stockCode": "",
-      "searchAllowed": true,
-      "verificationLevel": "public_index_confirmed"
-    },
-    {
-      "id": "naver:tnsqo1126:222291173653",
-      "logNo": "222291173653",
-      "title": "리얼후기) 인천 남자브라질리언왁싱 후기(올데이슈가링)",
-      "url": "https://blog.naver.com/tnsqo1126/222291173653",
-      "publishedAt": "2021-03-29T00:00:00+09:00",
-      "dateLabel": "2021. 3. 29.",
-      "category": "archive",
-      "categoryLabel": "기록",
-      "sourceCategoryNo": "23",
       "summary": "",
       "image": "",
       "tags": [],
