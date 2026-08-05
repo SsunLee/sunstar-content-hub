@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-05T14:31:57.503Z",
-  "expectedPublicCount": 1101,
-  "total": 1101,
+  "generatedAt": "2026-08-05T17:53:27.185Z",
+  "expectedPublicCount": 1102,
+  "total": 1102,
   "counts": {
-    "entertainment": 112,
+    "entertainment": 113,
     "stocks": 68,
     "archive": 921
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224369415339",
+      "logNo": "224369415339",
+      "title": "이아현, 세 번의 결혼과 이혼 직접 밝혔다 \"첫 남편에게 미안한 마음\"",
+      "url": "https://blog.naver.com/tnsqo1126/224369415339",
+      "publishedAt": "2026-08-05T15:03:46.000Z",
+      "dateLabel": "2026. 8. 6.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDVfMjg0/MDAxNzg1OTQxMDk3MDIx.RG2lnSYV6ooinDfJtjDILfTLQkJ322hg5tRzGURWrkMg.voyA-p1F16sHwy1Hmb_k183hKboinT6TkhoW_3QqaM0g.JPEG/01-2026-05-10-portrait.jpg?type=s3",
+      "tags": [
+        "이아현",
+        "새롭게하소서",
+        "이아현이혼",
+        "입양",
+        "연예뉴스",
+        "이아현새롭게하소서",
+        "이아현이혼입양"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224369375226",
       "logNo": "224369375226",
