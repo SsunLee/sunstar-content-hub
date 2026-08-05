@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-05T07:48:37.709Z",
-  "expectedPublicCount": 1099,
-  "total": 1099,
+  "generatedAt": "2026-08-05T14:31:57.503Z",
+  "expectedPublicCount": 1101,
+  "total": 1101,
   "counts": {
     "entertainment": 112,
-    "stocks": 66,
+    "stocks": 68,
     "archive": 921
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224369375226",
+      "logNo": "224369375226",
+      "title": "레볼루션 메디신, 주가 2026년 140% 급등 배경과 오늘 2분기 실적 대기 포인트",
+      "url": "https://blog.naver.com/tnsqo1126/224369375226",
+      "publishedAt": "2026-08-05T14:12:40.000Z",
+      "dateLabel": "2026. 8. 5.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 미국 나스닥 상장 항암 신약 개발사 레볼루션 메디신(Revolution Medicines, RVMD)의 주가가 2026년 들어 약 140% 올랐습니다. 배경에는 췌장암 치료제 후보물질 다라소닙(daraxonrasib)의 3상 임상 성공과 FDA 우선심사 지정이 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDVfMTQy/MDAxNzg1OTM4OTIwMTY4.q4fIshhfRUOx_b3tv9Lv3-70CCGLxPnT9uxBR4_96dIg.QkcLCJMGaW6BXZiNhuTcdgh0L_FRA8rHrbYrl9NPQggg.PNG/2026-08-05-rvmd-hero.png?type=s3",
+      "tags": [
+        "레볼루션메디신",
+        "RVMD",
+        "다라소닙",
+        "췌장암",
+        "FDA우선심사",
+        "나스닥",
+        "바이오",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "다라소닙 3상, 생존기간을 2배로 늘리다",
+          "body": "레볼루션 메디신은 2026년 5월 췌장암 대상 3상 임상시험 RASolute 302에서 다라소닙이 \"전례 없는\" 전체생존기간(OS) 개선을 보였다고 발표했습니다. 전이성 췌장암 환자를 대상으로 한 이 시험에서 다라소닙 투여군의 중앙값 전체생존기간은 13.2개월로, 표준 화학요법군의 6.7개월 대비 약 2배 길었습니다. 위험비(hazard ratio)는 0.40으로 나타났습니다."
+        },
+        {
+          "heading": "FDA 우선심사와 국가우선바우처 지정",
+          "body": "3상 결과를 바탕으로 FDA는 다라소닙의 신약허가신청(NDA)을 접수하고 우선심사(Priority Review) 대상으로 지정했습니다. 회사는 또한 FDA의 국가우선바우처(National Priority Voucher) 프로그램 대상으로도 선정됐다고 밝혔습니다. 이 프로그램은 심사 기간을 승인 신청 후 수주 내로 단축할 수 있는 패스트트랙 성격의 제도로, 고위험·고수요 치료 영역에 우선순위를 부여합니다."
+        },
+        {
+          "heading": "약 +140%",
+          "body": "레볼루션 메디신은 2020년 상장 이후 상당 기간 주당 50달러를 밑도는 수준에서 거래됐습니다. 3상 성공과 규제 절차 진전이 겹치면서 주가가 단기간에 크게 재평가된 셈입니다. 다만 이는 향후 실제 매출 없이도 임상·규제 뉴스만으로 주가가 크게 움직일 수 있다는 뜻이기도 합니다. 회사는 아직 상업화 이전 단계로, 매출이 발생하지 않고 있습니다."
+        },
+        {
+          "heading": "현금 여력은 넉넉하지만 손실도 커지는 중",
+          "body": "2026년 1분기(3월 31일 종료) 기준 순손실은 4억 5,380만 달러로, 전년 동기 2억 1,340만 달러 대비 두 배 넘게 늘었습니다. 판매관리비는 1억 130만 달러로 전년 동기 3,500만 달러에서 크게 증가했는데, 이는 임상 3상 확대와 상업화 준비 인력 확충이 반영된 결과로 풀이됩니다."
+        },
+        {
+          "heading": "상업화 준비 인력 확충",
+          "body": "손실 확대에도 회사의 현금 여력은 넉넉한 편입니다. 2026년 들어 진행한 자금 조달로 순조달액 21억 달러를 확보했고, 이를 반영한 현금성 자산은 약 19억 달러 수준으로 파악됩니다. 상업화 이전 바이오텍 특성상 손실은 예정된 경로에 가깝지만, 현금 소진 속도가 임상·허가 일정과 맞물려 얼마나 지속 가능한지는 계속 확인이 필요합니다."
+        },
+        {
+          "heading": "오늘 확인할 것: 2분기 실적",
+          "body": "레볼루션 메디신은 2026년 8월 5일 미국 동부시간 장 마감 후 2분기 실적을 발표하고, 오후 4시 30분(한국시간 6일 오전 5시 30분)부터 경영진이 참여하는 웹캐스트를 진행합니다. 이번 발표에서는 다음 세 가지가 핵심 확인 사항입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-05T14:31:57.503Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:08a50773e249a1acdede182d217ccfd31d7e203a4929a0ff0346e6ca19f70ae4"
+    },
+    {
+      "id": "naver:tnsqo1126:224369333337",
+      "logNo": "224369333337",
+      "title": "알테오젠 ALT-B4 독점 라이선스 공시, 최대 5,219억 원 계약 조건 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224369333337",
+      "publishedAt": "2026-08-05T13:22:41.000Z",
+      "dateLabel": "2026. 8. 5.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 알테오젠이 2026년 8월 5일 오전 7시 41분 글로벌 제약사와 ALT-B4 독점 라이선스 계약을 체결했다고 공시했습니다. 선급금과 개발·허가·상업화 마일스톤을 합친 최대 계약금액은 3억 6,500만 달러, 8월 4일 고시환율 기준 약 5,219억 원입니다. 상업화 이후에는 순매출액에 연동한 판매 로열티를 따로 받습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDVfMTYx/MDAxNzg1OTM2MTE1MzUz.KGZDoye5elDyNn04OV86Gjb8dgO5z8uy3stROiA12QYg.oXlgopDMpwEnFdAPNMP5-RAg72w_q2K2tLKFpXY5cycg.PNG/2026-08-05-196170-hero.png?type=s3",
+      "tags": [
+        "알테오젠",
+        "ALTB4",
+        "하이브로자임",
+        "기술수출",
+        "라이선스계약",
+        "코스닥",
+        "바이오",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224367803124",
       "logNo": "224367803124",
