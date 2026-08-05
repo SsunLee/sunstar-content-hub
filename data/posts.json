@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-05T17:53:27.185Z",
-  "expectedPublicCount": 1102,
-  "total": 1102,
+  "generatedAt": "2026-08-05T19:53:44.188Z",
+  "expectedPublicCount": 1103,
+  "total": 1103,
   "counts": {
     "entertainment": 113,
     "stocks": 68,
-    "archive": 921
+    "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224369525654",
+      "logNo": "224369525654",
+      "title": "'영크크' 뜻이 뭐길래? 요즘 SNS 뒤덮은 신조어 총정리",
+      "url": "https://blog.naver.com/tnsqo1126/224369525654",
+      "publishedAt": "2026-08-05T19:48:27.000Z",
+      "dateLabel": "2026. 8. 6.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "최근 SNS와 짧은 영상 콘텐츠에서 \"영크크\"라는 말이 자주 보입니다. 처음 접하면 무슨 뜻인지 감이 잘 안 오는 이 표현, 어디서 시작됐고 정확히 어떤 의미로 쓰이는지 정리했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDZfMjEg/MDAxNzg1OTU5MTE5ODk1.31QsJA4ZeiwbNVjYFwjw0FQakj6JCvex6Ebe-8Hkx6cg.mxP0OL-rLUFWgJbcxDvEX2tyXGXM5UGwGlJl-7wj2pwg.JPEG/04-official-guerrilla-gig-01.jpg?type=s3",
+      "tags": [
+        "영크크",
+        "영크크뜻",
+        "늙크크",
+        "올크크",
+        "유행어",
+        "신조어",
+        "영크크영크크뜻",
+        "늙크크올크크"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224369415339",
       "logNo": "224369415339",
@@ -153,7 +182,7 @@
       "logNo": "224368542028",
       "title": "SAMG엔터 8월 4일 6.21% 상승, ‘고래보석의 전설’ 예매 10만 명 점검",
       "url": "https://blog.naver.com/tnsqo1126/224368542028",
-      "publishedAt": "2026-08-04T23:52:16.000Z",
+      "publishedAt": "2026-08-04T23:52:15.000Z",
       "dateLabel": "2026. 8. 5.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -202,16 +231,16 @@
           "body": "SAMG엔터는 애니메이션 영상 매출만 올리는 회사가 아닙니다. 완구·패션잡화, 라이선스, 온·오프라인 유통이 함께 실적에 영향을 줍니다. 영화 관객이 늘어나더라도 관련 제품 판매와 라이선스 수익으로 얼마나 연결되는지가 중요합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-05T07:48:37.709Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8b001b2448820b8dd17f89d77e5bd277d79bc1bba87b28ed37b6c42cdd0b25b7"
+      "detailContentHash": "sha256:6d744330a04c6779b342b32e725c8ace77fd24d8c4cc152d822f7d8d21617e30"
     },
     {
       "id": "naver:tnsqo1126:224367971305",
       "logNo": "224367971305",
       "title": "《재벌X형사2》 정은채, 새 팀장 주혜라로 합류...8월 7일 첫 방송",
       "url": "https://blog.naver.com/tnsqo1126/224367971305",
-      "publishedAt": "2026-08-04T07:58:01.000Z",
+      "publishedAt": "2026-08-04T07:58:00.000Z",
       "dateLabel": "2026. 8. 4.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -288,7 +317,7 @@
       "logNo": "224367798760",
       "title": "대우건설 2분기 영업이익 2,323억 원, 전년 대비 182.6% 증가",
       "url": "https://blog.naver.com/tnsqo1126/224367798760",
-      "publishedAt": "2026-08-04T05:29:52.000Z",
+      "publishedAt": "2026-08-04T05:29:51.000Z",
       "dateLabel": "2026. 8. 4.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -361,7 +390,7 @@
       "logNo": "224366889815",
       "title": "지엔씨에너지 14.75% 상승 배경, KT 데이터센터 발전기 755억 계약 점검",
       "url": "https://blog.naver.com/tnsqo1126/224366889815",
-      "publishedAt": "2026-08-03T08:27:43.000Z",
+      "publishedAt": "2026-08-03T08:27:42.000Z",
       "dateLabel": "2026. 8. 3.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -410,9 +439,9 @@
           "body": "계약금액 755억 원은 규모를 보여 주는 수치이지 영업이익을 뜻하지 않습니다. 공시에는 원가율이나 예상 이익률이 나오지 않았습니다. 자체생산과 외주생산이 모두 포함되므로 장비 조달비와 공사 진행률에 따라 실제 수익성은 달라집니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-03T11:43:08.311Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:08441e2ebd43c3512ff520fb49664a76a2d55226037239da637d25c95a0dea09"
+      "detailContentHash": "sha256:beaaebe9415bbc9328d7919fb6c3292f6d62f25725f6258f12422fe2572e2f71"
     },
     {
       "id": "naver:tnsqo1126:224366139869",
@@ -506,7 +535,7 @@
       "logNo": "224365633575",
       "title": "영화 《다윗》 필 위컴 근황, 성인 다윗 목소리로 국내 박스오피스 7위",
       "url": "https://blog.naver.com/tnsqo1126/224365633575",
-      "publishedAt": "2026-08-02T04:35:42.000Z",
+      "publishedAt": "2026-08-02T04:35:41.000Z",
       "dateLabel": "2026. 8. 2.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -549,9 +578,9 @@
           "body": "《다윗》은 어린 목동이 왕이 되기까지의 이야기를 음악과 함께 풀어냅니다. 필 위컴을 볼 때는 익숙한 노래 목소리가 대사에서는 어떻게 달라지는지 들어볼 만합니다. 노래가 시작되기 전의 짧은 호흡과 성인 다윗이 선택을 앞둔 장면의 말투, 젊은 다윗에서 성인 다윗으로 넘어가는 목소리의 연결이 관전 포인트입니다. 2026년 투어와 새 뮤직비디오를 함께 보면 영화 밖에서 이어지는 그의 현재 음악도 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-02T06:44:42.701Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:9d1e336f23357521d5a7b85a96b36cf6b1dfc3332ac38425dc41aeedbfdad994"
+      "detailContentHash": "sha256:21912bf9d767906ce38ebe65772e3e7334afd3435806aaa2dc0626c2be03bcf3"
     },
     {
       "id": "naver:tnsqo1126:224365609392",
@@ -587,7 +616,7 @@
       "logNo": "224365280307",
       "title": "[9/7까지 마감] 2026 비대면 주민등록 사실조사 방법|정부24 앱, GPS, 세대원 1명 참여",
       "url": "https://blog.naver.com/tnsqo1126/224365280307",
-      "publishedAt": "2026-08-01T16:03:47.000Z",
+      "publishedAt": "2026-08-01T16:03:46.000Z",
       "dateLabel": "2026. 8. 2.",
       "category": "archive",
       "categoryLabel": "기록",
@@ -670,7 +699,7 @@
       "logNo": "224364297906",
       "title": "《스파이더맨: 브랜드 뉴 데이》 톰 홀랜드 근황, 피터 파커로 국내 박스오피스 1위",
       "url": "https://blog.naver.com/tnsqo1126/224364297906",
-      "publishedAt": "2026-07-31T13:31:45.000Z",
+      "publishedAt": "2026-07-31T13:31:44.000Z",
       "dateLabel": "2026. 7. 31.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -715,16 +744,16 @@
           "body": "톰 홀랜드의 네 번째 솔로 스파이더맨 영화는 고등학생 영웅이 아니라 혼자 삶을 꾸리는 성인 피터 파커에서 시작합니다. 익숙한 액션 안에는 기억에서 지워진 사람의 외로움, 통제하기 어려운 신체 변화, 보이지 않는 적이 함께 놓였습니다. 가면을 쓴 영웅의 움직임과 가면 밖 인물의 불안을 한 사람이 어떻게 이어 가는지 지켜볼 만합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:05a8f6d5aea598fcf979dc7e8849557500951bc7e4208168891860e24128a540"
+      "detailContentHash": "sha256:ae04e7afe0a3cb9b90d67c1234643e690bc12d9d3cf04502e1e1987c77b1f880"
     },
     {
       "id": "naver:tnsqo1126:224362880091",
       "logNo": "224362880091",
       "title": "폭염에도 갖춰 입기|출근·주말·휴가 여성 여름 코디 3세트",
       "url": "https://blog.naver.com/tnsqo1126/224362880091",
-      "publishedAt": "2026-07-30T06:39:09.000Z",
+      "publishedAt": "2026-07-30T06:39:08.000Z",
       "dateLabel": "2026. 7. 30.",
       "category": "archive",
       "categoryLabel": "기록",
@@ -804,7 +833,7 @@
       "logNo": "224358966231",
       "title": "《모아나》 드웨인 존슨 근황, 실사 마우이로 국내 박스오피스 3위",
       "url": "https://blog.naver.com/tnsqo1126/224358966231",
-      "publishedAt": "2026-07-26T23:49:37.000Z",
+      "publishedAt": "2026-07-26T23:49:36.000Z",
       "dateLabel": "2026. 7. 27.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -848,9 +877,9 @@
           "body": "실사 《모아나》는 국내에서 7월 8일 개봉했고, 7월 26일에도 일별 박스오피스 3위를 지켰습니다. 드웨인 존슨은 오랫동안 목소리로 다듬어 온 마우이를 표정과 움직임으로 다시 보여 주는 동시에 제작에도 참여했습니다. 익숙한 캐릭터를 그대로 되풀이하지 않고 실사 화면에 맞춰 어떤 온도와 유머를 더했는지가 이번 작품의 관전 포인트입니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:5ccd8262c5bfccde407a7238ecb0949964f26c525cf57c161aaa44188cec35ef"
+      "detailContentHash": "sha256:6deda48f825e7270a42278bfe95acc1ad53f33c985f0f64700770923fc45b5dd"
     },
     {
       "id": "naver:tnsqo1126:224358645515",
@@ -963,7 +992,7 @@
       "logNo": "224358621727",
       "title": "비비 워터밤 2026, 왜 실시간 검색어가 됐을까",
       "url": "https://blog.naver.com/tnsqo1126/224358621727",
-      "publishedAt": "2026-07-26T12:28:05.000Z",
+      "publishedAt": "2026-07-26T12:28:04.000Z",
       "dateLabel": "2026. 7. 26.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1006,16 +1035,16 @@
           "body": "무대 전체보다 몇 초짜리 장면이 먼저 퍼지는 시대입니다. 이번 무대 역시 의상 사고가 아니라 의도된 연출이라는 사실과, 그 수위에 대한 평가는 구분해서 볼 필요가 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:f0389008a424c796f194fcd48abf40b064e90276eacfa3d922bd3c6d7bde3c34"
+      "detailContentHash": "sha256:77fa3c250e23f39f589cac95d228813cad6a1e5d401d4321d7e716d635739045"
     },
     {
       "id": "naver:tnsqo1126:224358584992",
       "logNo": "224358584992",
       "title": "20년 전 이별이 로봇 전쟁으로 돌아왔다|Tears of Steel 결말 설명",
       "url": "https://blog.naver.com/tnsqo1126/224358584992",
-      "publishedAt": "2026-07-26T11:38:29.000Z",
+      "publishedAt": "2026-07-26T11:38:28.000Z",
       "dateLabel": "2026. 7. 26.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1055,16 +1084,16 @@
           "body": "Tears of Steel은 Blender Institute가 제작한 2012년 SF 단편영화입니다. 네덜란드 암스테르담을 배경으로 실사 촬영과 오픈소스 3D 제작 기술을 결합했습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:0bbe4cc55fbaa31f3289ce8c76b69bf2fdd3dca68d4f953b7f9300fbd9d21c22"
+      "detailContentHash": "sha256:f53d79f0adf2b99873a8f5ac797f2da3cbfc5a6fe6cd07e3b2bea33196991366"
     },
     {
       "id": "naver:tnsqo1126:224358522490",
       "logNo": "224358522490",
       "title": "김부장 시즌2 후속 떡밥 정리|백호인력소 이도규부터 제작 논의까지",
       "url": "https://blog.naver.com/tnsqo1126/224358522490",
-      "publishedAt": "2026-07-26T10:04:39.000Z",
+      "publishedAt": "2026-07-26T10:04:38.000Z",
       "dateLabel": "2026. 7. 26.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1109,16 +1138,16 @@
           "body": "7월 초만 해도 SBS는 시즌2가 공식 논의된 바 없다고 밝혔습니다. 최종회 방송 뒤 상황이 달라졌습니다. 7월 26일 OSEN 보도에서 제작사 측은 시청자의 사랑과 성원에 힘입어 시즌2 제작을 긍정적으로 논의 중이라고 밝혔습니다. 세부 일정은 미정이며 확정되는 대로 알리겠다는 설명도 덧붙였습니다. 지금 가장 정확한 표현은 ‘시즌2 확정’이 아니라 ‘제작 긍정 논의 중’입니다. 최종회가 백호인력소와 이도규를 직접 보여 준 만큼 이야기의 방향은 비교적 선명합니다. 편성 시기와 출연진, 촬영 일정은 발표를 기다려야 합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:f43f8e76a64f18d89753f5831717cb5653d3924d44edae9d0db029fa6caec3ab"
+      "detailContentHash": "sha256:e24d526253bca0607b2fb6c3554074b3f00e7a5680beee5e8e1c847f750561a4"
     },
     {
       "id": "naver:tnsqo1126:224358465464",
       "logNo": "224358465464",
       "title": "《나 혼자 산다》 던 근황, 햇님이와 사는 집부터 무형유산 프로젝트까지",
       "url": "https://blog.naver.com/tnsqo1126/224358465464",
-      "publishedAt": "2026-07-26T08:39:14.000Z",
+      "publishedAt": "2026-07-26T08:39:13.000Z",
       "dateLabel": "2026. 7. 26.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1163,9 +1192,9 @@
           "body": "지금 던에게서 눈여겨볼 부분은 음악과 생활 취향이 따로 놀지 않는다는 점입니다. 집의 가구와 조명, 직접 그린 그림, 무형유산 프로젝트가 모두 고유한 미감으로 이어집니다. 이번 방송은 새 음악의 구체적인 일정까지 밝힌 자리는 아니었지만, 그가 다음 작업에 어떤 질감과 이야기를 가져갈지 짐작하게 했습니다. 햇님이와 나누는 소박한 일상 뒤에서 다시 정돈되고 있는 던의 음악을 기다려 볼 만합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8a956af8bfbecf990915e43b08398c425a81588e330f05aa6fb604b7a1fce03c"
+      "detailContentHash": "sha256:b1d9aea5875bfc2fe72459144c217f9be7f846b20a3422fed159c4fb6819e9e5"
     },
     {
       "id": "naver:tnsqo1126:224358283525",
@@ -1230,7 +1259,7 @@
       "logNo": "224357747994",
       "title": "《군체》 최현석 지창욱 근황, 누나를 지키려는 보안요원의 절박함",
       "url": "https://blog.naver.com/tnsqo1126/224357747994",
-      "publishedAt": "2026-07-25T12:50:38.000Z",
+      "publishedAt": "2026-07-25T12:50:37.000Z",
       "dateLabel": "2026. 7. 25.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1273,9 +1302,9 @@
           "body": "《군체》의 최현석은 강한 보안요원이면서도 모든 답을 쥔 인물은 아닙니다. 감염자가 늘어날수록 그의 판단은 건물의 규칙보다 누나의 생존에 더 기울어집니다. 지창욱이 액션의 속도를 끌어올리는 순간과, 김신록이 연기한 최현희를 바라볼 때 잠깐 멈추는 틈을 어떻게 잇는지 살펴볼 만합니다. 특히 권세정 무리와 합류하거나 충돌하는 장면, 서영철이 이끄는 감염 집단과 마주할 때 현석의 선택이 개인에서 공동체로 넓어지는지가 관전 포인트입니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-01T12:38:15.771Z",
+      "detailUpdatedAt": "2026-08-05T19:53:44.188Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:b47ec72366c586b340b5dcd24b0a1380bff7027a97dcfe9ab3ea0c31662af7d5"
+      "detailContentHash": "sha256:43cf8284a70cedc25423c9599d52b89cc51dee05c94427ead0dee393f7d47b07"
     },
     {
       "id": "naver:tnsqo1126:224357504345",
