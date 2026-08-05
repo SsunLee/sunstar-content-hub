@@ -4,6 +4,9 @@ import {
 } from "@/lib/post-detail";
 import {
   getLocalizedDate,
+  hasLocalizedLocaleReleaseEvidence,
+  localizedArticlePath,
+  localizedArticles,
   type Locale,
 } from "@/lib/localized-content";
 import type { LocalizedPostCopy } from "@/lib/localized-posts";
@@ -17,7 +20,20 @@ type LocalizedPostCardProps = {
   number?: number;
 };
 
-function sourceLink(post: Post) {
+function sourceLink(post: Post, locale: Locale) {
+  if (locale !== "ko") {
+    const article = localizedArticles.find(
+      (candidate) => candidate.logNo === post.logNo,
+    );
+    if (article && hasLocalizedLocaleReleaseEvidence(article, locale)) {
+      return { href: localizedArticlePath(article, locale), external: false };
+    }
+    // No full translation exists for this post yet: send the reader to the
+    // Korean original in a new tab instead of the site's own Korean-only
+    // /news/:logNo page, which would silently drop them out of the locale
+    // they were browsing in.
+    return { href: post.url, external: true };
+  }
   if (isPostDetailIndexable(post)) {
     return { href: postDetailPath(post), external: false };
   }
@@ -58,7 +74,8 @@ export function LocalizedPostCard({
   variant = "story",
   number,
 }: LocalizedPostCardProps) {
-  const link = sourceLink(post);
+  const link = sourceLink(post, locale);
+  const linkHrefLang = link.external ? "ko" : locale;
   const label = thumbnailLabel(post, localized);
   const categoryLabel =
     post.category === "stocks"
@@ -77,12 +94,15 @@ export function LocalizedPostCard({
     "data-analytics-article-id": post.logNo,
     "data-analytics-locale": locale,
   };
-  const sourceLabel =
-    locale === "ko"
+  const sourceLabel = link.external
+    ? locale === "ko"
       ? "원문 읽기"
       : locale === "ja"
         ? "韓国語の原文を読む"
-        : "Read the Korean original";
+        : "Read the Korean original"
+    : locale === "ja"
+      ? "記事を読む"
+      : "Read the full story";
 
   if (variant === "row") {
     return (
@@ -95,7 +115,7 @@ export function LocalizedPostCard({
           <h3>
             <a
               href={link.href}
-              hrefLang="ko"
+              hrefLang={linkHrefLang}
               target={link.external ? "_blank" : undefined}
               rel={link.external ? "noopener noreferrer" : undefined}
               {...analytics}
@@ -118,7 +138,7 @@ export function LocalizedPostCard({
       <a
         className={`story-image localized-source-image${post.image ? "" : " localized-source-image-fallback"}`}
         href={link.href}
-        hrefLang="ko"
+        hrefLang={linkHrefLang}
         target={link.external ? "_blank" : undefined}
         rel={link.external ? "noopener noreferrer" : undefined}
         tabIndex={-1}
@@ -151,7 +171,7 @@ export function LocalizedPostCard({
         <h3>
           <a
             href={link.href}
-            hrefLang="ko"
+            hrefLang={linkHrefLang}
             target={link.external ? "_blank" : undefined}
             rel={link.external ? "noopener noreferrer" : undefined}
             {...analytics}
@@ -165,13 +185,14 @@ export function LocalizedPostCard({
         <a
           className="read-original"
           href={link.href}
-          hrefLang="ko"
+          hrefLang={linkHrefLang}
           target={link.external ? "_blank" : undefined}
           rel={link.external ? "noopener noreferrer" : undefined}
           aria-label={`${localized.title}: ${sourceLabel}`}
           {...analytics}
         >
-          {sourceLabel} <span aria-hidden="true">↗</span>
+          {sourceLabel}{" "}
+          <span aria-hidden="true">{link.external ? "↗" : "→"}</span>
         </a>
       </div>
     </article>
