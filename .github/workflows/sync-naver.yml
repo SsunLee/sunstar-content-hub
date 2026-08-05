@@ -35,6 +35,7 @@ jobs:
       - name: Collect the current public post index
         env:
           NAVER_BLOG_ID: tnsqo1126
+          ALLOW_REMOVALS: 1
         run: npm run sync:naver
 
       - name: Validate generated post data
