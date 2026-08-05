@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-05T19:53:44.188Z",
-  "expectedPublicCount": 1103,
-  "total": 1103,
+  "generatedAt": "2026-08-05T23:17:33.131Z",
+  "expectedPublicCount": 1104,
+  "total": 1104,
   "counts": {
-    "entertainment": 113,
+    "entertainment": 114,
     "stocks": 68,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224369515907",
+      "logNo": "224369515907",
+      "title": "'나는 솔로' 28기 영자·영철, 결혼 6개월 만에 결별 발표",
+      "url": "https://blog.naver.com/tnsqo1126/224369515907",
+      "publishedAt": "2026-08-05T22:20:00.000Z",
+      "dateLabel": "2026. 8. 6.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'나는 솔로' 28기 출신 커플 영자와 영철이 결혼 약 6개월 만에 결별했습니다. 두 사람은 지난 1월 결혼식을 올렸지만, 영자가 7월 31일 본인 인스타그램 스토리를 통해 관계 정리 소식을 직접 전했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDZfMjM5/MDAxNzg1OTU2Njc4NTI3.K-SsA4UrNvB0NaLM0_xd_gIqXzRi4ZmdBIdceVUZ5qMg.lNVZU8ocDpcUVKhlXbWDYaKztWjMuisivYKu9RQpMRsg.JPEG/01-youngja-ena-official.jpg?type=s3",
+      "tags": [
+        "나는솔로",
+        "나는솔로28기",
+        "영자",
+        "영철",
+        "연예뉴스",
+        "나는솔로나는솔로28기"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224369525654",
       "logNo": "224369525654",
