@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-01T12:44:51.880Z",
-  "generatedAt": "2026-08-01T12:44:51.880Z",
+  "sourceGeneratedAt": "2026-08-04T02:50:09.000Z",
+  "generatedAt": "2026-08-05T17:53:27.185Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-01T12:44:51.880Z",
-    "translatedCount": 167,
-    "translationSetHash": "sha256:b2e6911014847a9e7f14d0a445039df1aba9c11d885a9960918a4c7481dbd396"
+    "sourceCutoff": "2026-08-04T02:50:09.000Z",
+    "translatedCount": 168,
+    "translationSetHash": "sha256:953a97b9329b0127e2b74506a81d49daaf39072951c51457c1b6549fc96903e6"
   },
   "counts": {
-    "entertainment": 107,
+    "entertainment": 108,
     "stocks": 60
   },
   "translations": [
+    {
+      "logNo": "224367634161",
+      "sourceHash": "sha256:967c2674f9ab5095c436eb942603e66cb7677e1e1a0c79aefb81dd18071ac13b",
+      "source": {
+        "title": "노을 강균성 결혼 발표, 배우 유하진과 10월 30일 웨딩마치",
+        "summary": "노을 강균성이 결혼 소식을 전했습니다. 소속사 S27M엔터테인먼트가 8월 4일 밝힌 내용에 따르면 강균성과 배우 유하진은 오는 10월 30일 서울에서 예식을 올릴 예정입니다. 공개된 사실을 중심으로 결혼 발표와 최근 활동, 데뷔 이후 걸어온 길을 정리했습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Noel's Kang Kyun-sung Announces Marriage to Actress Yoo Ha-jin, Wedding Set for October 30",
+          "summary": "Kang Kyun-sung of the ballad group Noel has announced his marriage. According to an announcement from his agency, S27M Entertainment, on August 4, Kang Kyun-sung and actress Yoo Ha-jin will hold their wedding in Seoul on October 30. Here is a summary of the marriage announcement, recent activities, and career built since debut, based on confirmed facts.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ノウル カン・ギュンソン、女優ユ・ハジンと結婚発表 10月30日に結婚式",
+          "summary": "バラードグループ「ノウル」のカン・ギュンソンが結婚を発表しました。所属事務所S27Mエンターテインメントが8月4日に発表した内容によると、カン・ギュンソンと女優ユ・ハジンは来る10月30日にソウルで結婚式を挙げる予定です。公開された事実を中心に、結婚発表と最近の活動、デビュー以来歩んできた道のりをまとめました。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224364909378",
       "sourceHash": "sha256:fa0270cd810f5de7a7cb64027e27e630d68fce6e064db72b293a89cd10a9848d",

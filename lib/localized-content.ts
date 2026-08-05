@@ -114,13 +114,13 @@ export const LOCALE_CONFIG = {
     completeIndexEyebrow: "THE COMPLETE INDEX",
     completeIndexTitle: "1,088개의 공개 기록을 한곳에서 찾습니다.",
     completeIndexDescription:
-      "연예 107건과 주식 60건은 세 언어로 제목·요약을 제공하고, 5편의 심층 기사는 본문까지 검수해 공개합니다.",
+      "연예 108건과 주식 60건은 세 언어로 제목·요약을 제공하고, 6편의 심층 기사는 본문까지 검수해 공개합니다.",
     completeIndexCta: "전체 아카이브 검색",
     translatedSectionTitle: "세 언어로 읽는 최신 작품과 배우",
     translatedSectionDescription:
       "한국어·영어·일본어가 모두 검수된 기사만 이 목록에 공개합니다.",
-    translatedSectionCount: "검수 완료 5편",
-    translatedDeskCta: "연예 번역 107건 모두 보기",
+    translatedSectionCount: "검수 완료 6편",
+    translatedDeskCta: "연예 번역 108건 모두 보기",
     marketTitle: "오늘 움직인 이유를 숫자와 함께",
     marketDescription:
       "급등락 이유, 실적 발표, 공시처럼 오늘 궁금한 주식 글을 번역 요약과 한국어 원문으로 함께 확인합니다.",
@@ -178,13 +178,13 @@ export const LOCALE_CONFIG = {
     completeIndexEyebrow: "THE COMPLETE INDEX",
     completeIndexTitle: "1,088 public posts, connected in one desk.",
     completeIndexDescription:
-      "English headlines and summaries cover 107 entertainment and 60 market posts, with five fully reviewed long-form translations.",
+      "English headlines and summaries cover 108 entertainment and 60 market posts, with six fully reviewed long-form translations.",
     completeIndexCta: "Search the Korean archive",
     translatedSectionTitle: "Films and stars, edited in three languages",
     translatedSectionDescription:
       "This section includes only stories reviewed in Korean, English, and Japanese.",
-    translatedSectionCount: "5 reviewed stories",
-    translatedDeskCta: "Browse all 107 entertainment posts",
+    translatedSectionCount: "6 reviewed stories",
+    translatedDeskCta: "Browse all 108 entertainment posts",
     marketTitle: "Today’s market moves, with the numbers behind them",
     marketDescription:
       "Read translated summaries of sharp moves, earnings, and disclosures, each paired with its dated Korean source.",
@@ -242,13 +242,13 @@ export const LOCALE_CONFIG = {
     completeIndexEyebrow: "THE COMPLETE INDEX",
     completeIndexTitle: "1,088件の公開記録を、ひとつのデスクに。",
     completeIndexDescription:
-      "エンタメ107件と株式60件の見出し・要約を日本語で提供し、5本の特集記事は本文まで確認して公開します。",
+      "エンタメ108件と株式60件の見出し・要約を日本語で提供し、6本の特集記事は本文まで確認して公開します。",
     completeIndexCta: "韓国語アーカイブを検索",
     translatedSectionTitle: "3つの言語で読む、いま注目の作品と俳優",
     translatedSectionDescription:
       "韓国語・英語・日本語のすべてで確認が完了した記事だけを掲載します。",
-    translatedSectionCount: "確認済み5記事",
-    translatedDeskCta: "エンタメ107件をすべて見る",
+    translatedSectionCount: "確認済み6記事",
+    translatedDeskCta: "エンタメ108件をすべて見る",
     marketTitle: "今日動いた理由を数字とともに",
     marketDescription:
       "急騰・急落、決算、開示情報を日本語の要約で読み、掲載日の韓国語原文も確認できます。",

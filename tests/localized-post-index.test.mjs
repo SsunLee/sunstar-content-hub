@@ -21,7 +21,7 @@ const sourcePosts = content.posts.filter(
   (post) => post.category === "entertainment" || post.category === "stocks",
 );
 
-test("localized index preserves the exact 167-entry translated snapshot without source drift", () => {
+test("localized index preserves the exact 168-entry translated snapshot without source drift", () => {
   const coverage = inspectLocalizedPostCoverage(content, localized);
   const sourceByLogNo = new Map(sourcePosts.map((post) => [post.logNo, post]));
   assert.equal(localized.schemaVersion, 1);
@@ -29,20 +29,20 @@ test("localized index preserves the exact 167-entry translated snapshot without 
   assert.deepEqual(localized.translationLag, {
     policy: TRANSLATION_LAG_POLICY,
     sourceCutoff: localized.sourceGeneratedAt,
-    translatedCount: 167,
+    translatedCount: 168,
     translationSetHash:
-      "sha256:b2e6911014847a9e7f14d0a445039df1aba9c11d885a9960918a4c7481dbd396",
+      "sha256:953a97b9329b0127e2b74506a81d49daaf39072951c51457c1b6549fc96903e6",
   });
   assert.deepEqual(localized.counts, {
-    entertainment: 107,
+    entertainment: 108,
     stocks: 60,
   });
-  assert.equal(coverage.translatedCount, 167);
+  assert.equal(coverage.translatedCount, 168);
   assert.equal(
     localizedTranslationSetHash(localized.translations),
     localized.translationLag.translationSetHash,
   );
-  assert.equal(new Set(localized.translations.map((entry) => entry.logNo)).size, 167);
+  assert.equal(new Set(localized.translations.map((entry) => entry.logNo)).size, 168);
 
   for (const translation of localized.translations) {
     const source = sourceByLogNo.get(translation.logNo);
@@ -88,7 +88,7 @@ test("a newly synced source may wait for en and ja without blocking sync", () =>
   nextContent.posts.unshift(newPost);
 
   const coverage = inspectLocalizedPostCoverage(nextContent, localized);
-  assert.equal(coverage.translatedCount, 167);
+  assert.equal(coverage.translatedCount, 168);
   assert.equal(coverage.pending.length, currentCoverage.pending.length + 1);
   assert.ok(coverage.pending.some((post) => post.logNo === newPost.logNo));
 });
