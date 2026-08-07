@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { LocalizedPostCard } from "@/components/localized-post-card";
+import { SponsorBanner } from "@/components/sponsor-banner";
 import {
   LOCALE_CONFIG,
   SUPPORTED_LOCALES,
@@ -219,6 +220,10 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
         </aside>
       </section>
 
+      <div className="page-shell">
+        <SponsorBanner placement="home-after-lead" locale={locale} />
+      </div>
+
       <section className="statement-band">
         <div className="page-shell statement-grid localized-statement-grid">
           <p className="statement-number">
@@ -261,6 +266,10 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
           ))}
         </div>
       </section>
+
+      <div className="page-shell">
+        <SponsorBanner placement="home-between-desks" locale={locale} />
+      </div>
 
       <section className="stock-stage" id="market-desk">
         <div className="page-shell desk-section localized-source-desk">

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
+import { SponsorBanner } from "@/components/sponsor-banner";
 import {
   LOCALE_CONFIG,
   SUPPORTED_LOCALES,
@@ -275,6 +276,17 @@ export default async function LocalizedArticlePage({
           </aside>
         </div>
       </article>
+
+      <div className="page-shell">
+        <SponsorBanner
+          placement={
+            article.category === "stocks"
+              ? "stocks-article"
+              : "entertainment-article"
+          }
+          locale={locale}
+        />
+      </div>
 
       <section className="localized-related">
         <div className="page-shell">

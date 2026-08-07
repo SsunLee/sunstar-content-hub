@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { LocalizedPostCard } from "@/components/localized-post-card";
+import { SponsorBanner } from "@/components/sponsor-banner";
 import {
   LOCALE_CONFIG,
   type Locale,
@@ -171,6 +172,15 @@ export function LocalizedDeskPage({
           </div>
         </aside>
       </section>
+
+      <div className="page-shell">
+        <SponsorBanner
+          placement={
+            category === "entertainment" ? "entertainment-desk" : "stocks-desk"
+          }
+          locale={locale}
+        />
+      </div>
 
       <section className="page-shell all-stories" id={listId}>
         <div className="section-heading localized-section-heading">
