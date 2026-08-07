@@ -55,6 +55,10 @@ const adFitLoaderScript =
   targetName === "vercel"
     ? '<script defer src="/adfit-loader.js"></script>'
     : "";
+const coupangPartnersLoaderScript =
+  targetName === "vercel"
+    ? '<script defer src="/coupang-partners-loader.js"></script>'
+    : "";
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -295,6 +299,16 @@ function toStaticHtml(html, route) {
 
   if (adFitLoaderScript && result.includes('class="kakao_ad_area"')) {
     result = result.replace("</body>", `${adFitLoaderScript}</body>`);
+  }
+
+  if (
+    coupangPartnersLoaderScript &&
+    result.includes("data-coupang-partners-slot")
+  ) {
+    result = result.replace(
+      "</body>",
+      `${coupangPartnersLoaderScript}</body>`,
+    );
   }
 
   if (analyticsScripts) {

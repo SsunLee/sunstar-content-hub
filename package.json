@@ -20,7 +20,7 @@
     "submit:indexnow": "node scripts/submit-indexnow.mjs",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "test:static": "npm run export:static && node --test tests/static-export.test.mjs",
-    "test:vercel": "npm run export:vercel && node --test tests/vercel-export.test.mjs tests/multilingual-export.test.mjs tests/site-analytics.test.mjs tests/kakao-adfit.test.mjs tests/sponsor-banner.test.mjs",
+    "test:vercel": "npm run export:vercel && node --test tests/vercel-export.test.mjs tests/multilingual-export.test.mjs tests/site-analytics.test.mjs tests/kakao-adfit.test.mjs tests/sponsor-banner.test.mjs tests/coupang-partners.test.mjs",
     "test:translations": "node --test tests/translation-manifests.test.mjs tests/localized-post-index.test.mjs",
     "test:sync": "node --test tests/naver-detail-extractor.test.mjs",
     "test:release": "npm run test:translations && npm run test:sync && npm run test:vercel && npm run lint",

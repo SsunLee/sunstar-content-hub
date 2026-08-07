@@ -85,9 +85,13 @@ test("legacy static pages preserve every Naver link while redirecting", async ()
     html,
     /_vercel\/insights\/script\.js|\/site-analytics\.js|window\.va\('beforeSend'/,
   );
+  // The GitHub Pages export never carries ads (all ad components return
+  // null when NEXT_PUBLIC_EXPORT_TARGET is "github"): neither Kakao AdFit,
+  // the sponsor image banner, the current Coupang Partners integration, nor
+  // the old proxy-widget one it replaced.
   assert.doesNotMatch(
     html,
-    /data-coupang-banner|coupang-partners-banner\.vercel\.app|AF8916827|data-adfit-slot|kakao_ad_area|\/adfit-loader\.js/,
+    /coupang-partners-banner\.vercel\.app|data-coupang-partners-slot|data-adfit-slot|kakao_ad_area|\/adfit-loader\.js/,
   );
   assert.doesNotMatch(
     html,

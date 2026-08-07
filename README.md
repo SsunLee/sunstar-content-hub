@@ -120,10 +120,15 @@ npm run submit:indexnow
 
 ## 광고 운영
 
-쿠팡 파트너스 배너는 사용하지 않습니다. 카카오 애드핏은 `ssundesk.com`
-매체에서 발급된 실제 광고 단위가 등록된 위치에만 표시되며, 값이 없으면 광고
-마크업과 외부 SDK를 모두 출력하지 않습니다. 최초 매체 등록과 Vercel 환경 변수,
-광고 위치별 설정은 [ADFIT.md](./ADFIT.md)를 따릅니다.
+카카오 애드핏은 `ssundesk.com` 매체에서 발급된 실제 광고 단위가 등록된
+위치에만 표시되며, 값이 없으면 광고 마크업과 외부 SDK를 모두 출력하지
+않습니다. 최초 매체 등록과 Vercel 환경 변수, 광고 위치별 설정은
+[ADFIT.md](./ADFIT.md)를 따릅니다.
+
+다국어(ko/en/ja) 페이지에는 별도로 스폰서 이미지 배너([SPONSOR-BANNER.md](./SPONSOR-BANNER.md))와
+쿠팡 파트너스 배너([COUPANG-PARTNERS.md](./COUPANG-PARTNERS.md))를 등록할 수
+있습니다. 둘 다 값이 없으면 아무것도 출력하지 않는 동일한 fail-closed
+방식입니다.
 
 ## 편집 원칙
 

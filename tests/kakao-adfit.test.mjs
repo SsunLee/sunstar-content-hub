@@ -133,14 +133,19 @@ test("AdFit configuration is disabled by default and fails closed", () => {
   );
 });
 
-test("Kakao AdFit replaces every active Coupang path without empty ads", async () => {
+test("Kakao AdFit does not resurrect the old Coupang proxy-widget integration", async () => {
   const textFiles = await findFiles(outputPath, [".html", ".js", ".css"]);
   const outputText = (
     await Promise.all(textFiles.map((file) => readFile(file, "utf8")))
   ).join("\n");
+  // The site once embedded Coupang Partners through a third-party proxy
+  // widget (coupang-partners-banner.vercel.app). That integration is gone
+  // for good. The current, deliberate Coupang Partners integration uses
+  // Coupang's own official script (ads-partners.coupang.com) instead and is
+  // covered by tests/coupang-partners.test.mjs, so it is not banned here.
   assert.doesNotMatch(
     outputText,
-    /coupang-partners-banner\.vercel\.app|AF8916827|data-coupang|coupang_banner_clicked|coupang-interlude/u,
+    /coupang-partners-banner\.vercel\.app|coupang_banner_clicked|coupang-interlude/u,
   );
 
   const htmlFiles = await findFiles(outputPath, [".html"]);

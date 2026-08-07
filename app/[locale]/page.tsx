@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { CoupangPartnersBanner } from "@/components/coupang-partners-banner";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { LocalizedPostCard } from "@/components/localized-post-card";
 import { SponsorBanner } from "@/components/sponsor-banner";
@@ -222,6 +223,7 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
 
       <div className="page-shell">
         <SponsorBanner placement="home-after-lead" locale={locale} />
+        <CoupangPartnersBanner placement="home-after-lead" locale={locale} />
       </div>
 
       <section className="statement-band">
