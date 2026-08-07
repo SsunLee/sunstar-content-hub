@@ -4,7 +4,7 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-06T10:49:18.128Z",
+  "generatedAt": "2026-08-07T03:15:36.227Z",
   "expectedPublicCount": 1106,
   "total": 1106,
   "counts": {
@@ -13,6 +13,35 @@
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224370945493",
+      "logNo": "224370945493",
+      "title": "SAMG엔터, '하츄핑2' 개봉 첫날 7만 관객 흥행...이틀 새 주가 10%대 상승",
+      "url": "https://blog.naver.com/tnsqo1126/224370945493",
+      "publishedAt": "2026-08-07T03:01:19.000Z",
+      "dateLabel": "2026. 8. 7.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. SAMG엔터의 티니핑 극장판 후속작 《사랑의 하츄핑: 고래보석의 전설》이 2026년 8월 5일 개봉해 개봉일에만 7만 명이 넘는 관객을 모았습니다. 전편의 오프닝 스코어를 훌쩍 뛰어넘는 성적이고, 개봉을 전후로 SAMG엔터 주가도 이틀간 10% 넘게 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDdfMjA4/MDAxNzg2MDcxNjAyNDM5.qH-5DCbS8KGPxp7JNVde-iOZVfJAnMGcUY6YQpwkF1gg.MFECVIW9ngYonC1o636AejcGvIwKS3YwwWYtzbXUEdkg.PNG/2026-08-07-419530-hero.png?type=s3",
+      "tags": [
+        "SAMG엔터",
+        "419530",
+        "SAMG엔터주가",
+        "하츄핑",
+        "사랑의하츄핑",
+        "박스오피스",
+        "티니핑",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224370208031",
       "logNo": "224370208031",
@@ -70,64 +99,6 @@
       "detailUpdatedAt": "2026-08-06T10:49:18.128Z",
       "detailExtractionVersion": 3,
       "detailContentHash": "sha256:1d6f29ffbfb6a9657880b66a957e222ba6a0d184a8a0e6f3094d8ee6a8645b59"
-    },
-    {
-      "id": "naver:tnsqo1126:224370110567",
-      "logNo": "224370110567",
-      "title": "에코프로 실적 점검, 2분기 영업이익 329억 흑자에도 남은 과제",
-      "url": "https://blog.naver.com/tnsqo1126/224370110567",
-      "publishedAt": "2026-08-06T06:52:06.000Z",
-      "dateLabel": "2026. 8. 6.",
-      "category": "stocks",
-      "categoryLabel": "주식",
-      "sourceCategoryNo": "109",
-      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 에코프로가 2026년 8월 4일 2분기 연결 잠정실적을 공시했습니다. 매출은 8,208억 원, 영업이익은 329억 원으로 전년 동기 대비 영업이익이 102.7% 늘며 흑자 기조를 이어갔습니다. 다만 매출 자체는 전년 동기보다 11.…",
-      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDZfMzYg/MDAxNzg1OTk4NDI1MTc4.oCBEKmB45tAInIWcrV66SCrTh5BXxFIMmoWDYII--PQg.xmkdvIFeDy_TAySwmj9pXvavfwqKNlKbpT3JzJWsDR8g.PNG/2026-08-06-086520-hero.png?type=s3",
-      "tags": [
-        "에코프로",
-        "086520",
-        "에코프로주가",
-        "에코프로실적",
-        "2분기실적",
-        "배터리소재",
-        "에코프로비엠",
-        "주식"
-      ],
-      "candidate": "",
-      "work": "",
-      "role": "",
-      "stockCode": "",
-      "searchAllowed": true,
-      "verificationLevel": "rss_verified",
-      "detailSections": [
-        {
-          "heading": "에코프로는 어떤 회사인가",
-          "body": "에코프로는 배터리 소재 계열사를 거느린 지주회사입니다. 양극재를 만드는 에코프로비엠, 전구체를 만드는 에코프로머티리얼즈, 수산화리튬을 생산하는 리튬 사업, 그리고 반도체·디스플레이 공정에서 나오는 유해가스를 처리하는 환경설비 사업(에코프로에이치엔)을 함께 운영합니다. 배터리 업황에 따라 실적이 크게 흔들리는 구조인 동시에, 반도체 업황 호조의 수혜를 받는 환경설비 사업이 완충 역할을 하는 조합입니다."
-        },
-        {
-          "heading": "2026년 2분기 실적: 흑자 기조는 이어갔다",
-          "body": "2분기 연결 매출액은 8,208억 원, 영업이익은 329억 원입니다. 직전 분기인 1분기(매출 8,183억 원, 영업이익 564억 원)와 비교하면 매출은 소폭 늘었지만 영업이익은 41.7% 줄었습니다. 전년 동기와 비교하면 매출은 11.9% 감소했고 영업이익은 102.7% 늘었습니다."
-        },
-        {
-          "heading": "영업이익률",
-          "body": "메탈 시세와 환율 상승으로 리사이클 부문 매출이 늘고 리튬 사업의 채산성이 개선된 점이 실적을 지지했습니다. 다만 인도네시아 니켈 제련소는 현지 집중호우로 가동률이 일시적으로 낮아지면서 수익성 개선 폭을 일부 갉아먹었습니다. 전년 동기 대비 영업이익이 늘었다는 결과와, 직전 분기보다는 이익이 줄었다는 흐름이 함께 있는 실적입니다."
-        },
-        {
-          "heading": "재무 상태와 자본정책",
-          "body": "실적 발표 직후 열린 컨퍼런스콜에서 회사는 지주회사 차원에서 유상증자 등 주주가치를 희석하는 추가 자본 조달 계획이 전혀 없다고 밝혔습니다. 2분기 말 별도 기준으로 보유한 현금성자산은 약 6,000억 원이라고 설명했습니다."
-        },
-        {
-          "heading": "오늘 주가와 밸류에이션",
-          "body": "2026년 8월 6일 오전 11시 34분(KST) 기준 에코프로는 82,600원에 거래되고 있습니다. 시가총액은 약 11.2조 원이며, 52주 최고가는 190,000원, 최저가는 45,550원입니다."
-        },
-        {
-          "heading": "175.61배 / 5.08배",
-          "body": "52주 최고가 대비로는 절반 이하 수준까지 내려온 주가지만, PER은 175배 수준으로 여전히 낮지 않습니다. 2분기 흑자 규모(329억 원)에 비해 시가총액(약 11.2조 원)이 크다는 뜻으로, 실적 개선의 속도와 크기가 주가에 이미 상당 부분 반영돼 있을 가능성을 함께 봐야 합니다."
-        }
-      ],
-      "detailUpdatedAt": "2026-08-06T10:49:18.128Z",
-      "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:f83e92e430e83e328cc221390b4076d02134501e5cb669ba588cb9b8c42d5393"
     },
     {
       "id": "naver:tnsqo1126:224369515907",
