@@ -3,10 +3,45 @@
 
   var SLOT_SELECTOR = "[data-coupang-partners-slot]";
   var SDK_SELECTOR = 'script[data-ssdesk-coupang-sdk="true"]';
+  var MOVE_TIMEOUT_MS = 8000;
 
-  function initSlot(slot) {
+  // PartnersCoupang.G() inserts its <ins> ad container as a direct child of
+  // <body> regardless of where the initializing <script> actually lives in
+  // the DOM (it does not honor document.currentScript's parent). So each
+  // slot is initialized one at a time, and the next new <ins> that appears
+  // under <body> is relocated into that slot's placeholder container.
+  function moveNextBodyIns(container, done) {
+    var settled = false;
+    function finish() {
+      if (settled) return;
+      settled = true;
+      observer.disconnect();
+      clearTimeout(timer);
+      done();
+    }
+    var observer = new MutationObserver(function (mutations) {
+      for (var i = 0; i < mutations.length; i++) {
+        var added = mutations[i].addedNodes;
+        for (var j = 0; j < added.length; j++) {
+          var node = added[j];
+          if (node.nodeType === 1 && node.tagName === "INS") {
+            container.appendChild(node);
+            finish();
+            return;
+          }
+        }
+      }
+    });
+    observer.observe(document.body, { childList: true });
+    var timer = setTimeout(finish, MOVE_TIMEOUT_MS);
+  }
+
+  function initSlot(slot, done) {
     var container = slot.querySelector(".coupang-partners-unit");
-    if (!container || container.dataset.coupangInitialized === "true") return;
+    if (!container || container.dataset.coupangInitialized === "true") {
+      done();
+      return;
+    }
     container.dataset.coupangInitialized = "true";
 
     var config = {
@@ -17,21 +52,26 @@
       height: slot.getAttribute("data-coupang-partners-height"),
     };
 
-    // Coupang's widget locates its own insertion point via
-    // document.currentScript at the moment this script executes, so it must
-    // be created and appended synchronously (no async/defer) directly into
-    // this slot's placeholder container.
+    moveNextBodyIns(container, done);
+
     var initScript = document.createElement("script");
     initScript.text =
       "new PartnersCoupang.G(" + JSON.stringify(config) + ");";
-    container.appendChild(initScript);
+    document.body.appendChild(initScript);
+  }
+
+  function initSlotsSequentially(slots, index) {
+    if (index >= slots.length) return;
+    initSlot(slots[index], function () {
+      initSlotsSequentially(slots, index + 1);
+    });
   }
 
   function initAllSlots() {
     var slots = Array.prototype.slice.call(
       document.querySelectorAll(SLOT_SELECTOR),
     );
-    slots.forEach(initSlot);
+    initSlotsSequentially(slots, 0);
   }
 
   var slots = Array.prototype.slice.call(
