@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-08T05:09:30.702Z",
-  "expectedPublicCount": 1107,
-  "total": 1107,
+  "generatedAt": "2026-08-08T07:13:30.588Z",
+  "expectedPublicCount": 1108,
+  "total": 1108,
   "counts": {
-    "entertainment": 115,
+    "entertainment": 116,
     "stocks": 70,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224372045629",
+      "logNo": "224372045629",
+      "title": "류혜영, 고경표와 16년 우정 공개 '나 혼자 산다'서 응팔 케미 재점화",
+      "url": "https://blog.naver.com/tnsqo1126/224372045629",
+      "publishedAt": "2026-08-08T05:19:56.000Z",
+      "dateLabel": "2026. 8. 8.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'나 혼자 산다'에서 류혜영이 16년 지기 고경표와 함께한 하루를 공개했습니다. 8월 7일 방송된 MBC '나 혼자 산다'는 닐슨코리아 전국 가구 기준 6.1%를 기록하며 이날 방영분 중에서도 눈에 띄는 화제를 남겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDhfMTU1/MDAxNzg2MTY2MTc4NDg3.8QwlO6vIEtXh0LIf-LEHC3TIaX81OaJtvHWFmbEWEX4g.wymCOzxENMCSWADccUl5jHv0UPy_P6ZHzLqiuKpHGWQg.JPEG/ryu-01-2026-08-07.jpg?type=s3",
+      "tags": [
+        "나혼자산다",
+        "류혜영",
+        "고경표",
+        "응답하라1988",
+        "16년우정",
+        "배우근황",
+        "나혼자산다류혜영"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224371931464",
       "logNo": "224371931464",
