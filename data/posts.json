@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-07T03:15:36.227Z",
-  "expectedPublicCount": 1106,
-  "total": 1106,
+  "generatedAt": "2026-08-08T05:09:30.702Z",
+  "expectedPublicCount": 1107,
+  "total": 1107,
   "counts": {
-    "entertainment": 114,
+    "entertainment": 115,
     "stocks": 70,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224371931464",
+      "logNo": "224371931464",
+      "title": "'오싹한 연애', 천여리 박은빈 근황, 재벌 상속녀의 두 얼굴",
+      "url": "https://blog.naver.com/tnsqo1126/224371931464",
+      "publishedAt": "2026-08-08T02:37:04.000Z",
+      "dateLabel": "2026. 8. 8.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "tvN 토일드라마 '오싹한 연애'에서 박은빈은 귀신을 보는 재벌 상속녀 천여리를 연기합니다. 낮에는 호텔 대표, 밤에는 억울한 귀신들의 사연을 풀어주는 이중생활 설정이라 매회 여리의 선택이 이야기를 이끕니다. 굿데이터 펀덱스 7월 27일부터 8월 2일까지 집계에서도 드라마 출연자 화제성 3위(5.53%)를 기록해 현재 흐름을 확인할 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDhfMjcz/MDAxNzg2MTU2MzE5ODA0.2uBS3VxHyE4t1s6L4IXUhLWiT9Oxi4-ui-uk9ml14O4g.gO4xYvqv9LaO9gMnNvS-Q34ITeXoPbH3Fgd4cB8rJqUg.JPEG/04-2026-07-17.jpg?type=s3",
+      "tags": [
+        "오싹한연애",
+        "박은빈",
+        "천여리",
+        "tvN드라마",
+        "토일드라마",
+        "배우근황",
+        "오싹한연애박은빈"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224370945493",
       "logNo": "224370945493",
