@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { SponsorBanner } from "@/components/sponsor-banner";
@@ -279,6 +280,14 @@ export default async function LocalizedArticlePage({
 
       <div className="page-shell">
         <SponsorBanner
+          placement={
+            article.category === "stocks"
+              ? "stocks-article"
+              : "entertainment-article"
+          }
+          locale={locale}
+        />
+        <CoupangCategoryWidget
           placement={
             article.category === "stocks"
               ? "stocks-article"

@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
 import { LocalizedPostCard } from "@/components/localized-post-card";
 import { SponsorBanner } from "@/components/sponsor-banner";
 import {
@@ -175,6 +176,12 @@ export function LocalizedDeskPage({
 
       <div className="page-shell">
         <SponsorBanner
+          placement={
+            category === "entertainment" ? "entertainment-desk" : "stocks-desk"
+          }
+          locale={locale}
+        />
+        <CoupangCategoryWidget
           placement={
             category === "entertainment" ? "entertainment-desk" : "stocks-desk"
           }

@@ -1,12 +1,21 @@
 # 쿠팡 파트너스 배너 운영 설정
 
-과거 썬데스크는 쿠팡 파트너스 배너를 프록시 위젯
-(`coupang-partners-banner.vercel.app`)으로 연결했다가 제거한 이력이
-있습니다. 그 통합은 완전히 폐기되었고, 지금 이 문서가 다루는 건 **사용자가
-직접 요청·전달한 쿠팡 공식 배너 코드**만 심는 새 통합입니다. 쿠팡이 공식
-제공하는 스크립트(`https://ads-partners.coupang.com/g.js` +
-`PartnersCoupang.G(...)`)를 그대로 사용하며, 대체 프록시나 예시 코드는
-넣지 않습니다.
+썬데스크는 두 가지 쿠팡 관련 통합을 씁니다. 사용자가 직접 요청·전달한
+코드에 한해서만 등록하며, 둘 다 값이 없으면 아무것도 출력하지 않는
+fail-closed 방식입니다.
+
+1. **쿠팡 공식 배너 위젯** — 쿠팡이 공식 제공하는 스크립트
+   (`https://ads-partners.coupang.com/g.js` + `PartnersCoupang.G(...)`).
+   [components/coupang-partners-banner.tsx](components/coupang-partners-banner.tsx).
+2. **쿠팡 카테고리 위젯** — 사용자 본인이 직접 운영하는 프록시 위젯
+   (`https://coupang-partners-banner.vercel.app/widget.js`). 카테고리·키워드
+   기반으로 상품을 순환 노출하는 위젯입니다.
+   [components/coupang-category-widget.tsx](components/coupang-category-widget.tsx).
+   이 프록시는 한 번 제거됐다가 본인 서비스가 맞다는 확인을 받고 다시
+   연결했습니다 — `coupang-partners-banner.vercel.app` 자체는 더 이상
+   금지 대상이 아니며, `tests/kakao-adfit.test.mjs`에는 옛 구현(제거된
+  `coupang_banner_clicked`/`coupang-interlude` 마크업)만 금지 목록으로
+   남아 있습니다.
 
 카카오 애드핏(`ssundesk.com` 원본 페이지)이나 스폰서 이미지
 배너([SPONSOR-BANNER.md](SPONSOR-BANNER.md))와 마찬가지로 값이 없으면
@@ -15,21 +24,42 @@
 
 ## 노출 위치
 
-다국어(ko/en/ja) 페이지에만 적용됩니다. 현재는 `home-after-lead`
-(각 언어 홈, 주요 기사 뒤) 한 곳만 실제로 연결되어 있고, 나머지 5곳은
-카카오 애드핏·스폰서 배너와 동일한 이름 규칙으로 코드에 준비만 되어 있어
-필요할 때 값만 추가하면 됩니다.
+다국어(ko/en/ja) 페이지에만 적용됩니다. 6개 위치 모두 연결되어 있으며,
+`home-after-lead`는 공식 배너 위젯을, 나머지 5곳은 카테고리 위젯을
+씁니다.
 
-| 위치 | 페이지 | 환경 변수 접두어 | 연결 상태 |
+| 위치 | 페이지 | 통합 | 환경 변수 접두어 |
 | --- | --- | --- | --- |
-| 홈 주요 기사 뒤 | `/{locale}` | `COUPANG_PARTNERS_HOME_AFTER_LEAD` | 연결됨 |
-| 홈 연예·주식 사이 | `/{locale}` | `COUPANG_PARTNERS_HOME_BETWEEN_DESKS` | 미연결 |
-| 연예 데스크 주요 기사 뒤 | `/{locale}/entertainment` | `COUPANG_PARTNERS_ENTERTAINMENT_DESK` | 미연결 |
-| 주식 데스크 주요 기사 뒤 | `/{locale}/stocks` | `COUPANG_PARTNERS_STOCKS_DESK` | 미연결 |
-| 연예 상세 본문 뒤 | `/{locale}/news/:slug` (연예) | `COUPANG_PARTNERS_ENTERTAINMENT_ARTICLE` | 미연결 |
-| 주식 상세 본문 뒤 | `/{locale}/news/:slug` (주식) | `COUPANG_PARTNERS_STOCKS_ARTICLE` | 미연결 |
+| 홈 주요 기사 뒤 | `/{locale}` | 공식 배너 위젯 | `COUPANG_PARTNERS_HOME_AFTER_LEAD` |
+| 홈 연예·주식 사이 | `/{locale}` | 카테고리 위젯 | `COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS` |
+| 연예 데스크 주요 기사 뒤 | `/{locale}/entertainment` | 카테고리 위젯 | `COUPANG_CATEGORY_WIDGET_ENTERTAINMENT_DESK` |
+| 주식 데스크 주요 기사 뒤 | `/{locale}/stocks` | 카테고리 위젯 | `COUPANG_CATEGORY_WIDGET_STOCKS_DESK` |
+| 연예 상세 본문 뒤 | `/{locale}/news/:slug` (연예) | 카테고리 위젯 | `COUPANG_CATEGORY_WIDGET_ENTERTAINMENT_ARTICLE` |
+| 주식 상세 본문 뒤 | `/{locale}/news/:slug` (주식) | 카테고리 위젯 | `COUPANG_CATEGORY_WIDGET_STOCKS_ARTICLE` |
 
-## 활성화
+## 카테고리 위젯 활성화
+
+```text
+COUPANG_CATEGORY_WIDGET_ENABLED=1
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_PARTNER_ID=AF8916827
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_SOURCE=best-category
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_KEYWORD=주방가전
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_CATEGORY_ID=1016
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_BRAND_ID=1001
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_LIMIT=20
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_IMAGE_SIZE=512x512
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_THEME=light
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_ROTATION=60
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_WIDTH=728
+COUPANG_CATEGORY_WIDGET_HOME_BETWEEN_DESKS_HEIGHT=250
+```
+
+11개 값을 모두 한 묶음으로 등록해야 하며, `entertainment-desk` 등 다른
+위치는 접두어만 바꿔 동일한 11개 변수를 각각 등록합니다. 위치마다 다른
+`KEYWORD`/`CATEGORY_ID`/`BRAND_ID`를 넣어 문맥에 맞는 카테고리로 바꿀 수
+있습니다.
+
+## 공식 배너 위젯 활성화
 
 ```text
 COUPANG_PARTNERS_ENABLED=1
@@ -45,13 +75,23 @@ COUPANG_PARTNERS_HOME_AFTER_LEAD_HEIGHT=<위젯 height>
 
 ## 구현 방식 메모
 
-쿠팡의 `PartnersCoupang.G(...)` 위젯은 자신을 호출한 `<script>` 태그의
-DOM 위치를 기준으로 스스로 자리를 잡는 방식이라, 카카오 애드핏처럼
-클라이언트에서 나중에 스크립트를 동적으로 주입하는 방식(`adfit-loader.js`)이
-아니라 **서버 렌더링 시점에 정확히 그 위치에 두 `<script>` 태그를 그대로
-출력**합니다([components/coupang-partners-banner.tsx](components/coupang-partners-banner.tsx)).
-한 페이지에 이 배너를 두 곳 이상 쓰게 되면 SDK 스크립트(`g.js`)를 중복
-로드하지 않도록 추가 작업이 필요합니다 — 지금은 위치당 최대 1곳만 실제로
+이 프레임워크(vinext/React 서버 렌더링)는 컴포넌트가 직접 쓴 `<script>`
+JSX 태그를 서버 렌더링 결과물에 출력하지 않습니다. 그래서 두 위젯 모두
+컴포넌트는 필요한 값을 `data-*` 속성으로만 내보내고, 실제 `<script>`
+태그는 카카오 애드핏(`adfit-loader.js`)과 같은 방식으로 클라이언트
+로더가 동적으로 주입합니다
+([public/coupang-partners-loader.js](public/coupang-partners-loader.js),
+[public/coupang-category-widget-loader.js](public/coupang-category-widget-loader.js)).
+
+또한 두 위젯 모두 자신이 만든 광고 요소(`<ins>` 등)를 호출 스크립트의
+DOM 위치가 아니라 **`<body>` 최하단에 직접 삽입**하는 것으로 실측
+확인됐습니다. 그래서 두 로더 모두 `MutationObserver`로 `<body>`에
+새로 추가되는 요소를 감지해 의도한 자리(placeholder 컨테이너)로
+옮깁니다. 실제 배포 후 라이브에서 `iframe`이 컨테이너 안에 들어갔는지
+직접 확인하는 절차를 거쳤습니다.
+
+한 페이지에 같은 위젯을 두 곳 이상 쓰게 되면 SDK 스크립트 중복 로드를
+막는 추가 작업이 필요합니다 — 지금은 페이지마다 각 위젯이 최대 1곳만
 연결되어 있어 해당하지 않습니다.
 
 ## 법적 표시 의무

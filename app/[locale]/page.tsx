@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
 import { CoupangPartnersBanner } from "@/components/coupang-partners-banner";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { LocalizedPostCard } from "@/components/localized-post-card";
@@ -271,6 +272,7 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
 
       <div className="page-shell">
         <SponsorBanner placement="home-between-desks" locale={locale} />
+        <CoupangCategoryWidget placement="home-between-desks" locale={locale} />
       </div>
 
       <section className="stock-stage" id="market-desk">

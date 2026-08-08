@@ -59,6 +59,10 @@ const coupangPartnersLoaderScript =
   targetName === "vercel"
     ? '<script defer src="/coupang-partners-loader.js"></script>'
     : "";
+const coupangCategoryWidgetLoaderScript =
+  targetName === "vercel"
+    ? '<script defer src="/coupang-category-widget-loader.js"></script>'
+    : "";
 
 function normalizeSiteUrl(value) {
   const trimmed = value.trim();
@@ -308,6 +312,16 @@ function toStaticHtml(html, route) {
     result = result.replace(
       "</body>",
       `${coupangPartnersLoaderScript}</body>`,
+    );
+  }
+
+  if (
+    coupangCategoryWidgetLoaderScript &&
+    result.includes("data-coupang-category-widget-slot")
+  ) {
+    result = result.replace(
+      "</body>",
+      `${coupangCategoryWidgetLoaderScript}</body>`,
     );
   }
 
