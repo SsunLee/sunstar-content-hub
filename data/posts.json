@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-08T08:59:18.036Z",
-  "expectedPublicCount": 1109,
-  "total": 1109,
+  "generatedAt": "2026-08-08T13:11:49.152Z",
+  "expectedPublicCount": 1110,
+  "total": 1110,
   "counts": {
-    "entertainment": 117,
+    "entertainment": 118,
     "stocks": 70,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224372315795",
+      "logNo": "224372315795",
+      "title": "정준원 '유부녀 킬러' 권태성, 보나의 곁을 지키는 사회부 기자",
+      "url": "https://blog.naver.com/tnsqo1126/224372315795",
+      "publishedAt": "2026-08-08T11:15:24.000Z",
+      "dateLabel": "2026. 8. 8.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "MBC 금토드라마 〈유부녀 킬러〉에서 정준원은 권태성 역으로 등장하고 있습니다. 8월 7일 MBCdrama 공식 채널에 공개된 이 드라마 클립은 8월 8일 확인 시점 3만 6,408회 조회를 기록했습니다. 작품의 전개가 이어지는 가운데, 보나의 남편이자 사회부 기자인 권태성에게도 시선이 갑니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDhfMjQw/MDAxNzg2MTg3NTE3OTUx.sfIhwd7wCceJ_l2YIIN-FA-QCAHkGcFEPBBhd3e8wQsg.WMzWu4ziToyWob0IrHLQmoZDOgQJqLhNzXdbfx2xtNMg.JPEG/jungjunwon-01.jpg?type=s3",
+      "tags": [
+        "유부녀킬러",
+        "정준원",
+        "권태성",
+        "MBC드라마",
+        "배우근황",
+        "조연배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224372227473",
       "logNo": "224372227473",
