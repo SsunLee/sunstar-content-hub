@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-08T07:13:30.588Z",
-  "expectedPublicCount": 1108,
-  "total": 1108,
+  "generatedAt": "2026-08-08T08:59:18.036Z",
+  "expectedPublicCount": 1109,
+  "total": 1109,
   "counts": {
-    "entertainment": 116,
+    "entertainment": 117,
     "stocks": 70,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224372227473",
+      "logNo": "224372227473",
+      "title": "하율리 '유부녀 킬러' 오현남, 당돌한 신입사원의 반전",
+      "url": "https://blog.naver.com/tnsqo1126/224372227473",
+      "publishedAt": "2026-08-08T08:48:49.000Z",
+      "dateLabel": "2026. 8. 8.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "8월 7일 MBCdrama 공식 채널에 공개된 '유부녀 킬러' 클립에서 하율리는 공효진을 향해 거침없이 요구를 건네는 오현남으로 등장했습니다. 이 영상은 8월 8일 확인 시점에 3만 4천 회가 넘는 조회를 기록했습니다. 조연이지만 첫 장면부터 긴장과 궁금증을 함께 남기는 인물이라, 오현남을 맡은 하율리의 현재 활동을 정리해 봅니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDhfMTE5/MDAxNzg2MTc4NzcwMTIx.7eWrP4ce4splnBSoo9cy6c2CZyb2j8BG4Jle_bRPbYsg.SGxHcj87VxaMjGE5G_gqR1-Npiz2UIUabItmBK-SZmog.JPEG/hayulri-01.jpg?type=s3",
+      "tags": [
+        "유부녀킬러",
+        "하율리",
+        "오현남",
+        "MBC드라마",
+        "배우근황",
+        "조연배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224372045629",
       "logNo": "224372045629",
