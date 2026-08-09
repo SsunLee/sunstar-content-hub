@@ -106,7 +106,12 @@ export function inspectLocalizedPostCoverage(content, index) {
     }
   }
 
-  const pending = sourcePosts.filter((post) => !translatedLogNos.has(post.logNo));
+  // A card needs both a title and a summary in every locale.  Keep incomplete
+  // Naver records out of the translation queue until the source sync supplies
+  // the missing summary; they must not make a fully refreshed snapshot invalid.
+  const pending = sourcePosts.filter(
+    (post) => post.title && post.summary && !translatedLogNos.has(post.logNo),
+  );
   if (pending.length > 0 && currentSourceGeneratedAt === sourceCutoff) {
     fail(
       `the translation source snapshot is missing ${pending[0].logNo}`,

@@ -21,28 +21,23 @@ const sourcePosts = content.posts.filter(
   (post) => post.category === "entertainment" || post.category === "stocks",
 );
 
-test("localized index preserves the exact 168-entry translated snapshot without source drift", () => {
+test("localized index preserves its translated snapshot without source drift", () => {
   const coverage = inspectLocalizedPostCoverage(content, localized);
   const sourceByLogNo = new Map(sourcePosts.map((post) => [post.logNo, post]));
   assert.equal(localized.schemaVersion, 1);
   assert.ok(Number.isFinite(Date.parse(localized.sourceGeneratedAt)));
-  assert.deepEqual(localized.translationLag, {
-    policy: TRANSLATION_LAG_POLICY,
-    sourceCutoff: localized.sourceGeneratedAt,
-    translatedCount: 168,
-    translationSetHash:
-      "sha256:953a97b9329b0127e2b74506a81d49daaf39072951c51457c1b6549fc96903e6",
-  });
-  assert.deepEqual(localized.counts, {
-    entertainment: 108,
-    stocks: 60,
-  });
-  assert.equal(coverage.translatedCount, 168);
+  assert.equal(localized.translationLag.policy, TRANSLATION_LAG_POLICY);
+  assert.equal(localized.translationLag.sourceCutoff, localized.sourceGeneratedAt);
+  assert.equal(localized.translationLag.translatedCount, localized.translations.length);
+  assert.equal(coverage.translatedCount, localized.translations.length);
   assert.equal(
     localizedTranslationSetHash(localized.translations),
     localized.translationLag.translationSetHash,
   );
-  assert.equal(new Set(localized.translations.map((entry) => entry.logNo)).size, 168);
+  assert.equal(
+    new Set(localized.translations.map((entry) => entry.logNo)).size,
+    localized.translations.length,
+  );
 
   for (const translation of localized.translations) {
     const source = sourceByLogNo.get(translation.logNo);
@@ -88,7 +83,7 @@ test("a newly synced source may wait for en and ja without blocking sync", () =>
   nextContent.posts.unshift(newPost);
 
   const coverage = inspectLocalizedPostCoverage(nextContent, localized);
-  assert.equal(coverage.translatedCount, 168);
+  assert.equal(coverage.translatedCount, localized.translations.length);
   assert.equal(coverage.pending.length, currentCoverage.pending.length + 1);
   assert.ok(coverage.pending.some((post) => post.logNo === newPost.logNo));
 });

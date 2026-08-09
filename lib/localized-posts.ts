@@ -136,7 +136,7 @@ function validateIndex(value: unknown): LocalizedPostIndex {
     throw new Error("Localized post translated counts are invalid");
   }
   const pendingPost = sourcePosts.find(
-    (post) => !translatedLogNos.has(post.logNo),
+    (post) => post.title && post.summary && !translatedLogNos.has(post.logNo),
   );
   if (pendingPost && currentSourceGeneratedAt === sourceCutoff) {
     throw new Error(
