@@ -3,6 +3,8 @@ import type { CSSProperties } from "react";
 import { resolveAdFitPlacement } from "@/lib/adfit-config.mjs";
 
 type AdFitPlacement =
+  | "header-desktop"
+  | "header-mobile"
   | "home-after-lead"
   | "home-between-desks"
   | "entertainment-desk"
@@ -13,11 +15,15 @@ type AdFitPlacement =
 type KakaoAdFitBannerProps = {
   placement: AdFitPlacement;
   className?: string;
+  host?: string;
+  media?: string;
 };
 
 export function KakaoAdFitBanner({
   placement,
   className = "",
+  host,
+  media,
 }: KakaoAdFitBannerProps) {
   if (process.env.NEXT_PUBLIC_EXPORT_TARGET === "github") return null;
 
@@ -36,6 +42,8 @@ export function KakaoAdFitBanner({
       data-adfit-slot
       data-adfit-placement={placement}
       data-adfit-sdk-src={configuration.sdkUrl}
+      data-adfit-host={host}
+      data-adfit-media={media}
       style={style}
     >
       <div className="adfit-interlude-heading">

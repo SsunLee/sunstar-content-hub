@@ -27,9 +27,31 @@
     hideSlot(slot);
   };
 
-  var slots = Array.prototype.slice.call(
+  var discoveredSlots = Array.prototype.slice.call(
     document.querySelectorAll(SLOT_SELECTOR),
   );
+  if (discoveredSlots.length === 0) return;
+
+  var slots = discoveredSlots.filter(function (slot) {
+    var media = slot.getAttribute("data-adfit-media");
+    if (media && window.matchMedia && !window.matchMedia(media).matches) {
+      slot.remove();
+      return false;
+    }
+
+    var hostName = slot.getAttribute("data-adfit-host");
+    if (!hostName) return true;
+
+    var host = document.querySelector(
+      '[data-adfit-host-target="' + hostName + '"]',
+    );
+    if (!host) {
+      slot.remove();
+      return false;
+    }
+    host.appendChild(slot);
+    return true;
+  });
   if (slots.length === 0) return;
 
   var sdkUrl = slots[0].getAttribute("data-adfit-sdk-src");

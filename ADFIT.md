@@ -11,8 +11,8 @@
 ## 최초 활성화
 
 1. 카카오 애드핏에서 `ssundesk.com` Web 매체를 등록합니다.
-2. 첫 심사용으로 `홈 주요 기사 뒤` 광고 단위를 만듭니다. 공개 가이드에서
-   PC/M 공용으로 확인되는 `300x250`을 우선 권장합니다.
+2. 홈 최상단용 광고 단위를 데스크톱 `728x90`, 모바일 `320x100`으로 각각
+   만듭니다. 한 화면에서는 현재 폭에 맞는 단위 하나만 요청합니다.
 3. 광고 단위의 **스크립트 보기**에서 `DAN-...`, `data-ad-width`,
    `data-ad-height`, SDK 스크립트 URL을 그대로 확인합니다.
 4. Vercel Production 환경에 아래 첫 단위와 기능 플래그를 등록합니다.
@@ -22,9 +22,12 @@
 ```text
 KAKAO_ADFIT_ENABLED=1
 KAKAO_ADFIT_SCRIPT_URL=<스크립트 보기에서 제공된 최신 URL>
-KAKAO_ADFIT_HOME_AFTER_LEAD_UNIT=<DAN 코드>
-KAKAO_ADFIT_HOME_AFTER_LEAD_WIDTH=300
-KAKAO_ADFIT_HOME_AFTER_LEAD_HEIGHT=250
+KAKAO_ADFIT_HEADER_DESKTOP_UNIT=<728x90 DAN 코드>
+KAKAO_ADFIT_HEADER_DESKTOP_WIDTH=728
+KAKAO_ADFIT_HEADER_DESKTOP_HEIGHT=90
+KAKAO_ADFIT_HEADER_MOBILE_UNIT=<320x100 DAN 코드>
+KAKAO_ADFIT_HEADER_MOBILE_WIDTH=320
+KAKAO_ADFIT_HEADER_MOBILE_HEIGHT=100
 ```
 
 값이 없을 때는 광고 DOM과 SDK를 모두 출력하지 않습니다. 기능을 켰지만 SDK
@@ -38,6 +41,8 @@ URL이나 단위의 코드·크기가 잘못되면 배포를 실패시켜 빈 �
 
 | 위치 | 환경 변수 접두어 |
 | --- | --- |
+| 홈 최상단 데스크톱 | `KAKAO_ADFIT_HEADER_DESKTOP` |
+| 홈 최상단 모바일 | `KAKAO_ADFIT_HEADER_MOBILE` |
 | 홈 주요 기사 뒤 | `KAKAO_ADFIT_HOME_AFTER_LEAD` |
 | 홈 연예·주식 사이 | `KAKAO_ADFIT_HOME_BETWEEN_DESKS` |
 | 연예 데스크 주요 기사 뒤 | `KAKAO_ADFIT_ENTERTAINMENT_DESK` |
@@ -53,14 +58,14 @@ KAKAO_ADFIT_STOCKS_DESK_WIDTH=<스크립트의 data-ad-width>
 KAKAO_ADFIT_STOCKS_DESK_HEIGHT=<스크립트의 data-ad-height>
 ```
 
-현재 코드는 카카오 공식 공개 가이드에서 확인되는 `300x250`, `320x100`,
-`320x50`만 허용합니다. 콘솔에서 다른 크기를 제공하면 임의로 확대·축소하지
+현재 코드는 카카오 애드핏 콘솔에서 확인한 `300x250`, `320x100`, `320x50`,
+`728x90`만 허용합니다. 콘솔에서 다른 크기를 제공하면 임의로 확대·축소하지
 말고 코드의 허용 크기를 함께 검토합니다.
 
 ## 노출 원칙
 
-- 한 페이지 광고는 기존 편집 위치에서 최대 2개이며, 다국어·아카이브·소개
-  페이지에는 표시하지 않습니다.
+- 홈에서는 최상단에 현재 화면 폭에 맞는 광고 하나만 표시합니다. 다국어·
+  아카이브·소개 페이지에는 표시하지 않습니다.
 - 광고를 링크로 감싸거나 클릭을 자체 추적하지 않습니다. 성과는 애드핏
   대시보드에서 확인합니다.
 - SDK는 광고가 실제 구성된 운영 페이지에서만 한 번 로드합니다.

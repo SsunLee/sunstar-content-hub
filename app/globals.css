@@ -145,11 +145,32 @@ img {
 
 .masthead {
   display: grid;
-  grid-template-columns: minmax(0, 320px) auto;
+  grid-template-columns: minmax(0, 320px) minmax(0, 728px);
   align-items: center;
   justify-content: space-between;
+  gap: clamp(32px, 5vw, 72px);
   min-height: 210px;
   padding-block: 28px 24px;
+}
+
+.masthead-aside {
+  display: grid;
+  min-width: 0;
+  justify-items: end;
+  gap: 20px;
+}
+
+.masthead-adfit-host {
+  display: flex;
+  width: min(100%, 728px);
+  min-height: 90px;
+  align-items: center;
+  justify-content: center;
+}
+
+.masthead-adfit-host:empty,
+.masthead-adfit-host:not(:has(.adfit-interlude:not([hidden]))) {
+  display: none;
 }
 
 .wordmark {
@@ -616,6 +637,25 @@ img {
   margin-block: clamp(22px, 2.2vw, 34px);
   border-block: 1px solid var(--rule);
   padding-block: clamp(18px, 2.4vw, 28px);
+}
+
+.home-header-adfit-source {
+  display: none;
+}
+
+.adfit-interlude.adfit-interlude-header {
+  width: min(100%, var(--adfit-unit-width));
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.adfit-interlude-header .adfit-interlude-heading {
+  display: none;
+}
+
+.adfit-interlude-header .adfit-banner-unit {
+  min-height: var(--adfit-unit-height);
 }
 
 .adfit-interlude.is-adfit-empty,
@@ -2507,6 +2547,19 @@ body:has(.localized-route-shell) > .site-footer {
     display: block;
     min-height: 0;
     padding-block: 18px 16px;
+  }
+
+  .masthead-aside {
+    justify-items: center;
+  }
+
+  .masthead-aside:has(.adfit-interlude-header:not([hidden])) {
+    margin-top: 18px;
+  }
+
+  .masthead-adfit-host {
+    width: 100%;
+    min-height: 100px;
   }
 
   .wordmark {

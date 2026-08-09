@@ -74,11 +74,14 @@ function configuredPlacements() {
   );
 }
 
-function assertBlock(block, placement, configuration) {
+function assertBlock(block, placement, configuration, attributes = {}) {
   const openingTag = block.match(/^<aside\b[^>]*>/u)?.[0];
   const ins = block.match(/<ins\b[^>]*class="kakao_ad_area"[^>]*>/u)?.[0];
   assert.ok(openingTag && ins, `incomplete AdFit block: ${placement}`);
   assert.equal(attribute(openingTag, "data-adfit-placement"), placement);
+  for (const [name, value] of Object.entries(attributes)) {
+    assert.equal(attribute(openingTag, name), value, `${placement} ${name}`);
+  }
   assert.equal(
     attribute(openingTag, "data-adfit-sdk-src"),
     configuration.sdkUrl,
@@ -106,24 +109,24 @@ test("AdFit configuration is disabled by default and fails closed", () => {
   const valid = {
     [ADFIT_FEATURE_FLAG]: "1",
     [ADFIT_SDK_VARIABLE]: "//t1.daumcdn.net/adfit/static/ad.min.js",
-    KAKAO_ADFIT_HOME_AFTER_LEAD_UNIT: "DAN-example123",
-    KAKAO_ADFIT_HOME_AFTER_LEAD_WIDTH: "300",
-    KAKAO_ADFIT_HOME_AFTER_LEAD_HEIGHT: "250",
+    KAKAO_ADFIT_HEADER_DESKTOP_UNIT: "DAN-example123",
+    KAKAO_ADFIT_HEADER_DESKTOP_WIDTH: "728",
+    KAKAO_ADFIT_HEADER_DESKTOP_HEIGHT: "90",
   };
-  assert.deepEqual(resolveAdFitPlacement("home-after-lead", valid), {
+  assert.deepEqual(resolveAdFitPlacement("header-desktop", valid), {
     unit: "DAN-example123",
-    width: 300,
-    height: 250,
+    width: 728,
+    height: 90,
     sdkUrl: "https://t1.daumcdn.net/adfit/static/ad.min.js",
   });
   assert.equal(resolveAdFitPlacement("stocks-desk", valid), null);
 
   assert.throws(
     () =>
-      resolveAdFitPlacement("home-after-lead", {
+      resolveAdFitPlacement("header-desktop", {
         ...valid,
-        KAKAO_ADFIT_HOME_AFTER_LEAD_WIDTH: "728",
-        KAKAO_ADFIT_HOME_AFTER_LEAD_HEIGHT: "90",
+        KAKAO_ADFIT_HEADER_DESKTOP_WIDTH: "970",
+        KAKAO_ADFIT_HEADER_DESKTOP_HEIGHT: "90",
       }),
     /console-confirmed sizes/u,
   );
@@ -142,10 +145,24 @@ test("AdFit slot stays visible while Kakao decides whether it can fill", async (
   const emptyRule = css.match(
     /\.adfit-interlude\.is-adfit-empty,\s*\.adfit-interlude\[hidden\]\s*\{([^}]*)\}/u,
   )?.[1];
+  const emptyHeaderHostRule = css.match(
+    /\.masthead-adfit-host:empty,\s*\.masthead-adfit-host:not\(:has\(\.adfit-interlude:not\(\[hidden\]\)\)\)\s*\{([^}]*)\}/u,
+  )?.[1];
 
   assert.ok(initialRule, "missing initial AdFit slot rule");
   assert.doesNotMatch(initialRule, /visibility\s*:\s*hidden|display\s*:\s*none/u);
   assert.match(emptyRule || "", /display\s*:\s*none/u);
+  assert.match(emptyHeaderHostRule || "", /display\s*:\s*none/u);
+});
+
+test("header AdFit loader moves only the active responsive unit into the masthead", async () => {
+  const loader = await readFile(
+    new URL("../public/adfit-loader.js", import.meta.url),
+    "utf8",
+  );
+  assert.match(loader, /window\.matchMedia\(media\)\.matches/u);
+  assert.match(loader, /slot\.remove\(\)/u);
+  assert.match(loader, /host\.appendChild\(slot\)/u);
 });
 
 test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape", async () => {
@@ -190,10 +207,10 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
   const pageExpectations = [
     [
       homepage,
-      ["home-after-lead", "home-between-desks"],
+      ["header-desktop", "header-mobile"],
       [
-        ['class="page-shell lead-grid"', "home-after-lead", 'class="statement-band"'],
-        ['class="page-shell desk-section entertainment-desk"', "home-between-desks", 'class="stock-stage"'],
+        ['id="main-content"', "header-desktop", 'class="page-shell dateline"'],
+        ['data-adfit-placement="header-desktop"', "header-mobile", 'class="page-shell dateline"'],
       ],
     ],
     [
@@ -212,9 +229,23 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
     const expected = placements.filter((placement) => configurations.get(placement));
     const blocks = adFitBlocks(html);
     assert.equal(blocks.length, expected.length);
-    expected.forEach((placement, index) =>
-      assertBlock(blocks[index], placement, configurations.get(placement)),
-    );
+    expected.forEach((placement, index) => {
+      const headerAttributes = placement.startsWith("header-")
+        ? {
+            "data-adfit-host": "home-header",
+            "data-adfit-media":
+              placement === "header-desktop"
+                ? "(min-width: 761px)"
+                : "(max-width: 760px)",
+          }
+        : {};
+      assertBlock(
+        blocks[index],
+        placement,
+        configurations.get(placement),
+        headerAttributes,
+      );
+    });
     for (const [previous, placement, next] of orderChecks) {
       if (configurations.get(placement)) assertBetween(html, previous, placement, next);
     }
@@ -224,6 +255,12 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
       expected.length > 0 ? 1 : 0,
     );
   }
+
+  assert.match(homepage, /data-adfit-host-target="home-header"/u);
+  assert.doesNotMatch(
+    homepage,
+    /data-adfit-placement="home-(?:after-lead|between-desks)"/u,
+  );
 
   for (const post of detailPosts) {
     const placement =

@@ -84,11 +84,17 @@ export function SiteHeader() {
               <span>문화와 시장을 읽는 에디토리얼 허브</span>
             </span>
           </Link>
-          <p className="masthead-note">
-            지금 화제가 되는 작품과 배우,
-            <br />
-            오늘 움직인 종목을 차분하게 읽습니다.
-          </p>
+          <div className="masthead-aside">
+            <div
+              className="masthead-adfit-host"
+              data-adfit-host-target="home-header"
+            />
+            <p className="masthead-note">
+              지금 화제가 되는 작품과 배우,
+              <br />
+              오늘 움직인 종목을 차분하게 읽습니다.
+            </p>
+          </div>
         </div>
         <nav className="main-nav" aria-label="주요 메뉴">
           <div className="page-shell nav-track">

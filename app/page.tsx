@@ -85,6 +85,21 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
+      <div className="home-header-adfit-source">
+        <KakaoAdFitBanner
+          placement="header-desktop"
+          className="adfit-interlude-header"
+          host="home-header"
+          media="(min-width: 761px)"
+        />
+        <KakaoAdFitBanner
+          placement="header-mobile"
+          className="adfit-interlude-header"
+          host="home-header"
+          media="(max-width: 760px)"
+        />
+      </div>
+
       <section className="page-shell dateline" aria-label="사이트 현황">
         <p>
           <span className="live-dot" aria-hidden="true" />
@@ -127,10 +142,6 @@ export default function Home() {
         </aside>
       </section>
 
-      <div className="page-shell">
-        <KakaoAdFitBanner placement="home-after-lead" />
-      </div>
-
       <section className="statement-band">
         <div className="page-shell statement-grid">
           <p className="statement-number">
@@ -170,10 +181,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-
-      <div className="page-shell">
-        <KakaoAdFitBanner placement="home-between-desks" />
-      </div>
 
       <section className="stock-stage">
         <div className="page-shell desk-section stock-desk">
