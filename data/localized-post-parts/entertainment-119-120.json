@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-09T10:52:18.102Z",
+  "category": "entertainment",
+  "start": 119,
+  "end": 120,
+  "translations": [
+    {
+      "logNo": "224373142730",
+      "en": {
+        "title": "Who Is RESCENE's CEO? The Muze's Lee Joo-heon, From a KRW 10 Million Startup to a Breakout Run",
+        "summary": "Searches for RESCENE increasingly bring up the story of the agency's CEO alongside its members. He is Lee Joo-heon, CEO of The Muze Entertainment. MBC's The Manager introduced the start of the small company and its promotion process, while YouTube's Salon Drip 2 added casting stories about Woni and Minami.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "RESCENEの代表は誰？THE MUZEのイ・ジュホン、1,000万ウォン起業から逆走まで",
+        "summary": "最近RESCENEを検索すると、メンバーと同じくらい所属事務所の代表の話題が目に入ります。主人公はTHE MUZEエンターテインメントのイ・ジュホン代表です。MBC「全知的おせっかい視点」では小さな会社の始まりと広報の過程が公開され、YouTube「サロンドリップ2」ではウォニとミナミのキャスティング秘話も紹介されました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224373114731",
+      "en": {
+        "title": "SamproTV App Data Breach: About 460,000 Personal Records Exposed, What Was Leaked and What to Do",
+        "summary": "SamproTV officially announced on August 9 that roughly 460,000 application-member personal records were exposed by an external attacker. The incident is limited to SamproTV app member information and is unrelated to personal information of subscribers to the SamproTV YouTube channel. The article summarizes the affected data and practical response steps.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サンプロTVアプリ、個人情報約46万件流出　流出項目と対処法を整理",
+        "summary": "サンプロTVは8月9日、アプリ会員の個人情報約46万件が外部の攻撃者によって流出したと公式発表しました。今回の事案はサンプロTVアプリ会員情報に限られ、サンプロTV YouTubeチャンネル登録者の個人情報とは関係ありません。この記事では流出項目と対応方法を整理します。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

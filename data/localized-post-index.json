@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-09T09:01:48.798Z",
-  "generatedAt": "2026-08-09T09:01:48.798Z",
+  "sourceGeneratedAt": "2026-08-09T10:52:18.102Z",
+  "generatedAt": "2026-08-09T10:52:18.102Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-09T09:01:48.798Z",
-    "translatedCount": 190,
-    "translationSetHash": "sha256:aadfd864058de1da54efaa68961973599baee54d738aa4f0937759fc4531006f"
+    "sourceCutoff": "2026-08-09T10:52:18.102Z",
+    "translatedCount": 192,
+    "translationSetHash": "sha256:f005a52ddb65c737db7c0da2220c55b87dd015c83c8b76b52fb88edc47289338"
   },
   "counts": {
-    "entertainment": 119,
+    "entertainment": 121,
     "stocks": 71
   },
   "translations": [
+    {
+      "logNo": "224373142730",
+      "sourceHash": "sha256:512514539dfe239232fa02438dd3b562f43e3bbf411a53699dd52ad59c90a99a",
+      "source": {
+        "title": "리센느 대표 누구? 더뮤즈 이주헌, 1000만원 창업부터 역주행까지",
+        "summary": "요즘 리센느를 검색하다 보면 멤버들만큼이나 소속사 대표 이야기가 자주 보입니다. 주인공은 더뮤즈엔터테인먼트 이주헌 대표입니다. MBC '전지적 참견 시점'에서는 작은 회사의 시작과 홍보 과정이 공개됐고, 유튜브 '살롱드립2'에서는 원이와 미나미의 캐스팅 비화가 더해졌습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Who Is RESCENE's CEO? The Muze's Lee Joo-heon, From a KRW 10 Million Startup to a Breakout Run",
+          "summary": "Searches for RESCENE increasingly bring up the story of the agency's CEO alongside its members. He is Lee Joo-heon, CEO of The Muze Entertainment. MBC's The Manager introduced the start of the small company and its promotion process, while YouTube's Salon Drip 2 added casting stories about Woni and Minami.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "RESCENEの代表は誰？THE MUZEのイ・ジュホン、1,000万ウォン起業から逆走まで",
+          "summary": "最近RESCENEを検索すると、メンバーと同じくらい所属事務所の代表の話題が目に入ります。主人公はTHE MUZEエンターテインメントのイ・ジュホン代表です。MBC「全知的おせっかい視点」では小さな会社の始まりと広報の過程が公開され、YouTube「サロンドリップ2」ではウォニとミナミのキャスティング秘話も紹介されました。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224373114731",
+      "sourceHash": "sha256:f8ba1223ee1c52eacad644b738ac0a47fa3cd3d32ce945ce1e55bb927d6e2aca",
+      "source": {
+        "title": "삼프로TV 앱 개인정보 46만여 건 유출...유출 항목과 대처법 정리",
+        "summary": "삼프로TV가 애플리케이션 회원들의 개인정보 약 46만여 건이 외부 공격자에 의해 유출됐다고 8월 9일 공식 발표했습니다. 이번 유출은 삼프로TV 애플리케이션 회원 정보에 한정되며, 삼프로TV 유튜브 채널 구독자의 개인정보와는 무관합니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "SamproTV App Data Breach: About 460,000 Personal Records Exposed, What Was Leaked and What to Do",
+          "summary": "SamproTV officially announced on August 9 that roughly 460,000 application-member personal records were exposed by an external attacker. The incident is limited to SamproTV app member information and is unrelated to personal information of subscribers to the SamproTV YouTube channel. The article summarizes the affected data and practical response steps.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "サンプロTVアプリ、個人情報約46万件流出　流出項目と対処法を整理",
+          "summary": "サンプロTVは8月9日、アプリ会員の個人情報約46万件が外部の攻撃者によって流出したと公式発表しました。今回の事案はサンプロTVアプリ会員情報に限られ、サンプロTV YouTubeチャンネル登録者の個人情報とは関係ありません。この記事では流出項目と対応方法を整理します。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224373014098",
       "sourceHash": "sha256:12d7b2a61c1b49127f657c087470923bbbe5dd750e56fd9761db61e6180941f3",

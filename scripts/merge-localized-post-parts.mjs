@@ -69,6 +69,17 @@ const partSpecs = [
     ),
   },
   {
+    category: "entertainment",
+    start: 119,
+    end: 120,
+    path: resolve(
+      projectRoot,
+      "data",
+      "localized-post-parts",
+      "entertainment-119-120.json",
+    ),
+  },
+  {
     category: "stocks",
     start: 60,
     end: 70,
