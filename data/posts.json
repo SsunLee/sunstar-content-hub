@@ -4,15 +4,70 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T07:15:26.151Z",
-  "expectedPublicCount": 1113,
-  "total": 1113,
+  "generatedAt": "2026-08-09T09:01:48.798Z",
+  "expectedPublicCount": 1115,
+  "total": 1115,
   "counts": {
     "entertainment": 120,
     "stocks": 71,
-    "archive": 922
+    "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224373093595",
+      "logNo": "224373093595",
+      "title": "양송이 버섯 유통기한 언제까지 먹을 수 있을까?",
+      "url": "https://blog.naver.com/tnsqo1126/224373093595",
+      "publishedAt": "2026-08-09T08:52:38.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "118",
+      "summary": "양송이 한 팩은 생각보다 빨리 상태가 달라집니다. 며칠 뒤 파스타나 볶음에 넣으려고 꺼냈는데 표면이 축축하거나 냄새가 달라져 망설인 적이 있을 거예요. 포장 날짜가 남아 있다고 무조건 괜찮은 것은 아닙니다. 날짜가 보이지 않는 벌크 양송이라고 바로 버려야 하는 것도 아닙니다. 포장 표시와 냉장 보관 이력, 실제 상태를 차례대로 보면 훨씬 판단하기 쉽습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMTU1/MDAxNzg2MjY1NDg4MDQ4.zloVhABKAR7wpV8l-Lv9hg_flbrCuEc2EcHGaxALOrcg.CRVKnhXQt72RShk2ButkpUnMOaj1YMaJFVUyjZvi05Yg.PNG/01-official-evidence.png?type=s3",
+      "tags": [
+        "양송이버섯",
+        "양송이보관법",
+        "버섯보관법",
+        "양송이유통기한",
+        "소비기한",
+        "식재료보관"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224373057464",
+      "logNo": "224373057464",
+      "title": "폭염 실내 데이트 여성 코디 3세트|원피스·화이트룩·플리츠 조합",
+      "url": "https://blog.naver.com/tnsqo1126/224373057464",
+      "publishedAt": "2026-08-09T08:03:28.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "113",
+      "summary": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. MD CURATION｜밖에서는 가볍고, 실내 냉방에는 한 겹 더 서울의 낮 기온이 33도 안팎까지 오르는 시기에는 이동할 때의 가벼움과 실내 냉방 대응을 함께 봐야 합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMjc0/MDAxNzg2MjU5NjQxODY5.48F7vDQDVMS8KF68PbdsygsqZWSBNFYXfThnez9ouTkg.MsTAGQ9U4mJci1ErQdjHI7-JCx5LFwH6vWo8JQFC5B4g.PNG/cover.png?type=s3",
+      "tags": [
+        "폭염코디",
+        "실내데이트룩",
+        "여름여자코디",
+        "원피스코디",
+        "화이트룩",
+        "플리츠스커트코디",
+        "쿠팡파트너스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224373014098",
       "logNo": "224373014098",
