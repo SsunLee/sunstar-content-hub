@@ -4,21 +4,103 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T05:17:57.108Z",
-  "expectedPublicCount": 1111,
-  "total": 1111,
+  "generatedAt": "2026-08-09T07:15:26.151Z",
+  "expectedPublicCount": 1113,
+  "total": 1113,
   "counts": {
-    "entertainment": 118,
+    "entertainment": 120,
     "stocks": 71,
     "archive": 922
   },
   "posts": [
     {
+      "id": "naver:tnsqo1126:224373014098",
+      "logNo": "224373014098",
+      "title": "《루프맨》 채닝 테이텀 근황, 넷플릭스 한국 영화 9위로 다시 주목",
+      "url": "https://blog.naver.com/tnsqo1126/224373014098",
+      "publishedAt": "2026-08-09T07:05:31.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "채닝 테이텀 주연의 《루프맨》이 넷플릭스 한국 영화 순위에 새로 이름을 올렸습니다. 2026년 7월 27일부터 8월 2일까지 집계된 공식 Top 10에서 9위를 기록했는데요. 실화를 옮긴 범죄극이 어떤 인물을 따라가는지, 채닝 테이텀의 경력과 함께 살펴봤습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMTE0/MDAxNzg2MjU3OTk3Mzg1.m_sQU3lbI2zyRf3a1bhOblCZMZwQnO1PHseWyJWdaI0g.CqHb-zMjn9gvOm15MmLbcviVyt8cGoYdpy-jdpNgEdEg.JPEG/channing-tatum-01.jpg?type=s3",
+      "tags": [
+        "루프맨",
+        "채닝테이텀",
+        "제프리맨체스터",
+        "넷플릭스영화",
+        "영화근황",
+        "영화추천",
+        "연예뉴스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "넷플릭스 한국 영화 9위에 오른 《루프맨》",
+          "body": "넷플릭스 공식 집계에서 《루프맨》은 해당 주간 한국 영화 9위에 올랐습니다. 순위표에는 첫 진입 작품으로 표시됐습니다. 극장 개봉 뒤 시간이 지난 작품이 스트리밍 순위에서 다시 발견됐다는 점이 이번 근황의 출발점입니다."
+        },
+        {
+          "heading": "지붕을 뚫는 도둑 제프리 맨체스터",
+          "body": "채닝 테이텀은 전직 육군 레인저이자 생활고를 겪는 아버지 제프리 맨체스터를 연기합니다. 그는 패스트푸드 매장 지붕을 뚫고 침입하는 수법 때문에 ‘루프맨’이라는 별명을 얻습니다. 탈옥 뒤에는 장난감 매장 안에 숨어 지내며 다음 선택을 준비합니다."
+        },
+        {
+          "heading": "채닝 테이텀 기본 정보와 데뷔",
+          "body": "채닝 테이텀은 1980년 4월 26일생으로 2026년 8월 9일 기준 만 46세입니다. 2004년 드라마 《CSI: 마이애미》에 출연했고, 2005년 영화 《코치 카터》로 스크린에 데뷔했습니다. 2006년 《스텝 업》의 타일러 게이지 역이 널리 이름을 알린 계기가 됐습니다."
+        },
+        {
+          "heading": "춤과 코미디, 드라마를 오간 경력",
+          "body": "《스텝 업》에서 춤을 앞세운 청춘 스타로 주목받은 뒤 활동 폭은 빠르게 넓어졌습니다. 《21 점프 스트리트》에서는 코미디를, 《매직 마이크》에서는 배우와 제작자의 면모를 함께 보여줬습니다. 《폭스캐처》와 《로건 럭키》에서는 가벼운 스타 이미지와 다른 결의 연기도 남겼습니다."
+        },
+        {
+          "heading": "실화와 로맨스가 맞물리는 관전 포인트",
+          "body": "이 영화는 기발한 침입 수법만 좇지 않습니다. 제프리가 리를 만나 평범한 삶을 꿈꾸는 동안 이미 저지른 범죄와 새 관계가 충돌합니다. 숨어 사는 긴장감, 뜻밖의 유머, 거짓말이 무너지는 순간을 채닝 테이텀이 한 인물 안에서 어떻게 이어 붙이는지가 관전 포인트입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-09T07:15:26.151Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e7df4db136f2b50715735953f706a0985e178293fb4fa1285380735a55ff3837"
+    },
+    {
+      "id": "naver:tnsqo1126:224372987663",
+      "logNo": "224372987663",
+      "title": "박서진, 황혜선과 핑크빛 케미 '살림남2'서 포착...캐리커처가 이어준 만남",
+      "url": "https://blog.naver.com/tnsqo1126/224372987663",
+      "publishedAt": "2026-08-09T06:29:37.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "KBS 2TV '살림하는 남자들 시즌2'(살림남2)에서 트로트 가수 박서진과 개그우먼 황혜선이 훈훈한 케미를 선보였습니다. 8월 8일 방송에서는 취미 생활에 아낌없이 투자해 온 박서진의 근황이 공개됐고, 그 과정에서 황혜선과의 만남이 시청자들 사이에서 화제를 모았습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMTQ3/MDAxNzg2MjU2NDQ1NDMx.oEh6tYesoCV0YAOVGcsqpHzFjp4MNUSpPtaCEgxN_ksg.NgkN7uH5BOlha9AcA9bHrK_UlcDhodrs65nZ4JKeWisg.JPEG/hyeseon-03-2026-07-07.jpg?type=s3",
+      "tags": [
+        "살림남",
+        "박서진",
+        "황혜선",
+        "핑크빛케미",
+        "캐리커처",
+        "예능근황",
+        "살림남박서진",
+        "황혜선핑크빛케미"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
       "id": "naver:tnsqo1126:224372925594",
       "logNo": "224372925594",
       "title": "IPARK현대산업개발 제2경춘국도 1,403억 원 계약, 기간·매출 비중 정리",
       "url": "https://blog.naver.com/tnsqo1126/224372925594",
-      "publishedAt": "2026-08-09T05:03:22.000Z",
+      "publishedAt": "2026-08-09T05:03:21.000Z",
       "dateLabel": "2026. 8. 9.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -47,7 +129,7 @@
       "logNo": "224372315795",
       "title": "정준원 '유부녀 킬러' 권태성, 보나의 곁을 지키는 사회부 기자",
       "url": "https://blog.naver.com/tnsqo1126/224372315795",
-      "publishedAt": "2026-08-08T11:15:24.000Z",
+      "publishedAt": "2026-08-08T11:15:23.000Z",
       "dateLabel": "2026. 8. 8.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -74,7 +156,7 @@
       "logNo": "224372227473",
       "title": "하율리 '유부녀 킬러' 오현남, 당돌한 신입사원의 반전",
       "url": "https://blog.naver.com/tnsqo1126/224372227473",
-      "publishedAt": "2026-08-08T08:48:49.000Z",
+      "publishedAt": "2026-08-08T08:48:48.000Z",
       "dateLabel": "2026. 8. 8.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -101,7 +183,7 @@
       "logNo": "224372045629",
       "title": "류혜영, 고경표와 16년 우정 공개 '나 혼자 산다'서 응팔 케미 재점화",
       "url": "https://blog.naver.com/tnsqo1126/224372045629",
-      "publishedAt": "2026-08-08T05:19:56.000Z",
+      "publishedAt": "2026-08-08T05:19:55.000Z",
       "dateLabel": "2026. 8. 8.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -129,7 +211,7 @@
       "logNo": "224371931464",
       "title": "'오싹한 연애', 천여리 박은빈 근황, 재벌 상속녀의 두 얼굴",
       "url": "https://blog.naver.com/tnsqo1126/224371931464",
-      "publishedAt": "2026-08-08T02:37:04.000Z",
+      "publishedAt": "2026-08-08T02:37:03.000Z",
       "dateLabel": "2026. 8. 8.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -157,7 +239,7 @@
       "logNo": "224370945493",
       "title": "SAMG엔터, '하츄핑2' 개봉 첫날 7만 관객 흥행...이틀 새 주가 10%대 상승",
       "url": "https://blog.naver.com/tnsqo1126/224370945493",
-      "publishedAt": "2026-08-07T03:01:19.000Z",
+      "publishedAt": "2026-08-07T03:01:18.000Z",
       "dateLabel": "2026. 8. 7.",
       "category": "stocks",
       "categoryLabel": "주식",
