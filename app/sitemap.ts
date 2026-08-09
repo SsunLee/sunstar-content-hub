@@ -8,6 +8,7 @@ import {
   localizedArticles,
   localizedArticlePath,
 } from "../lib/localized-content";
+import { ownedArticles } from "../lib/owned-content";
 import {
   getIndexablePostDetails,
   getPostDetailLastModified,
@@ -112,7 +113,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: { languages },
     }));
   });
-  const localizedArticleRoutes: SitemapEntry[] = localizedArticles.flatMap(
+  const localizedArticleRoutes: SitemapEntry[] = [...localizedArticles, ...ownedArticles].flatMap(
     (article) => {
       const alternatePaths = getReadyArticleAlternates(article);
       const languages = alternatePaths

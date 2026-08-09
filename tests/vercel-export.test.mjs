@@ -21,6 +21,13 @@ const localizedContent = JSON.parse(
     "utf8",
   ),
 );
+const ownedContent = JSON.parse(
+  await readFile(new URL("../data/owned-articles.json", import.meta.url), "utf8"),
+);
+const allLocalizedArticles = [
+  ...localizedContent.articles,
+  ...ownedContent.articles,
+];
 const totalPosts = content.posts.length;
 const eligiblePostDetails = getEligiblePostDetails(content.posts);
 const archivePageCount = Math.max(1, Math.ceil(totalPosts / 50));
@@ -30,7 +37,7 @@ const routeCount =
   eligiblePostDetails.length +
   3 +
   6 +
-  localizedContent.articles.length * 3;
+  allLocalizedArticles.length * 3;
 
 function isLocalizedLocaleReady(article, locale) {
   const localized = article.locales?.[locale];
@@ -50,11 +57,11 @@ function isLocalizedLocaleReady(article, locale) {
 }
 
 const readyHubLocales = ["ko", "en", "ja"].filter((locale) =>
-  localizedContent.articles.some((article) =>
+  allLocalizedArticles.some((article) =>
     isLocalizedLocaleReady(article, locale),
   ),
 );
-const readyLocalizedPages = localizedContent.articles.reduce(
+const readyLocalizedPages = allLocalizedArticles.reduce(
   (total, article) =>
     total +
     ["ko", "en", "ja"].filter((locale) =>

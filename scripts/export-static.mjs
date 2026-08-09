@@ -109,10 +109,20 @@ const localizedContent = JSON.parse(
     "utf8",
   ),
 );
+const ownedContent = JSON.parse(
+  await readFile(resolve(projectRoot, "data", "owned-articles.json"), "utf8"),
+);
 const supportedLocales = ["ko", "en", "ja"];
 if (!Array.isArray(localizedContent.articles)) {
   throw new Error("Localized content must contain an articles array.");
 }
+if (!Array.isArray(ownedContent.articles)) {
+  throw new Error("Owned content must contain an articles array.");
+}
+const allLocalizedArticles = [
+  ...localizedContent.articles,
+  ...ownedContent.articles,
+];
 const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const eligiblePostDetails = getEligiblePostDetails(content.posts);
 const postDetailRoutes = eligiblePostDetails.map(postDetailPath);
@@ -137,6 +147,17 @@ const localizedArticleRoutes = localizedContent.articles.flatMap((article) =>
     return `/${locale}/news/${slug}`;
   }),
 );
+const ownedArticleRoutes = ownedContent.articles.flatMap((article) =>
+  supportedLocales.map((locale) => {
+    const slug = article.locales?.[locale]?.slug;
+    if (typeof slug !== "string" || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) {
+      throw new Error(
+        `Owned article ${article.sourceId || "unknown"} has an invalid ${locale} slug.`,
+      );
+    }
+    return `/${locale}/news/${slug}`;
+  }),
+);
 const routes = [
   ...primaryRoutes,
   ...archiveRoutes,
@@ -144,6 +165,7 @@ const routes = [
   ...localizedHubRoutes,
   ...localizedDeskRoutes,
   ...localizedArticleRoutes,
+  ...ownedArticleRoutes,
 ];
 
 function normalizeVerifiedUrl(value) {
@@ -169,12 +191,12 @@ function isLocalizedLocaleReady(article, locale) {
 }
 
 const readyHubLocales = supportedLocales.filter((locale) =>
-  localizedContent.articles.some((article) =>
+  allLocalizedArticles.some((article) =>
     isLocalizedLocaleReady(article, locale),
   ),
 );
 const readyLocalizedHubRoutes = readyHubLocales.map((locale) => `/${locale}`);
-const readyLocalizedArticleRoutes = localizedContent.articles.flatMap(
+const readyLocalizedArticleRoutes = allLocalizedArticles.flatMap(
   (article) =>
     supportedLocales
       .filter((locale) => isLocalizedLocaleReady(article, locale))
@@ -221,7 +243,7 @@ for (const desk of ["entertainment", "stocks"]) {
     localizedAlternates.set(`/${locale}/${desk}`, alternates);
   }
 }
-for (const article of localizedContent.articles) {
+for (const article of allLocalizedArticles) {
   const readyLocales = supportedLocales.filter((locale) =>
     isLocalizedLocaleReady(article, locale),
   );

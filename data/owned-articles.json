@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T12:00:00+09:00",
+  "articles": [
+    {
+      "sourceId": "owned:zendaya-spider-man-brand-new-day",
+      "logNo": "owned-zendaya-20260809",
+      "sourceKind": "owned",
+      "category": "entertainment",
+      "sourceUrl": "https://www.sonypictures.com/movies/spidermanbrandnewday",
+      "publishedAt": "2026-08-09T12:00:00+09:00",
+      "researchVerifiedAt": "2026-08-09T12:00:00+09:00",
+      "textRights": "SS.Desk original",
+      "image": "/editorial/zendaya-spider-man-brand-new-day/01-zendaya-dune-premiere-2024.jpg",
+      "imageAlt": {
+        "ko": "2024년 영화 듄 파트 2 프리미어에 참석한 젠데이아",
+        "en": "Zendaya attending the Dune: Part Two premiere in 2024",
+        "ja": "2024年の映画『デューン 砂の惑星 PART2』プレミアに出席したゼンデイヤ"
+      },
+      "work": "Spider-Man: Brand New Day",
+      "subject": "Zendaya",
+      "sourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
+      "popularityEvidence": {
+        "observedAt": "2026-08-09T09:00:00+09:00",
+        "sourceName": "Associated Press",
+        "sourceUrl": "https://apnews.com/article/a2c2efb863263ce50bcee1e7db822574",
+        "summary": "Spider-Man: Brand New Day opened to $927 million worldwide, putting its returning cast, including Zendaya, at the center of the week's global entertainment coverage."
+      },
+      "sources": [
+        {
+          "name": "Sony Pictures — Spider-Man: Brand New Day",
+          "url": "https://www.sonypictures.com/movies/spidermanbrandnewday"
+        },
+        {
+          "name": "Marvel — Spider-Man: Brand New Day",
+          "url": "https://www.marvel.com/movies/spider-man-brand-new-day"
+        },
+        {
+          "name": "Associated Press — opening weekend report",
+          "url": "https://apnews.com/article/a2c2efb863263ce50bcee1e7db822574"
+        },
+        {
+          "name": "Zendaya — official biography",
+          "url": "https://www.zendaya.com/"
+        },
+        {
+          "name": "Television Academy — Zendaya awards profile",
+          "url": "https://www.televisionacademy.com/bios/zendaya"
+        }
+      ],
+      "facts": [
+        { "label": "Born", "value": "September 1, 1996" },
+        { "label": "Birthplace", "value": "Oakland, California" },
+        { "label": "Career start", "value": "2009" },
+        { "label": "Current work", "value": "Spider-Man: Brand New Day" }
+      ],
+      "gallery": [
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/01-zendaya-dune-premiere-2024.jpg",
+          "width": 1920,
+          "height": 2550,
+          "sha256": "sha256:450693129c5d4e078c02e58075ecd5d7c817cdce395ed7e8ec55f023b08340a7",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_2024.jpg",
+          "creator": "ManoSolo13241324",
+          "licenseName": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2024년 듄 파트 2 프리미어 현장의 젠데이아", "caption": "2024년 『듄: 파트 2』 프리미어 현장. 관객과 취재진 사이에서도 자신만의 스타일을 선명하게 보여준다." },
+            "en": { "alt": "Zendaya at the Dune: Part Two premiere in 2024", "caption": "At the 2024 Dune: Part Two premiere, Zendaya stands out amid the press and audience." },
+            "ja": { "alt": "2024年『デューン 砂の惑星 PART2』プレミア会場のゼンデイヤ", "caption": "2024年『デューン 砂の惑星 PART2』プレミア。取材陣と観客の中でも独自の存在感を見せる。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/02-challengers-cast-2024.jpg",
+          "width": 1781,
+          "height": 956,
+          "sha256": "sha256:fd4dde5552d45288e43633540a42cac79bd0d34d5a6ec9c7372ca6a04dbe34ff",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cast_of_Challengers_2024.jpg",
+          "creator": "Sam Rubin",
+          "licenseName": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "영화 챌린저스 인터뷰에 참석한 조시 오코너 젠데이아 마이크 파이스트", "caption": "2024년 『챌린저스』 인터뷰. 젠데이아는 주연 타시 덩컨을 맡는 동시에 제작에도 참여했다." },
+            "en": { "alt": "Josh O'Connor, Zendaya and Mike Faist during a Challengers interview", "caption": "A 2024 Challengers interview. Zendaya led the film as Tashi Duncan and also served as a producer." },
+            "ja": { "alt": "『チャレンジャーズ』の取材に出席したジョシュ・オコナー、ゼンデイヤ、マイク・フェイスト", "caption": "2024年『チャレンジャーズ』の取材。ゼンデイヤはタシ・ダンカン役で主演し、製作にも参加した。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/03-zendaya-far-from-home-premiere-2019.jpg",
+          "width": 2589,
+          "height": 3884,
+          "sha256": "sha256:d98283e1fc405b07e86603e26a079752fa4371de2c4dd61d9672eff4784b8985",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_2019_by_Glenn_Francis.jpg",
+          "creator": "Glenn Francis / PacificProDigital.com",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2019년 스파이더맨 파 프롬 홈 프리미어의 젠데이아 얼굴 클로즈업", "caption": "2019년 『스파이더맨: 파 프롬 홈』 프리미어. MJ를 자신만의 건조한 유머와 현실감으로 확장하던 시기다." },
+            "en": { "alt": "Close portrait of Zendaya at the Spider-Man: Far From Home premiere in 2019", "caption": "At the 2019 Spider-Man: Far From Home premiere, as her grounded, dryly funny take on MJ was expanding." },
+            "ja": { "alt": "2019年『スパイダーマン：ファー・フロム・ホーム』プレミアでのゼンデイヤのクローズアップ", "caption": "2019年『スパイダーマン：ファー・フロム・ホーム』プレミア。MJ像を自然体のユーモアで広げていた時期だ。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/04-zendaya-full-length-2019.jpg",
+          "width": 3040,
+          "height": 4561,
+          "sha256": "sha256:e61c9e4418ae41d4aae5c9859df7f8e1dd40a7da59920b31f8903038a1ef5dab",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_Full_Length_-_2019_by_Glenn_Francis.jpg",
+          "creator": "Glenn Francis / PacificProDigital.com",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2019년 스파이더맨 파 프롬 홈 프리미어에서 포즈를 취한 젠데이아 전신", "caption": "같은 프리미어의 전신 사진. 영화의 세계를 의상으로 번역하는 레드카펫 감각도 젠데이아의 중요한 활동 축이다." },
+            "en": { "alt": "Full-length view of Zendaya at the Spider-Man: Far From Home premiere", "caption": "A full-length view from the same premiere. Translating a film's mood into fashion is another pillar of her public work." },
+            "ja": { "alt": "2019年『スパイダーマン：ファー・フロム・ホーム』プレミアでポーズを取るゼンデイヤの全身", "caption": "同じプレミアでの全身写真。作品の空気を衣装に置き換える表現も、彼女の活動を支える柱になっている。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/05-zendaya-teen-choice-2017.png",
+          "width": 885,
+          "height": 869,
+          "sha256": "sha256:043c51aac2953f14295d5116ea92b900d0e0cc45828e0e35f3dcb0ac3164891d",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_at_2017_Teen_Choice_Awards.png",
+          "creator": "Young Hollywood",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "treatment": "Still image downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2017 틴 초이스 어워즈 인터뷰 화면 속 젠데이아", "caption": "2017 틴 초이스 어워즈 인터뷰. 디즈니 채널에서 영화로 활동 반경을 넓히던 전환기의 모습이다." },
+            "en": { "alt": "Zendaya during a 2017 Teen Choice Awards interview", "caption": "A 2017 Teen Choice Awards interview, during her transition from Disney Channel success to a broader film career." },
+            "ja": { "alt": "2017年ティーン・チョイス・アワードの取材を受けるゼンデイヤ", "caption": "2017年ティーン・チョイス・アワードの取材。ディズニー・チャンネルから映画へ活動領域を広げていた転換期。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/06-zendaya-greatest-showman-premiere-2017.jpg",
+          "width": 508,
+          "height": 834,
+          "sha256": "sha256:806dcbae17c3add658780e9c085c859b4711d5ab3100f7b301485d934c90459f",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_at_The_Greatest_Showman_Australian_premiere.jpg",
+          "creator": "KidsOn7",
+          "licenseName": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "treatment": "Still image downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "위대한 쇼맨 호주 프리미어에서 인터뷰하는 젠데이아", "caption": "2017년 『위대한 쇼맨』 호주 프리미어. 공중곡예사 앤 휠러 역은 노래와 신체 연기를 함께 보여준 선택이었다." },
+            "en": { "alt": "Zendaya being interviewed at The Greatest Showman Australian premiere", "caption": "At The Greatest Showman's 2017 Australian premiere. Anne Wheeler combined singing with physically demanding performance." },
+            "ja": { "alt": "『グレイテスト・ショーマン』オーストラリア・プレミアで取材を受けるゼンデイヤ", "caption": "2017年『グレイテスト・ショーマン』オーストラリア・プレミア。アン・ウィーラー役では歌と身体表現を両立させた。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/07-zendaya-comic-con-2016.jpg",
+          "width": 1920,
+          "height": 1280,
+          "sha256": "sha256:1ce08d465125fb257c32eb8ebe357f0568e60d6b223c5fa3080833a9f7f86540",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_(28652839185).jpg",
+          "creator": "Gage Skidmore",
+          "licenseName": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2016 샌디에이고 코믹콘 무대에서 마이크를 든 젠데이아", "caption": "2016 샌디에이고 코믹콘. 스파이더맨 시리즈 합류가 소개되며 글로벌 관객과의 접점이 크게 넓어졌다." },
+            "en": { "alt": "Zendaya holding a microphone onstage at San Diego Comic-Con 2016", "caption": "At San Diego Comic-Con in 2016, when joining the Spider-Man series sharply widened her global audience." },
+            "ja": { "alt": "2016年サンディエゴ・コミコンのステージでマイクを持つゼンデイヤ", "caption": "2016年サンディエゴ・コミコン。スパイダーマン・シリーズへの参加で世界の観客との接点が大きく広がった。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/08-zendaya-jacob-batalon-comic-con-2016.jpg",
+          "width": 5760,
+          "height": 3840,
+          "sha256": "sha256:f343c2226046fee8d39b2190436beffba1c4e981b0f8a11e8d107aedaab1ae40",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jacob_Batalon_%26_Zendaya_(28035642754).jpg",
+          "creator": "Gage Skidmore",
+          "licenseName": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2016 코믹콘 패널에 나란히 앉은 제이컵 배덜런과 젠데이아", "caption": "제이컵 배덜런과 함께한 2016년 패널. 앙상블 속 절제된 반응 연기는 스파이더맨 시리즈에서 젠데이아가 만든 강점이다." },
+            "en": { "alt": "Jacob Batalon and Zendaya seated together at a 2016 Comic-Con panel", "caption": "With Jacob Batalon at the 2016 panel. Her restrained reactions became a strength within Spider-Man's ensemble." },
+            "ja": { "alt": "2016年コミコンのパネルで並んで座るジェイコブ・バタロンとゼンデイヤ", "caption": "ジェイコブ・バタロンと参加した2016年のパネル。群像の中で抑制の利いた反応を見せることがシリーズでの強みになった。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/09-zendaya-2013.jpg",
+          "width": 1880,
+          "height": 2816,
+          "sha256": "sha256:90e316ccea82aab9dccc7e352fc7de4c8fb46234d55ec266578b73c86a4b124b",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_2013.jpg",
+          "creator": "Neon Tommy",
+          "licenseName": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2013년 행사 포토월 앞을 걷는 젠데이아", "caption": "2013년 젠데이아. 청소년 스타로 알려진 뒤 음악·연기·패션을 함께 쌓으며 단일 이미지에 머물지 않았다." },
+            "en": { "alt": "Zendaya walking past an event photo wall in 2013", "caption": "Zendaya in 2013. After emerging as a teen star, she developed music, acting and fashion work without staying in one image." },
+            "ja": { "alt": "2013年のイベントでフォトウォール前を歩くゼンデイヤ", "caption": "2013年のゼンデイヤ。ティーンスターとして知られた後も、音楽・演技・ファッションを並行して積み重ねた。" }
+          }
+        },
+        {
+          "src": "/editorial/zendaya-spider-man-brand-new-day/10-zendaya-let-it-shine-premiere-2012.jpg",
+          "width": 3264,
+          "height": 4928,
+          "sha256": "sha256:766824cd8bb28af56aab0a7bfd87c49d826a75f382abd9c2e9eee37896b760e5",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zendaya_-_DSC_0097.jpg",
+          "creator": "Mingle Media TV",
+          "licenseName": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "treatment": "Downloaded from Wikimedia Commons; displayed without editorial alteration.",
+          "locales": {
+            "ko": { "alt": "2012년 렛 잇 샤인 프리미어에서 인터뷰하는 젠데이아", "caption": "2012년 『렛 잇 샤인』 프리미어. 카메라 앞 경험을 일찍 쌓았고, 이후 장르와 제작 역할까지 확장했다." },
+            "en": { "alt": "Zendaya being interviewed at the Let It Shine premiere in 2012", "caption": "At the 2012 Let It Shine premiere. Early on-camera experience preceded an expansion across genres and into producing." },
+            "ja": { "alt": "2012年『レット・イット・シャイン』プレミアで取材を受けるゼンデイヤ", "caption": "2012年『レット・イット・シャイン』プレミア。早くからカメラ前の経験を重ね、のちにジャンルと製作領域を広げた。" }
+          }
+        }
+      ],
+      "locales": {
+        "ko": {
+          "slug": "zendaya-spider-man-brand-new-day",
+          "work": "스파이더맨: 브랜드 뉴 데이",
+          "subject": "젠데이아",
+          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "title": "젠데이아가 다시 주목받는 이유, 『스파이더맨: 브랜드 뉴 데이』 이후의 현재",
+          "description": "글로벌 흥행 중심에 다시 선 젠데이아. MJ부터 『유포리아』와 『듄』까지, 배우와 제작자로 확장한 경력을 최근 근거와 사진 10장으로 정리했다.",
+          "eyebrow": "GLOBAL ACTRESS FILE 01",
+          "body": [
+            {
+              "heading": "이번 주, 왜 다시 젠데이아인가",
+              "paragraphs": [
+                "2026년 7월 31일 북미에서 공개된 『스파이더맨: 브랜드 뉴 데이』가 개봉과 동시에 세계 영화 뉴스의 중심에 섰다. 소니 픽처스가 공개한 공식 캐스트에는 톰 홀랜드와 함께 젠데이아가 이름을 올렸다. AP가 집계한 개봉 주말 성적은 북미 3억5,500만 달러, 해외 5억7,200만 달러로 전 세계 9억2,700만 달러다. 작품과 수치를 같은 시점의 공식·통신사 자료로 대조했다.",
+                "이 기록이 곧 젠데이아 한 사람의 흥행력을 뜻하는 것은 아니다. 다만 대형 프랜차이즈의 귀환, 오랫동안 이어진 MJ라는 인물, 그리고 『유포리아』·『듄』·『챌린저스』를 거치며 넓어진 배우의 스펙트럼이 한 주에 겹쳤다. 지금 검색량이 다시 커진 이유를 이해하려면 단순한 근황보다 이 세 축을 함께 볼 필요가 있다."
+              ]
+            },
+            {
+              "heading": "MJ는 어떻게 젠데이아의 캐릭터가 됐나",
+              "paragraphs": [
+                "젠데이아가 스파이더맨 시리즈에서 맡아온 MJ는 영웅의 곁에만 머무는 인물이 아니다. 주변을 예리하게 관찰하고 감정을 과장하지 않으며, 짧은 대사 사이에 불신과 애정을 동시에 남긴다. 젠데이아의 낮은 톤과 건조한 유머가 더해지면서 이전 영화들의 MJ와 구별되는 동시대적 인물이 완성됐다.",
+                "『브랜드 뉴 데이』의 구체적인 전개는 여기서 다루지 않는다. 공개 직후의 글인 만큼 스포일러보다 공식적으로 확인된 캐스트와 지금까지 축적된 역할의 맥락에 집중했다. 이번 복귀가 흥미로운 지점은 MJ가 얼마나 많이 등장하느냐보다, 앞선 이야기에서 쌓인 기억과 관계를 젠데이아가 어떤 밀도로 이어가느냐에 있다."
+              ]
+            },
+            {
+              "heading": "오클랜드에서 디즈니 채널까지",
+              "paragraphs": [
+                "젠데이아는 1996년 9월 1일 미국 캘리포니아주 오클랜드에서 태어났다. 2026년 8월 9일 기준 만 29세다. 공식 소개에 따르면 어린 시절부터 무대와 춤을 경험했고, 2009년부터 전문 활동을 시작했다. 대중에게 이름을 알린 계기는 디즈니 채널 시리즈 『우리는 댄스소녀』의 로키 블루였다.",
+                "이후 『K.C. 언더커버 하이스쿨 스파이』에서는 주연뿐 아니라 제작에도 참여했다. 청소년 채널의 스타가 성인 배우로 옮겨갈 때 생기는 이미지의 단절을 피한 이유도 여기에 있다. 젠데이아는 기존 팬층을 버리기보다 연기 난도와 작품 선택, 제작 참여의 비중을 차례로 키웠다. 공개적으로 확인되지 않은 MBTI나 사생활 정보는 이 프로필에서 제외했다."
+              ]
+            },
+            {
+              "heading": "프랜차이즈와 작가주의 사이를 오간 필모그래피",
+              "paragraphs": [
+                "2017년에는 『스파이더맨: 홈커밍』과 『위대한 쇼맨』이 나란히 공개됐다. 한쪽에서는 현실적인 십 대의 말투를, 다른 쪽에서는 노래와 공중곡예를 결합한 앤 휠러를 보여줬다. 이후 HBO 『유포리아』의 루 베넷은 경력의 방향을 바꿨다. 텔레비전 아카데미 기록상 젠데이아는 이 역할로 2020년과 2022년 드라마 시리즈 여우주연상을 받았다.",
+                "『듄』 시리즈의 챠니는 거대한 세계관 안에서 침묵과 시선을 활용하는 연기를, 『챌린저스』의 타시 덩컨은 관계의 힘을 주도하는 성인 캐릭터를 보여준다. 특히 『챌린저스』에서는 제작자로도 참여했다. 흥행 프랜차이즈, TV 드라마, 감독 중심의 영화 사이를 오가면서도 인물의 통제력과 선택을 강조한다는 공통점이 남는다."
+              ]
+            },
+            {
+              "heading": "다음 활동에서 볼 세 가지",
+              "paragraphs": [
+                "첫째는 『브랜드 뉴 데이』 이후 MJ가 프랜차이즈 안에서 갖는 위치다. 둘째는 『유포리아』처럼 배우의 감정 범위를 전면에 내세우는 TV 작업과 대형 영화의 균형이다. 셋째는 크레디트 뒤의 변화다. 젠데이아는 이미 주연과 제작을 병행해 왔기 때문에 다음 선택에서는 출연작의 크기만큼 어떤 이야기에 결정권을 갖는지도 중요하다.",
+                "이 글은 2026년 8월 9일 확인 가능한 공식 페이지와 AP 보도를 기준으로 작성했다. 흥행 수치는 집계 시점에 따라 달라질 수 있으며, 확인되지 않은 차기작 소문은 넣지 않았다. 아래 10장은 모두 위키미디어 공용에서 제공하는 CC 또는 CC0 자료로, 사진별 저작자와 라이선스를 함께 표시했다."
+              ]
+            }
+          ],
+          "keywords": ["젠데이아", "스파이더맨 브랜드 뉴 데이", "MJ", "유포리아", "듄", "해외 여배우"],
+          "status": "reviewed",
+          "robots": "noindex,nofollow",
+          "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
+          "publicVerification": null
+        },
+        "en": {
+          "slug": "zendaya-spider-man-brand-new-day",
+          "work": "Spider-Man: Brand New Day",
+          "subject": "Zendaya",
+          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "title": "Why Zendaya Is Back at the Center of the Conversation",
+          "description": "With Spider-Man: Brand New Day driving a huge global opening, here is a sourced look at Zendaya's path from MJ to Euphoria, Dune and producing—told through 10 licensed photographs.",
+          "eyebrow": "GLOBAL ACTRESS FILE 01",
+          "body": [
+            {
+              "heading": "Why Zendaya, why this week",
+              "paragraphs": [
+                "Spider-Man: Brand New Day opened in North America on July 31, 2026 and immediately became the week's dominant film story. Sony Pictures lists Zendaya alongside Tom Holland in the official cast. The Associated Press reported an opening of $355 million in North America and $572 million internationally, for a $927 million worldwide debut. Those figures and the cast were checked against sources current to this publication date.",
+                "That total is not evidence of one performer's drawing power by itself. What makes the moment notable is the overlap: a major franchise returning, years of audience investment in MJ, and an acting range that now includes Euphoria, Dune and Challengers. Understanding the renewed attention around Zendaya requires looking at all three rather than treating a red-carpet appearance as the whole update."
+              ]
+            },
+            {
+              "heading": "How MJ became a distinctly Zendaya character",
+              "paragraphs": [
+                "Zendaya's MJ has never existed only beside the hero. She watches a room closely, resists overstatement and can leave skepticism and affection inside the same short line. Her low-key delivery and dry humor helped create a contemporary character clearly separate from earlier screen versions connected to Peter Parker.",
+                "This profile avoids discussing the new film's plot. So soon after release, the more durable question is not how many scenes MJ receives but how Zendaya carries the history and emotional weight built across earlier films. The article therefore stays with the officially confirmed cast and the arc already visible in her work, without spoilers or unverified production claims."
+              ]
+            },
+            {
+              "heading": "From Oakland to Disney Channel",
+              "paragraphs": [
+                "Zendaya was born on September 1, 1996 in Oakland, California, making her 29 on August 9, 2026. Her official biography describes early experience in theater and dance, followed by professional work beginning in 2009. Her breakout arrived as Rocky Blue in the Disney Channel series Shake It Up, which ran for three seasons.",
+                "She later starred in K.C. Undercover and took on a producing role. That step helps explain why her transition from youth television to adult drama did not depend on rejecting her earlier audience. She increased the difficulty of the performances, widened the scale of the projects and gradually gained more influence behind the camera. Unconfirmed personality-type labels and private-life claims are intentionally excluded."
+              ]
+            },
+            {
+              "heading": "A career between franchises and filmmaker-led work",
+              "paragraphs": [
+                "In 2017, Spider-Man: Homecoming and The Greatest Showman displayed two different registers: an observant, naturalistic teenager in one, and the singing aerialist Anne Wheeler in the other. HBO's Euphoria then changed the scale of the conversation around her acting. Television Academy records show that her performance as Rue Bennett won the Lead Actress in a Drama Series Emmy in both 2020 and 2022.",
+                "Chani in the Dune films uses stillness and gaze inside an enormous world; Tashi Duncan in Challengers controls the emotional geometry of a much smaller one. Zendaya also produced Challengers. Across studio franchises, television drama and director-driven films, the recurring idea is agency: the characters are most compelling when they are choosing, withholding or redirecting the scene."
+              ]
+            },
+            {
+              "heading": "Three things to watch next",
+              "paragraphs": [
+                "First is MJ's position after Brand New Day. Second is how Zendaya balances emotionally exposed television work such as Euphoria with large-scale films. Third is the evolution behind the credits. Because she has already combined leading roles with producing, the next phase is not only about the size of a project but also about which stories she helps shape.",
+                "This article reflects official pages and Associated Press reporting checked on August 9, 2026. Box-office totals can change after the stated reporting window, and unconfirmed future-project rumors are omitted. All 10 photographs below come from Wikimedia Commons under CC or CC0 terms; each image includes its creator and specific license."
+              ]
+            }
+          ],
+          "keywords": ["Zendaya", "Spider-Man Brand New Day", "MJ", "Euphoria", "Dune", "actress profile"],
+          "status": "reviewed",
+          "robots": "noindex,nofollow",
+          "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
+          "publicVerification": null
+        },
+        "ja": {
+          "slug": "zendaya-spider-man-brand-new-day",
+          "work": "スパイダーマン：ブランド・ニュー・デイ",
+          "subject": "ゼンデイヤ",
+          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "title": "ゼンデイヤが再び注目を集める理由――『スパイダーマン：ブランド・ニュー・デイ』後の現在",
+          "description": "世界的ヒットの中心に戻ったゼンデイヤ。MJから『ユーフォリア／EUPHORIA』『デューン』『チャレンジャーズ』まで、俳優・製作者としての歩みを10枚のライセンス写真と一次情報でたどる。",
+          "eyebrow": "GLOBAL ACTRESS FILE 01",
+          "body": [
+            {
+              "heading": "なぜ今週、再びゼンデイヤなのか",
+              "paragraphs": [
+                "2026年7月31日に北米公開された『スパイダーマン：ブランド・ニュー・デイ』は、公開直後から世界の映画ニュースの中心になった。ソニー・ピクチャーズの公式キャストにはトム・ホランドとともにゼンデイヤの名前がある。AP通信による初週末の推計は北米3億5500万ドル、海外5億7200万ドル、世界合計9億2700万ドル。キャストと数字は記事公開時点の公式情報・通信社報道で照合した。",
+                "もちろん、この数字だけで一人の俳優の集客力を測ることはできない。注目すべきなのは、大型シリーズの帰還、長年積み重ねられたMJへの関心、そして『ユーフォリア／EUPHORIA』『デューン』『チャレンジャーズ』で広がった演技の幅が同じ週に重なったことだ。現在の検索関心を理解するには、この三つを一緒に見る必要がある。"
+              ]
+            },
+            {
+              "heading": "MJはいかにゼンデイヤ自身の人物像になったか",
+              "paragraphs": [
+                "ゼンデイヤが演じてきたMJは、主人公の隣にいるだけの人物ではない。周囲を鋭く観察し、感情を必要以上に説明せず、短い言葉の中に警戒と好意を同居させる。低いトーンと乾いたユーモアが加わることで、ピーター・パーカーをめぐる過去のスクリーン上の人物像とは異なる、現代的なMJが形づくられた。",
+                "本稿では新作の具体的な展開には触れない。公開直後だからこそ、登場時間の長さより、過去作で築いた記憶と関係をどの密度で引き継ぐのかに注目したい。公式に確認されたキャストと、これまでの役柄から読み取れる流れに絞り、ネタバレや未確認の製作情報は避けた。"
+              ]
+            },
+            {
+              "heading": "オークランドからディズニー・チャンネルへ",
+              "paragraphs": [
+                "ゼンデイヤは1996年9月1日、米カリフォルニア州オークランド生まれ。2026年8月9日時点で29歳である。公式プロフィールによれば幼少期から舞台とダンスに親しみ、2009年にプロとしての活動を始めた。広く知られるきっかけは、ディズニー・チャンネルのシリーズ『シェキラ！』で演じたロッキー・ブルーだった。",
+                "その後『ティーン・スパイ K.C.』では主演だけでなく製作にも参加した。若者向け番組のスターから成人俳優へ移る際、過去のイメージを急に切り離さずに済んだ背景には、この段階的な選択がある。演技の難度、作品の規模、製作への関与を順番に広げていった。公的に確認できないMBTIや私生活の情報は掲載していない。"
+              ]
+            },
+            {
+              "heading": "大作シリーズと作家性の強い作品を往復する",
+              "paragraphs": [
+                "2017年には『スパイダーマン：ホームカミング』と『グレイテスト・ショーマン』が公開された。前者では現実感のある高校生の話し方を、後者では歌と空中演技を組み合わせるアン・ウィーラーを見せた。HBO『ユーフォリア／EUPHORIA』のルー・ベネット役は評価を決定的に変えた。テレビジョン・アカデミーの記録では、2020年と2022年にドラマ部門主演女優賞を受賞している。",
+                "『デューン』シリーズのチャニは巨大な世界の中で沈黙と視線を使い、『チャレンジャーズ』のタシ・ダンカンは三人の関係の力学を主導する。後者では製作者も務めた。大作、テレビドラマ、監督の色が強い映画を往復しても、人物が選び、抑え、場面の方向を変える瞬間を重視する点は共通している。"
+              ]
+            },
+            {
+              "heading": "これから注目したい三つのポイント",
+              "paragraphs": [
+                "一つ目は『ブランド・ニュー・デイ』後のMJの位置。二つ目は『ユーフォリア／EUPHORIA』のように感情を前面に出すテレビ作品と、大規模映画とのバランス。三つ目はクレジットの後ろ側にある変化だ。主演と製作をすでに両立しているため、次の段階では作品の大きさだけでなく、どの物語の形成に決定権を持つかも重要になる。",
+                "本稿は2026年8月9日に確認できた公式ページとAP通信の報道を基準に執筆した。興行収入は集計時点により変動するため日付を明示し、未確認の次回作情報は除外している。掲載する10枚はすべてWikimedia CommonsのCCまたはCC0素材で、各写真に撮影者と個別ライセンスを記載した。"
+              ]
+            }
+          ],
+          "keywords": ["ゼンデイヤ", "スパイダーマン ブランド ニュー デイ", "MJ", "ユーフォリア", "デューン", "海外女優"],
+          "status": "reviewed",
+          "robots": "noindex,nofollow",
+          "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
+          "publicVerification": null
+        }
+      }
+    }
+  ]
+}

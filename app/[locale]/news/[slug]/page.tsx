@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
+import { OwnedEditorialStory } from "@/components/owned-editorial-story";
 import { SponsorBanner } from "@/components/sponsor-banner";
 import {
   LOCALE_CONFIG,
@@ -21,6 +22,11 @@ import {
   type LocalizedArticle,
 } from "@/lib/localized-content";
 import {
+  getOwnedArticle,
+  isOwnedArticle,
+  ownedArticles,
+} from "@/lib/owned-content";
+import {
   absoluteUrl,
   SITE_LOGO_PATH,
   SITE_OG_IMAGE_PATH,
@@ -31,7 +37,7 @@ type LocalizedArticleProps = {
 };
 
 export function generateStaticParams() {
-  return localizedArticles.flatMap((article) =>
+  return [...localizedArticles, ...ownedArticles].flatMap((article) =>
     SUPPORTED_LOCALES.map((locale) => ({
       locale,
       slug: article.locales[locale].slug,
@@ -54,7 +60,8 @@ function absoluteAlternates(article: LocalizedArticle) {
 
 function resolveArticle(locale: string, slug: string) {
   if (!isLocale(locale)) return null;
-  const article = getLocalizedArticle(locale, slug);
+  const article =
+    getLocalizedArticle(locale, slug) ?? getOwnedArticle(locale, slug);
   return article ? { article, locale } : null;
 }
 
@@ -71,19 +78,25 @@ export async function generateMetadata({
   const title = `${copy.title} | SS.Desk`;
   const ready = isLocalizedLocaleReady(article, locale);
   const alternates = ready ? absoluteAlternates(article) : null;
+  const socialImage = isOwnedArticle(article)
+    ? absoluteUrl(article.gallery[0].src)
+    : absoluteUrl(SITE_OG_IMAGE_PATH);
+  const authorName = isOwnedArticle(article)
+    ? { ko: "SS.Desk 편집부", en: "SS.Desk Editorial Team", ja: "SS.Desk編集部" }[locale]
+    : localeConfig.authorName;
 
   return {
     title: { absolute: title },
     description: copy.description,
     keywords: copy.keywords,
     authors: [{
-      name: localeConfig.authorName,
+      name: authorName,
       url:
-        locale === "ko"
+        !isOwnedArticle(article) && locale === "ko"
           ? "https://blog.naver.com/tnsqo1126"
           : absoluteUrl("/"),
     }],
-    creator: localeConfig.authorName,
+    creator: authorName,
     alternates: {
       canonical: url,
       ...(alternates ? { languages: alternates } : {}),
@@ -104,13 +117,13 @@ export async function generateMetadata({
       title,
       description: copy.description,
       publishedTime: article.publishedAt,
-      images: [{ url: absoluteUrl(SITE_OG_IMAGE_PATH), alt: "SS.Desk" }],
+      images: [{ url: socialImage, alt: article.imageAlt[locale] }],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description: copy.description,
-      images: [absoluteUrl(SITE_OG_IMAGE_PATH)],
+      images: [socialImage],
     },
   };
 }
@@ -127,6 +140,10 @@ export default async function LocalizedArticlePage({
   const url = absoluteUrl(localizedArticlePath(article, locale));
   const hubUrl = absoluteUrl(`/${locale}`);
   const ready = isLocalizedLocaleReady(article, locale);
+  const owned = isOwnedArticle(article);
+  const displayAuthor = owned
+    ? { ko: "SS.Desk 편집부", en: "SS.Desk Editorial Team", ja: "SS.Desk編集部" }[locale]
+    : localeConfig.authorName;
   const readyRelated = getRelatedLocalizedArticles(article, locale);
   const related = ready
     ? readyRelated
@@ -147,11 +164,14 @@ export default async function LocalizedArticlePage({
         inLanguage: localeConfig.htmlLang,
         keywords: copy.keywords,
         about: [copy.work, copy.subject],
-        isBasedOn: article.sourceUrl,
+        ...(owned ? {} : { isBasedOn: article.sourceUrl }),
         citation: article.sources.map((source) => source.url),
+        ...(owned
+          ? { image: article.gallery.map((image) => absoluteUrl(image.src)) }
+          : {}),
         author: {
-          "@type": locale === "ko" ? "Person" : "Organization",
-          name: localeConfig.authorName,
+          "@type": owned || locale !== "ko" ? "Organization" : "Person",
+          name: owned ? "SS.Desk Editorial Team" : localeConfig.authorName,
           url:
             locale === "ko"
               ? "https://blog.naver.com/tnsqo1126"
@@ -220,75 +240,81 @@ export default async function LocalizedArticlePage({
           <h1>{copy.title}</h1>
           <p className="localized-dek">{copy.description}</p>
           <div className="localized-byline">
-            <span>{localeConfig.authorName}</span>
+            <span>{displayAuthor}</span>
             <time dateTime={article.publishedAt}>
               {getLocalizedDate(article.publishedAt, locale)}
             </time>
           </div>
         </header>
 
-        <div className="page-shell localized-hero-panel" aria-hidden="true">
-          <span>SS.Desk Global</span>
-          <strong>{copy.subject}</strong>
-          <p>{copy.work}</p>
-        </div>
-
-        <div className="page-shell localized-article-layout">
-          <div className="localized-article-body">
-            {copy.body.map((section) => (
-              <section key={section.heading}>
-                <h2>{section.heading}</h2>
-                {section.paragraphs.map((paragraph) => (
-                  <p key={paragraph}>{paragraph}</p>
-                ))}
-              </section>
-            ))}
-          </div>
-
-          <aside className="localized-source-panel">
-            <p>{localeConfig.sourceNote}</p>
-            <a
-              className="localized-original-cta"
-              href={article.sourceUrl}
-              target="_blank"
-              rel="noopener"
-              referrerPolicy="origin"
-              data-analytics-event="localized_article_outbound_clicked"
-              data-analytics-article-id={article.logNo}
-              data-analytics-locale={locale}
-            >
-              {localeConfig.originalLabel} <span aria-hidden="true">↗</span>
-            </a>
-            <div className="localized-citations">
-              <h2>{localeConfig.sourceLabel}</h2>
-              <ul>
-                {article.sources.map((source) => (
-                  <li key={source.url}>
-                    <a
-                      href={source.url}
-                      target="_blank"
-                      rel={
-                        source.url.startsWith("https://blog.naver.com/")
-                          ? "noopener"
-                          : "noopener noreferrer"
-                      }
-                      referrerPolicy={
-                        source.url.startsWith("https://blog.naver.com/")
-                          ? "origin"
-                          : undefined
-                      }
-                    >
-                      {getLocalizedSourceName(source, locale)}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+        {owned ? (
+          <OwnedEditorialStory article={article} locale={locale} />
+        ) : (
+          <>
+            <div className="page-shell localized-hero-panel" aria-hidden="true">
+              <span>SS.Desk Global</span>
+              <strong>{copy.subject}</strong>
+              <p>{copy.work}</p>
             </div>
-          </aside>
-        </div>
+
+            <div className="page-shell localized-article-layout">
+              <div className="localized-article-body">
+                {copy.body.map((section) => (
+                  <section key={section.heading}>
+                    <h2>{section.heading}</h2>
+                    {section.paragraphs.map((paragraph) => (
+                      <p key={paragraph}>{paragraph}</p>
+                    ))}
+                  </section>
+                ))}
+              </div>
+
+              <aside className="localized-source-panel">
+                <p>{localeConfig.sourceNote}</p>
+                <a
+                  className="localized-original-cta"
+                  href={article.sourceUrl}
+                  target="_blank"
+                  rel="noopener"
+                  referrerPolicy="origin"
+                  data-analytics-event="localized_article_outbound_clicked"
+                  data-analytics-article-id={article.logNo}
+                  data-analytics-locale={locale}
+                >
+                  {localeConfig.originalLabel} <span aria-hidden="true">↗</span>
+                </a>
+                <div className="localized-citations">
+                  <h2>{localeConfig.sourceLabel}</h2>
+                  <ul>
+                    {article.sources.map((source) => (
+                      <li key={source.url}>
+                        <a
+                          href={source.url}
+                          target="_blank"
+                          rel={
+                            source.url.startsWith("https://blog.naver.com/")
+                              ? "noopener"
+                              : "noopener noreferrer"
+                          }
+                          referrerPolicy={
+                            source.url.startsWith("https://blog.naver.com/")
+                              ? "origin"
+                              : undefined
+                          }
+                        >
+                          {getLocalizedSourceName(source, locale)}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </aside>
+            </div>
+          </>
+        )}
       </article>
 
-      <div className="page-shell">
+      {!owned ? <div className="page-shell">
         <SponsorBanner
           placement={
             article.category === "stocks"
@@ -305,7 +331,7 @@ export default async function LocalizedArticlePage({
           }
           locale={locale}
         />
-      </div>
+      </div> : null}
 
       <section className="localized-related">
         <div className="page-shell">
