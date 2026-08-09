@@ -4,15 +4,67 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T10:52:18.102Z",
-  "expectedPublicCount": 1117,
-  "total": 1117,
+  "generatedAt": "2026-08-09T13:15:03.678Z",
+  "expectedPublicCount": 1118,
+  "total": 1118,
   "counts": {
-    "entertainment": 122,
+    "entertainment": 123,
     "stocks": 71,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224373276738",
+      "logNo": "224373276738",
+      "title": "인민을 위해 복무하라 영화 정보, 연우진·지안과 제목 속 뜻",
+      "url": "https://blog.naver.com/tnsqo1126/224373276738",
+      "publishedAt": "2026-08-09T13:08:50.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "제목만 보면 정치극이 먼저 떠오릅니다. 영화 '인민을 위해 복무하라'는 권력의 언어와 개인의 욕망이 맞부딪치는 청소년관람불가 멜로입니다. 연우진, 지안, 조성하가 출연했고, 장철수 감독이 중국 작가 옌롄커의 동명 소설을 스크린으로 옮겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMTAg/MDAxNzg2Mjc4Njg3Nzkz.14AHKwVpVeJQQ87xmH7zWPN_wyBXDhFX6VjKJoUwGb0g.C3ujNlETZbxGYhtMiQY8sRWV15QXc7kYMU5IucowqAEg.JPEG/01-mugwang-official-trailer.jpg?type=s3",
+      "tags": [
+        "인민을위해복무하라",
+        "연우진",
+        "지안",
+        "조성하",
+        "장철수",
+        "한국영화"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2022년 개봉한 146분 청불 멜로",
+          "body": "'인민을 위해 복무하라'는 2022년 2월 23일 개봉했습니다. 장르는 멜로·로맨스와 드라마, 상영시간은 146분입니다. 장철수 감독이 연출했고 연우진이 신무광, 지안이 류수련, 조성하가 사단장을 연기했습니다. 기본 정보는 씨네21 작품 정보와 연합뉴스 리뷰에서 확인할 수 있습니다."
+        },
+        {
+          "heading": "무광·수련·사단장이 만든 위험한 관계",
+          "body": "무광은 아내와 아이를 위해 출세하려는 모범사병입니다. 사단장 사택의 취사병으로 들어간 뒤 젊은 사단장 아내 수련을 만나면서 계획이 흔들립니다. 사단장이 출장을 떠난 사이 두 사람은 신분과 규율을 넘어서는 관계에 빠집니다. 씨네21 시놉시스는 무광이 목표와 신념, 금지된 사랑 사이에서 갈등하는 이야기로 작품을 소개합니다."
+        },
+        {
+          "heading": "팻말은 명령에서 둘만의 신호로 바뀐다",
+          "body": "작품을 관통하는 물건은 '인민을 위해 복무하라'라는 문구가 적힌 팻말입니다. 처음에는 혁명과 복무를 강조하는 공적인 구호이지만, 차츰 두 사람의 사적인 욕망을 정당화하는 신호로 변합니다. 원작과 영화를 비교한 연구는 이 팻말이 혁명의 대의와 개인의 욕망을 뒤집어 연결하는 은유로 작동한다고 분석했습니다."
+        },
+        {
+          "heading": "옌롄커 원작을 영화로 옮기기까지",
+          "body": "원작은 중국 작가 옌롄커가 2005년에 발표한 동명 소설입니다. 영화는 중국의 특정 시대 대신 1970년대 가상의 사회주의 국가를 무대로 삼았습니다. iMBC 인터뷰에 따르면 장철수 감독은 첫 시나리오 작업 후 완성작을 내놓기까지 11년이 걸렸고, 연우진은 2014년에 캐스팅됐습니다. 정식 제작은 2020년에야 시작됐습니다."
+        },
+        {
+          "heading": "감상 전에 알아둘 점",
+          "body": "이 작품은 수위 높은 장면이 포함된 청소년관람불가 영화입니다. 다만 관람 포인트를 노출에만 두면 팻말과 군대 질서가 만드는 풍자를 놓치기 쉽습니다. 연합뉴스 리뷰는 가상 국가 설정과 146분의 러닝타임, 약해진 체제 비판을 아쉬운 점으로 짚었습니다. 반대로 원작 비교 연구는 공적 구호가 사적 욕망의 신호로 바뀌는 과정을 작품의 중요한 은유로 봤습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-09T13:15:03.678Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:61c302d12103a13f31350a6c125321bfa49dadde07175c5d9580cea02dc403c0"
+    },
     {
       "id": "naver:tnsqo1126:224373142730",
       "logNo": "224373142730",
