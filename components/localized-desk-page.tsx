@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
+import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { LocalizedPostCard } from "@/components/localized-post-card";
 import { SponsorBanner } from "@/components/sponsor-banner";
 import {
@@ -8,6 +9,7 @@ import {
   type Locale,
 } from "@/lib/localized-content";
 import { getLocalizedPosts } from "@/lib/localized-posts";
+import { getReadyOwnedArticles } from "@/lib/owned-content";
 import {
   isPostDetailIndexable,
   postDetailPath,
@@ -95,6 +97,7 @@ export function LocalizedDeskPage({
 }: LocalizedDeskPageProps) {
   const copy = deskCopy[locale][category];
   const categoryPosts = getLocalizedPosts(locale, category);
+  const ownedArticles = getReadyOwnedArticles(locale, category);
   const richPosts = categoryPosts.filter(({ post }) => post.image);
   const lead = richPosts[0] || categoryPosts[0];
   const latest = categoryPosts
@@ -111,15 +114,23 @@ export function LocalizedDeskPage({
     inLanguage: LOCALE_CONFIG[locale].htmlLang,
     mainEntity: {
       "@type": "ItemList",
-      numberOfItems: categoryPosts.length,
-      itemListElement: categoryPosts.map(({ post, copy: localized }, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: localized.title,
-        url: isPostDetailIndexable(post)
-          ? absoluteUrl(postDetailPath(post))
-          : post.url,
-      })),
+      numberOfItems: categoryPosts.length + ownedArticles.length,
+      itemListElement: [
+        ...ownedArticles.map((article, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: article.locales[locale].title,
+          url: absoluteUrl(`/${locale}/news/${article.locales[locale].slug}`),
+        })),
+        ...categoryPosts.map(({ post, copy: localized }, index) => ({
+          "@type": "ListItem",
+          position: ownedArticles.length + index + 1,
+          name: localized.title,
+          url: isPostDetailIndexable(post)
+            ? absoluteUrl(postDetailPath(post))
+            : post.url,
+        })),
+      ],
     },
   };
 
@@ -140,7 +151,7 @@ export function LocalizedDeskPage({
           <div>
             <p>{copy.description}</p>
             <div className="desk-count">
-              <strong>{categoryPosts.length.toLocaleString(locale)}</strong>
+              <strong>{(categoryPosts.length + ownedArticles.length).toLocaleString(locale)}</strong>
               <span>{copy.countLabel}</span>
             </div>
           </div>
@@ -199,6 +210,13 @@ export function LocalizedDeskPage({
           <Link href={`/${locale}`}>{LOCALE_CONFIG[locale].navHome} →</Link>
         </div>
         <div className="desk-story-grid localized-complete-grid">
+          {ownedArticles.map((article) => (
+            <LocalizedArticleCard
+              key={article.sourceId}
+              article={article}
+              locale={locale}
+            />
+          ))}
           {categoryPosts.map(({ post, copy: localized }) => (
             <LocalizedPostCard
               key={post.logNo}

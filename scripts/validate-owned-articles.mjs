@@ -82,9 +82,18 @@ export async function validateOwnedContent() {
     for (const locale of locales) {
       const copy = article.locales?.[locale];
       assert(copy, `${article.sourceId}: ${locale} locale is missing`);
-      assert(copy.status === "reviewed", `${article.sourceId}: ${locale} must remain reviewed before approval`);
-      assert(copy.robots === "noindex,nofollow", `${article.sourceId}: ${locale} must remain noindex before approval`);
-      assert(copy.publicVerification === null, `${article.sourceId}: ${locale} review copy cannot claim public verification`);
+      assert(["reviewed", "ready"].includes(copy.status), `${article.sourceId}: ${locale} has an unsupported release status`);
+      if (copy.status === "reviewed") {
+        assert(copy.robots === "noindex,nofollow", `${article.sourceId}: ${locale} reviewed copy must remain noindex`);
+        assert(copy.publicVerification === null, `${article.sourceId}: ${locale} reviewed copy cannot claim public verification`);
+      } else {
+        const expectedUrl = `https://ssundesk.com/${locale}/news/${copy.slug}`;
+        assert(copy.robots === "index,follow", `${article.sourceId}: ${locale} ready copy must be indexable`);
+        assert(copy.publicVerification?.status === "verified", `${article.sourceId}: ${locale} ready copy lacks public verification`);
+        assert(copy.publicVerification?.httpStatus === 200, `${article.sourceId}: ${locale} ready copy must verify HTTP 200`);
+        assert(Number.isFinite(Date.parse(copy.publicVerification?.checkedAt)), `${article.sourceId}: ${locale} ready copy has an invalid checkedAt`);
+        assert(copy.publicVerification?.resolvedUrl?.replace(/\/+$/, "") === expectedUrl, `${article.sourceId}: ${locale} ready copy resolved URL mismatch`);
+      }
       assert(copy.translatedFromSourceHash === article.sourceHash, `${article.sourceId}: ${locale} source hash mismatch`);
       assert(copy.body?.length === 5, `${article.sourceId}: ${locale} must contain exactly five sections`);
       assert(copy.body.every((section) => section.paragraphs?.length >= 2), `${article.sourceId}: ${locale} sections need at least two paragraphs`);

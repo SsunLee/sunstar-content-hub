@@ -25,6 +25,13 @@ const localizedContent = JSON.parse(
     "utf8",
   ),
 );
+const ownedContent = JSON.parse(
+  await readFile(new URL("../data/owned-articles.json", import.meta.url), "utf8"),
+);
+const allLocalizedArticles = [
+  ...localizedContent.articles,
+  ...ownedContent.articles,
+];
 const supportedLocales = SUPPORTED_LOCALES;
 const archivePageCount = Math.max(1, Math.ceil(content.posts.length / 50));
 const archivePages = Array.from(
@@ -35,7 +42,7 @@ const postDetailPages = getEligiblePostDetails(content.posts).map(
   (post) => `${siteUrl}${postDetailPath(post)}`,
 );
 const readyHubLocales = supportedLocales.filter((locale) =>
-  localizedContent.articles.some((article) =>
+  allLocalizedArticles.some((article) =>
     isLocalizedLocaleReady(article, locale, siteUrl),
   ),
 );
@@ -45,7 +52,7 @@ const localizedPages = [
     `${siteUrl}/${locale}/entertainment`,
     `${siteUrl}/${locale}/stocks`,
   ]),
-  ...localizedContent.articles.flatMap((article) =>
+  ...allLocalizedArticles.flatMap((article) =>
     supportedLocales
       .filter((locale) => isLocalizedLocaleReady(article, locale, siteUrl))
       .map((locale) => {

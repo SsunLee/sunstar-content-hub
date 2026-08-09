@@ -221,7 +221,7 @@
           "slug": "zendaya-spider-man-brand-new-day",
           "work": "스파이더맨: 브랜드 뉴 데이",
           "subject": "젠데이아",
-          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "updatedAt": "2026-08-09T17:38:46+09:00",
           "title": "젠데이아가 다시 주목받는 이유, 『스파이더맨: 브랜드 뉴 데이』 이후의 현재",
           "description": "글로벌 흥행 중심에 다시 선 젠데이아. MJ부터 『유포리아』와 『듄』까지, 배우와 제작자로 확장한 경력을 최근 근거와 사진 10장으로 정리했다.",
           "eyebrow": "GLOBAL ACTRESS FILE 01",
@@ -263,16 +263,21 @@
             }
           ],
           "keywords": ["젠데이아", "스파이더맨 브랜드 뉴 데이", "MJ", "유포리아", "듄", "해외 여배우"],
-          "status": "reviewed",
-          "robots": "noindex,nofollow",
+          "status": "ready",
+          "robots": "index,follow",
           "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
-          "publicVerification": null
+          "publicVerification": {
+            "status": "verified",
+            "checkedAt": "2026-08-09T08:38:46Z",
+            "httpStatus": 200,
+            "resolvedUrl": "https://ssundesk.com/ko/news/zendaya-spider-man-brand-new-day"
+          }
         },
         "en": {
           "slug": "zendaya-spider-man-brand-new-day",
           "work": "Spider-Man: Brand New Day",
           "subject": "Zendaya",
-          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "updatedAt": "2026-08-09T17:38:46+09:00",
           "title": "Why Zendaya Is Back at the Center of the Conversation",
           "description": "With Spider-Man: Brand New Day driving a huge global opening, here is a sourced look at Zendaya's path from MJ to Euphoria, Dune and producing—told through 10 licensed photographs.",
           "eyebrow": "GLOBAL ACTRESS FILE 01",
@@ -314,16 +319,21 @@
             }
           ],
           "keywords": ["Zendaya", "Spider-Man Brand New Day", "MJ", "Euphoria", "Dune", "actress profile"],
-          "status": "reviewed",
-          "robots": "noindex,nofollow",
+          "status": "ready",
+          "robots": "index,follow",
           "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
-          "publicVerification": null
+          "publicVerification": {
+            "status": "verified",
+            "checkedAt": "2026-08-09T08:38:46Z",
+            "httpStatus": 200,
+            "resolvedUrl": "https://ssundesk.com/en/news/zendaya-spider-man-brand-new-day"
+          }
         },
         "ja": {
           "slug": "zendaya-spider-man-brand-new-day",
           "work": "スパイダーマン：ブランド・ニュー・デイ",
           "subject": "ゼンデイヤ",
-          "updatedAt": "2026-08-09T12:00:00+09:00",
+          "updatedAt": "2026-08-09T17:38:46+09:00",
           "title": "ゼンデイヤが再び注目を集める理由――『スパイダーマン：ブランド・ニュー・デイ』後の現在",
           "description": "世界的ヒットの中心に戻ったゼンデイヤ。MJから『ユーフォリア／EUPHORIA』『デューン』『チャレンジャーズ』まで、俳優・製作者としての歩みを10枚のライセンス写真と一次情報でたどる。",
           "eyebrow": "GLOBAL ACTRESS FILE 01",
@@ -365,10 +375,15 @@
             }
           ],
           "keywords": ["ゼンデイヤ", "スパイダーマン ブランド ニュー デイ", "MJ", "ユーフォリア", "デューン", "海外女優"],
-          "status": "reviewed",
-          "robots": "noindex,nofollow",
+          "status": "ready",
+          "robots": "index,follow",
           "translatedFromSourceHash": "sha256:4bda58a7e87683544599119e62114dda0a71c2ca51753f45c5f0ed1409a47746",
-          "publicVerification": null
+          "publicVerification": {
+            "status": "verified",
+            "checkedAt": "2026-08-09T08:38:46Z",
+            "httpStatus": 200,
+            "resolvedUrl": "https://ssundesk.com/ja/news/zendaya-spider-man-brand-new-day"
+          }
         }
       }
     }

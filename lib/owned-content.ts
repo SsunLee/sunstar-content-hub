@@ -2,6 +2,7 @@ import rawContent from "@/data/owned-articles.json";
 
 import {
   SUPPORTED_LOCALES,
+  isLocalizedLocaleReady,
   localizedArticlePath,
   type ArticleLocale,
   type Locale,
@@ -54,6 +55,20 @@ export const ownedArticles = ownedContent.articles;
 
 export function getOwnedArticle(locale: Locale, slug: string) {
   return ownedArticles.find((article) => article.locales[locale].slug === slug);
+}
+
+export function getReadyOwnedArticles(locale: Locale, category?: string) {
+  return ownedArticles
+    .filter(
+      (article) =>
+        (!category || article.category === category) &&
+        isLocalizedLocaleReady(article, locale),
+    )
+    .sort(
+      (left, right) =>
+        new Date(right.publishedAt).getTime() -
+        new Date(left.publishedAt).getTime(),
+    );
 }
 
 export function ownedArticlePath(article: OwnedArticle, locale: Locale) {

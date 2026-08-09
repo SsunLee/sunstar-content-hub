@@ -22,6 +22,7 @@ import {
   getFeaturedLocalizedPosts,
   getLocalizedPosts,
 } from "@/lib/localized-posts";
+import { getReadyOwnedArticles } from "@/lib/owned-content";
 import { index } from "@/lib/posts";
 import {
   absoluteUrl,
@@ -38,7 +39,9 @@ export function generateStaticParams() {
 
 function hubAlternates() {
   const readyLocales = SUPPORTED_LOCALES.filter(
-    (locale) => getReadyLocalizedArticles(locale).length > 0,
+    (locale) =>
+      getReadyLocalizedArticles(locale).length > 0 ||
+      getReadyOwnedArticles(locale).length > 0,
   );
   if (readyLocales.length < 2) return null;
   const defaultLocale = readyLocales.includes("ko") ? "ko" : readyLocales[0];
@@ -59,7 +62,9 @@ export async function generateMetadata({
   const copy = LOCALE_CONFIG[locale];
   const url = absoluteUrl(`/${locale}`);
   const title = `${copy.hubTitle} | SS.Desk`;
-  const ready = getReadyLocalizedArticles(locale).length > 0;
+  const ready =
+    getReadyLocalizedArticles(locale).length > 0 ||
+    getReadyOwnedArticles(locale).length > 0;
   const alternates = ready ? hubAlternates() : null;
 
   return {
@@ -106,7 +111,14 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
   if (!isLocale(requestedLocale)) notFound();
   const locale: Locale = requestedLocale;
   const copy = LOCALE_CONFIG[locale];
-  const readyArticles = getReadyLocalizedArticles(locale);
+  const readyArticles = [
+    ...getReadyOwnedArticles(locale),
+    ...getReadyLocalizedArticles(locale),
+  ].sort(
+    (left, right) =>
+      new Date(right.publishedAt).getTime() -
+      new Date(left.publishedAt).getTime(),
+  );
   const ready = readyArticles.length > 0;
   const displayedArticles = ready ? readyArticles : localizedArticles;
   const entertainment = getFeaturedLocalizedPosts(locale, "entertainment", 7);
