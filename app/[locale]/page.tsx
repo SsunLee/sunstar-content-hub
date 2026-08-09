@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
 import { CoupangPartnersBanner } from "@/components/coupang-partners-banner";
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { LocalizedPostCard } from "@/components/localized-post-card";
 import { SponsorBanner } from "@/components/sponsor-banner";
@@ -255,6 +256,21 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
         </div>
       </section>
 
+      {locale === "ko" ? (
+        <div className="page-shell localized-adfit-pair">
+          <KakaoAdFitBanner
+            placement="ko-home-first-desktop"
+            className="adfit-only-desktop"
+            media="(min-width: 761px)"
+          />
+          <KakaoAdFitBanner
+            placement="ko-home-first-mobile"
+            className="adfit-only-mobile"
+            media="(max-width: 760px)"
+          />
+        </div>
+      ) : null}
+
       <section
         className="page-shell desk-section entertainment-desk"
         id="translated-stories"
@@ -324,6 +340,21 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
           <p className="market-disclaimer">{copy.marketDisclaimer}</p>
         </div>
       </section>
+
+      {locale === "ko" ? (
+        <div className="page-shell localized-adfit-pair">
+          <KakaoAdFitBanner
+            placement="ko-home-second-desktop"
+            className="adfit-only-desktop"
+            media="(min-width: 761px)"
+          />
+          <KakaoAdFitBanner
+            placement="ko-home-second-mobile"
+            className="adfit-only-mobile"
+            media="(max-width: 760px)"
+          />
+        </div>
+      ) : null}
 
       <section className="page-shell localized-index" aria-labelledby="localized-reviewed">
         <div className="localized-index-heading">

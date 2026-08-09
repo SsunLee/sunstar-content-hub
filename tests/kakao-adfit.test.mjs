@@ -203,6 +203,10 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
     join(outputPath, "stocks", "index.html"),
     "utf8",
   );
+  const koHomepage = await readFile(
+    join(outputPath, "ko", "index.html"),
+    "utf8",
+  );
 
   const pageExpectations = [
     [
@@ -223,6 +227,21 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
       ["stocks-desk"],
       [['class="page-shell desk-lead"', "stocks-desk", 'class="page-shell all-stories"']],
     ],
+    [
+      koHomepage,
+      [
+        "ko-home-first-desktop",
+        "ko-home-first-mobile",
+        "ko-home-second-desktop",
+        "ko-home-second-mobile",
+      ],
+      [
+        ['class="statement-band"', "ko-home-first-desktop", 'class="page-shell desk-section entertainment-desk"'],
+        ['data-adfit-placement="ko-home-first-desktop"', "ko-home-first-mobile", 'class="page-shell desk-section entertainment-desk"'],
+        ['class="stock-stage"', "ko-home-second-desktop", 'class="page-shell localized-index"'],
+        ['data-adfit-placement="ko-home-second-desktop"', "ko-home-second-mobile", 'class="page-shell localized-index"'],
+      ],
+    ],
   ];
 
   for (const [html, placements, orderChecks] of pageExpectations) {
@@ -230,7 +249,7 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
     const blocks = adFitBlocks(html);
     assert.equal(blocks.length, expected.length);
     expected.forEach((placement, index) => {
-      const headerAttributes = placement.startsWith("header-")
+      const responsiveAttributes = placement.startsWith("header-")
         ? {
             "data-adfit-host": "home-header",
             "data-adfit-media":
@@ -238,12 +257,18 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
                 ? "(min-width: 761px)"
                 : "(max-width: 760px)",
           }
-        : {};
+        : placement.startsWith("ko-home-")
+          ? {
+              "data-adfit-media": placement.endsWith("desktop")
+                ? "(min-width: 761px)"
+                : "(max-width: 760px)",
+            }
+          : {};
       assertBlock(
         blocks[index],
         placement,
         configurations.get(placement),
-        headerAttributes,
+        responsiveAttributes,
       );
     });
     for (const [previous, placement, next] of orderChecks) {
@@ -290,11 +315,58 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
     }
   }
 
-  for (const route of ["archive", "about", "ko", "en", "ja"]) {
+  const koArticleFiles = await findFiles(
+    join(outputPath, "ko", "news"),
+    [".html"],
+  );
+  assert.ok(koArticleFiles.length > 0, "missing Korean localized articles");
+  const koArticlePlacements = ["ko-article-first", "ko-article-second"];
+  const expectedKoArticlePlacements = koArticlePlacements.filter((placement) =>
+    configurations.get(placement),
+  );
+  for (const file of koArticleFiles) {
+    const html = await readFile(file, "utf8");
+    const blocks = adFitBlocks(html);
+    assert.equal(blocks.length, expectedKoArticlePlacements.length, file);
+    expectedKoArticlePlacements.forEach((placement, index) =>
+      assertBlock(blocks[index], placement, configurations.get(placement)),
+    );
+    if (expectedKoArticlePlacements.length === 2) {
+      const bodyMarker = html.includes('class="localized-article-body"')
+        ? 'class="localized-article-body"'
+        : 'class="owned-article-body"';
+      assertBetween(
+        html,
+        bodyMarker,
+        "ko-article-first",
+        'data-adfit-placement="ko-article-second"',
+      );
+      assert.equal(
+        (html.match(/<script defer src="\/adfit-loader\.js"><\/script>/gu) || [])
+          .length,
+        1,
+        file,
+      );
+    }
+  }
+
+  for (const route of ["archive", "about", "en", "ja"]) {
     const localizedFiles = await findFiles(join(outputPath, route), [".html"]);
     const html = (
       await Promise.all(localizedFiles.map((file) => readFile(file, "utf8")))
     ).join("\n");
     assert.doesNotMatch(html, /data-adfit-slot|kakao_ad_area|\/adfit-loader\.js/u, route);
+  }
+
+  for (const route of ["entertainment", "stocks"]) {
+    const html = await readFile(
+      join(outputPath, "ko", route, "index.html"),
+      "utf8",
+    );
+    assert.doesNotMatch(
+      html,
+      /data-adfit-slot|kakao_ad_area|\/adfit-loader\.js/u,
+      `ko/${route}`,
+    );
   }
 });

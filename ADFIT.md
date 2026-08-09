@@ -43,6 +43,12 @@ URL이나 단위의 코드·크기가 잘못되면 배포를 실패시켜 빈 �
 | --- | --- |
 | 홈 최상단 데스크톱 | `KAKAO_ADFIT_HEADER_DESKTOP` |
 | 홈 최상단 모바일 | `KAKAO_ADFIT_HEADER_MOBILE` |
+| `/ko` 홈 편집 선언 뒤 데스크톱 | `KAKAO_ADFIT_KO_HOME_FIRST_DESKTOP` |
+| `/ko` 홈 편집 선언 뒤 모바일 | `KAKAO_ADFIT_KO_HOME_FIRST_MOBILE` |
+| `/ko` 홈 주식 섹션 뒤 데스크톱 | `KAKAO_ADFIT_KO_HOME_SECOND_DESKTOP` |
+| `/ko` 홈 주식 섹션 뒤 모바일 | `KAKAO_ADFIT_KO_HOME_SECOND_MOBILE` |
+| `/ko` 기사 본문 첫 구간 뒤 | `KAKAO_ADFIT_KO_ARTICLE_FIRST` |
+| `/ko` 기사 본문 말미 | `KAKAO_ADFIT_KO_ARTICLE_SECOND` |
 | 홈 주요 기사 뒤 | `KAKAO_ADFIT_HOME_AFTER_LEAD` |
 | 홈 연예·주식 사이 | `KAKAO_ADFIT_HOME_BETWEEN_DESKS` |
 | 연예 데스크 주요 기사 뒤 | `KAKAO_ADFIT_ENTERTAINMENT_DESK` |
@@ -64,8 +70,12 @@ KAKAO_ADFIT_STOCKS_DESK_HEIGHT=<스크립트의 data-ad-height>
 
 ## 노출 원칙
 
-- 홈에서는 최상단에 현재 화면 폭에 맞는 광고 하나만 표시합니다. 다국어·
-  아카이브·소개 페이지에는 표시하지 않습니다.
+- 루트 홈에서는 최상단에 현재 화면 폭에 맞는 광고 하나만 표시합니다.
+- `/ko` 홈은 편집 선언 뒤와 주식 섹션 뒤에 2개, `/ko/news/*` 기사는 첫
+  본문 구간 뒤와 본문 말미에 2개를 표시합니다. `/en`, `/ja`, 아카이브·소개
+  페이지에는 표시하지 않습니다.
+- `/ko`의 기존 쿠팡 파트너스 광고 위치와 설정은 애드핏과 독립적으로
+  유지합니다.
 - 광고를 링크로 감싸거나 클릭을 자체 추적하지 않습니다. 성과는 애드핏
   대시보드에서 확인합니다.
 - SDK는 광고가 실제 구성된 운영 페이지에서만 한 번 로드합니다.

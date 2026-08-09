@@ -1,5 +1,8 @@
 import type { Locale } from "@/lib/localized-content";
 import type { OwnedArticle, OwnedGalleryImage } from "@/lib/owned-content";
+import { Fragment } from "react";
+
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 
 const OWNED_COPY = {
   ko: {
@@ -97,34 +100,48 @@ export function OwnedEditorialStory({
       <div className="page-shell owned-article-layout">
         <div className="owned-article-body">
           {copy.body.map((section, sectionIndex) => (
-            <section key={section.heading} className="owned-story-section">
-              <div className="owned-section-copy">
-                <span aria-hidden="true">0{sectionIndex + 1}</span>
-                <h2>{section.heading}</h2>
-                {section.paragraphs.map((paragraph) => (
-                  <p key={paragraph}>{paragraph}</p>
-                ))}
-              </div>
-              <div
-                className={
-                  imageGroups[sectionIndex].length > 1
-                    ? "owned-gallery-pair"
-                    : "owned-gallery-single"
-                }
-              >
-                {imageGroups[sectionIndex].map((image) => {
-                  const imageIndex = article.gallery.indexOf(image);
-                  return (
-                    <EditorialFigure
-                      key={image.src}
-                      image={image}
-                      index={imageIndex}
-                      locale={locale}
-                    />
-                  );
-                })}
-              </div>
-            </section>
+            <Fragment key={section.heading}>
+              <section className="owned-story-section">
+                <div className="owned-section-copy">
+                  <span aria-hidden="true">0{sectionIndex + 1}</span>
+                  <h2>{section.heading}</h2>
+                  {section.paragraphs.map((paragraph) => (
+                    <p key={paragraph}>{paragraph}</p>
+                  ))}
+                </div>
+                <div
+                  className={
+                    imageGroups[sectionIndex].length > 1
+                      ? "owned-gallery-pair"
+                      : "owned-gallery-single"
+                  }
+                >
+                  {imageGroups[sectionIndex].map((image) => {
+                    const imageIndex = article.gallery.indexOf(image);
+                    return (
+                      <EditorialFigure
+                        key={image.src}
+                        image={image}
+                        index={imageIndex}
+                        locale={locale}
+                      />
+                    );
+                  })}
+                </div>
+              </section>
+              {locale === "ko" && sectionIndex === 0 ? (
+                <KakaoAdFitBanner
+                  placement="ko-article-first"
+                  className="localized-article-adfit"
+                />
+              ) : null}
+              {locale === "ko" && sectionIndex === copy.body.length - 1 ? (
+                <KakaoAdFitBanner
+                  placement="ko-article-second"
+                  className="localized-article-adfit"
+                />
+              ) : null}
+            </Fragment>
           ))}
         </div>
 

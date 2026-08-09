@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Fragment } from "react";
 
 import { CoupangCategoryWidget } from "@/components/coupang-category-widget";
+import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { LocalizedArticleCard } from "@/components/localized-article-card";
 import { OwnedEditorialStory } from "@/components/owned-editorial-story";
@@ -259,13 +261,27 @@ export default async function LocalizedArticlePage({
 
             <div className="page-shell localized-article-layout">
               <div className="localized-article-body">
-                {copy.body.map((section) => (
-                  <section key={section.heading}>
-                    <h2>{section.heading}</h2>
-                    {section.paragraphs.map((paragraph) => (
-                      <p key={paragraph}>{paragraph}</p>
-                    ))}
-                  </section>
+                {copy.body.map((section, sectionIndex) => (
+                  <Fragment key={section.heading}>
+                    <section>
+                      <h2>{section.heading}</h2>
+                      {section.paragraphs.map((paragraph) => (
+                        <p key={paragraph}>{paragraph}</p>
+                      ))}
+                    </section>
+                    {locale === "ko" && sectionIndex === 0 ? (
+                      <KakaoAdFitBanner
+                        placement="ko-article-first"
+                        className="localized-article-adfit"
+                      />
+                    ) : null}
+                    {locale === "ko" && sectionIndex === copy.body.length - 1 ? (
+                      <KakaoAdFitBanner
+                        placement="ko-article-second"
+                        className="localized-article-adfit"
+                      />
+                    ) : null}
+                  </Fragment>
                 ))}
               </div>
 

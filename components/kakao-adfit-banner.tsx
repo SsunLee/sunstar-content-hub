@@ -5,6 +5,12 @@ import { resolveAdFitPlacement } from "@/lib/adfit-config.mjs";
 type AdFitPlacement =
   | "header-desktop"
   | "header-mobile"
+  | "ko-home-first-desktop"
+  | "ko-home-first-mobile"
+  | "ko-home-second-desktop"
+  | "ko-home-second-mobile"
+  | "ko-article-first"
+  | "ko-article-second"
   | "home-after-lead"
   | "home-between-desks"
   | "entertainment-desk"
