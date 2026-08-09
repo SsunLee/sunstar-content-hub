@@ -4,15 +4,96 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T09:01:48.798Z",
-  "expectedPublicCount": 1115,
-  "total": 1115,
+  "generatedAt": "2026-08-09T10:52:18.102Z",
+  "expectedPublicCount": 1117,
+  "total": 1117,
   "counts": {
-    "entertainment": 120,
+    "entertainment": 122,
     "stocks": 71,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224373142730",
+      "logNo": "224373142730",
+      "title": "리센느 대표 누구? 더뮤즈 이주헌, 1000만원 창업부터 역주행까지",
+      "url": "https://blog.naver.com/tnsqo1126/224373142730",
+      "publishedAt": "2026-08-09T10:04:29.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "요즘 리센느를 검색하다 보면 멤버들만큼이나 소속사 대표 이야기가 자주 보입니다. 주인공은 더뮤즈엔터테인먼트 이주헌 대표입니다. MBC '전지적 참견 시점'에서는 작은 회사의 시작과 홍보 과정이 공개됐고, 유튜브 '살롱드립2'에서는 원이와 미나미의 캐스팅 비화가 더해졌습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMjQ1/MDAxNzg2MjY5NTc5OTQ1.s18TXYO_HTLToOHkG0N9YBdn06wNd0guRA-c5Xq7p7Ug.j2LvB90HKZKCShwdwPwaSy46xhfF0lN8hmkJK0Q3Maog.JPEG/13-mbc-ceo-profile.jpg?type=s3",
+      "tags": [
+        "리센느",
+        "이주헌",
+        "더뮤즈엔터테인먼트",
+        "하이브로우",
+        "LOVEATTACK",
+        "살롱드립2"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "리센느 대표는 1990년생 이주헌",
+          "body": "뉴스엔과 뉴시스 보도에 따르면 이주헌 대표는 1990년생입니다. 버클리음대 출신으로, 과거 보컬 그룹 하이브로우 멤버로도 활동했습니다. 동명이인인 몬스타엑스 주헌과는 다른 인물입니다."
+        },
+        {
+          "heading": "세 명이 모은 1000만원으로 시작한 더뮤즈",
+          "body": "더뮤즈엔터테인먼트의 출발은 소박했습니다. 이주헌 대표를 포함한 세 사람이 돈을 모아 1000만원으로 법인을 세웠습니다. 직원이 많지 않아 김혜수 이사가 재무와 회계까지 맡았고, 이 대표는 직접 차를 몰아 리센느의 스케줄을 다니기도 했습니다."
+        },
+        {
+          "heading": "원이와 미나미를 직접 캐스팅한 대표",
+          "body": "7월 28일 공개된 '살롱드립2'에서 원이와 미나미는 이주헌 대표가 직접 자신들을 캐스팅했다고 밝혔습니다. 원이는 대표가 자신에게 재능이 있다고 말하며 반드시 성공시켜 주겠다고 설득했다고 회상했습니다. 미나미에게는 블랙핑크처럼 만들어 주겠다는 말까지 했다고 해 웃음을 안겼습니다."
+        },
+        {
+          "heading": "프로필 수백 장과 손편지로 문을 두드린 시간",
+          "body": "리센느의 데뷔 초에는 음악방송 출연 기회조차 잡기 어려웠습니다. 방송에서 김혜수 이사는 데뷔 뒤 '뮤직뱅크' 한 차례 외에는 출연을 잡지 못했던 시기가 있었다고 털어놨습니다."
+        },
+        {
+          "heading": "LOVE ATTACK 역주행이 만든 반전",
+          "body": "원이, 리브, 미나미, 메이, 제나로 구성된 리센느는 2024년 3월 데뷔했습니다. 같은 해 8월 발표한 'LOVE ATTACK'은 2026년 들어 뒤늦게 음원 차트에서 주목받았습니다. 동아일보 인터뷰에서는 멤버들의 자연스러운 캐릭터를 보여준 자체 콘텐츠가 대중의 관심을 음악으로 이어주는 계기가 됐다고 전했습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-09T10:52:18.102Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:4551ac4cbdfe5a23292bf2bd377ffa9ed139551708aa4d3b734e318f45c91531"
+    },
+    {
+      "id": "naver:tnsqo1126:224373114731",
+      "logNo": "224373114731",
+      "title": "삼프로TV 앱 개인정보 46만여 건 유출...유출 항목과 대처법 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224373114731",
+      "publishedAt": "2026-08-09T09:21:58.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "삼프로TV가 애플리케이션 회원들의 개인정보 약 46만여 건이 외부 공격자에 의해 유출됐다고 8월 9일 공식 발표했습니다. 이번 유출은 삼프로TV 애플리케이션 회원 정보에 한정되며, 삼프로TV 유튜브 채널 구독자의 개인정보와는 무관합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMjU3/MDAxNzg2MjY2OTA2MjY2.vyPqHM07BRyEvQkRWg0tk3pkoEbY5r-l7DHyvNLGGwAg.g7ljqQumksSkKNOpHr1pbVEDEdfWXOmMC3CxCCZngz4g.PNG/ai-01-hero.png?type=s3",
+      "tags": [
+        "삼프로TV",
+        "개인정보유출",
+        "삼프로TV해킹",
+        "개인정보보호",
+        "보안사고",
+        "리딩방주의",
+        "삼프로TV개인정보유출",
+        "삼프로TV해킹개인정보보호"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224373093595",
       "logNo": "224373093595",
