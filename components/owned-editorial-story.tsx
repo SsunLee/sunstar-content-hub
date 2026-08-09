@@ -3,6 +3,7 @@ import type { OwnedArticle, OwnedGalleryImage } from "@/lib/owned-content";
 import { Fragment } from "react";
 
 import { KakaoAdFitBanner } from "@/components/kakao-adfit-banner";
+import { getArticleAdFitSectionIndexes } from "@/lib/article-adfit";
 
 const OWNED_COPY = {
   ko: {
@@ -83,6 +84,7 @@ export function OwnedEditorialStory({
 }) {
   const labels = OWNED_COPY[locale];
   const copy = article.locales[locale];
+  const articleAdFitIndexes = getArticleAdFitSectionIndexes(copy.body.length);
   const imageGroups = [
     article.gallery.slice(1, 2),
     article.gallery.slice(2, 4),
@@ -129,13 +131,13 @@ export function OwnedEditorialStory({
                   })}
                 </div>
               </section>
-              {locale === "ko" && sectionIndex === 0 ? (
+              {locale === "ko" && sectionIndex === articleAdFitIndexes.first ? (
                 <KakaoAdFitBanner
                   placement="ko-article-first"
                   className="localized-article-adfit"
                 />
               ) : null}
-              {locale === "ko" && sectionIndex === copy.body.length - 1 ? (
+              {locale === "ko" && sectionIndex === articleAdFitIndexes.second ? (
                 <KakaoAdFitBanner
                   placement="ko-article-second"
                   className="localized-article-adfit"

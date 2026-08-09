@@ -28,6 +28,7 @@ import {
   isOwnedArticle,
   ownedArticles,
 } from "@/lib/owned-content";
+import { getArticleAdFitSectionIndexes } from "@/lib/article-adfit";
 import {
   absoluteUrl,
   SITE_LOGO_PATH,
@@ -209,6 +210,7 @@ export default async function LocalizedArticlePage({
       },
     ],
   };
+  const articleAdFitIndexes = getArticleAdFitSectionIndexes(copy.body.length);
 
   return (
     <main
@@ -269,13 +271,15 @@ export default async function LocalizedArticlePage({
                         <p key={paragraph}>{paragraph}</p>
                       ))}
                     </section>
-                    {locale === "ko" && sectionIndex === 0 ? (
+                    {locale === "ko" &&
+                    sectionIndex === articleAdFitIndexes.first ? (
                       <KakaoAdFitBanner
                         placement="ko-article-first"
                         className="localized-article-adfit"
                       />
                     ) : null}
-                    {locale === "ko" && sectionIndex === copy.body.length - 1 ? (
+                    {locale === "ko" &&
+                    sectionIndex === articleAdFitIndexes.second ? (
                       <KakaoAdFitBanner
                         placement="ko-article-second"
                         className="localized-article-adfit"

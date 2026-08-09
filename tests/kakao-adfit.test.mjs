@@ -339,11 +339,40 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
       const bodyMarker = html.includes('class="localized-article-body"')
         ? 'class="localized-article-body"'
         : 'class="owned-article-body"';
+      const sourceMarker = html.includes('class="localized-source-panel"')
+        ? 'class="localized-source-panel"'
+        : 'class="owned-source-panel"';
       assertBetween(
         html,
         bodyMarker,
         "ko-article-first",
         'data-adfit-placement="ko-article-second"',
+      );
+      const bodyStart = html.indexOf(bodyMarker);
+      const bodyEnd = html.indexOf(sourceMarker, bodyStart);
+      const bodyHtml = html.slice(bodyStart, bodyEnd);
+      const sectionPositions = [...bodyHtml.matchAll(/<section(?:\s|>)/gu)].map(
+        (match) => match.index,
+      );
+      const firstAdPosition = bodyHtml.indexOf(
+        'data-adfit-placement="ko-article-first"',
+      );
+      const secondAdPosition = bodyHtml.indexOf(
+        'data-adfit-placement="ko-article-second"',
+      );
+      const firstBoundary = Math.ceil(sectionPositions.length / 3);
+      const secondBoundary = Math.ceil((sectionPositions.length * 2) / 3);
+
+      assert.ok(sectionPositions.length >= 3, file);
+      assert.ok(
+        firstAdPosition > sectionPositions[firstBoundary - 1] &&
+          firstAdPosition < sectionPositions[firstBoundary],
+        `first article AdFit is not at the first inline boundary: ${file}`,
+      );
+      assert.ok(
+        secondAdPosition > sectionPositions[secondBoundary - 1] &&
+          secondAdPosition < sectionPositions[secondBoundary],
+        `second article AdFit is not at the second inline boundary: ${file}`,
       );
       assert.equal(
         (html.match(/<script defer src="\/adfit-loader\.js"><\/script>/gu) || [])
