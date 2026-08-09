@@ -173,6 +173,23 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
           __html: JSON.stringify(structuredData).replaceAll("<", "\\u003c"),
         }}
       />
+
+      {locale === "ko" ? (
+        <div className="home-header-adfit-source">
+          <KakaoAdFitBanner
+            placement="ko-home-first-desktop"
+            className="adfit-interlude-header adfit-only-desktop"
+            host="ko-home-header"
+            media="(min-width: 761px)"
+          />
+          <KakaoAdFitBanner
+            placement="ko-home-first-mobile"
+            className="adfit-interlude-header adfit-only-mobile"
+            host="ko-home-header"
+            media="(max-width: 760px)"
+          />
+        </div>
+      ) : null}
       <section className="page-shell dateline localized-dateline" aria-label={copy.translatedStatusLabel}>
         <p>
           <span className="live-dot" aria-hidden="true" />
@@ -255,21 +272,6 @@ export default async function LocalizedHub({ params }: LocalizedHubProps) {
           </Link>
         </div>
       </section>
-
-      {locale === "ko" ? (
-        <div className="page-shell localized-adfit-pair">
-          <KakaoAdFitBanner
-            placement="ko-home-first-desktop"
-            className="adfit-only-desktop"
-            media="(min-width: 761px)"
-          />
-          <KakaoAdFitBanner
-            placement="ko-home-first-mobile"
-            className="adfit-only-mobile"
-            media="(max-width: 760px)"
-          />
-        </div>
-      ) : null}
 
       <section
         className="page-shell desk-section entertainment-desk"

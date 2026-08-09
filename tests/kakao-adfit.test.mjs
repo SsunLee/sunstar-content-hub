@@ -236,8 +236,8 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
         "ko-home-second-mobile",
       ],
       [
-        ['class="statement-band"', "ko-home-first-desktop", 'class="page-shell desk-section entertainment-desk"'],
-        ['data-adfit-placement="ko-home-first-desktop"', "ko-home-first-mobile", 'class="page-shell desk-section entertainment-desk"'],
+        ['id="main-content"', "ko-home-first-desktop", 'class="page-shell dateline localized-dateline"'],
+        ['data-adfit-placement="ko-home-first-desktop"', "ko-home-first-mobile", 'class="page-shell dateline localized-dateline"'],
         ['class="stock-stage"', "ko-home-second-desktop", 'class="page-shell localized-index"'],
         ['data-adfit-placement="ko-home-second-desktop"', "ko-home-second-mobile", 'class="page-shell localized-index"'],
       ],
@@ -259,6 +259,9 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
           }
         : placement.startsWith("ko-home-")
           ? {
+              ...(placement.startsWith("ko-home-first-")
+                ? { "data-adfit-host": "ko-home-header" }
+                : {}),
               "data-adfit-media": placement.endsWith("desktop")
                 ? "(min-width: 761px)"
                 : "(max-width: 760px)",
@@ -286,6 +289,7 @@ test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape",
     homepage,
     /data-adfit-placement="home-(?:after-lead|between-desks)"/u,
   );
+  assert.match(koHomepage, /data-adfit-host-target="ko-home-header"/u);
 
   for (const post of detailPosts) {
     const placement =

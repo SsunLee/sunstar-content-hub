@@ -65,11 +65,19 @@ export function LocalizedSiteHeader({ locale }: LocalizedSiteHeaderProps) {
               <span>{copy.brandTagline}</span>
             </span>
           </Link>
-          <p className="masthead-note">
-            {copy.mastheadNoteLine1}
-            <br />
-            {copy.mastheadNoteLine2}
-          </p>
+          <div className="masthead-aside">
+            {locale === "ko" ? (
+              <div
+                className="masthead-adfit-host"
+                data-adfit-host-target="ko-home-header"
+              />
+            ) : null}
+            <p className="masthead-note">
+              {copy.mastheadNoteLine1}
+              <br />
+              {copy.mastheadNoteLine2}
+            </p>
+          </div>
         </div>
         <nav className="main-nav" aria-label={copy.navLabel}>
           <div className="page-shell nav-track">
