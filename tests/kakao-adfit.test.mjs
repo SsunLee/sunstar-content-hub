@@ -133,6 +133,21 @@ test("AdFit configuration is disabled by default and fails closed", () => {
   );
 });
 
+test("AdFit slot stays visible while Kakao decides whether it can fill", async () => {
+  const css = await readFile(
+    new URL("../app/globals.css", import.meta.url),
+    "utf8",
+  );
+  const initialRule = css.match(/\.adfit-interlude\s*\{([^}]*)\}/u)?.[1];
+  const emptyRule = css.match(
+    /\.adfit-interlude\.is-adfit-empty,\s*\.adfit-interlude\[hidden\]\s*\{([^}]*)\}/u,
+  )?.[1];
+
+  assert.ok(initialRule, "missing initial AdFit slot rule");
+  assert.doesNotMatch(initialRule, /visibility\s*:\s*hidden|display\s*:\s*none/u);
+  assert.match(emptyRule || "", /display\s*:\s*none/u);
+});
+
 test("Kakao AdFit does not resurrect the old Coupang proxy-widget markup shape", async () => {
   const textFiles = await findFiles(outputPath, [".html", ".js", ".css"]);
   const outputText = (
