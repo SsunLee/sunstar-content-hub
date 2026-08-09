@@ -145,17 +145,18 @@ img {
 
 .masthead {
   display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: end;
-  min-height: 340px;
-  padding-block: 34px 28px;
+  grid-template-columns: minmax(0, 320px) auto;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 210px;
+  padding-block: 28px 24px;
 }
 
 .wordmark {
   display: flex;
-  width: min(100%, 540px);
+  width: min(100%, 320px);
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
   animation: brand-reveal 640ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
 
@@ -163,7 +164,7 @@ img {
   position: relative;
   display: block;
   width: 100%;
-  aspect-ratio: 1.85;
+  aspect-ratio: 2.4;
   overflow: hidden;
   background: #050505;
 }
@@ -180,7 +181,7 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 50% 50%;
+  object-position: 50% 48%;
   transition: transform 420ms cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
@@ -2505,11 +2506,11 @@ body:has(.localized-route-shell) > .site-footer {
   .masthead {
     display: block;
     min-height: 0;
-    padding-block: 24px 20px;
+    padding-block: 18px 16px;
   }
 
   .wordmark {
-    width: 100%;
+    width: min(100%, 250px);
   }
 
   .wordmark-meta {
