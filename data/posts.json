@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T13:15:03.678Z",
-  "expectedPublicCount": 1118,
-  "total": 1118,
+  "generatedAt": "2026-08-09T14:51:57.798Z",
+  "expectedPublicCount": 1119,
+  "total": 1119,
   "counts": {
-    "entertainment": 123,
+    "entertainment": 124,
     "stocks": 71,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224373302037",
+      "logNo": "224373302037",
+      "title": "미우새 한혜진·화사 재회, 남대문시장에서 빛난 '찐친 케미'",
+      "url": "https://blog.naver.com/tnsqo1126/224373302037",
+      "publishedAt": "2026-08-09T13:39:17.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "시장 통로를 나란히 걷고, 처음 보는 목욕용품 앞에서는 함께 멈춰 섰습니다. 모델 한혜진과 가수 화사가 SBS '미운 우리 새끼'에서 다시 만났습니다. 2026년 8월 9일 방송된 507회가 붙인 이름은 '연예계 대표 절친'의 힐링 데이트. 남대문시장 쇼핑부터 단골집 먹방까지, 오래 알고 지낸 친구만의 편안한 호흡이 이어졌습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMjUz/MDAxNzg2MjgyNDg0OTA5.eQM8GAotiaf9Lej0NozDQR272S2SZlnJRQVLRNkNu0sg.aqysz3PkVU017IHwyDv2NJbg-Q6rkUiS555sS9IsYoAg.JPEG/image-01.jpg?type=s3",
+      "tags": [
+        "한혜진",
+        "화사",
+        "미운우리새끼",
+        "미우새",
+        "남대문시장",
+        "찐친케미",
+        "SBS예능"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224373276738",
       "logNo": "224373276738",
