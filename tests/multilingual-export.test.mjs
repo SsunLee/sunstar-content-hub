@@ -26,6 +26,20 @@ const posts = JSON.parse(
 ).posts;
 const locales = ["ko", "en", "ja"];
 
+test("localized article thumbnails match the current source post", () => {
+  const postsByLogNo = new Map(posts.map((post) => [post.logNo, post]));
+
+  for (const article of localized.articles) {
+    const sourcePost = postsByLogNo.get(article.logNo);
+    assert.ok(sourcePost, `missing source post for ${article.sourceId}`);
+    assert.equal(
+      article.image,
+      sourcePost.image,
+      `stale localized thumbnail for ${article.sourceId}`,
+    );
+  }
+});
+
 function normalizeSiteUrl(value) {
   const withProtocol = /^https?:\/\//i.test(value) ? value : `https://${value}`;
   return withProtocol.replace(/\/+$/, "");
