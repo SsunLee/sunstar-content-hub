@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-08T13:11:49.152Z",
-  "expectedPublicCount": 1110,
-  "total": 1110,
+  "generatedAt": "2026-08-09T05:17:57.108Z",
+  "expectedPublicCount": 1111,
+  "total": 1111,
   "counts": {
     "entertainment": 118,
-    "stocks": 70,
+    "stocks": 71,
     "archive": 922
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224372925594",
+      "logNo": "224372925594",
+      "title": "IPARK현대산업개발 제2경춘국도 1,403억 원 계약, 기간·매출 비중 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224372925594",
+      "publishedAt": "2026-08-09T05:03:22.000Z",
+      "dateLabel": "2026. 8. 9.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "IPARK현대산업개발은 2026년 8월 7일 제2경춘국도 도로건설공사 2공구 계약을 공시했습니다. 회사 지분 기준 계약금액은 1,402억 7,161만 원이며, 최근 매출액의 3.4%에 해당합니다. 계약 기간은 2026년 9월 1일부터 2033년 8월 29일까지입니다. 이번 글은 계약 범위와 주가 움직임을 분리해 확인합니다. 본문 이해를 돕기 위한 연출 이미지입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MDlfMTUx/MDAxNzg2MjUxMjMxODEz.FY5KZK0yhRSmwF-Cpke4nhj2fghzge4Eg8c0UtC322og.JNP90lykLxWeVsVX3c_JTSWIt0EF2uEB_mlylQ5jLwQg.PNG/2026-08-09-294870-hero.png?type=s3",
+      "tags": [
+        "IPARK현대산업개발",
+        "294870",
+        "제2경춘국도",
+        "도로건설공사",
+        "공급계약",
+        "건설주",
+        "공시분석",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224372315795",
       "logNo": "224372315795",
