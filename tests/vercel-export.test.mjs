@@ -131,6 +131,17 @@ test("Vercel export exposes all posts from root-relative pages", async () => {
   );
   assert.match(html, /(href|src)="\/assets\//);
   assert.match(html, /data-analytics-event="article_outbound_clicked"/);
+  const naverLinks = [
+    ...html.matchAll(
+      /<a\b[^>]*href="https:\/\/blog\.naver\.com\/tnsqo1126(?:\/\d+)?"[^>]*>/g,
+    ),
+  ].map((match) => match[0]);
+  assert.ok(naverLinks.length > totalPosts);
+  for (const link of naverLinks) {
+    assert.match(link, /\brel="noopener"/);
+    assert.match(link, /\breferrerPolicy="origin"/);
+    assert.doesNotMatch(link, /\bnoreferrer\b/);
+  }
   for (const post of eligiblePostDetails) {
     assert.ok(
       html.includes(`href="/news/${post.logNo}"`),
@@ -211,6 +222,8 @@ test("Vercel homepage uses the production title, canonical, and WebSite graph", 
   assert.match(homepage, /searchParams\.delete\('q'\)/);
   assert.match(staticSearch, /analyticsEvent = "article_outbound_clicked"/);
   assert.match(staticSearch, /analyticsArticleId = post\.logNo/);
+  assert.match(staticSearch, /referrerPolicy = "origin"/);
+  assert.doesNotMatch(staticSearch, /noopener noreferrer/);
   const [logo, socialImage] = await Promise.all([
     readFile(join(outputPath, "brand", "ssdesk-logo-v1.png")),
     readFile(join(outputPath, "brand", "ssdesk-og-v1.png")),

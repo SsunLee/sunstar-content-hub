@@ -91,7 +91,8 @@ export function PostDetailArticle({
             <a
               href={post.url}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener"
+              referrerPolicy="origin"
               data-analytics-event="article_outbound_clicked"
               data-analytics-article-id={post.logNo}
               data-analytics-category={post.category}

@@ -117,7 +117,8 @@ export function LocalizedPostCard({
               href={link.href}
               hrefLang={linkHrefLang}
               target={link.external ? "_blank" : undefined}
-              rel={link.external ? "noopener noreferrer" : undefined}
+              rel={link.external ? "noopener" : undefined}
+              referrerPolicy={link.external ? "origin" : undefined}
               {...analytics}
             >
               {localized.title}
@@ -140,7 +141,8 @@ export function LocalizedPostCard({
         href={link.href}
         hrefLang={linkHrefLang}
         target={link.external ? "_blank" : undefined}
-        rel={link.external ? "noopener noreferrer" : undefined}
+        rel={link.external ? "noopener" : undefined}
+        referrerPolicy={link.external ? "origin" : undefined}
         tabIndex={-1}
         aria-hidden="true"
         {...analytics}
@@ -173,7 +175,8 @@ export function LocalizedPostCard({
             href={link.href}
             hrefLang={linkHrefLang}
             target={link.external ? "_blank" : undefined}
-            rel={link.external ? "noopener noreferrer" : undefined}
+            rel={link.external ? "noopener" : undefined}
+            referrerPolicy={link.external ? "origin" : undefined}
             {...analytics}
           >
             {localized.title}
@@ -187,7 +190,8 @@ export function LocalizedPostCard({
           href={link.href}
           hrefLang={linkHrefLang}
           target={link.external ? "_blank" : undefined}
-          rel={link.external ? "noopener noreferrer" : undefined}
+          rel={link.external ? "noopener" : undefined}
+          referrerPolicy={link.external ? "origin" : undefined}
           aria-label={`${localized.title}: ${sourceLabel}`}
           {...analytics}
         >

@@ -132,7 +132,8 @@
           : `https://blog.naver.com/tnsqo1126/${post.logNo}`;
         if (!detailPageAvailable) {
           link.target = "_blank";
-          link.rel = "noopener noreferrer";
+          link.rel = "noopener";
+          link.referrerPolicy = "origin";
         }
         link.dataset.analyticsEvent = detailPageAvailable
           ? "article_detail_opened"
@@ -154,7 +155,8 @@
           const original = document.createElement("a");
           original.href = `https://blog.naver.com/tnsqo1126/${post.logNo}`;
           original.target = "_blank";
-          original.rel = "noopener noreferrer";
+          original.rel = "noopener";
+          original.referrerPolicy = "origin";
           original.dataset.analyticsEvent = "article_outbound_clicked";
           original.dataset.analyticsArticleId = post.logNo;
           original.dataset.analyticsCategory = post.category;

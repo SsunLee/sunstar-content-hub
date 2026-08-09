@@ -342,7 +342,8 @@ export default function ArchiveClient({
                     <a
                       href={detailPath || cleanNaverUrl(post)}
                       target={detailPath ? undefined : "_blank"}
-                      rel={detailPath ? undefined : "noopener noreferrer"}
+                      rel={detailPath ? undefined : "noopener"}
+                      referrerPolicy={detailPath ? undefined : "origin"}
                       data-analytics-event={detailPath ? "article_detail_opened" : "article_outbound_clicked"}
                       data-analytics-article-id={post.logNo}
                       data-analytics-category={post.category}
@@ -360,7 +361,8 @@ export default function ArchiveClient({
                     <a
                       href={cleanNaverUrl(post)}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener"
+                      referrerPolicy="origin"
                       data-analytics-event="article_outbound_clicked"
                       data-analytics-article-id={post.logNo}
                       data-analytics-category={post.category}

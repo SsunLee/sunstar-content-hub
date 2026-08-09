@@ -61,7 +61,8 @@ export function PostCard({
             <a
               href={primaryLink.href}
               target={primaryLink.isExternal ? "_blank" : undefined}
-              rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
+              rel={primaryLink.isExternal ? "noopener" : undefined}
+              referrerPolicy={primaryLink.isExternal ? "origin" : undefined}
               {...primaryLink.analytics}
             >
               {post.title}
@@ -82,7 +83,8 @@ export function PostCard({
           className="story-image"
           href={primaryLink.href}
           target={primaryLink.isExternal ? "_blank" : undefined}
-          rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
+          rel={primaryLink.isExternal ? "noopener" : undefined}
+          referrerPolicy={primaryLink.isExternal ? "origin" : undefined}
           tabIndex={-1}
           aria-hidden="true"
           {...primaryLink.analytics}
@@ -108,7 +110,8 @@ export function PostCard({
           <a
             href={primaryLink.href}
             target={primaryLink.isExternal ? "_blank" : undefined}
-            rel={primaryLink.isExternal ? "noopener noreferrer" : undefined}
+            rel={primaryLink.isExternal ? "noopener" : undefined}
+            referrerPolicy={primaryLink.isExternal ? "origin" : undefined}
             {...primaryLink.analytics}
           >
             {post.title}
@@ -121,7 +124,8 @@ export function PostCard({
           className="read-original"
           href={post.url}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener"
+          referrerPolicy="origin"
           aria-label={`${post.title} 네이버 원문 읽기`}
           {...articleAnalytics(post)}
         >

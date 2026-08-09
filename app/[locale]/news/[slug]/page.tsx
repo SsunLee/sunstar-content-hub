@@ -251,7 +251,8 @@ export default async function LocalizedArticlePage({
               className="localized-original-cta"
               href={article.sourceUrl}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener"
+              referrerPolicy="origin"
               data-analytics-event="localized_article_outbound_clicked"
               data-analytics-article-id={article.logNo}
               data-analytics-locale={locale}
@@ -266,7 +267,16 @@ export default async function LocalizedArticlePage({
                     <a
                       href={source.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel={
+                        source.url.startsWith("https://blog.naver.com/")
+                          ? "noopener"
+                          : "noopener noreferrer"
+                      }
+                      referrerPolicy={
+                        source.url.startsWith("https://blog.naver.com/")
+                          ? "origin"
+                          : undefined
+                      }
                     >
                       {getLocalizedSourceName(source, locale)}
                     </a>

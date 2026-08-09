@@ -48,7 +48,8 @@ export function SiteFooter() {
             <a
               href="https://blog.naver.com/tnsqo1126"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener"
+              referrerPolicy="origin"
               data-analytics-event="naver_profile_clicked"
               data-analytics-placement="footer"
             >

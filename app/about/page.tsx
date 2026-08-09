@@ -68,7 +68,8 @@ export default function AboutPage() {
                 className="inline-flex items-center gap-3 border-b border-black pb-1 text-sm font-semibold transition-colors hover:border-[#5f3dc4] hover:text-[#5f3dc4] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4"
                 href={NAVER_BLOG_URL}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener"
+                referrerPolicy="origin"
                 data-analytics-event="naver_profile_clicked"
                 data-analytics-placement="about"
               >
