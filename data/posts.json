@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-10T17:08:24.376Z",
-  "expectedPublicCount": 1124,
-  "total": 1124,
+  "generatedAt": "2026-08-10T19:16:10.262Z",
+  "expectedPublicCount": 1125,
+  "total": 1125,
   "counts": {
     "entertainment": 126,
-    "stocks": 74,
+    "stocks": 75,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224374634001",
+      "logNo": "224374634001",
+      "title": "한샘 2분기 실적, 영업이익 113억 원과 당일 주가 확인",
+      "url": "https://blog.naver.com/tnsqo1126/224374634001",
+      "publishedAt": "2026-08-10T17:48:52.000Z",
+      "dateLabel": "2026. 8. 11.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 한샘은 2026년 8월 10일 연결 기준 2분기 잠정 실적을 공시했습니다. 매출액은 4,172억 원으로 전년 동기보다 9.2% 줄었지만, 영업이익은 113억 원으로 400.2% 늘었습니다. 당기순이익은 48억 원으로 전년 동기보다 85.2% 감소했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTFfMTg2/MDAxNzg2Mzg0MDEzNDM1.MfB6iHj-9X3OmdfgUbgJc3EigKaPMC0YxH2Cj5bK8Lcg.oV0dRgWatwPiqZLtRTy9ZkuIy_2zFJ-wRXCZI014W9Mg.PNG/2026-08-10-009240-hero.png?type=s3",
+      "tags": [
+        "한샘",
+        "009240",
+        "2분기실적",
+        "잠정실적",
+        "영업이익",
+        "실적공시",
+        "코스피",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2분기 실적의 핵심 수치",
+          "body": "공시 기준 2분기 매출액은 4,172억 원입니다. 전 분기 3,994억 원보다 4.5% 늘었으나 전년 동기 4,594억 원보다 9.2% 감소했습니다. 영업이익은 전 분기보다 12.0%, 전년 동기보다 400.2% 증가했습니다."
+        },
+        {
+          "heading": "상반기 누적과 이익의 차이",
+          "body": "상반기 누적 매출액은 8,167억 원으로 전년 동기보다 9.6% 감소했습니다. 누적 영업이익은 214억 원으로 145.6% 증가한 반면, 누적 당기순이익은 74억 원으로 82.3% 감소했습니다."
+        },
+        {
+          "heading": "영업이익과 순이익은 구분해서 봐야 합니다",
+          "body": "2분기 영업이익 증가만으로 전체 수익성이 같은 폭으로 개선됐다고 단정하기는 어렵습니다. 법인세비용차감전계속사업이익은 73억 원으로 전년 동기보다 79.2% 감소했고, 당기순이익도 감소했습니다. 다음 반기보고서에서 영업외 손익과 확정 수치를 함께 확인할 필요가 있습니다."
+        },
+        {
+          "heading": "8월 10일 장마감 시세",
+          "body": "네이버페이 증권 기준 2026년 8월 10일 한샘 종가는 41,200원으로 전 거래일보다 350원, 0.86% 상승했습니다. 잠정실적 공시와 같은 날짜의 움직임이지만 이 공시만으로 주가 변동의 단일 원인을 확정할 수는 없습니다."
+        },
+        {
+          "heading": "다음 확인 지점",
+          "body": "이번 공시에서는 매출 감소와 영업이익 증가, 순이익 감소를 함께 봐야 합니다. 확정 반기보고서의 수치 변동과 영업외 손익 구성이 다음 확인 지점입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-10T19:16:10.262Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:9a1a02dbcc5b50f4cacee4ca338169fb97f372d6aa3c4739fa1f05874ab8a279"
+    },
     {
       "id": "naver:tnsqo1126:224374560737",
       "logNo": "224374560737",
