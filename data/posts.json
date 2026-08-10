@@ -4,15 +4,97 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-09T14:51:57.798Z",
-  "expectedPublicCount": 1119,
-  "total": 1119,
+  "generatedAt": "2026-08-10T02:33:42.036Z",
+  "expectedPublicCount": 1121,
+  "total": 1121,
   "counts": {
-    "entertainment": 124,
-    "stocks": 71,
+    "entertainment": 125,
+    "stocks": 72,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224373615535",
+      "logNo": "224373615535",
+      "title": "《Operation Safed Sagar》 시다르트 근황, 넷플릭스 신작의 아제이 아후자",
+      "url": "https://blog.naver.com/tnsqo1126/224373615535",
+      "publishedAt": "2026-08-10T00:02:58.000Z",
+      "dateLabel": "2026. 8. 10.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "시다르트가 넷플릭스 시리즈 《Operation Safed Sagar》로 돌아왔습니다. 8월 7일 공개된 이 작품은 카르길 전쟁 당시 인도 공군의 고고도 작전을 바탕으로 한 드라마인데요. 시다르트는 비행대장 아제이 아후자 역으로 팀의 중심을 잡습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTBfNDEg/MDAxNzg2MzE5OTQ3MTE0.VaBTbC54qxyJny35tJd44Ely0CWjlXNB8IoeaZnPBVMg.HRz4e5VH15KLPkKRUrbi7wsX7jhpqojEO7YHqrpeGS4g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "OperationSafedSagar",
+        "오퍼레이션사페드사가르",
+        "시다르트",
+        "아제이아후자",
+        "넷플릭스신작",
+        "해외드라마",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 7일 공개된 넷플릭스 전쟁 드라마",
+          "body": "《Operation Safed Sagar》는 1999년 카르길 전쟁을 배경으로, 인도 공군 17비행대 ‘골든 애로스’의 임무를 따라갑니다. 넷플릭스는 이 작전을 세계에서 가장 높은 고도에서 이뤄진 공중 작전으로 소개합니다. 산악 지형과 비행 장면이 화면의 긴장을 꾸준히 끌고 갑니다."
+        },
+        {
+          "heading": "시다르트가 맡은 아제이 아후자",
+          "body": "시다르트의 배역은 비행대장 아제이 아후자입니다. 공식 소개에 따르면 아후자는 지휘관 B.S. 다노아의 윙맨으로, 젊은 조종사들과 함께 위험한 임무의 판단을 마주합니다. 비행복을 입은 장면에서도 과장된 영웅성보다는 동료를 살피는 표정이 먼저 보입니다."
+        },
+        {
+          "heading": "익숙한 얼굴에 더해진 절제된 무게",
+          "body": "시다르트는 1979년 4월 17일생으로, 2003년 영화 《Boys》로 데뷔한 뒤 타밀·텔루구·힌디 영화와 시리즈를 오가며 활동해 왔습니다. 이번에는 말보다 시선과 자세가 많은 것을 설명하는 인물에 가깝습니다. 작전실, 활주로, 가족 앞에서의 장면이 서로 다른 표정을 자연스럽게 연결합니다."
+        },
+        {
+          "heading": "조종사 팀의 관계가 만드는 몰입감",
+          "body": "이 작품의 재미는 전투기 장면에만 있지 않습니다. 같은 비행대의 조종사들이 서로를 부르는 별명, 출격 전의 짧은 대화, 임무 뒤에 남는 침묵이 팀의 분위기를 만듭니다. 시다르트가 연기한 아후자를 따라가면 거대한 전쟁 서사 안의 개인적인 책임감도 함께 읽힙니다."
+        },
+        {
+          "heading": "지금 보기 좋은 관전 포인트",
+          "body": "실화를 바탕으로 한 작품을 좋아한다면, 실제 작전의 규모를 드라마로 어떻게 옮겼는지 보는 재미가 있습니다. 조종석과 활주로를 오가는 리듬, 고산 지대의 풍경, 시다르트가 보여주는 차분한 리더십을 차례로 따라가 보세요. 한 번에 몰아봐도 좋고, 각 화의 임무를 나눠 보아도 흐름이 잘 이어집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-10T02:33:42.036Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:5ea774578a4c80e4ae54573aaf83d6ee7be6111489de969959ec5774d1a9053e"
+    },
+    {
+      "id": "naver:tnsqo1126:224373601923",
+      "logNo": "224373601923",
+      "title": "엠엑스로보틱스 100억 원 유상증자, 신주 수·납입일·상장 일정 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224373601923",
+      "publishedAt": "2026-08-09T23:45:58.000Z",
+      "dateLabel": "2026. 8. 10.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "엠엑스로보틱스는 2026년 8월 10일 100억 원 규모의 제3자배정 유상증자 결정을 공시했습니다. 신주는 보통주 328만 9,473주이고 발행가액은 주당 3,040원입니다. 납입일은 8월 24일, 신주 상장 예정일은 9월 7일입니다. 본문 이해를 돕기 위한 연출 이미지입니다. 유상증자 규모와 방식 이번 증자는 제3자배정 방식입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTBfMjk0/MDAxNzg2MzA4NTQwOTU4.6N_FKa1oM3XUiqKpd_5fIh7G-x7MHX5SU4BBA-c-o4Yg.cKzD-w_eGlblBwjbylamP9933z5qcGtbymkCY6mwEXwg.PNG/2026-08-10-007820-hero.png?type=s3",
+      "tags": [
+        "엠엑스로보틱스",
+        "007820",
+        "유상증자",
+        "제3자배정",
+        "신주발행",
+        "납입일",
+        "공시분석",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224373302037",
       "logNo": "224373302037",
