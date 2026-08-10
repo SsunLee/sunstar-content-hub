@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-10T19:16:10.262Z",
-  "expectedPublicCount": 1125,
-  "total": 1125,
+  "generatedAt": "2026-08-10T22:56:03.198Z",
+  "expectedPublicCount": 1126,
+  "total": 1126,
   "counts": {
-    "entertainment": 126,
+    "entertainment": 127,
     "stocks": 75,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224374716809",
+      "logNo": "224374716809",
+      "title": "'Our Sticky Love' 정해인, 장태하가 감춘 진심은?",
+      "url": "https://blog.naver.com/tnsqo1126/224374716809",
+      "publishedAt": "2026-08-10T21:58:00.000Z",
+      "dateLabel": "2026. 8. 11.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스 시리즈 'Our Sticky Love'가 8월 7일 공개됐다. 정해인은 기억을 잃은 검사 고은새 곁에서 자신을 남자친구라고 소개하는 복싱 코치 장태하를 연기한다. 메인 트레일러는 장태하가 다정한 얼굴만으로 설명되지 않는 사연을 품고 있음을 보여 준다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTFfMjI2/MDAxNzg2Mzk4OTY0ODky.ZkKgTTY-jJ64yJyE6xCaDuOkMCPDv3_CEKg8zrZFMBQg.2mmCvHYfUfP2-IP_G3LX6WOLh2p9GYph4MdnA3WUyrog.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "정해인",
+        "OurStickyLove",
+        "이런엿같은사랑",
+        "장태하",
+        "넷플릭스",
+        "넷플릭스신작",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224374634001",
       "logNo": "224374634001",
