@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-10T11:20:42.120Z",
-  "expectedPublicCount": 1123,
-  "total": 1123,
+  "generatedAt": "2026-08-10T17:08:24.376Z",
+  "expectedPublicCount": 1124,
+  "total": 1124,
   "counts": {
-    "entertainment": 125,
+    "entertainment": 126,
     "stocks": 74,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224374560737",
+      "logNo": "224374560737",
+      "title": "《S&X》 나카지마 켄토 근황, 넷플릭스 신작 시모토리 이치토 역",
+      "url": "https://blog.naver.com/tnsqo1126/224374560737",
+      "publishedAt": "2026-08-10T15:20:15.000Z",
+      "dateLabel": "2026. 8. 11.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "나카지마 켄토가 넷플릭스 일본 드라마 《S&X》에서 성 치료사 시모토리 이치토로 변신합니다. 넷플릭스는 7월 28일 메인 트레일러와 스틸을 공개했고, 작품은 8월 20일 전 세계 공개를 앞두고 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTFfMTM3/MDAxNzg2Mzc1MTAyMDI3.Z9eBOzXSc4GkL8JtduiT7yy4M2CaPTWNr9hZGB_2p3sg.BGyf-E2CSbRzfwAI3rMcHDkKya93RSII_-3P7p76BRUg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "SandX",
+        "에스앤엑스",
+        "나카지마켄토",
+        "시모토리이치토",
+        "넷플릭스신작",
+        "일드",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224374315535",
       "logNo": "224374315535",
