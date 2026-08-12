@@ -4,15 +4,101 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-12T02:43:20.177Z",
-  "expectedPublicCount": 1131,
-  "total": 1131,
+  "generatedAt": "2026-08-12T11:10:20.342Z",
+  "expectedPublicCount": 1133,
+  "total": 1133,
   "counts": {
     "entertainment": 129,
-    "stocks": 78,
-    "archive": 924
+    "stocks": 79,
+    "archive": 925
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224376625070",
+      "logNo": "224376625070",
+      "title": "클래시스 2분기 실적 발표, 매출 1,055억 원·영업이익 439억 원과 주가 반응",
+      "url": "https://blog.naver.com/tnsqo1126/224376625070",
+      "publishedAt": "2026-08-12T10:09:25.000Z",
+      "dateLabel": "2026. 8. 12.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 2분기 매출과 영업이익 클래시스는 2026년 8월 12일 연결 기준 2분기 잠정실적을 공시했습니다. 매출액은 1,055억 원, 영업이익은 439억 원, 당기순이익은 255억 원입니다. 매출은 전년 동기보다 26.7%, 영업이익은 2.2% 늘었습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTJfMTky/MDAxNzg2NTI5MDIyMjg2.cAzNP62qK1ensr4DAKlZM-E1Aoh8_4w5qM4A_PvTPKkg.oYtJsXm33jtySPBMSBWG_MDg-T0Ht0PQROZXfg42g-0g.PNG/2026-08-12-214150-classys-hero.png?type=s3",
+      "tags": [
+        "클래시스",
+        "214150",
+        "클래시스실적",
+        "2분기실적",
+        "의료미용",
+        "영업이익",
+        "코스닥",
+        "공시분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2분기 매출과 영업이익",
+          "body": "클래시스는 2026년 8월 12일 연결 기준 2분기 잠정실적을 공시했습니다. 매출액은 1,055억 원, 영업이익은 439억 원, 당기순이익은 255억 원입니다. 매출은 전년 동기보다 26.7%, 영업이익은 2.2% 늘었습니다."
+        },
+        {
+          "heading": "DART 클래시스 2분기 잠정실적 원문",
+          "body": "공시상 2026년 2분기 매출액은 1,055억 1,500만 원입니다. 2025년 2분기 832억 8,400만 원보다 222억 3,100만 원 증가했습니다. 영업이익은 439억 4,100만 원으로 전년 동기 430억 1,100만 원보다 늘었습니다."
+        },
+        {
+          "heading": "1분기와 비교한 변화",
+          "body": "2026년 1분기 매출액은 871억 7,500만 원, 영업이익은 371억 9,900만 원이었습니다. 2분기 매출은 전 분기보다 21.0%, 영업이익은 18.1% 증가했습니다. 반면 당기순이익은 331억 5,600만 원에서 255억 2,100만 원으로 23.0% 감소했습니다."
+        },
+        {
+          "heading": "공시에서 확인할 잠정치 기준",
+          "body": "클래시스는 이번 수치가 K-IFRS에 따라 작성한 연결 기준 잠정 영업실적이라고 밝혔습니다. 외부감사인의 검토가 완료되기 전 수치이므로, 이후 검토 결과에 따라 달라질 수 있다는 설명도 함께 제시했습니다."
+        },
+        {
+          "heading": "8월 12일 장중 시세",
+          "body": "네이버페이 증권은 2026년 8월 12일 13시 43분 기준 클래시스 가격을 42,400원으로 표시했습니다. 전일 종가 46,350원보다 3,950원 낮고, 거래량은 160,534주였습니다. 공시와 당일 주가 변동은 같은 날의 사실이지만, 공시만으로 하락 원인을 단정할 수는 없습니다."
+        },
+        {
+          "heading": "다음 확인 항목",
+          "body": "상반기 누적 매출액은 1,926억 9,100만 원, 누적 영업이익은 811억 4,000만 원입니다. 다음 공시에서는 잠정치가 확정 수치와 어떻게 달라지는지, 매출 증가와 영업이익 증가가 이어지는지, 그리고 순이익 변화의 배경이 무엇인지 확인하는 편이 좋습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-12T11:10:20.342Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:9349c05c83cc5a91dd9acb29624027c1b29e66ffb904a891174ab989a9bf325b"
+    },
+    {
+      "id": "naver:tnsqo1126:224376605849",
+      "logNo": "224376605849",
+      "title": "ChatGPT 앱, Codex 앱 Window 설정이 완료되지 않았습니다, 해결법",
+      "url": "https://blog.naver.com/tnsqo1126/224376605849",
+      "publishedAt": "2026-08-12T09:49:23.000Z",
+      "dateLabel": "2026. 8. 12.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "해결 방법 1. PowerShell 을 실행 후 아래 명령어를 쳤을 때 아래 config.toml 파일이 있는지 확인 2. 파일이 있다면 일단 지워주시면 됩니다. 3. 이제 다시 ChatGPT 또는 Codex 앱을 켭니다. 해결이 된 모습을 볼 수 있을 겁니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTJfMTE2/MDAxNzg2NTI3MjUyMzU0.TD8IacAiL5AFRiHni_NlcOp7WPdfugGGXnQt9mBxBUUg.TrHyrunRRdVrdUgplB6IJhv7O81IEEaSbTGc2jgdea0g.PNG/image.png?type=s3",
+      "tags": [
+        "코덱스",
+        "GPT",
+        "Windows설정",
+        "설정",
+        "다시",
+        "시도",
+        "제한된엑세스로계속"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224375909770",
       "logNo": "224375909770",
