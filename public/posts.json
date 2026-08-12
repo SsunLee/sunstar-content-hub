@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-11T23:02:20.929Z",
-  "expectedPublicCount": 1130,
-  "total": 1130,
+  "generatedAt": "2026-08-12T02:43:20.177Z",
+  "expectedPublicCount": 1131,
+  "total": 1131,
   "counts": {
-    "entertainment": 128,
+    "entertainment": 129,
     "stocks": 78,
     "archive": 924
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224375909770",
+      "logNo": "224375909770",
+      "title": "'가능한 사랑' 조여정, 카메라를 든 예지로 만나는 신작",
+      "url": "https://blog.naver.com/tnsqo1126/224375909770",
+      "publishedAt": "2026-08-11T23:59:57.000Z",
+      "dateLabel": "2026. 8. 12.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스 영화 '가능한 사랑'이 9월 23일 극장 개봉 뒤 11월 6일 전 세계 공개를 확정했습니다. 조여정은 해고 노동자에 관한 다큐멘터리를 찍는 예지 역으로, 전도연·설경구·조인성과 함께 이야기를 이끕니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTJfMSAg/MDAxNzg2NDkyNjgwMDEy.uHtO2g2nEHJBFSA7jnIP30z_KH-07MC61ynL6StdfbMg.UJOC9SJzCuqbIGCytROF_a9JzLcANyDLBDcfh5HbfPcg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "조여정",
+        "가능한사랑",
+        "PossibleLove",
+        "넷플릭스영화",
+        "이창동",
+        "예지",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224375832126",
       "logNo": "224375832126",
