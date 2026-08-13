@@ -4,15 +4,117 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-13T11:10:48.434Z",
-  "expectedPublicCount": 1143,
-  "total": 1143,
+  "generatedAt": "2026-08-13T17:11:37.776Z",
+  "expectedPublicCount": 1145,
+  "total": 1145,
   "counts": {
-    "entertainment": 134,
-    "stocks": 83,
+    "entertainment": 135,
+    "stocks": 84,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224378007738",
+      "logNo": "224378007738",
+      "title": "나탈리 마두에뇨 근황, 《The Secret Woman》 루이즈로 돌아온 덴마크 스릴러",
+      "url": "https://blog.naver.com/tnsqo1126/224378007738",
+      "publishedAt": "2026-08-13T16:35:19.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스가 8월 7일 공식 예고편을 공개한 《The Secret Woman》은 8월 28일 전 세계 공개를 앞둔 덴마크 스릴러입니다. 나탈리 마두에뇨는 조용한 섬마을에서 카페를 운영하던 루이즈 안데르센으로 등장합니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMjM1/MDAxNzg2NjM4ODE4NzI3.h5fIp_JbIJzMeNLZI_dnrUHbIHP8eeavH4tdUzzlaoEg.XMO2iYbtFVDSC0AMcvl4wdS2FhCSDJLRONR_6y6tFusg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "나탈리마두에뇨",
+        "TheSecretWoman",
+        "넷플릭스",
+        "덴마크드라마",
+        "루이즈안데르센",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "최근 공식 근황",
+          "body": "넷플릭스는 6월 23일 첫 공개 이미지와 함께 작품의 공개일을 알렸고, 8월 7일에는 공식 예고편을 선보였습니다. 예고편은 루이즈가 자신이 사라졌던 여성 헬레네 쇠데르베리일 수 있다는 말을 듣는 장면에서 시작합니다."
+        },
+        {
+          "heading": "작품 속 루이즈 안데르센",
+          "body": "루이즈는 노르웨이 히드라섬에서 연인 요아힘과 생활합니다. 한 낯선 남자가 루이즈를 실종된 헬레네라고 부르면서, 자신이 알고 있던 삶과 가족의 기억을 다시 확인해야 하는 인물이 됩니다."
+        },
+        {
+          "heading": "기본 정보와 데뷔",
+          "body": "나탈리 마두에뇨는 1987년 11월 7일 덴마크 코펜하겐에서 태어났으며, 2026년 8월 14일 기준 만 38세입니다. 덴마크국립공연예술학교에서 연기를 공부했고, 덴마크 영화 데이터베이스에는 2006년 영화 《Råzone》부터의 출연 기록이 남아 있습니다."
+        },
+        {
+          "heading": "쌓아 온 연기 경력",
+          "body": "덴마크영화협회 필모그래피에는 드라마 《Follow the Money》의 클라우디아 모레노, 《Warrior》의 쇠스, 《Darkness: Those Who Kill》의 루이즈 베르그스테인 등 TV 시리즈 출연작이 정리돼 있습니다. 이번에는 기억이 흔들리는 인물을 중심에 놓은 새로운 스릴러로 시청자를 만납니다."
+        },
+        {
+          "heading": "공개 전 관전 포인트",
+          "body": "공식 소개에 따르면 루이즈는 자신이 헬레네일 수 있다는 사실을 확인하려고 덴마크의 가족에게 돌아갑니다. 루이즈가 왜 기존의 삶을 떠났는지, 그리고 실종의 밤에 어떤 일이 있었는지가 이야기의 중심입니다. 예고편에서 마두에뇨가 보여주는 불안과 경계의 표정 변화도 눈여겨볼 만합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-13T17:11:37.776Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e3a41ef1477ec45f1354485ee4f341051dbf16593af2da6e5fa95129ab80898b"
+    },
+    {
+      "id": "naver:tnsqo1126:224377989258",
+      "logNo": "224377989258",
+      "title": "모아데이타 20억 원 유상증자, 신주 수·납입일·상장 일정 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224377989258",
+      "publishedAt": "2026-08-13T15:58:03.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 모아데이타는 2026년 8월 14일 제3자배정 유상증자를 결정했다고 공시했습니다. 보통주 316만 9,572주를 주당 631원에 발행하며 조달 예정 금액은 약 20억 원입니다. 납입일은 8월 21일, 신주 상장 예정일은 9월 14일입니다. 이 글은 공시에서 확인되는 발행 조건과 일정, 기존 주주가 살필 숫자를 정리합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTcy/MDAxNzg2NjM2NTQxNTU1.tnMk_Oafowzqn2pUKBFYJunsSqQEwnMWj2BWnSRJNjEg.GEFdJW_k0EINoBDI5H5opSTe_MEj4kiO3u1GOJZ9mgQg.PNG/2026-08-14-288980-moadata-hero.png?type=s3",
+      "tags": [
+        "모아데이타",
+        "288980",
+        "유상증자",
+        "제3자배정",
+        "신주발행",
+        "납입일",
+        "공시분석",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "공시에서 먼저 확인할 숫자",
+          "body": "이번 증자는 제3자배정 방식입니다. 새로 발행하는 보통주는 증자 전 보통주 3,638만 1,379주의 약 8.7%입니다. 단순 합산하면 증자 뒤 보통주는 약 3,955만 951주가 됩니다. 배정 대상자는 공시상 느루토투자조합1호이며, 공시는 재무구조 개선 등 회사 경영상 목적을 적었습니다."
+        },
+        {
+          "heading": "자금 용도와 배정 대상",
+          "body": "공시는 조달 자금을 운영자금으로 분류했습니다. 사용 예정액은 2026년 10억 원, 2027년 9억 9,900만 원입니다. 특정 매출이나 수주로 이어진다는 수치는 공시에 제시되지 않았으므로 실제 효과는 이후 자금 집행과 실적으로 따로 확인해야 합니다."
+        },
+        {
+          "heading": "발행가액과 전일 장마감 비교",
+          "body": "발행가액은 631원입니다. 공시상 기준주가는 700원이며, 청약일 전 제3거래일부터 제5거래일까지의 가중산술평균주가에 10% 할인율을 적용해 산정했습니다. 8월 13일 장마감 종가는 716원으로 발행가액보다 85원 높았습니다."
+        },
+        {
+          "heading": "일정과 확인할 점",
+          "body": "공시상 청약일은 8월 18일, 납입일은 8월 21일입니다. 신주 상장 예정일은 9월 14일입니다. 일정이나 발행 조건은 관계기관 협의 과정에서 바뀔 수 있다고 공시에 적혀 있어, 납입 완료와 정정 공시 여부를 함께 확인할 필요가 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-13T17:11:37.776Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ca4d1d3761f569b60bb3c98c477421165cc3cd6961a7524683d86ff553ce59ec"
+    },
     {
       "id": "naver:tnsqo1126:224377707216",
       "logNo": "224377707216",
