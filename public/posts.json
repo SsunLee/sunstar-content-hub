@@ -4,15 +4,61 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-13T17:11:37.776Z",
-  "expectedPublicCount": 1145,
-  "total": 1145,
+  "generatedAt": "2026-08-13T23:01:53.930Z",
+  "expectedPublicCount": 1146,
+  "total": 1146,
   "counts": {
     "entertainment": 135,
-    "stocks": 84,
+    "stocks": 85,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224378141939",
+      "logNo": "224378141939",
+      "title": "코아시아 상반기 실적, 매출 1,321억 원·영업손실 30억 원 전환 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224378141939",
+      "publishedAt": "2026-08-13T22:55:24.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "코아시아가 2026년 8월 14일 반기보고서를 제출했습니다. 연결 기준 2026년 상반기 매출은 1,320억 7,329만 원으로 전년 동기보다 34.1% 늘었지만, 영업이익은 36억 9,936만 원 흑자에서 30억 3,715만 원 영업손실로 바뀌었습니다. 당기순손실은 33억 5,201만 원입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTg3/MDAxNzg2NjYxNjIxMzUz.c_9SWzU32Tr1dfdiSVBlCdMLeOCnm-KfLNpNTWAOu9og.24jM1q-C1-WcMQanunH18ce-qd4FDW-t3OKYfy17q68g.PNG/2026-08-14-045970-coasia-semiconductor-rnd-hero.png?type=s3",
+      "tags": [
+        "코아시아",
+        "045970",
+        "반기보고서",
+        "상반기실적",
+        "영업손실",
+        "코스닥",
+        "주식",
+        "실적분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "차트로 보는 손익 변화",
+          "body": "아래 차트는 같은 연결 기준의 상반기 매출액·영업이익·당기순이익을 백만 원 단위로 비교한 자료입니다. 매출 증가와 영업손실 전환이 동시에 나타난 점을 한눈에 볼 수 있습니다."
+        },
+        {
+          "heading": "영업현금흐름과 운전자본 변화",
+          "body": "장 시작 전에는 당일 가격 반응을 확정할 수 없습니다. 시세를 확인할 때에는 네이버 금융 코아시아 종목 화면에서 거래 시각과 장중·장마감 상태를 함께 보시기 바랍니다. 가격 움직임의 원인을 이번 반기보고서 하나로 단정해서는 안 됩니다."
+        },
+        {
+          "heading": "정리",
+          "body": "코아시아의 2026년 상반기 연결 매출은 1,321억 원으로 늘었으나 영업이익은 30억 원 손실로 전환했습니다. 이번 공시로 확인할 수 있는 핵심은 매출 성장과 수익성 회복을 같은 의미로 볼 수 없다는 점입니다. 다음 공시에서는 비용 구조와 현금흐름을 함께 확인하는 편이 좋습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-13T23:01:53.930Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:914eafa30b0af03754f7cc015c0e1844c65ba58c1dd78a6cb6bdf956d14ba46d"
+    },
     {
       "id": "naver:tnsqo1126:224378007738",
       "logNo": "224378007738",
