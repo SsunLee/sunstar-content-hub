@@ -4,15 +4,70 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-13T02:46:24.559Z",
-  "expectedPublicCount": 1139,
-  "total": 1139,
+  "generatedAt": "2026-08-13T05:48:12.104Z",
+  "expectedPublicCount": 1141,
+  "total": 1141,
   "counts": {
-    "entertainment": 132,
+    "entertainment": 133,
     "stocks": 82,
-    "archive": 925
+    "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224377370821",
+      "logNo": "224377370821",
+      "title": "eSIM/USIM 리스트 아이폰에서 지우는 방법",
+      "url": "https://blog.naver.com/tnsqo1126/224377370821",
+      "publishedAt": "2026-08-13T04:53:16.000Z",
+      "dateLabel": "2026. 8. 13.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "USIM 리스트 여행을 다니다보면 쌓이는 유심리스트 한동안 어떻게 지우는지 몰라서 냅뒀었는데 이번 기회에 한 번 싹 날리는 게 좋을 것 같아서 기록 합니다 방법 1) “연락처 업데이트” 눌러서 없애기 연락처 업데이트 라고 되어있길래 누르면 큰일 날 줄 알고 건드리지 않았는데 업데이트 누르면 사라지더라 방법 2) 상세 들어가면 eSIM 삭제 버튼으로 삭제하는 방법 깔끔히 정리…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTNfMzYg/MDAxNzg2NTk2MDQ0Nzc2.lxFXzjKJapyJ-JR0JTXwNgx29HMOO2pxYN6s3R0VH8Ig.2LQMXR8wn28Wzqzv13pu3rFK7uVUeD6NZjMGgxTX2oMg.JPEG/output%A3%DF1679873727.jpg?type=s3",
+      "tags": [
+        "아이폰",
+        "유심",
+        "리스트",
+        "유심삭제",
+        "esim삭제",
+        "아이폰esim삭제"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224377278164",
+      "logNo": "224377278164",
+      "title": "8월 20일 공개 'Blood Sacrifice', 야코브 오프테브로의 형사 토마스",
+      "url": "https://blog.naver.com/tnsqo1126/224377278164",
+      "publishedAt": "2026-08-13T03:23:40.000Z",
+      "dateLabel": "2026. 8. 13.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스가 8월 4일 공식 트레일러를 공개한 'Blood Sacrifice'는 8월 20일 전 세계에 공개됩니다. 야코브 오프테브로는 연쇄 살인 사건을 맡은 주임 수사관 토마스 베르그를 연기합니다. 은퇴한 형사 알프레드와 다시 사건을 풀어야 하는 부자 관계가 이번 이야기의 한 축입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTNfNiAg/MDAxNzg2NTkxMjg3ODk1.VYOAeEKLr3aEjYmF3fmL1cNIAeD6c0OY_P-KgdqtCuog.J-uQxRsAwRYe3_zjY-m6kEpJDXj0JPvoZMq-f-XZOq8g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "야코브오프테브로",
+        "JakobOftebro",
+        "BloodSacrifice",
+        "블러드새크리파이스",
+        "넷플릭스신작",
+        "북유럽드라마",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224377181425",
       "logNo": "224377181425",
