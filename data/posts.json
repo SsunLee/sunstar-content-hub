@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-14T07:50:02.645Z",
-  "expectedPublicCount": 1148,
-  "total": 1148,
+  "generatedAt": "2026-08-14T11:07:58.691Z",
+  "expectedPublicCount": 1149,
+  "total": 1149,
   "counts": {
     "entertainment": 136,
-    "stocks": 86,
+    "stocks": 87,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224378781593",
+      "logNo": "224378781593",
+      "title": "SAMG엔터 상반기 실적 발표, 매출 751억 원·NXT -7.97% 흐름 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224378781593",
+      "publishedAt": "2026-08-14T09:55:09.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "SAMG엔터는 2026년 8월 14일 반기보고서를 제출하고 같은 날 IR 개최를 공시했습니다. 회사 발표 기준 상반기 연결 매출은 751억 원으로 전년 동기보다 +5.6% 늘었고, 영업이익은 약 60억 원입니다. 해외 매출은 302억 원으로 +62.3% 증가했습니다. 네이버 금융 화면에는 NXT 장후 시세로 21,950원, 전일 대비 1,900원(-7.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfNDAg/MDAxNzg2NzAxMjQwMzUx.vL9ud9IWzyg_4Hmbd40k9xxGZavQlX2idLwSYM_afhUg.l2olG1qlX5n8ePpbgw3DPruJcot23IgVQ20YryjukU4g.PNG/2026-08-14-419530-samg-global-ip-hero.png?type=s3",
+      "tags": [
+        "SAMG엔터",
+        "419530",
+        "반기보고서",
+        "상반기실적",
+        "해외매출",
+        "NXT",
+        "코스닥",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224378536093",
       "logNo": "224378536093",
