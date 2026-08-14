@@ -4,15 +4,67 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-13T23:01:53.930Z",
-  "expectedPublicCount": 1146,
-  "total": 1146,
+  "generatedAt": "2026-08-14T05:45:38.380Z",
+  "expectedPublicCount": 1147,
+  "total": 1147,
   "counts": {
-    "entertainment": 135,
+    "entertainment": 136,
     "stocks": 85,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224378518601",
+      "logNo": "224378518601",
+      "title": "《The Secret Woman》 폴 스베레 하겐 근황, 요아킴으로 만나는 덴마크 스릴러",
+      "url": "https://blog.naver.com/tnsqo1126/224378518601",
+      "publishedAt": "2026-08-14T05:39:38.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스가 8월 7일 공식 예고편을 공개한 《The Secret Woman》은 8월 28일 전 세계 공개를 앞둔 덴마크 스릴러입니다. 폴 스베레 하겐은 노르웨이 섬 히드라에서 루이즈와 함께 살아온 요아킴으로 등장합니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTk3/MDAxNzg2Njg1ODY1ODcw.TH9lfUb1fEChHOkZweu2yBLx6tEwKOnKErAn5riCjXcg.h8jbBpdEGy4cT9YJMbwpVTkoNwcbf1zDcO34SaSYGoQg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "TheSecretWoman",
+        "폴스베레하겐",
+        "PalSverreHagen",
+        "요아킴",
+        "넷플릭스신작",
+        "덴마크스릴러"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "최근 공식 근황",
+          "body": "넷플릭스는 6월 23일 첫 공개 이미지와 캐스팅을 알렸고, 8월 7일에는 공식 예고편을 선보였습니다. 예고편에서는 평온하던 루이즈의 일상이 낯선 주장으로 흔들리기 시작합니다."
+        },
+        {
+          "heading": "요아킴이 놓인 이야기의 출발점",
+          "body": "공식 소개에 따르면 루이즈는 요아킴과 섬에서 카페를 운영합니다. 한 남자가 루이즈가 실종된 헬레네 쇠데르베리라고 주장하면서, 요아킴과 함께해 온 일상도 이야기의 중요한 출발점이 됩니다."
+        },
+        {
+          "heading": "기본 정보와 무대에서 시작한 이력",
+          "body": "폴 스베레 하겐은 1980년 11월 6일생으로, 2026년 8월 14일 기준 만 45세입니다. 노르웨이 국립연극학교를 2003년에 마친 뒤 같은 해 Det Norske Teatret 무대에서 활동을 시작했습니다."
+        },
+        {
+          "heading": "스크린에서 쌓아 온 필모그래피",
+          "body": "그는 영화 《Kon-Tiki》에서 토르 헤위에르달을 연기했고, 드라마 《Exit》 등에서 중심 역할을 맡아 왔습니다. 무대와 영화, TV를 오간 이력은 이번 작품의 요아킴을 보는 배경이 됩니다."
+        },
+        {
+          "heading": "공개 전 살펴볼 관전 포인트",
+          "body": "《The Secret Woman》은 정체성을 둘러싼 의문에서 시작해 루이즈가 과거를 추적하는 흐름을 예고합니다. 요아킴이 루이즈의 현재와 어떤 관계로 남게 될지, 공개 후 함께 살펴볼 지점입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-14T05:45:38.380Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:13f174850b71674efcb77771a3a4ba4a9f41407f3e0d7a43c62cc1cf688c74b6"
+    },
     {
       "id": "naver:tnsqo1126:224378141939",
       "logNo": "224378141939",
