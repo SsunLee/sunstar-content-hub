@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-14T11:07:58.691Z",
-  "expectedPublicCount": 1149,
-  "total": 1149,
+  "generatedAt": "2026-08-14T13:41:41.248Z",
+  "expectedPublicCount": 1150,
+  "total": 1150,
   "counts": {
-    "entertainment": 136,
+    "entertainment": 137,
     "stocks": 87,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224378873130",
+      "logNo": "224378873130",
+      "title": "《Our Sticky Love》 하영 근황, 고은새로 만난 기억상실 검사",
+      "url": "https://blog.naver.com/tnsqo1126/224378873130",
+      "publishedAt": "2026-08-14T12:06:30.000Z",
+      "dateLabel": "2026. 8. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "하영은 넷플릭스 로맨틱 코미디 《Our Sticky Love》에서 기억을 잃은 엘리트 검사 고은새를 연기합니다. 작품은 8월 3일부터 9일까지의 넷플릭스 한국 쇼 Top 10에서 2위에 올랐습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTk4/MDAxNzg2NzA5MDkwMzA5.9YZXJngVNGNGVWU8qJzq6b7rWcEnN7GybFpvE1jbinEg.4n5K8JwDntYCY-OqIgVx_PDNs-SE9pBIX8cHB75pJnAg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "하영",
+        "OurStickyLove",
+        "고은새",
+        "넷플릭스신작",
+        "로맨틱코미디",
+        "배우근황",
+        "하영OurStickyLove",
+        "고은새넷플릭스신작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224378781593",
       "logNo": "224378781593",
