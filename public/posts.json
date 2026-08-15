@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-15T06:57:20.987Z",
-  "expectedPublicCount": 1152,
-  "total": 1152,
+  "generatedAt": "2026-08-15T08:44:46.849Z",
+  "expectedPublicCount": 1153,
+  "total": 1153,
   "counts": {
-    "entertainment": 139,
+    "entertainment": 140,
     "stocks": 87,
     "archive": 926
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224379584132",
+      "logNo": "224379584132",
+      "title": "하영, 증조부 친일 단체 이력 논란에 사과...소속사 부인에서 인정까지",
+      "url": "https://blog.naver.com/tnsqo1126/224379584132",
+      "publishedAt": "2026-08-15T08:15:29.000Z",
+      "dateLabel": "2026. 8. 15.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "배우 하영(본명 안하영)이 증조부의 일제강점기 친일 단체 이력이 알려지며 논란의 중심에 섰습니다. 8월 9~10일경 불거진 이 사안은 소속사의 부인이 하루 만에 인정으로 바뀌고, 본인의 손글씨 사과와 부친의 발언 논란, 광고·행사 취소로까지 번졌습니다. 지금까지 확인된 사실관계를 시간 순으로 정리했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTVfMTA2/MDAxNzg2Nzc4MTI5MzYw.7duZTL0yGk_Y0OPsHmtM1QGqT178n_H1dZ_vTCSwKVEg.mrOtLbG_8eFfhgeXBqBou2uV5gLdkXV4pJfpnyRkHcAg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "하영",
+        "안하영",
+        "안상호",
+        "대정친목회",
+        "친일논란",
+        "OurStickyLove",
+        "하영안하영",
+        "안상호대정친목회"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224379518262",
       "logNo": "224379518262",
