@@ -4,15 +4,98 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-15T12:58:36.175Z",
-  "expectedPublicCount": 1155,
-  "total": 1155,
+  "generatedAt": "2026-08-15T16:40:05.771Z",
+  "expectedPublicCount": 1157,
+  "total": 1157,
   "counts": {
-    "entertainment": 141,
-    "stocks": 87,
+    "entertainment": 142,
+    "stocks": 88,
     "archive": 927
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224379892753",
+      "logNo": "224379892753",
+      "title": "LG전자 상반기 실적 핵심, 매출 47.6조 원·영업이익 3.25조 원 확인",
+      "url": "https://blog.naver.com/tnsqo1126/224379892753",
+      "publishedAt": "2026-08-15T16:26:33.000Z",
+      "dateLabel": "2026. 8. 16.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "LG전자는 2026년 8월 14일 반기보고서를 제출했습니다. 앞서 회사가 발표한 2026년 상반기 연결 매출은 47조 5,569억 원, 영업이익은 3조 2,525억 원입니다. 각각 전년 동기보다 9.4%, 71.3% 늘어난 수치입니다. 이 글은 상반기 확정 공시를 기준으로 실적의 구성과 다음 확인 지점을 정리합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTZfMTU0/MDAxNzg2ODExMDc4NjQ2.pl1B0T5x4COOjHAB04GIjrMR6nPcTQ2qMbF1cS-0NO8g.AJRxDOkh6R79FS9diKa0pcSj0RwJBLRYoHvTDiPiROgg.PNG/2026-08-14-066570-lge-h1-hero.png?type=s3",
+      "tags": [
+        "LG전자",
+        "066570",
+        "상반기실적",
+        "반기보고서",
+        "2분기실적",
+        "전장사업",
+        "가전주",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "3조 2,525억 원",
+          "body": "매출과 영업이익 모두 상반기 기준 최대치입니다. 다만 영업이익의 증가 폭에는 2분기 미국 관세 환급과 관련한 일회성 손익 효과가 약 3,000억 원 수준으로 포함됐다고 회사가 설명했습니다. DART LG전자 반기보고서에서 반복 가능한 사업 성과와 일회성 요인을 나눠 확인할 수 있습니다."
+        },
+        {
+          "heading": "2분기 사업 흐름",
+          "body": "2분기 연결 매출은 23조 8,265억 원, 영업이익은 1조 5,791억 원으로 공시됐습니다. 전년 동기 대비 영업이익은 147% 증가했습니다. 생활가전의 계절 수요와 프리미엄 판매, 전장 사업 성장, 수익성 개선 노력이 함께 언급됐습니다."
+        },
+        {
+          "heading": "일회성 효과와 하반기 변수",
+          "body": "회사 발표에 따르면 관세 환급을 포함한 일회성 수익에서 일회성 비용을 뺀 2분기 전체 손익 효과는 약 3,000억 원입니다. 따라서 상반기 영업이익의 높은 증가율을 그대로 연간에 적용하기보다, 환급 효과를 제외한 수익성과 물류비·수요 변화도 함께 봐야 합니다. LG전자 2026년 2분기 경영실적 발표에서 사업부별 설명을 확인할 수 있습니다."
+        },
+        {
+          "heading": "주가 화면을 해석할 때",
+          "body": "네이버 금융 종목 화면의 2026년 8월 14일 장마감 기준 LG전자 종가는 215,000원이며, 전일 대비 +4.12%로 표시됩니다. 이날 반기보고서 제출과 종가 변화가 시간상 함께 존재한다는 사실만 확인됩니다. 시장 가격에는 환율, 업종 수급, 거시 환경과 여러 정보가 함께 반영될 수 있으므로 인과관계는 확인되지 않았습니다. 시세 기준은 네이버 금융 LG전자 종목 화면에서 다시 확인하시기 바랍니다."
+        },
+        {
+          "heading": "정리",
+          "body": "LG전자는 2026년 상반기 매출 47조 5,569억 원, 영업이익 3조 2,525억 원을 기록했습니다. 외형과 이익 모두 최대치지만, 2분기 관세 환급 관련 일회성 효과는 따로 살펴볼 항목입니다. 다음 실적에서는 주력 사업의 수익성, 전장 성장의 지속성, 냉각 사업의 실제 수주와 매출 인식 여부를 확인하는 편이 적절합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-15T16:40:05.771Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ecf392cd2e65f01094e1914b9dff18dd230d1cf8430df7ab0329cb1c5c319572"
+    },
+    {
+      "id": "naver:tnsqo1126:224379866827",
+      "logNo": "224379866827",
+      "title": "스트레이 키즈 필릭스 근황, 'THIS & THAT' 3가지 공식 티저 콘셉트 정리",
+      "url": "https://blog.naver.com/tnsqo1126/224379866827",
+      "publishedAt": "2026-08-15T15:38:30.000Z",
+      "dateLabel": "2026. 8. 16.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "스트레이 키즈 필릭스가 새 앨범 THIS & THAT 활동에서 세 가지 공식 티저 콘셉트를 선보였습니다. JYP Entertainment는 7월 16일·21일·31일에 필릭스의 개별 이미지를 차례로 공개했고, 앨범은 8월 7일 공개됐습니다. 최근에는 8월 12일 리믹스 음원도 공식 채널을 통해 이어졌습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTZfMjUy/MDAxNzg2ODA4MjIyNDM1.340UG8faOZkcvf0MSx-RzQf4iilo9WZhpx-ZqQb_M9Ag.nsvzFFy_I0EAEh4T4JtPXxFdhiyPq6acM5Hrl2ce6zUg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "필릭스",
+        "스트레이키즈",
+        "THISANDTHAT",
+        "스트레이키즈컴백",
+        "필릭스근황",
+        "JYP",
+        "아이돌근황",
+        "필릭스스트레이키즈"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224379664063",
       "logNo": "224379664063",
