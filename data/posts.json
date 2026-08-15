@@ -4,15 +4,72 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-15T08:44:46.849Z",
-  "expectedPublicCount": 1153,
-  "total": 1153,
+  "generatedAt": "2026-08-15T10:38:16.057Z",
+  "expectedPublicCount": 1155,
+  "total": 1155,
   "counts": {
-    "entertainment": 140,
+    "entertainment": 141,
     "stocks": 87,
-    "archive": 926
+    "archive": 927
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224379664063",
+      "logNo": "224379664063",
+      "title": "유키스 출신 이준영 근황, 입대 전 '차린건 쥐뿔도 없지만'에서 남긴 솔직한 하루",
+      "url": "https://blog.naver.com/tnsqo1126/224379664063",
+      "publishedAt": "2026-08-15T10:30:56.000Z",
+      "dateLabel": "2026. 8. 15.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "유키스 출신 이준영이 이영지의 공식 유튜브 토크쇼 ‘차린건 쥐뿔도 없지만’ EP.47에 출연했습니다. 입대를 앞둔 시점에 공개된 회차라, 배우와 가수 활동을 오가며 쌓아 온 이야기를 편안한 분위기에서 들려준 근황으로 눈길을 끕니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTVfMjE0/MDAxNzg2Nzg5NzM3OTkz.xL3HrCFo2slwT5LYKPpqm56bYQkaaHrER_iOEc80WwQg.BCX50pS-ib8VWwBgScB6n3kedfTIC98t73YpYGD48kAg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "이준영",
+        "유키스",
+        "차린건쥐뿔도없지만",
+        "이영지",
+        "아이돌근황",
+        "배우이준영",
+        "이준영유키스",
+        "차린건쥐뿔도없지만이영지"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224379629832",
+      "logNo": "224379629832",
+      "title": "로지텍 G304 마우스 끊김 해결법: USB 절전·수신기 위치·배터리 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224379629832",
+      "publishedAt": "2026-08-15T09:29:42.000Z",
+      "dateLabel": "2026. 8. 15.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "실제 점검에서 AC·DC의 USB 선택적 절전이 모두 사용 상태였습니다. 먼저 확인한 상태 무선 마우스가 완전히 멈추지는 않지만, 커서를 천천히 움직일 때 미세하게 끊기는 느낌이 있으면 먼저 연결 종류부터 구분하는 편이 좋습니다. 로지텍 G304/G305는 블루투스가 아니라 2.4GHz LIGHTSPEED USB 수신기를 사용하는 모델입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MTVfMTIy/MDAxNzg2Nzg2MDU1Mjc2.y9kSNoSXXb4ZThfphbsgp0vfIKfJZ8qL9p1SrH__tfAg.pMfcM3i-Fqha2QIm4w73PxKfTAFhBH3Ci_qGAv8Fl60g.PNG/05-logitech-g305-official-product-photo.png?type=s3",
+      "tags": [
+        "로지텍G304",
+        "G304마우스끊김",
+        "G305끊김",
+        "무선마우스끊김",
+        "LIGHTSPEED수신기",
+        "USB선택적절전",
+        "윈도우11"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224379584132",
       "logNo": "224379584132",
