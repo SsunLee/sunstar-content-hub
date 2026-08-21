@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-21T13:09:59.283Z",
-  "expectedPublicCount": 1162,
-  "total": 1162,
+  "generatedAt": "2026-08-21T16:50:41.669Z",
+  "expectedPublicCount": 1163,
+  "total": 1163,
   "counts": {
-    "entertainment": 145,
+    "entertainment": 146,
     "stocks": 90,
     "archive": 927
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224386208318",
+      "logNo": "224386208318",
+      "title": "스트레이 키즈 현진 근황, 'THIS & THAT' 3색 공식 티저 사진",
+      "url": "https://blog.naver.com/tnsqo1126/224386208318",
+      "publishedAt": "2026-08-21T16:38:08.000Z",
+      "dateLabel": "2026. 8. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "스트레이 키즈 현진은 디지털 싱글 THIS & THAT 공개를 앞두고 세 가지 결의 개인 티저 사진을 차례로 선보였습니다. 공식 게시물에 담긴 이미지를 중심으로, 날짜별로 달라지는 세트와 스타일을 가볍게 정리했습니다. 8월 공개 활동, 현진의 최근 공식 콘텐츠 JYP Entertainment는 THIS & THAT을 2026년 8월 7일 공개했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjJfMTQg/MDAxNzg3MzMwMTYwMDMw.Oivnh_-iUSjFT2fPORFq8kbyoSqaJbHSJ7yPBvZirAwg.6dwSIERfE42jLycY3IjpD6mxuiIY-mvIQ19cqX6BzA8g.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "현진",
+        "스트레이키즈",
+        "THISANDTHAT",
+        "현진근황",
+        "스트레이키즈컴백",
+        "JYP",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224385994358",
       "logNo": "224385994358",
