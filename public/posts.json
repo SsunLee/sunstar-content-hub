@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-22T04:48:09.227Z",
-  "expectedPublicCount": 1167,
-  "total": 1167,
+  "generatedAt": "2026-08-22T06:58:37.606Z",
+  "expectedPublicCount": 1168,
+  "total": 1168,
   "counts": {
-    "entertainment": 149,
+    "entertainment": 150,
     "stocks": 91,
     "archive": 927
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224386589999",
+      "logNo": "224386589999",
+      "title": "스트레이 키즈 승민 근황, 'THIS & THAT' 세 가지 공식 티저 장면",
+      "url": "https://blog.naver.com/tnsqo1126/224386589999",
+      "publishedAt": "2026-08-22T05:46:54.000Z",
+      "dateLabel": "2026. 8. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "스트레이 키즈 승민은 8월 7일 공개된 ‘THIS & THAT’ 활동과 함께 세 가지 콘셉트의 공식 티저 이미지로 근황을 전했습니다. 7월에 순서대로 공개된 이미지에는 수송 차량 안의 금속 세트, 선명한 녹색 공간, 타일 벽을 배경으로 한 클로즈업이 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjJfMjY3/MDAxNzg3Mzc3NDkxMjIw.GKICcZQy99fBoAS1ssrvYmSmDjBWx6nPdZQf0chIOcsg.8UfyAaYJzaihvsibJ8aS_fvC7ufhdnr4JHfrQsaJ3uog.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "승민",
+        "Seungmin",
+        "스트레이키즈",
+        "THISANDTHAT",
+        "승민근황",
+        "스트레이키즈컴백",
+        "JYP",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224386520398",
       "logNo": "224386520398",
@@ -106,8 +135,8 @@
       "category": "stocks",
       "categoryLabel": "주식",
       "sourceCategoryNo": "109",
-      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 공시 핵심: 15조 원 한도, 11월 21일까지 장내 매수 예정 삼성전자는 2026년 8월 21일 보통주 53,285,968주를 최대 14조 9,999억 9,992만 원에 취득하기로 결정했다고 공시했습니다. 취득예상기간은 2026년 8월 24일부터 11월 21일까지이며, 목적은 임직원 주식보상입니다.…",
-      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjJfNTUg/MDAxNzg3MzYyMTMyMTg4.DatR7nV8FzgFhfZSkJCxY_R8cYWo7sKnanmBv1aesNkg.wwp-GsKrTNOhcVLufzPCuVVWTMiKl1uaXL46eAfrHhcg.PNG/2026-08-22-005930-samsung-share-repurchase-hero.png?type=s3",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 삼성전자가 2026년 8월 21일 약 15조 원 규모의 자기주식 취득을 결정했습니다. 예정 금액은 정확히 14조 9,999억 9,999만 2,000원이며, 이사회 결의일 종가 281,500원을 적용해 보통주 53,285,968주를 예정 수량으로 계산했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjJfNyAg/MDAxNzg3Mzc4OTAxOTIy.Eocg88FfGklZwIpu2rdCZgQqIPOOC6igS_HaSFIGWZ0g.T-0WzsCdPQIK4tWYx2yz8ocRcobbdPhoWZ8fnSvuQvkg.PNG/2026-08-22-005930-samsung-share-repurchase-hero-v2.png?type=s3",
       "tags": [
         "삼성전자",
         "005930",
@@ -126,21 +155,21 @@
       "verificationLevel": "rss_verified",
       "detailSections": [
         {
-          "heading": "공시 핵심: 15조 원 한도, 11월 21일까지 장내 매수 예정",
-          "body": "삼성전자는 2026년 8월 21일 보통주 53,285,968주를 최대 14조 9,999억 9,992만 원에 취득하기로 결정했다고 공시했습니다. 취득예상기간은 2026년 8월 24일부터 11월 21일까지이며, 목적은 임직원 주식보상입니다."
+          "heading": "53,285,968주는 확정 수량이 아닙니다",
+          "body": "예정 주식 수 53,285,968주는 2026년 8월 21일 삼성전자 보통주 종가인 281,500원으로 예정 금액을 나눈 결과입니다. 실제 매수 가격이 기준가보다 높아지면 같은 금액으로 취득할 수 있는 수량은 줄고, 반대로 매수 가격이 낮아지면 수량은 늘어날 수 있습니다. 삼성전자도 금융감독원 DART 공시에서 향후 주가 변동에 따라 실제 취득 주식 수량이 달라질 수 있다고 밝혔습니다."
         },
         {
-          "heading": "주가 기준과 실제 취득 수량은 구분해서 봐야 합니다",
-          "body": "공시는 이사회 결의일 종가인 281,500원을 기준으로 취득예정주식 수를 산정했다고 설명합니다. 같은 기준일의 KRX 장마감 가격과 거래량은 네이버 금융 삼성전자 시세에서 확인했습니다."
+          "heading": "실제 취득 수량과 보상·처분 공시",
+          "body": "삼성전자는 2024년 11월 총 10조 원 규모 자사주 매입 계획을 발표하면서 주주가치 제고 등을 목적으로 밝혔습니다. 당시 초기 3조 원은 3개월 안에 장내 매수한 뒤 전량 소각하기로 했습니다. 반면 2026년 8월 21일 결정은 임직원 주식보상에 사용할 주식을 취득하는 내용입니다."
         },
         {
-          "heading": "확인할 다음 지점",
-          "body": "취득기간 중 실제 매수 진행 상황, 취득 수량 변동 여부, 이후 임직원 보상에 사용되는 시점과 조건이 다음 확인 대상입니다. 공시에 따르면 주가 변동에 따라 실제 취득 주식 수량은 달라질 수 있습니다."
+          "heading": "공시 이후에는 네 가지를 확인해야 합니다",
+          "body": "첫째, 11월 21일까지 실제로 얼마를 집행하고 몇 주를 취득했는지 확인해야 합니다. 둘째, 취득 평균 단가와 예정 수량의 차이를 봐야 합니다. 셋째, 취득한 자기주식 가운데 임직원 보상에 사용할 수량과 지급 조건을 후속 처분 공시에서 확인해야 합니다. 넷째, 별도의 소각 결정이나 다른 활용 계획이 나오는지 살펴봐야 합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-22T01:49:39.538Z",
+      "detailUpdatedAt": "2026-08-22T06:58:37.606Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:a7ba2ac564399a1fc68369a624ad030bf34af47e22df147741b9e22ca6958fd1"
+      "detailContentHash": "sha256:3da9c52fee82ebb737281af813844ab9ece75314b558a5b3a3d4fa11ab6295cf"
     },
     {
       "id": "naver:tnsqo1126:224386332769",
