@@ -4,15 +4,72 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-23T07:00:26.460Z",
-  "expectedPublicCount": 1174,
-  "total": 1174,
+  "generatedAt": "2026-08-23T13:01:10.567Z",
+  "expectedPublicCount": 1176,
+  "total": 1176,
   "counts": {
     "entertainment": 153,
-    "stocks": 94,
-    "archive": 927
+    "stocks": 95,
+    "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224387757936",
+      "logNo": "224387757936",
+      "title": "가비아 2026년 영업이익 130억 원 전망, 별도 기준·반기 실적과 확인할 점",
+      "url": "https://blog.naver.com/tnsqo1126/224387757936",
+      "publishedAt": "2026-08-23T12:40:42.000Z",
+      "dateLabel": "2026. 8. 23.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 본문 이해를 돕기 위한 연출 이미지입니다. 가비아가 2026년 8월 21일 공정공시로 제시한 2026 사업연도 전망은 별도 기준 매출액 1,237억 원과 영업이익 130억 원입니다. 이 숫자는 회사가 최근 영업실적과 대내외 사업환경을 반영해 수립한 경영계획에 근거한 전망치입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjNfMjgz/MDAxNzg3NDg5MDAxODc3.NxkvJGTCsKC8_K0PNIzshlg7kmxU4n-nx44WBhoWakQg.T5WZJ8N1fAs0asIijPQ6SHEghLmItw57u4AW5CCxQbkg.PNG/2026-08-23-079940-hero.png?type=s3",
+      "tags": [
+        "가비아",
+        "079940",
+        "영업실적전망",
+        "공정공시",
+        "클라우드",
+        "데이터센터",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224387716629",
+      "logNo": "224387716629",
+      "title": "처서 출근룩 여성 코디 3세트|늦여름 초가을 오피스룩",
+      "url": "https://blog.naver.com/tnsqo1126/224387716629",
+      "publishedAt": "2026-08-23T11:50:32.000Z",
+      "dateLabel": "2026. 8. 23.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "113",
+      "summary": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. MD CURATION｜한낮의 더위와 아침저녁의 온도 차를 함께 봅니다 처서 무렵의 출근복은 한여름 옷을 모두 치우기에는 이르고, 가을 재킷을 꺼내기에는 아직 무겁습니다. 그래서 이번 코디는 짙은 브라운과 블랙으로 계절감을 먼저 바꾸되, 반소매와 얇은 겹옷으로 무게를 조절했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjNfMjc0/MDAxNzg3NDc1MDk4MDU1.83LIIvZTGEoOu7FxWMWyEszkhRo8VkxYy5ICPmLwlVUg.gDChcCd577L_fmlS4G5DOec0H2_pvuMv1-WSMCIIp1Mg.PNG/look-02-flatlay-v2.png?type=s3",
+      "tags": [
+        "처서출근룩",
+        "늦여름코디",
+        "초가을오피스룩",
+        "여성출근룩",
+        "와이드슬랙스코디",
+        "A라인스커트코디",
+        "브라운원피스",
+        "간절기가디건"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224387436848",
       "logNo": "224387436848",
