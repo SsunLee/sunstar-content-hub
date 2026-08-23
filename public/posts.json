@@ -4,15 +4,60 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-23T01:59:10.967Z",
-  "expectedPublicCount": 1173,
-  "total": 1173,
+  "generatedAt": "2026-08-23T07:00:26.460Z",
+  "expectedPublicCount": 1174,
+  "total": 1174,
   "counts": {
     "entertainment": 153,
-    "stocks": 93,
+    "stocks": 94,
     "archive": 927
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224387436848",
+      "logNo": "224387436848",
+      "title": "핑거 300억 원 전환사채 발행결정, 메가존클라우드 지분 취득·전환 조건 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224387436848",
+      "publishedAt": "2026-08-23T05:42:03.000Z",
+      "dateLabel": "2026. 8. 23.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 본문 이해를 돕기 위한 연출 이미지입니다. 핑거가 2026년 8월 21일 공시한 제8회 사모 전환사채의 권면총액은 300억 원입니다. 공시의 자금 용도는 운영자금이나 채무상환이 아니라 타법인 증권 취득자금으로만 적혀 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjNfMTA0/MDAxNzg3NDY0MjE4Mjc5.jZdHwmTkMKRUVg9Q3fv2O2Yb88PGzysPKdm1mhSgzCkg.KXuyXBCfT8dns5-ZgbUbs6j7MsCjGhSeRw0C9JNIFMEg.PNG/2026-08-23-163730-hero.png?type=s3",
+      "tags": [
+        "핑거",
+        "163730",
+        "전환사채",
+        "메가존클라우드",
+        "지분취득",
+        "주식공시",
+        "코스닥"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "전환사채 조건에서 확인할 숫자",
+          "body": "공시상 사채 종류는 무기명식 이권부 무보증 사모 전환사채입니다. 표면이자율과 만기이자율은 각각 0.0%이며, 사채만기일은 2029년 8월 31일입니다. 전환비율은 100%, 전환가액은 주당 10,860원으로 정해졌습니다. 신규 사채가 모두 전환될 경우 공시는 전환가능주식 수를 276만 2,430주로 제시합니다. 이는 실제로 지금 신주가 발행됐다는 뜻이 아니라, 공시된 전환 조건에서 계산한 최대 주식 수입니다."
+        },
+        {
+          "heading": "지분 취득 자금과 기존 주식 수의 관계",
+          "body": "300억 원 전액은 공시에서 메가존클라우드 지분 취득 자금으로 표시됐습니다. 다만 300억 원의 전환사채 발행결정은 회사의 매출이나 이익이 300억 원 늘어난다는 뜻이 아닙니다. 자금 조달과 지분 취득 계약, 이후 투자자산의 회계 처리와 사업 성과는 서로 다른 문제입니다. 공시에는 메가존클라우드 보통주 657,274주의 매수 계약금액이 299억 9,995만 원으로 적혀 있으므로, 납입과 취득 결제의 실제 진행 여부를 다음 공시에서 따로 살펴야 합니다."
+        },
+        {
+          "heading": "다음에 확인할 공시와 시장 정보",
+          "body": "첫 확인일은 2026년 8월 31일입니다. 공시상 납입일이므로 실제 납입과 발행 결과가 공시되는지 확인해야 합니다. 다음으로 메가존클라우드 지분 취득의 결제 및 보유 현황이 회사 공시에서 어떻게 나타나는지를 살펴볼 수 있습니다. 2027년 8월 27일부터는 신규 사채의 전환청구가 가능한 기간이 시작되므로, 실제 전환청구와 신주 발행 관련 자료가 나오는지 확인 대상이 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-23T07:00:26.460Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:cdc43ce2b37adf06bb5847b6b7f39f6b1e49f077e5ced290103f3d306907ad79"
+    },
     {
       "id": "naver:tnsqo1126:224387252325",
       "logNo": "224387252325",
