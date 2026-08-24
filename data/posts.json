@@ -4,15 +4,122 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-24T05:00:45.340Z",
-  "expectedPublicCount": 1178,
-  "total": 1178,
+  "generatedAt": "2026-08-24T10:53:03.485Z",
+  "expectedPublicCount": 1180,
+  "total": 1180,
   "counts": {
-    "entertainment": 154,
-    "stocks": 96,
+    "entertainment": 155,
+    "stocks": 97,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224388796845",
+      "logNo": "224388796845",
+      "title": "ITZY 예지 근황, 가오슝 투어로그와 ‘Air’ 공식 영상 장면",
+      "url": "https://blog.naver.com/tnsqo1126/224388796845",
+      "publishedAt": "2026-08-24T09:57:33.000Z",
+      "dateLabel": "2026. 8. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY는 2026년 8월 21일 예지의 가오슝 투어로그를 공식 채널에 공개했습니다. 영상은 ITZY 세 번째 월드 투어 의 가오슝 일정 중 예지의 이동과 식사 장면을 담고 있습니다. 모자를 쓴 편안한 차림과 실내 조명이 이어지며, 공연 무대와는 다른 하루의 한 장면이 나타납니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjRfMTIz/MDAxNzg3NTY1MzYzNDg2.9RBt0Zhn-GVD9uWeBQnkPxyIpIyIX-ZX5jnas_fOmTAg.hfdTNti5iEqIPeBOsM9pLgmBIl7Cl8R2PQ-RO0EbRy8g.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "ITZY",
+        "있지",
+        "예지",
+        "YEJI",
+        "예지근황",
+        "ITZY투어",
+        "Air",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "가오슝 투어로그에 담긴 예지의 일상 장면",
+          "body": "5초 부근에서 예지는 어두운 벽면과 조명이 있는 실내에서 식사합니다. 2분 15초 부근에는 모자와 연한 겉옷이 유지된 채 카메라를 내려다보는 구도가 이어집니다. 두 화면은 같은 일정 안에서도 카메라의 높이와 시선 방향이 다르게 잡힌 장면입니다."
+        },
+        {
+          "heading": "솔로곡 ‘Air’가 남긴 서로 다른 세트",
+          "body": "JYP Entertainment는 2025년 3월 10일 예지의 솔로곡 ‘Air’ 뮤직비디오를 공개했습니다. 16초 장면에서 예지는 붉은 상의와 검은 하의를 입고 소파 위에 누워 있습니다. 가오슝의 자연광 실내와 달리, 이 장면은 짙은 색의 소파와 낮은 조명으로 공간을 구성합니다."
+        },
+        {
+          "heading": "넓은 창고와 붉은 의상이 만나는 장면",
+          "body": "48초에는 넓은 창고형 세트에 붉은 의상을 입은 예지가 서 있습니다. 카메라는 인물의 전신과 높은 천장, 차가운 회색 벽을 함께 담습니다. 앞선 소파 장면과 의상은 이어지지만, 화면의 거리와 배경은 크게 달라집니다."
+        },
+        {
+          "heading": "흰 드레스와 어두운 무대 조명",
+          "body": "1분 28초에는 예지가 흰 드레스를 입고 검은 머리를 높게 묶은 모습으로 등장합니다. 화면 뒤쪽의 인물과 푸른 조명은 앞선 창고 장면과 다른 분위기를 만듭니다. 2분 25초에는 조명이 낮은 공간에서 검은 의상으로 춤을 추는 장면이 이어져, 한 편의 영상 안에서도 의상과 무대 배경이 바뀝니다."
+        },
+        {
+          "heading": "최근 투어 기록과 공식 영상에서 확인하는 예지",
+          "body": "8월 가오슝 투어로그는 월드 투어 일정 중 예지의 편안한 일상을, ‘Air’ 뮤직비디오는 여러 세트와 안무 장면을 보여 줍니다. ITZY 공식 채널과 JYP Entertainment 원문에는 각 장면의 전체 흐름이 남아 있습니다. 이후 일정은 ITZY 공식 공지와 채널에서 날짜를 함께 확인할 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-24T10:53:03.485Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:c8221c54dceeb05d870cd4056a5536f18876f2a7d73d06b86847b08cddbf4e0a"
+    },
+    {
+      "id": "naver:tnsqo1126:224388783493",
+      "logNo": "224388783493",
+      "title": "에스비비테크 19억 원 감속기 공급계약, 기간·매출 대비 규모 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224388783493",
+      "publishedAt": "2026-08-24T09:42:08.000Z",
+      "dateLabel": "2026. 8. 24.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 에스비비테크는 2026년 8월 24일 휴머노이드 로봇용 정밀 감속기 공급계약을 공시했습니다. 확정 계약금액은 19억 2,341만 9,100원이며, 회사가 공시에 제시한 2025년 매출액 71억 9,797만 9,874원의 26.7%입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjRfMTQz/MDAxNzg3NTY0NzAyNDU1.ceh4Qg752b4sQJPWueMH74wSwdOArL7ch3Yp7_LSm1cg.yzobOTGc4B-YYJT9ZWJc22DTjPX1oVMUaI5f2kDjp34g.PNG/2026-08-24-389500-sbbtech-humanoid-reducer-contract-hero.png?type=s3",
+      "tags": [
+        "에스비비테크",
+        "389500",
+        "휴머노이드로봇",
+        "정밀감속기",
+        "공급계약",
+        "로봇부품",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "계약 규모와 공급 내용",
+          "body": "공시의 판매·공급계약 내용은 휴머노이드 로봇용 정밀 감속기입니다. 계약은 조건부 계약이 아니며, 계약금액은 부가가치세를 제외한 공급가액입니다. 판매·공급 지역은 대한민국으로 적혔습니다. 자체생산과 외주생산이 모두 해당하며, 계약금이나 선급금은 없습니다. 대금은 제품 공급 뒤 익월 말 현금으로 지급받는 조건입니다."
+        },
+        {
+          "heading": "계약일과 종료 예정일",
+          "body": "구매주문서 발급일과 고객사로부터 주문서를 수령한 계약일은 2026년 8월 21일입니다. 구매주문서상의 최종 공급 날짜와 계약기간 종료 예정일은 2028년 4월 29일입니다. 계약 종료일은 고객 사정과 검수 일정에 따라 변경될 수 있습니다."
+        },
+        {
+          "heading": "장마감 시세는 공시와 분리해 보기",
+          "body": "네이버 금융의 2026년 8월 24일 16시 10분 KRX 장마감 기준 에스비비테크 종가는 36,550원입니다. 전 거래일보다 1,050원, 2.96% 올랐고 거래량은 56,839주, 거래대금은 20억 7,800만 원으로 표시됩니다. 장중 고가는 37,450원, 저가는 35,600원입니다. 같은 시점 시가총액은 2,435억 원, 코스닥 시가총액 순위는 323위, 외국인 보유율은 4.54%입니다."
+        },
+        {
+          "heading": "상반기 재무에서 볼 회수와 현금흐름",
+          "body": "OpenDART 반기보고서에 따르면 에스비비테크의 2026년 상반기 별도 누적 매출액은 27억 387만 원이고, 영업손실은 18억 4,481만 원입니다. 영업활동 현금흐름은 55억 7,095만 원 순유출로 나타났습니다. 반기말 자산총계는 285억 7,694만 원, 부채총계는 83억 6,260만 원, 자본총계는 202억 1,434만 원입니다. 현금및현금성자산은 4억 7,114만 원, 매출채권은 18억 6,798만 원으로 표시됩니다."
+        },
+        {
+          "heading": "다음에 확인할 세 가지",
+          "body": "계약 종료 예정일인 2028년 4월 29일까지 실제 제품 공급이 계획대로 진행되는지, 고객 검수 일정이나 주문 변경으로 계약기간 또는 금액이 바뀔 때 후속 공시가 나오는지, 다음 정기보고서에서 계약 관련 매출과 매출채권 회수 및 영업활동 현금흐름이 어떻게 나타나는지를 확인해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-24T10:53:03.485Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:fc0ac6ea8d4b0e85da579e6b05cabda342c162234f6149f1bde591bf89526c0f"
+    },
     {
       "id": "naver:tnsqo1126:224388355033",
       "logNo": "224388355033",
