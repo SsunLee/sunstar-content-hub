@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-24T09:57:33.000Z",
+  "category": "stocks",
+  "start": 96,
+  "end": 96,
+  "translations": [
+    {
+      "logNo": "224388783493",
+      "en": {
+        "title": "SBB Tech's KRW 1.9 Billion Reducer Supply Contract: Term and Scale Versus Revenue",
+        "summary": "This is a staged image to aid understanding of the article. SBB Tech disclosed a supply contract for precision reducers used in humanoid robots on August 24, 2026. The confirmed contract value is KRW 1,923,419,100, which is 26.7% of the KRW 7,197,979,874 in 2025 revenue the company reported in the disclosure.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SBBテック19億ウォン減速機供給契約、契約期間・売上比の規模点検",
+        "summary": "本文の理解を助けるための演出イメージです。SBBテックは2026年8月24日、ヒューマノイドロボット向け精密減速機の供給契約を公示しました。確定契約金額は19億2,341万9,100ウォンで、会社が公示で示した2025年売上高71億9,797万9,874ウォンの26.7%に当たります。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-24T09:57:33.000Z",
+  "category": "entertainment",
+  "start": 153,
+  "end": 153,
+  "translations": [
+    {
+      "logNo": "224388796845",
+      "en": {
+        "title": "ITZY's YEJI Update: Kaohsiung Tour Log and Official 'Air' Video Scenes",
+        "summary": "ITZY released YEJI's Kaohsiung tour log on its official channel on August 21, 2026. The video captures YEJI's travel and meal scenes during the Kaohsiung leg of ITZY's third world tour. Her relaxed outfit with a hat and the indoor lighting continue throughout, showing a moment from her day that's different from the concert stage.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ITZY YEJI近況、高雄ツアーログと公式「Air」映像シーン",
+        "summary": "ITZYは2026年8月21日、公式チャンネルでYEJIの高雄ツアーログを公開しました。映像には、ITZYの3度目のワールドツアーにおける高雄日程中のYEJIの移動と食事シーンが収められています。帽子をかぶったリラックスした服装と室内照明が続き、ステージとは異なる一日の一場面が映し出されています。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

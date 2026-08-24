@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-24T03:28:26.000Z",
-  "generatedAt": "2026-08-24T05:00:45.340Z",
+  "sourceGeneratedAt": "2026-08-24T09:57:33.000Z",
+  "generatedAt": "2026-08-24T10:53:03.485Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-24T03:28:26.000Z",
-    "translatedCount": 249,
-    "translationSetHash": "sha256:21d62588e19086a4f01819afa177380e373772ee944cc291ab831f8f5688e31b"
+    "sourceCutoff": "2026-08-24T09:57:33.000Z",
+    "translatedCount": 251,
+    "translationSetHash": "sha256:20d88424a5a368e6d4ba14da70ae46e3e02b33619ba808408dedf270ea1de26f"
   },
   "counts": {
-    "entertainment": 153,
-    "stocks": 96
+    "entertainment": 154,
+    "stocks": 97
   },
   "translations": [
+    {
+      "logNo": "224388796845",
+      "sourceHash": "sha256:83d7a288ff533c05986dd803c61403617f9bf33873a81c2b1774b3360d28ef29",
+      "source": {
+        "title": "ITZY 예지 근황, 가오슝 투어로그와 ‘Air’ 공식 영상 장면",
+        "summary": "ITZY는 2026년 8월 21일 예지의 가오슝 투어로그를 공식 채널에 공개했습니다. 영상은 ITZY 세 번째 월드 투어 의 가오슝 일정 중 예지의 이동과 식사 장면을 담고 있습니다. 모자를 쓴 편안한 차림과 실내 조명이 이어지며, 공연 무대와는 다른 하루의 한 장면이 나타납니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY's YEJI Update: Kaohsiung Tour Log and Official 'Air' Video Scenes",
+          "summary": "ITZY released YEJI's Kaohsiung tour log on its official channel on August 21, 2026. The video captures YEJI's travel and meal scenes during the Kaohsiung leg of ITZY's third world tour. Her relaxed outfit with a hat and the indoor lighting continue throughout, showing a moment from her day that's different from the concert stage.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZY YEJI近況、高雄ツアーログと公式「Air」映像シーン",
+          "summary": "ITZYは2026年8月21日、公式チャンネルでYEJIの高雄ツアーログを公開しました。映像には、ITZYの3度目のワールドツアーにおける高雄日程中のYEJIの移動と食事シーンが収められています。帽子をかぶったリラックスした服装と室内照明が続き、ステージとは異なる一日の一場面が映し出されています。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224388783493",
+      "sourceHash": "sha256:0d07f0da8ab3fd757dfc50ef25212ac08ccd9bdc734298b496aab2f61a9a2aa2",
+      "source": {
+        "title": "에스비비테크 19억 원 감속기 공급계약, 기간·매출 대비 규모 점검",
+        "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 에스비비테크는 2026년 8월 24일 휴머노이드 로봇용 정밀 감속기 공급계약을 공시했습니다. 확정 계약금액은 19억 2,341만 9,100원이며, 회사가 공시에 제시한 2025년 매출액 71억 9,797만 9,874원의 26.7%입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "SBB Tech's KRW 1.9 Billion Reducer Supply Contract: Term and Scale Versus Revenue",
+          "summary": "This is a staged image to aid understanding of the article. SBB Tech disclosed a supply contract for precision reducers used in humanoid robots on August 24, 2026. The confirmed contract value is KRW 1,923,419,100, which is 26.7% of the KRW 7,197,979,874 in 2025 revenue the company reported in the disclosure.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "SBBテック19億ウォン減速機供給契約、契約期間・売上比の規模点検",
+          "summary": "本文の理解を助けるための演出イメージです。SBBテックは2026年8月24日、ヒューマノイドロボット向け精密減速機の供給契約を公示しました。確定契約金額は19億2,341万9,100ウォンで、会社が公示で示した2025年売上高71億9,797万9,874ウォンの26.7%に当たります。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224388355033",
       "sourceHash": "sha256:43329b556bf54c940d09ebede17ce3dca14e4f38156f6f7a479aa946d75dbe0b",
