@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-24T02:46:11.000Z",
-  "generatedAt": "2026-08-24T03:16:14.444Z",
+  "sourceGeneratedAt": "2026-08-24T03:28:26.000Z",
+  "generatedAt": "2026-08-24T05:00:45.340Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-24T02:46:11.000Z",
-    "translatedCount": 248,
-    "translationSetHash": "sha256:2be948293984d49eba88ccf4d4f87091443c52840ce8b980dce911e751abafda"
+    "sourceCutoff": "2026-08-24T03:28:26.000Z",
+    "translatedCount": 249,
+    "translationSetHash": "sha256:21d62588e19086a4f01819afa177380e373772ee944cc291ab831f8f5688e31b"
   },
   "counts": {
-    "entertainment": 152,
+    "entertainment": 153,
     "stocks": 96
   },
   "translations": [
+    {
+      "logNo": "224388355033",
+      "sourceHash": "sha256:43329b556bf54c940d09ebede17ce3dca14e4f38156f6f7a479aa946d75dbe0b",
+      "source": {
+        "title": "ITZY 리아 근황, 8월 팬미팅 무대와 ‘Motto’ 공식 영상 장면",
+        "summary": "ITZY 리아는 2026년 8월 20일 공식 채널에 공개된 다섯 번째 팬미팅 공연 영상에서 멤버들과 함께 ‘TENNIS (0:0)’와 ‘ROCK & ROLL’ 무대를 선보였습니다. 남색 상의와 검은 스커트, 파란 무대 조명은 같은 공연 안에서도 장면마다 다른 구도로 나타납니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY's LIA Update: August Fan Meeting Stage and Official 'Motto' Video Scenes",
+          "summary": "ITZY's LIA performed the \"TENNIS (0:0)\" and \"ROCK & ROLL\" stages together with her fellow members in the group's fifth fan meeting performance video, released on the official channel on August 20, 2026. Her navy top, black skirt, and blue stage lighting appear in different framing from scene to scene within the same performance.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZY LIA近況、8月ファンミーティングステージと公式「Motto」映像シーン",
+          "summary": "ITZYのLIAは、2026年8月20日に公式チャンネルで公開された5回目のファンミーティング公演映像で、メンバーとともに「TENNIS (0:0)」と「ROCK & ROLL」のステージを披露しました。ネイビーのトップスと黒のスカート、青いステージ照明は、同じ公演の中でもシーンごとに異なる構図で映し出されています。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224388310641",
       "sourceHash": "sha256:1cd3aa8c6ec9ffce9a6ec4d6994267cb0c5c68ffa0919350e5dcc3c75f5b51ce",
