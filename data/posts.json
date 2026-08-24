@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-24T03:16:14.444Z",
-  "expectedPublicCount": 1177,
-  "total": 1177,
+  "generatedAt": "2026-08-24T05:00:45.340Z",
+  "expectedPublicCount": 1178,
+  "total": 1178,
   "counts": {
-    "entertainment": 153,
+    "entertainment": 154,
     "stocks": 96,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224388355033",
+      "logNo": "224388355033",
+      "title": "ITZY 리아 근황, 8월 팬미팅 무대와 ‘Motto’ 공식 영상 장면",
+      "url": "https://blog.naver.com/tnsqo1126/224388355033",
+      "publishedAt": "2026-08-24T03:28:26.000Z",
+      "dateLabel": "2026. 8. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 리아는 2026년 8월 20일 공식 채널에 공개된 다섯 번째 팬미팅 공연 영상에서 멤버들과 함께 ‘TENNIS (0:0)’와 ‘ROCK & ROLL’ 무대를 선보였습니다. 남색 상의와 검은 스커트, 파란 무대 조명은 같은 공연 안에서도 장면마다 다른 구도로 나타납니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjRfMTU5/MDAxNzg3NTQxOTk4MjMx.hqpEgje4ZD4TGEMCkBZ-4mnXQbZxZ9mxSX7KeKcC3CYg.CJe2ZBKUtzi3qNEddeCK0sTbse-xQQ0Dwy9U-6TsOQQg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "LIA",
+        "ITZY",
+        "있지",
+        "리아",
+        "LIA리아근황",
+        "ITZY팬미팅",
+        "Motto",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "남색 의상과 가까운 무대 구도",
+          "body": "12초와 20초 부근에서 리아는 남색 상의와 검은 스커트를 입고 안무를 이어갑니다. 한 장면은 얼굴과 상반신을 크게 담고, 다른 장면은 손을 가슴 앞에 모은 동작을 중심에 둡니다. LED 배경의 색과 카메라 거리가 달라 같은 의상도 서로 다른 모습으로 보입니다."
+        },
+        {
+          "heading": "안무 동작에 따라 달라지는 시선과 프레이밍",
+          "body": "2분 19초 장면에서는 리아가 무대 중앙에서 팔을 들어 올리는 동작을 합니다. 앞선 두 장면보다 카메라가 더 넓게 주변 멤버를 함께 담아, 안무 대형과 무대 배경이 한 화면에 나타납니다. 같은 팬미팅 공연이지만 카메라 위치와 주변 멤버의 배치가 다릅니다."
+        },
+        {
+          "heading": "‘Motto’ 개인 영상에 담긴 흰 스튜디오 장면",
+          "body": "JYP Entertainment는 2026년 5월 4일 ‘ITZY <Motto> | What is your Motto? #LIA’를 공개했습니다. 이 영상에서 리아는 흰 배경의 스튜디오에서 포니테일과 흰 의상을 착용했습니다. 공연 영상의 강한 무대 조명과 달리, 단색 배경과 가까운 얼굴 구도가 중심이 됩니다."
+        },
+        {
+          "heading": "표정과 카메라 거리가 바뀌는 개인 영상의 순간",
+          "body": "5초에는 의상과 자세를 넓게 담은 화면이 나타나고, 22초에는 리아의 얼굴을 화면 가득 담은 구도가 이어집니다. 35초에는 고개와 시선의 방향이 다시 달라집니다. 흰 의상과 낮게 묶은 머리는 유지되지만, 화면 안에서 남는 표정과 프레이밍은 서로 구분됩니다. 세 장면은 공식 개인 영상의 시간 지정 원문으로 바로 확인할 수 있습니다."
+        },
+        {
+          "heading": "공식 채널에서 이어지는 리아의 최근 장면",
+          "body": "5월의 ‘Motto’ 개인 영상과 8월의 팬미팅 공연 영상은 서로 다른 공간과 촬영 방식으로 리아의 활동을 보여 줍니다. 흰 스튜디오의 단색 배경, 관객 앞 무대의 조명, 멤버들과 맞춘 안무는 각 원문에서 확인할 수 있는 장면입니다. 다음 공식 콘텐츠에서도 공연 일정과 개인 영상의 공개 시점을 함께 확인하면 활동 흐름을 더 정확하게 볼 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-24T05:00:45.340Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:459532a0e69ea70affc70ba575e0d59ca7e48b46cc197f529d74b950bf098a17"
+    },
     {
       "id": "naver:tnsqo1126:224388310641",
       "logNo": "224388310641",
