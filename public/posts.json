@@ -4,15 +4,68 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-23T20:37:59.528Z",
-  "expectedPublicCount": 1176,
-  "total": 1176,
+  "generatedAt": "2026-08-24T03:16:14.444Z",
+  "expectedPublicCount": 1177,
+  "total": 1177,
   "counts": {
     "entertainment": 153,
-    "stocks": 95,
+    "stocks": 96,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224388310641",
+      "logNo": "224388310641",
+      "title": "LS ELECTRIC 2,309억 원 데이터센터 전력설비 계약, 기간·매출 비중 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224388310641",
+      "publishedAt": "2026-08-24T02:46:11.000Z",
+      "dateLabel": "2026. 8. 24.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. LS ELECTRIC은 2026년 8월 24일 미국 빅테크 데이터센터 전력설비 공급 프로젝트의 변경계약을 공시했습니다. 공시된 계약금액은 2,308억 5,172만 원이며, 회사가 제시한 2025년 연결 매출액의 4.65%입니다. 계약 상대방은 자회사 LS ELECTRIC AMERICA Inc.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjRfMzQg/MDAxNzg3NTM5ODA4NDU5.MU3_3W9VMipnPD_3hf8fEomtoex9V2GkpBnVyTX2HnEg.vkdBNA30a5vEX0THhvxhD69YcGEZAiSNclLkyb6-yAcg.PNG/2026-08-24-010120-ls-electric-datacenter-contract-hero.png?type=s3",
+      "tags": [
+        "LSELECTRIC",
+        "010120",
+        "데이터센터",
+        "전력설비",
+        "공급계약",
+        "미국수주",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "계약 조건과 규모",
+          "body": "공시 원문은 계약금액을 미화 1억 6,572만 2,700달러로 적고, 변경계약일인 2026년 8월 21일 하나은행 최초고시 매매기준율 1달러당 1,393원으로 환산했다고 밝혔습니다. 계약금액은 최초 계약보다 증액된 뒤 공시 기준에 해당하게 된 금액입니다. 따라서 이번 공시는 완전히 새로 시작한 프로젝트의 총액을 처음 발표한 자료라기보다, 6월 8일 최초 체결한 계약을 8월 21일 변경한 결과를 담고 있습니다."
+        },
+        {
+          "heading": "날짜별로 볼 계약 진행",
+          "body": "독자가 가장 먼저 확인할 날짜는 계약 변경일과 종료 예정일입니다. 최초 계약일은 6월 8일, 변경 구매주문서 발급일은 8월 21일, 공시 접수일은 8월 24일입니다. 공급 종료 예정일은 2027년 1월 30일입니다. 공시에 적힌 종료일은 납품의 기준점이지만, 매출이 어느 분기에 얼마나 잡힐지는 분기보고서의 매출과 매출채권, 영업현금흐름을 통해 별도로 확인해야 합니다."
+        },
+        {
+          "heading": "장중 시세는 공시와 분리해 확인",
+          "body": "네이버 금융의 2026년 8월 24일 11시 23분 KRX 장중 기준 LS ELECTRIC 현재가는 190,300원으로 전일보다 3,300원, 1.76% 올랐습니다. 거래량은 328,253주, 거래대금은 618억 6,700만 원이었습니다. 같은 시점 시가총액은 28조 5,450억 원, 외국인 보유율은 18.21%로 표시됐습니다."
+        },
+        {
+          "heading": "상반기 재무 수치가 보여 주는 확인 지점",
+          "body": "OpenDART 반기보고서에 따르면 LS ELECTRIC의 2026년 상반기 연결 누적 매출은 2조 9,535억 원, 영업이익은 3,051억 원입니다. 전년 동기 누적 매출 2조 2,251억 원, 영업이익 1,959억 원과 비교하면 외형과 영업이익이 모두 늘었습니다. 이번 계약금액은 회사가 공시에 사용한 2025년 연결 매출 기준 4.65%이며, 상반기 누적 매출과 단순 비교할 때는 같은 기간 기준이 아니라는 점을 구분해야 합니다."
+        },
+        {
+          "heading": "다음 실적에서 볼 항목",
+          "body": "이번 공시 뒤에는 세 가지를 확인하면 됩니다. 첫째, 2027년 1월 30일 종료 예정인 공급 일정이 실제 납품과 매출 인식으로 이어지는지입니다. 둘째, 상반기에 순유출이었던 영업활동 현금흐름이 매출채권 회수와 함께 개선되는지입니다. 셋째, 계약금액이나 기간이 추가로 바뀌는 경우 회사가 정정 또는 후속 공시를 내는지입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-24T03:16:14.444Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ab4dbc0841668f49cb3a69ffa567fbd32d03cea85f156e97b4b4cb4e3bde0a70"
+    },
     {
       "id": "naver:tnsqo1126:224387757936",
       "logNo": "224387757936",
