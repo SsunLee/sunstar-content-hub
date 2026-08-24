@@ -101,7 +101,9 @@ test("translation lag cannot hide an old omission or source drift", () => {
   );
   const missingTranslation = structuredClone(localized);
   const removed = missingTranslation.translations.shift();
-  missingTranslation.counts.entertainment -= 1;
+  missingTranslation.counts[
+    sourcePosts.find((post) => post.logNo === removed.logNo).category
+  ] -= 1;
   missingTranslation.translationLag.translatedCount -= 1;
   missingTranslation.translationLag.translationSetHash =
     localizedTranslationSetHash(missingTranslation.translations);

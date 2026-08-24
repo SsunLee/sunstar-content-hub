@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-24T02:46:11.000Z",
+  "category": "stocks",
+  "start": 71,
+  "end": 95,
+  "translations": [
+    {
+      "logNo": "224388310641",
+      "en": {
+        "title": "LS ELECTRIC's KRW 230.9 Billion Data Center Power Contract: Term and Revenue Share Checked",
+        "summary": "LS ELECTRIC disclosed an amended contract on August 24, 2026 for a power equipment supply project at a U.S. Big Tech data center. The disclosed contract value is KRW 230.85 billion, equal to 4.65% of the company's 2025 consolidated revenue as stated in the filing. The counterparty is its subsidiary LS ELECTRIC AMERICA Inc.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LS ELECTRIC、2,309億ウォンのデータセンター電力設備契約　期間と売上比率を点検",
+        "summary": "LS ELECTRICは2026年8月24日、米国ビッグテック企業のデータセンター向け電力設備供給プロジェクトの変更契約を開示しました。開示された契約金額は2,308億5,172万ウォンで、会社が提示した2025年連結売上高の4.65%に当たります。契約相手は子会社のLS ELECTRIC AMERICA Inc.です。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224387757936",
+      "en": {
+        "title": "Gabia Projects KRW 13 Billion Operating Profit for 2026: What to Check in the Separate-Basis H1 Results",
+        "summary": "Gabia's fair disclosure on August 21, 2026 projects separate-basis revenue of KRW 123.7 billion and operating profit of KRW 13 billion for fiscal year 2026. The figures are a forecast based on a management plan the company built from its recent operating results and internal and external business conditions.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ガビア、2026年営業利益130億ウォン見通し　単独基準・上半期実績と確認点",
+        "summary": "ガビアが2026年8月21日の公正公示で示した2026事業年度見通しは、単独基準で売上高1,237億ウォン、営業利益130億ウォンです。この数値は、会社が最近の営業実績と対内外の事業環境を反映して立てた経営計画に基づく予測値です。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224387436848",
+      "en": {
+        "title": "Finger Decides on KRW 30 Billion Convertible Bond: Megazone Cloud Stake Acquisition and Conversion Terms Checked",
+        "summary": "Finger's 8th private convertible bond, disclosed on August 21, 2026, carries a total face value of KRW 30 billion. The filing lists the use of proceeds solely as funds to acquire securities of another company, not as working capital or debt repayment.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "フィンガー、300億ウォン転換社債発行決定　メガゾーンクラウド持分取得・転換条件を点検",
+        "summary": "フィンガーが2026年8月21日に開示した第8回私募転換社債の券面総額は300億ウォンです。開示上の資金使途は運営資金や債務返済ではなく、他法人証券取得資金としてのみ記載されています。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224387168067",
+      "en": {
+        "title": "SK hynix's KRW 40 Trillion Treasury Share Buyback: August 21 Closing Price and What to Watch Through November",
+        "summary": "The first numbers to check in SK hynix's treasury share buyback decision, disclosed on August 19, 2026, are 24.07 million common shares and KRW 40.0434 trillion.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SKハイニックス、自社株40兆ウォン取得　8月21日終値と11月までの確認点",
+        "summary": "SKハイニックスが2026年8月19日に開示した自己株式取得決定で、まず確認すべき数字は普通株2,407万株と40兆434億ウォンです。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224386720995",
+      "en": {
+        "title": "Doosan Enerbility's Oman Power Plant Contract: KRW 928.1 Billion Scope and 2029 Schedule Checked",
+        "summary": "Doosan Enerbility disclosed on August 21, 2026 that it won a construction contract for an independent power project in Misfah, Oman. The contract value is KRW 928.1 billion, equal to 5.4% of the company's most recent 2025 consolidated revenue of KRW 17.0578 trillion, as stated in the filing.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "斗山エナビリティ、オマーン発電所契約　9,281億ウォン規模と2029年スケジュールを点検",
+        "summary": "斗山エナビリティは2026年8月21日、オマーン・ミスファ地域の独立発電プロジェクトの工事受注を開示しました。契約金額は9,281億ウォンで、会社が開示で示した2025年連結基準の直近売上高17兆578億ウォンの5.4%に当たります。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224386412799",
+      "en": {
+        "title": "Samsung Electronics Decides on KRW 15 Trillion Treasury Share Buyback: Schedule, Purpose, and What to Check",
+        "summary": "Samsung Electronics decided on August 21, 2026 to buy back roughly KRW 15 trillion of treasury shares. The planned amount is exactly KRW 14,999,999,992,000, and applying the board resolution date's closing price of KRW 281,500, the planned quantity is calculated at 53,285,968 common shares.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスン電子、自社株15兆ウォン取得決定　日程・目的と確認点",
+        "summary": "サムスン電子は2026年8月21日、約15兆ウォン規模の自己株式取得を決定しました。予定金額は正確に14兆9,999億9,999万2,000ウォンで、取締役会決議日の終値28万1,500ウォンを適用し、普通株53,285,968株を予定数量として算出しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224385994358",
+      "en": {
+        "title": "D&D Pharmatech's DD01 US Phase 2 CSR: Key Figures and Share Price Move Checked",
+        "summary": "D&D Pharmatech stated in its original filing that it received the Clinical Study Report (CSR) for the U.S. Phase 2 trial of DD01, its treatment candidate for metabolic dysfunction-associated steatohepatitis (MASH), on August 21, 2026. The filing includes both the 12-week MRI-PDFF assessment and the 48-week biopsy-based additional assessment results. The same day's closing price was KRW 53,300, down from the previous day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ディーアンドディーファーマテック、DD01米国第2相CSR受領　主要数値と株価動向を点検",
+        "summary": "ディーアンドディーファーマテックは、代謝機能障害関連脂肪肝炎（MASH）治療薬DD01の米国臨床第2相の治験結果報告書（CSR）を受領したと、2026年8月21日の開示原文で明らかにしました。開示には12週目のMRI-PDFF評価と48週間の生検に基づく追加評価結果が含まれています。同日の終値は5万3,300ウォンで、前日より下落しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224385558880",
+      "en": {
+        "title": "Kakao Decides on Spin-off: Kakao AI Established, Schedule and Share Price Move Checked",
+        "summary": "Kakao disclosed on August 21, 2026 a plan to spin off its KakaoTalk-based platform business into a newly established company, Kakao AI (tentative name), via a shareholder-proportionate split. Under the filing, the surviving company, Kakao X (tentative name), will take over the investment business, while the new company will take over the KakaoTalk-based platform along with the artificial intelligence, advertising, and commerce businesses.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "カカオ、人的分割を決定　カカオAI新設・日程と株価動向を点検",
+        "summary": "カカオは2026年8月21日、カカオトーク基盤のプラットフォーム事業を新設会社カカオAI(仮称)として人的分割する計画を開示しました。開示によると、存続会社のカカオX(仮称)が投資事業を担当し、新設会社がカカオトーク基盤プラットフォームと人工知能、広告、コマース事業を担当します。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224379892753",
+      "en": {
+        "title": "LG Electronics' H1 Results Key Figures: KRW 47.6 Trillion Revenue, KRW 3.25 Trillion Operating Profit Confirmed",
+        "summary": "LG Electronics filed its half-year report on August 14, 2026. Consolidated H1 2026 revenue, previously announced by the company, was KRW 47.5569 trillion and operating profit was KRW 3.2525 trillion, up 9.4% and 71.3% year over year, respectively. This article organizes what makes up the results and what to check next, based on the finalized H1 disclosure.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LG電子上半期実績の核心、売上高47.6兆ウォン・営業利益3.25兆ウォンを確認",
+        "summary": "LG電子は2026年8月14日、半期報告書を提出しました。同社が先に発表した2026年上半期の連結売上高は47兆5,569億ウォン、営業利益は3兆2,525億ウォンで、それぞれ前年同期比9.4%、71.3%増加しました。この記事は上半期の確定開示を基に実績の内訳と次に確認すべき点を整理します。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224378781593",
+      "en": {
+        "title": "SAMG Entertainment's H1 Results: KRW 75.1 Billion Revenue, NXT Price Down 7.97% Checked",
+        "summary": "SAMG Entertainment filed its half-year report on August 14, 2026 and disclosed an IR session for the same day. Per the company's announcement, H1 consolidated revenue was KRW 75.1 billion, up 5.6% year over year, with operating profit of about KRW 6 billion. Overseas revenue was KRW 30.2 billion, up 62.3%. On the Naver Finance screen, the NXT after-hours price was KRW 21,950, down KRW 1,900 (-7.97%) from the previous day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SAMGエンター上半期実績発表、売上高751億ウォン・NXT-7.97%の動きを点検",
+        "summary": "SAMGエンターは2026年8月14日、半期報告書を提出し、同日IR開催も開示しました。会社発表基準の上半期連結売上高は751億ウォンで前年同期比5.6%増、営業利益は約60億ウォンです。海外売上高は302億ウォンで62.3%増加しました。Naver金融画面ではNXT時間外気配値が2万1,950ウォンで、前日比1,900ウォン(-7.97%)でした。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224378536093",
+      "en": {
+        "title": "SK Networks' Q2 Results: KRW 24.8 Billion Operating Profit, Intraday Price Down 6.56% Checked",
+        "summary": "SK Networks disclosed preliminary consolidated Q2 results on August 14, 2026. Revenue was KRW 1.4445 trillion and operating profit was KRW 24.8 billion, down 4.7% and 42.4% year over year, respectively. Net income, however, rose 90.4% year over year to KRW 49.7 billion. At 2:45 p.m. the same day, the Naver Finance screen showed the share price at KRW 7,550, down KRW 530 (-6.56%) from the previous day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SKネットワークス第2四半期実績、営業利益248億ウォン・株価-6.56%の場中動向を点検",
+        "summary": "SKネットワークスは2026年8月14日、連結基準の第2四半期暫定実績を開示しました。売上高は1兆4,445億ウォン、営業利益は248億ウォンで、前年同期比それぞれ-4.7%、-42.4%減少しました。一方、当期純利益は497億ウォンで前年同期比90.4%増加しました。同日午後2時45分のNaver金融画面では、株価は7,550ウォンで前日比530ウォン(-6.56%)でした。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224378141939",
+      "en": {
+        "title": "Coasia's H1 Results: KRW 132.1 Billion Revenue, Operating Profit Turns to a KRW 3 Billion Loss",
+        "summary": "Coasia filed its half-year report on August 14, 2026. Consolidated H1 2026 revenue was KRW 132.07329 billion, up 34.1% year over year, but operating profit swung from a KRW 3.69936 billion gain to a KRW 3.03715 billion operating loss. Net loss was KRW 3.35201 billion.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "コアシア上半期実績、売上高1,321億ウォン・営業損失30億ウォンへの転換を点検",
+        "summary": "コアシアは2026年8月14日、半期報告書を提出しました。連結基準の2026年上半期売上高は1,320億7,329万ウォンで前年同期比34.1%増加しましたが、営業利益は36億9,936万ウォンの黒字から30億3,715万ウォンの営業損失に転じました。当期純損失は33億5,201万ウォンです。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224377989258",
+      "en": {
+        "title": "Moadata's KRW 2 Billion Rights Offering: New Share Count, Payment Date, and Listing Schedule",
+        "summary": "Moadata disclosed on August 14, 2026 that it decided on a third-party allotment rights offering. It will issue 3,169,572 common shares at KRW 631 per share, with expected proceeds of about KRW 2 billion. The payment date is August 21, and the new shares are scheduled to list on September 14. This article organizes the issuance terms, schedule, and figures existing shareholders should check, as confirmed in the filing.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "モアデータ20億ウォンの第三者割当増資、新株数・払込日・上場日程を整理",
+        "summary": "モアデータは2026年8月14日、第三者割当増資を決定したと開示しました。普通株316万9,572株を1株631ウォンで発行し、調達予定額は約20億ウォンです。払込日は8月21日、新株上場予定日は9月14日です。この記事は開示で確認できる発行条件と日程、既存株主が確認すべき数値を整理します。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224377650435",
+      "en": {
+        "title": "Clio's Q2 Results: KRW 11.6 Billion Operating Profit and Same-Day Share Price Gain Checked Together",
+        "summary": "Clio disclosed preliminary consolidated Q2 results on August 13, 2026. Q2 revenue was KRW 86.8 billion, operating profit was KRW 11.6 billion, and net income was KRW 13.7 billion. The same day's Naver Finance stock screen showed the closing price up 5.43% from the previous day. However, this article does not conclude that the results disclosure directly caused the same-day share price gain.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "クリオ第2四半期実績、営業利益116億ウォン・当日株価上昇を併せて点検",
+        "summary": "クリオは2026年8月13日、連結基準の第2四半期暫定実績を開示しました。第2四半期の売上高は868億ウォン、営業利益は116億ウォン、当期純利益は137億ウォンです。同日のNaver金融銘柄画面は前日比5.43%上昇した終値を示しています。ただし、この記事は実績開示が当日の株価上昇を直接引き起こしたとは断定しません。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224377181425",
+      "en": {
+        "title": "CP System's H1 Results: KRW 2.4 Billion Operating Profit and Intraday Share Price Gain Checked Together",
+        "summary": "CP System's half-year report for H1 2026 was filed on August 13. On the same day, the Naver Finance intraday screen showed the share price up from the previous day. This article checks the H1 results and same-day share price together, without concluding that the results disclosure caused the intraday move. Cumulative H1 revenue was KRW 12.05597 billion, operating profit was KRW 2.40638 billion, and net income was KRW 2.8834 billion.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "シーピーシステム上半期実績、営業利益24億ウォン・場中株価上昇を併せて点検",
+        "summary": "シーピーシステムの2026年上半期半期報告書が8月13日に提出されました。同日のNaver金融場中画面では株価が前日より上昇しました。この記事は上半期実績と当日株価を併せて確認しますが、実績開示が場中の値動きを引き起こしたとは断定しません。上半期累計売上高は120億5,597万ウォン、営業利益は24億638万ウォン、純利益は28億8,340万ウォンです。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224377051609",
+      "en": {
+        "title": "Classys Reports Q2 Results: KRW 105.5 Billion Revenue, KRW 43.9 Billion Operating Profit, and Share Price Reaction",
+        "summary": "Classys disclosed preliminary consolidated Q2 results on August 12, 2026. Revenue was KRW 105.5 billion, operating profit was KRW 43.9 billion, and net income was KRW 25.5 billion. Revenue rose 26.7% and operating profit rose 2.2% year over year.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "クラシス、第2四半期実績発表　売上高1,055億ウォン・営業利益439億ウォンと株価反応",
+        "summary": "クラシスは2026年8月12日、連結基準の第2四半期暫定実績を開示しました。売上高は1,055億ウォン、営業利益は439億ウォン、当期純利益は255億ウォンです。売上高は前年同期比26.7%、営業利益は2.2%増加しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224376846964",
+      "en": {
+        "title": "SAMG Entertainment Shares Fall 4.50% as Legend of the Whale Jewel Passes 470,000 Cumulative Admissions",
+        "summary": "As of August 11, cumulative admissions reached 470,000. Per the Korean Film Council's KOBIS data, cumulative admissions for Love Heartsping: Legend of the Whale Jewel reached 472,423 as of August 11, 2026. Same-day daily admissions were 19,207, ranking third in the daily box office.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "SAMGエンター株価4.50%下落、「くじら宝石の伝説」累計47万人動員を点検",
+        "summary": "8月11日の累計観客数は47万人 SAMGエンターは映画振興委員会KOBIS基準で、『恋のハートスピン：くじら宝石の伝説』の2026年8月11日累計観客数が472,423人を記録したと明らかにしました。同日の1日観客数は19,207人で、日別ボックスオフィス3位でした。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224376625070",
+      "en": {
+        "title": "Classys Reports Q2 Results: KRW 105.5 Billion Revenue, KRW 43.9 Billion Operating Profit, and Share Price Reaction",
+        "summary": "Classys disclosed preliminary consolidated Q2 results on August 12, 2026. Revenue was KRW 105.5 billion, operating profit was KRW 43.9 billion, and net income was KRW 25.5 billion. Revenue rose 26.7% and operating profit rose 2.2% year over year.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "クラシス、第2四半期実績発表　売上高1,055億ウォン・営業利益439億ウォンと株価反応",
+        "summary": "クラシスは2026年8月12日、連結基準の第2四半期暫定実績を開示しました。売上高は1,055億ウォン、営業利益は439億ウォン、当期純利益は255億ウォンです。売上高は前年同期比26.7%、営業利益は2.2%増加しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224375832126",
+      "en": {
+        "title": "Pearl Abyss's Q2 Results: KRW 192.6 Billion Revenue, KRW 67.6 Billion Operating Profit Confirmed",
+        "summary": "Pearl Abyss disclosed preliminary consolidated Q2 results on August 11, 2026. Revenue was KRW 192.6 billion, operating profit was KRW 67.6 billion, and net income was KRW 99.5 billion. Revenue and operating profit declined from Q1, but rose 247.8% and 7,388.9%, respectively, year over year.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "パールアビス第2四半期実績、売上高1,926億ウォン・営業利益676億ウォンを確認",
+        "summary": "パールアビスは2026年8月11日、連結基準の第2四半期暫定実績を開示しました。売上高は1,926億ウォン、営業利益は676億ウォン、当期純利益は995億ウォンです。売上高と営業利益は第1四半期より減少しましたが、前年同期比ではそれぞれ247.8%、7,388.9%増加しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224375668693",
+      "en": {
+        "title": "Lunit's H1 Results: KRW 45.8 Billion Revenue, KRW 29 Billion Operating Loss Confirmed",
+        "summary": "H1 revenue was KRW 45.8 billion. Lunit disclosed its 2026 half-year report on August 11, 2026. Consolidated H1 operating revenue was KRW 45.77 billion, operating loss was KRW 28.96 billion, and H1 net loss was KRW 41.37 billion. Compared with a year earlier, revenue rose, but the operating loss and net loss both continued.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ルニット上半期実績、売上高458億ウォン・営業損失290億ウォンを確認",
+        "summary": "上半期売上高は458億ウォン ルニットは2026年8月11日、2026年半期報告書を開示しました。連結基準の上半期営業収益は457億7,000万ウォン、営業損失は289億6,000万ウォン、半期純損失は413億7,000万ウォンです。前年同期と比較すると売上高は増加しましたが、営業損失と純損失はいずれも続きました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224375298477",
+      "en": {
+        "title": "CJ CheilJedang's Q2 Results: Operating Profit Down 27.1%, Intraday Share Price Checked",
+        "summary": "CJ CheilJedang disclosed preliminary consolidated Q2 results on August 11, 2026. Revenue was KRW 7.3621 trillion, operating profit was KRW 257.6 billion, and net income was -KRW 38.8 billion. Naver Pay Securities showed the share price at KRW 191,100 as of 9:40 a.m., down KRW 14,400 from the previous trading day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "CJ第一製糖第2四半期実績、営業利益27.1%減少と場中株価を確認",
+        "summary": "CJ第一製糖は2026年8月11日、連結基準の第2四半期暫定実績を開示しました。売上高は7兆3,621億ウォン、営業利益は2,576億ウォン、当期純利益は-388億ウォンです。Naver Pay証券で午前9時40分に確認した株価は19万1,100ウォンで、前取引日より1万4,400ウォン下落しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224374634001",
+      "en": {
+        "title": "Hanssem's Q2 Results: KRW 11.3 Billion Operating Profit and Same-Day Share Price Checked",
+        "summary": "Hanssem disclosed preliminary consolidated Q2 results on August 10, 2026. Revenue was KRW 417.2 billion, down 9.2% year over year, while operating profit rose 400.2% to KRW 11.3 billion. Net income was KRW 4.8 billion, down 85.2% year over year.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ハンセム第2四半期実績、営業利益113億ウォンと当日株価を確認",
+        "summary": "ハンセムは2026年8月10日、連結基準の第2四半期暫定実績を開示しました。売上高は4,172億ウォンで前年同期比9.2%減少しましたが、営業利益は113億ウォンで400.2%増加しました。当期純利益は48億ウォンで前年同期比85.2%減少しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224374315535",
+      "en": {
+        "title": "LX Holdings' Q2 Results: KRW 60.3 Billion Operating Profit and Same-Day Share Price Checked",
+        "summary": "LX Holdings disclosed preliminary consolidated Q2 results on August 10, 2026. Revenue was KRW 17.286 billion, operating profit was KRW 60.337 billion, and net income was KRW 56.551 billion. The same day's Naver Pay Securities closing price was KRW 8,000, up KRW 230 from the previous trading day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "LXホールディングス第2四半期実績、営業利益603億ウォンと当日株価を確認",
+        "summary": "LXホールディングスは2026年8月10日、連結基準の第2四半期暫定実績を開示しました。売上高は172億8,600万ウォン、営業利益は603億3,700万ウォン、純利益は565億5,100万ウォンです。同日のNaver Pay証券終値は8,000ウォンで、前取引日より230ウォン上昇しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224373856225",
+      "en": {
+        "title": "Sungkwang Bend's Q2 Results Key Figures: Revenue, Operating Profit, and Share Price Reaction Checked",
+        "summary": "Sungkwang Bend disclosed preliminary consolidated Q2 results on August 10, 2026. Revenue was KRW 64.1 billion, operating profit was KRW 10 billion, and net income was KRW 9.6 billion. Revenue rose 10.4% year over year, while operating profit fell 7.1%. Per Naver Pay Securities' daily price data, the same day's closing price was KRW 28,500, up KRW 1,850 from the previous trading day.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ソンクァンベンド第2四半期実績の核心、売上高・営業利益・株価反応を点検",
+        "summary": "ソンクァンベンドは2026年8月10日、連結基準の第2四半期暫定実績を開示しました。売上高は641億ウォン、営業利益は100億ウォン、純利益は96億ウォンです。売上高は前年同期比10.4%増加しましたが、営業利益は7.1%減少しました。Naver Pay証券の日別相場によると、同日の終値は2万8,500ウォンで、前取引日より1,850ウォン上昇しました。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224373601923",
+      "en": {
+        "title": "MX Robotics' KRW 10 Billion Rights Offering: New Share Count, Payment Date, and Listing Schedule",
+        "summary": "MX Robotics disclosed on August 10, 2026 a decision on a KRW 10 billion third-party allotment rights offering. The new shares are 3,289,473 common shares at an issue price of KRW 3,040 per share. The payment date is August 24, and the new shares are scheduled to list on September 7. This offering is structured as a third-party allotment.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "MXロボティクス100億ウォンの第三者割当増資、新株数・払込日・上場日程を整理",
+        "summary": "MXロボティクスは2026年8月10日、100億ウォン規模の第三者割当増資決定を開示しました。新株は普通株328万9,473株で、発行価額は1株3,040ウォンです。払込日は8月24日、新株上場予定日は9月7日です。今回の増資は第三者割当方式です。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}
