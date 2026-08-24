@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-24T10:53:03.485Z",
-  "expectedPublicCount": 1180,
-  "total": 1180,
+  "generatedAt": "2026-08-24T16:54:47.957Z",
+  "expectedPublicCount": 1181,
+  "total": 1181,
   "counts": {
-    "entertainment": 155,
+    "entertainment": 156,
     "stocks": 97,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224389124053",
+      "logNo": "224389124053",
+      "title": "NMIXX 규진 근황, ‘Take A Chance’ 참여와 공식 영상 장면",
+      "url": "https://blog.naver.com/tnsqo1126/224389124053",
+      "publishedAt": "2026-08-24T16:31:29.000Z",
+      "dateLabel": "2026. 8. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX 규진은 2026년 8월 17일 발매된 Jason Lee의 싱글 ‘Take A Chance’에 피처링으로 참여했습니다. NMIXX 공식 사이트의 발매 안내에는 곡명이 ‘Take A Chance (Feat. 규진 of NMIXX)’로 표기됐습니다. 이번 참여는 그룹 활동과 별도로 규진의 이름이 음원 크레디트에 함께 오른 최근 소식입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjVfNDQg/MDAxNzg3NTg4OTc2MDk3.YpQ4r325lajd8sYapVCAljgP7Wjsl17xjCE8netqdG8g.Gq95d8Bmo4vCH-7F17V8gfI0WVg9HKfE5cvXBUC1b7Yg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "NMIXX",
+        "엔믹스",
+        "규진",
+        "KYUJIN",
+        "규진근황",
+        "TakeAChance",
+        "JasonLee",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 17일 공개된 협업 음원",
+          "body": "공식 발매 안내는 Jason Lee와 규진의 협업곡이 8월 17일 공개됐다고 전합니다. 제목의 피처링 표기는 규진이 참여 아티스트라는 사실을 직접 보여 줍니다. 곡의 발매 정보는 NMIXX 공식 채널이 공유한 공지에서 확인할 수 있습니다."
+        },
+        {
+          "heading": "공원과 녹음실을 오가는 솔로 영상",
+          "body": "NMIXX 공식 유튜브의 ‘On The Ground’ 커버 영상에서 규진은 공원, 녹음실, 무대 장면을 오가며 노래합니다. 공원의 나무와 역광, 마이크, 녹음실의 헤드폰과 팝 필터처럼 장소를 구분하는 요소가 장면마다 다르게 나타납니다. 영상 제목에는 NMIXX KYUJIN이 명시돼 있습니다."
+        },
+        {
+          "heading": "지우와 함께한 안무 장면",
+          "body": "NMIXX 공식 채널은 지우와 규진이 함께한 안무 영상을 공개했습니다. 회색 연습실에서 두 사람은 흰색 하의에 서로 다른 상의를 입고 동작을 이어 갑니다. 넓게 잡은 구도와 가까운 구도가 교차해 두 사람의 위치와 안무 흐름을 확인할 수 있습니다."
+        },
+        {
+          "heading": "최근 활동을 읽는 세 가지 확인점",
+          "body": "첫째, 협업 음원의 정확한 표기는 NMIXX 공식 발매 안내에서 확인할 수 있습니다. 둘째, 공식 유튜브의 솔로 커버 영상은 규진이 노래하는 공원과 녹음실 장면을 남겼습니다. 셋째, 지우와 규진의 안무 영상은 두 멤버가 함께한 연습실 퍼포먼스를 보여 줍니다. 각 장면의 출처를 누르면 해당 시점의 공식 영상을 바로 확인할 수 있습니다."
+        },
+        {
+          "heading": "공식 원문으로 확인하기",
+          "body": "협업 음원의 발매일과 참여 표기는 NMIXX 공식 사이트의 공지에 기재돼 있습니다. 영상의 장면과 업로드 채널은 NMIXX 공식 유튜브에서 확인할 수 있습니다. 아래 자료는 본문에서 언급한 활동과 영상의 원문입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-24T16:54:47.957Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3f43a67f0cf917440687d42369fc6734773b43ad790295968a91c04f3a9670c0"
+    },
     {
       "id": "naver:tnsqo1126:224388796845",
       "logNo": "224388796845",
