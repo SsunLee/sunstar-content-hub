@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-24T09:57:33.000Z",
-  "generatedAt": "2026-08-24T10:53:03.485Z",
+  "sourceGeneratedAt": "2026-08-24T16:31:29.000Z",
+  "generatedAt": "2026-08-24T16:54:47.957Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-24T09:57:33.000Z",
-    "translatedCount": 251,
-    "translationSetHash": "sha256:20d88424a5a368e6d4ba14da70ae46e3e02b33619ba808408dedf270ea1de26f"
+    "sourceCutoff": "2026-08-24T16:31:29.000Z",
+    "translatedCount": 252,
+    "translationSetHash": "sha256:d0fa8b57da0b91aeaa6c910ca2f7739961156ae80e2bc3917d8af3b6fd0eefb0"
   },
   "counts": {
-    "entertainment": 154,
+    "entertainment": 155,
     "stocks": 97
   },
   "translations": [
+    {
+      "logNo": "224389124053",
+      "sourceHash": "sha256:521c04abbdcf40d9ebbae11abefd69aebcc2258ba4a5139e64f1f6891719171a",
+      "source": {
+        "title": "NMIXX 규진 근황, ‘Take A Chance’ 참여와 공식 영상 장면",
+        "summary": "NMIXX 규진은 2026년 8월 17일 발매된 Jason Lee의 싱글 ‘Take A Chance’에 피처링으로 참여했습니다. NMIXX 공식 사이트의 발매 안내에는 곡명이 ‘Take A Chance (Feat. 규진 of NMIXX)’로 표기됐습니다. 이번 참여는 그룹 활동과 별도로 규진의 이름이 음원 크레디트에 함께 오른 최근 소식입니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX KYUJIN Update: Featuring on 'Take A Chance' and Official Video Scenes",
+          "summary": "NMIXX's KYUJIN featured on Jason Lee's single 'Take A Chance,' released on August 17, 2026. NMIXX's official site listed the release notice with the track title shown as 'Take A Chance (Feat. KYUJIN of NMIXX).' Separate from group activities, this feature is a recent update that added KYUJIN's name to the track's official credits.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXX キュジン近況、「Take A Chance」参加と公式映像シーン",
+          "summary": "NMIXXのキュジンは、2026年8月17日にリリースされたJason Leeのシングル「Take A Chance」にフィーチャリングとして参加しました。NMIXX公式サイトのリリース案内では、曲名が「Take A Chance (Feat. KYUJIN of NMIXX)」と表記されています。今回の参加は、グループ活動とは別に、キュジンの名前が音源クレジットに加わった最近の話題です。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224388796845",
       "sourceHash": "sha256:83d7a288ff533c05986dd803c61403617f9bf33873a81c2b1774b3360d28ef29",
