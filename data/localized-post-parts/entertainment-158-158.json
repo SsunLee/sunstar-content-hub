@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-25T18:39:08.000Z",
+  "category": "entertainment",
+  "start": 158,
+  "end": 158,
+  "translations": [
+    {
+      "logNo": "224390347617",
+      "en": {
+        "title": "NMIXX Sullyoon Update: Japan Debut Showcase and 'Always' Official Video",
+        "summary": "NMIXX announced on its official Japan website on August 24 that the second round of advance registration for the Japan debut showcase 'N=MIXX' has opened. As a member of NMIXX, Sullyoon is included in this schedule.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "NMIXX ソルユン近況、日本デビューショーケースと「Always」公式映像",
+        "summary": "NMIXXは8月24日、日本公式サイトを通じて日本デビューショーケース『N=MIXX』の2次先行受付開始を発表しました。ソルユンはNMIXXのメンバーとしてこの日程に名を連ねています。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}
