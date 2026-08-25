@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-25T07:07:41.914Z",
-  "expectedPublicCount": 1184,
-  "total": 1184,
+  "generatedAt": "2026-08-25T13:11:06.253Z",
+  "expectedPublicCount": 1185,
+  "total": 1185,
   "counts": {
-    "entertainment": 158,
+    "entertainment": 159,
     "stocks": 98,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224390087001",
+      "logNo": "224390087001",
+      "title": "스트레이 키즈 한 근황, 8월 패션 브이로그와 3RACHA 세션",
+      "url": "https://blog.naver.com/tnsqo1126/224390087001",
+      "publishedAt": "2026-08-25T12:08:01.000Z",
+      "dateLabel": "2026. 8. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "스트레이 키즈 한은 2026년 8월 18일 공개된 ‘[SKZ VLOG] HAN : 신기한 패션로그’에서 옷과 소품을 살피고, 매장과 숙소를 오가는 모습을 보였습니다. 이어 8월 19일 공개된 ‘3RACHA Session’ 세 번째 영상에는 한이 방찬, 창빈과 함께 앉아 대화하는 장면이 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjVfMTc5/MDAxNzg3NjU5NTc4MDM4.Z7GM4Cu4UKpuVTBjTbH9Nj83TzjjDphrak0QYEcdXg4g.Gnoy21c3XUE7HW3eIK-SlcNfmzezIllZ89FJn870U70g.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "3",
+        "한",
+        "HAN",
+        "스트레이키즈",
+        "한근황",
+        "SKZVLOG",
+        "3RACHA",
+        "스트레이키즈공식영상"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 18일 공개된 한의 패션로그",
+          "body": "공식 영상의 제목은 ‘신기한 패션로그’입니다. 한은 실내에서 의상을 입어 보고 카메라를 향해 설명하는 장면으로 영상을 시작합니다. 검은 재킷과 흰 상의를 조합한 장면에서는 조명 장비와 옷장이 함께 보이며, 영상이 개인 촬영 환경에서 이어진다는 점을 확인할 수 있습니다."
+        },
+        {
+          "heading": "매장과 숙소에서 이어진 장면",
+          "body": "브이로그 중반에는 한이 검은 티셔츠 차림으로 앉아 이야기를 이어 가는 장면이 나옵니다. 가까운 거리에서 촬영된 화면에는 한의 표정과 귀걸이가 함께 보이고, 배경에는 흰색 벽과 영상 촬영 장비가 잡힙니다."
+        },
+        {
+          "heading": "3RACHA Session 세 번째 영상",
+          "body": "스트레이 키즈 공식 채널은 다음 날 ‘[3RACHA Session] Session #3’를 공개했습니다. 3RACHA는 방찬, 창빈, 한으로 구성된 유닛 이름이며, 영상에는 세 멤버가 마이크가 놓인 실내 세트에서 대화하는 모습이 이어집니다."
+        },
+        {
+          "heading": "대화 장면에서 확인되는 한의 모습",
+          "body": "세션 영상의 중후반에는 한이 안경을 쓴 채 카드와 질문지를 들고 대화에 참여합니다. 다른 멤버와 마주 보는 화면, 카메라를 향해 혼자 앉은 화면이 차례로 이어지므로, 한의 표정과 손동작을 서로 다른 거리에서 볼 수 있습니다."
+        },
+        {
+          "heading": "8월 공식 콘텐츠에서 볼 흐름",
+          "body": "한의 패션로그는 한 개인의 이동과 의상 선택을 따라가고, 3RACHA Session은 세 멤버가 한 세트에 모여 대화하는 형식입니다. 공개일은 하루 차이지만 영상의 장소와 옷차림, 함께 등장하는 인물이 달라 서로 다른 활동 장면으로 읽을 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-25T13:11:06.253Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:58bd9a33b2845d40b0fe9259d3ec38aa7a85cf1450bdd5eff250373328a90b77"
+    },
     {
       "id": "naver:tnsqo1126:224389686832",
       "logNo": "224389686832",
