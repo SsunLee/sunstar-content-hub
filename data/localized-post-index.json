@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-24T23:43:29.000Z",
-  "generatedAt": "2026-08-25T01:51:35.750Z",
+  "sourceGeneratedAt": "2026-08-25T05:37:30.000Z",
+  "generatedAt": "2026-08-25T07:07:41.914Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-24T23:43:29.000Z",
-    "translatedCount": 254,
-    "translationSetHash": "sha256:facc07901281863baeb1977631c88f49450f298d551f74c519ffad1dd2b75d20"
+    "sourceCutoff": "2026-08-25T05:37:30.000Z",
+    "translatedCount": 255,
+    "translationSetHash": "sha256:d97765ae4d047ee9f51edfc638e65cbd5906721ef2d8eef4fed1b019ddc903c4"
   },
   "counts": {
-    "entertainment": 156,
+    "entertainment": 157,
     "stocks": 98
   },
   "translations": [
+    {
+      "logNo": "224389686832",
+      "sourceHash": "sha256:e00f2d20332046c783d101e2e1a9c06d037360719a1e762364f32b5cf1b4c5db",
+      "source": {
+        "title": "ITZY 채령 근황, 도쿄 투어로그와 ‘2TZY’ 공식 영상 장면",
+        "summary": "ITZY 채령은 2026년 8월 7일 공개된 ‘[TOUR-LOG] EP03 #CHAERYEONG #TOKYO’에서 도쿄 일정의 여러 장면을 보여줬습니다. 편의점과 숙소에서 이어지는 영상에는 채령이 카메라를 들고 이동하거나 준비하는 모습이 담겼습니다. ITZY는 2026년 5월 미니 앨범 ‘Motto’를 발표했고, 채령의 솔로곡 ‘Undefined’를 수록했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY's CHAERYEONG Update: Tokyo Tour Log and Official '2TZY' Video Scenes",
+          "summary": "ITZY's CHAERYEONG appeared in scenes from her Tokyo schedule in '[TOUR-LOG] EP03 #CHAERYEONG #TOKYO,' released on August 7, 2026. The video, shot at a convenience store and her accommodations, shows CHAERYEONG carrying a camera as she moves around and prepares. ITZY released the mini album 'Motto' in May 2026, which includes CHAERYEONG's solo track 'Undefined.'…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZY チェリョン近況、東京ツアーログと公式「2TZY」映像シーン",
+          "summary": "ITZYのチェリョンは、2026年8月7日に公開された「[TOUR-LOG] EP03 #CHAERYEONG #TOKYO」で東京日程のさまざまな場面を見せました。コンビニと宿泊先で続く映像には、チェリョンがカメラを持って移動したり準備したりする姿が収められています。ITZYは2026年5月にミニアルバム「Motto」を発表し、チェリョンのソロ曲「Undefined」を収録しました。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224389304070",
       "sourceHash": "sha256:0b7d5d620e1cd660ec5c4b8661e3d422d7056ad24dc7c591ded8577ff94c2d3b",
