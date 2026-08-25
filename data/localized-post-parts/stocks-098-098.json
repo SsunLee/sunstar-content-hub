@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-25T13:47:03.000Z",
+  "category": "stocks",
+  "start": 98,
+  "end": 98,
+  "translations": [
+    {
+      "logNo": "224390176828",
+      "en": {
+        "title": "Hanwha Up 17.40% on August 25: Closing Price and First-Half Earnings Checked",
+        "summary": "Hanwha closed at KRW 118,100 on the KRX market close on August 25, 2026, per Naver Pay Securities. That is up KRW 17,500, or 17.40%, from the previous trading day. Trading volume came to 1,450,760 shares, with trading value at KRW 173.87 billion. The day's price change and trading figures are confirmed market data.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ハンファ、8月25日に17.40%上昇　終値と上半期決算を点検",
+        "summary": "ハンファは2026年8月25日、ネイバーペイ証券のKRX終値基準で11万8,100ウォンで取引を終えました。前取引日より1万7,500ウォン、17.40%上昇しました。出来高は145万760株、取引代金は1,738億7,200万ウォンと表示されました。この日の価格変動と取引数値は確認された市場データです。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

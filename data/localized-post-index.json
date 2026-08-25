@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-25T05:37:30.000Z",
-  "generatedAt": "2026-08-25T07:07:41.914Z",
+  "sourceGeneratedAt": "2026-08-25T13:47:03.000Z",
+  "generatedAt": "2026-08-25T15:04:19.967Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-25T05:37:30.000Z",
-    "translatedCount": 255,
-    "translationSetHash": "sha256:d97765ae4d047ee9f51edfc638e65cbd5906721ef2d8eef4fed1b019ddc903c4"
+    "sourceCutoff": "2026-08-25T13:47:03.000Z",
+    "translatedCount": 257,
+    "translationSetHash": "sha256:0680a6429ee0aa088a4fdcbfe145a19381106b9a086b6027bb9ce6e4ef8101f0"
   },
   "counts": {
-    "entertainment": 157,
-    "stocks": 98
+    "entertainment": 158,
+    "stocks": 99
   },
   "translations": [
+    {
+      "logNo": "224390176828",
+      "sourceHash": "sha256:5dd6b4cff3b19193cd2928b7789d5c69eb0c600504618af99f52cfbada6c0bb2",
+      "source": {
+        "title": "한화 8월 25일 17.40% 상승, 장마감 시세와 반기 실적 점검",
+        "summary": "한화는 2026년 8월 25일 네이버페이 증권 KRX 장마감 기준으로 118,100원에 거래를 마쳤습니다. 전 거래일보다 17,500원, 17.40% 올랐습니다. 거래량은 145만 760주, 거래대금은 1,738억 7,200만 원으로 표시됐습니다. 이날 가격 변화와 거래 수치는 확인된 시장 데이터입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Hanwha Up 17.40% on August 25: Closing Price and First-Half Earnings Checked",
+          "summary": "Hanwha closed at KRW 118,100 on the KRX market close on August 25, 2026, per Naver Pay Securities. That is up KRW 17,500, or 17.40%, from the previous trading day. Trading volume came to 1,450,760 shares, with trading value at KRW 173.87 billion. The day's price change and trading figures are confirmed market data.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ハンファ、8月25日に17.40%上昇　終値と上半期決算を点検",
+          "summary": "ハンファは2026年8月25日、ネイバーペイ証券のKRX終値基準で11万8,100ウォンで取引を終えました。前取引日より1万7,500ウォン、17.40%上昇しました。出来高は145万760株、取引代金は1,738億7,200万ウォンと表示されました。この日の価格変動と取引数値は確認された市場データです。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224390087001",
+      "sourceHash": "sha256:b904dbdeebac1bb07b9ec468ba1c5fc8a97ee4569dd25e2ec80393d27a6004e3",
+      "source": {
+        "title": "스트레이 키즈 한 근황, 8월 패션 브이로그와 3RACHA 세션",
+        "summary": "스트레이 키즈 한은 2026년 8월 18일 공개된 ‘[SKZ VLOG] HAN : 신기한 패션로그’에서 옷과 소품을 살피고, 매장과 숙소를 오가는 모습을 보였습니다. 이어 8월 19일 공개된 ‘3RACHA Session’ 세 번째 영상에는 한이 방찬, 창빈과 함께 앉아 대화하는 장면이 담겼습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Stray Kids Han Update: August Fashion Vlog and 3RACHA Session",
+          "summary": "Stray Kids' Han checked out outfits and accessories while moving between a store and his accommodations in '[SKZ VLOG] HAN: A Curious Fashion Log,' released on August 18, 2026. The third '3RACHA Session' video, released the next day on August 19, shows Han sitting and talking together with Bang Chan and Changbin.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "Stray Kids ハン近況、8月ファッションVlogと3RACHAセッション",
+          "summary": "Stray Kidsのハンは、2026年8月18日に公開された「[SKZ VLOG] HAN:不思議なファッションログ」で服や小物をチェックし、店舗と宿泊先を行き来する姿を見せました。続いて8月19日に公開された「3RACHA Session」第3弾の映像には、ハンがバンチャン、チャンビンと共に座って会話する場面が収められています。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224389686832",
       "sourceHash": "sha256:e00f2d20332046c783d101e2e1a9c06d037360719a1e762364f32b5cf1b4c5db",
