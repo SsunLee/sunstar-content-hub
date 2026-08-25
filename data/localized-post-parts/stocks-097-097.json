@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-24T23:43:29.000Z",
+  "category": "stocks",
+  "start": 97,
+  "end": 97,
+  "translations": [
+    {
+      "logNo": "224389304070",
+      "en": {
+        "title": "Seojin System's KRW 200 Billion Convertible Bonds: Use of Proceeds and Conversion Share Count Checked",
+        "summary": "Seojin System disclosed four convertible bond issuance decisions on August 24, 2026. The combined face value of the 39th, 40th, 41st, and 42nd tranches is KRW 200 billion. The stated use of proceeds is KRW 70 billion for facility funds, KRW 30 billion for working capital, and KRW 100 billion for debt repayment. A convertible bond does not increase common shares merely by being paid in; bondholders must exercise their conversion right within a set period for new shares to be issued.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ソジンシステム、2,000億ウォン転換社債　使途・転換株式数を点検",
+        "summary": "ソジンシステムは2026年8月24日、転換社債券発行決定4件を公示しました。39・40・41・42回号の券面総額を合わせると2,000億ウォンです。資金使途は施設資金700億ウォン、運営資金300億ウォン、債務返済資金1,000億ウォンと記載されています。転換社債は払込だけで普通株式が増える仕組みではありません。社債権者が定められた期間内に転換請求権を行使して初めて株式が発行されます。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-24T16:31:29.000Z",
-  "generatedAt": "2026-08-24T16:54:47.957Z",
+  "sourceGeneratedAt": "2026-08-24T23:43:29.000Z",
+  "generatedAt": "2026-08-25T01:51:35.750Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-24T16:31:29.000Z",
-    "translatedCount": 252,
-    "translationSetHash": "sha256:d0fa8b57da0b91aeaa6c910ca2f7739961156ae80e2bc3917d8af3b6fd0eefb0"
+    "sourceCutoff": "2026-08-24T23:43:29.000Z",
+    "translatedCount": 254,
+    "translationSetHash": "sha256:facc07901281863baeb1977631c88f49450f298d551f74c519ffad1dd2b75d20"
   },
   "counts": {
-    "entertainment": 155,
-    "stocks": 97
+    "entertainment": 156,
+    "stocks": 98
   },
   "translations": [
+    {
+      "logNo": "224389304070",
+      "sourceHash": "sha256:0b7d5d620e1cd660ec5c4b8661e3d422d7056ad24dc7c591ded8577ff94c2d3b",
+      "source": {
+        "title": "서진시스템 2,000억 원 전환사채, 사용처·전환주식수 점검",
+        "summary": "서진시스템은 2026년 8월 24일 전환사채권 발행결정 4건을 공시했습니다. 39·40·41·42회차의 권면총액을 합치면 2,000억 원입니다. 자금 사용 목적은 시설자금 700억 원, 운영자금 300억 원, 채무상환자금 1,000억 원으로 적혔습니다. 전환사채는 납입만으로 보통주가 늘어나는 구조가 아닙니다. 사채권자가 정해진 기간에 전환권을 청구해야 주식이 발행됩니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Seojin System's KRW 200 Billion Convertible Bonds: Use of Proceeds and Conversion Share Count Checked",
+          "summary": "Seojin System disclosed four convertible bond issuance decisions on August 24, 2026. The combined face value of the 39th, 40th, 41st, and 42nd tranches is KRW 200 billion. The stated use of proceeds is KRW 70 billion for facility funds, KRW 30 billion for working capital, and KRW 100 billion for debt repayment. A convertible bond does not increase common shares merely by being paid in; bondholders must exercise their conversion right within a set period for new shares to be issued.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ソジンシステム、2,000億ウォン転換社債　使途・転換株式数を点検",
+          "summary": "ソジンシステムは2026年8月24日、転換社債券発行決定4件を公示しました。39・40・41・42回号の券面総額を合わせると2,000億ウォンです。資金使途は施設資金700億ウォン、運営資金300億ウォン、債務返済資金1,000億ウォンと記載されています。転換社債は払込だけで普通株式が増える仕組みではありません。社債権者が定められた期間内に転換請求権を行使して初めて株式が発行されます。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224389276182",
+      "sourceHash": "sha256:d1b66b00e9a540b61166cb5f0dfcb37f575c522c4164f93fbee76727d3594897",
+      "source": {
+        "title": "ITZY 류진 근황, 8월 팬미팅과 ‘Motto’ 공식 영상 장면",
+        "summary": "ITZY 류진은 2026년 8월 8일과 9일 서울 올림픽홀에서 열린 다섯 번째 팬미팅 ‘있지 믿지, 날자! ALL IN, MIDZY’에 참여했습니다. ITZY 공식 공지는 류진의 이름을 단 팬미팅 콘텐츠를 7월 1일 공개했고, 공연 일정과 온라인 동시 진행 여부를 함께 안내했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY's RYUJIN Update: August Fan Meeting and Official 'Motto' Video Scenes",
+          "summary": "ITZY's RYUJIN took part in the group's fifth fan meeting, 'Itji Mitji, Nalja! ALL IN, MIDZY,' held at Seoul's Olympic Hall on August 8 and 9, 2026. ITZY's official notice released fan meeting content bearing RYUJIN's name on July 1 and announced the performance schedule along with whether the event would be livestreamed online at the same time.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZY RYUJIN近況、8月ファンミーティングと公式「Motto」映像シーン",
+          "summary": "ITZYのRYUJINは、2026年8月8日と9日にソウル・オリンピックホールで開催された5回目のファンミーティング「イッジ ミッジ、ナルジャ！ALL IN, MIDZY」に参加しました。ITZYの公式告知は、RYUJINの名前を冠したファンミーティングコンテンツを7月1日に公開し、公演日程とオンライン同時配信の有無を併せて案内しました。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224389124053",
       "sourceHash": "sha256:521c04abbdcf40d9ebbae11abefd69aebcc2258ba4a5139e64f1f6891719171a",
