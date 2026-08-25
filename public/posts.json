@@ -4,15 +4,123 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-24T16:54:47.957Z",
-  "expectedPublicCount": 1181,
-  "total": 1181,
+  "generatedAt": "2026-08-25T01:51:35.750Z",
+  "expectedPublicCount": 1183,
+  "total": 1183,
   "counts": {
-    "entertainment": 156,
-    "stocks": 97,
+    "entertainment": 157,
+    "stocks": 98,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224389304070",
+      "logNo": "224389304070",
+      "title": "서진시스템 2,000억 원 전환사채, 사용처·전환주식수 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224389304070",
+      "publishedAt": "2026-08-24T23:43:29.000Z",
+      "dateLabel": "2026. 8. 25.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "서진시스템은 2026년 8월 24일 전환사채권 발행결정 4건을 공시했습니다. 39·40·41·42회차의 권면총액을 합치면 2,000억 원입니다. 자금 사용 목적은 시설자금 700억 원, 운영자금 300억 원, 채무상환자금 1,000억 원으로 적혔습니다. 전환사채는 납입만으로 보통주가 늘어나는 구조가 아닙니다. 사채권자가 정해진 기간에 전환권을 청구해야 주식이 발행됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjVfMjMz/MDAxNzg3NjE0OTMwNTUx.Za6WvXNxB0VfOnjycAVhO9kBy0Rngkjw-eM8ZkwGGWsg.eMbHrvW6RW_nOCXquYP-7v8BMu-K8yX_DdGGsMzvKZEg.PNG/2026-08-25-178320-seojin-cb-hero.png?type=s3",
+      "tags": [
+        "서진시스템",
+        "178320",
+        "전환사채",
+        "CB",
+        "채무상환",
+        "시설자금",
+        "주식공시",
+        "코스닥"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "채무상환자금",
+          "body": "39·41회차의 자금은 시설자금과 운영자금으로, 40·42회차의 자금은 채무상환자금으로 분류됐습니다. 자금 목적은 조달 단계의 분류이므로 실제 집행 시점과 금액은 후속 공시와 재무제표에서 확인해야 합니다. 권면총액은 매출이나 이익과 같은 뜻이 아닙니다."
+        },
+        {
+          "heading": "납입일과 전환청구 시작일",
+          "body": "39·40회차의 납입일은 2026년 9월 1일이고, 41·42회차의 납입일은 2026년 9월 4일입니다. 전환청구는 각각 2027년 9월 1일과 2027년 9월 4일부터 시작합니다. 납입일과 전환청구 시작일 사이에는 약 1년의 간격이 있으므로, 공시 직후 전환 가능 주식수가 바로 상장주식수에 더해지는 것은 아닙니다."
+        },
+        {
+          "heading": "42회차",
+          "body": "회차별 주식수 합계는 571만 3,423주입니다. 공시의 기발행주식 총수 6,365만 737주와 단순 비교하면 약 8.98%입니다. 이 비율은 모든 사채가 최초 전환가액에서 전환된다고 가정한 산술 비교이므로 실제 주식 발행 시점이나 물량을 확정하는 수치는 아닙니다. 납입 완료, 전환가액 조정, 전환청구, 신주 상장 공시를 순서대로 확인해야 합니다."
+        },
+        {
+          "heading": "8월 24일 장마감 시세는 별도의 사실",
+          "body": "네이버 금융의 2026년 8월 24일 장마감 기준 서진시스템 종가는 38,150원입니다. 전 거래일보다 +1,900원, +5.24% 올랐고 거래량은 840,881주였습니다. 시가는 36,250원, 고가는 38,850원, 저가는 35,800원입니다. 8월 25일 개장 전 같은 가격을 기준으로 네이버 금융은 시가총액 2조 4,283억 원, 코스닥 시가총액 순위 33위, 외국인 보유 비율 14.19%를 표시했습니다."
+        },
+        {
+          "heading": "상반기 재무에서 함께 볼 항목",
+          "body": "OpenDART의 2026년 반기보고서 연결 기준으로 서진시스템의 상반기 매출액은 6,903억 5,170만 원, 영업손실은 523억 1,433만 원, 영업활동으로 인한 순현금흐름은 2,350억 9,468만 원 순유출입니다. 반기말 자산총계는 3조 356억 6,033만 원, 부채총계는 2조 441억 1,870만 원, 자본총계는 9,915억 4,163만 원입니다. 현금및현금성자산은 478억 176만 원입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-25T01:51:35.750Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:baaa400fe970f19a415e2206948012a8e1796da969e5711c651ae36e319fbcc7"
+    },
+    {
+      "id": "naver:tnsqo1126:224389276182",
+      "logNo": "224389276182",
+      "title": "ITZY 류진 근황, 8월 팬미팅과 ‘Motto’ 공식 영상 장면",
+      "url": "https://blog.naver.com/tnsqo1126/224389276182",
+      "publishedAt": "2026-08-24T23:03:56.000Z",
+      "dateLabel": "2026. 8. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 류진은 2026년 8월 8일과 9일 서울 올림픽홀에서 열린 다섯 번째 팬미팅 ‘있지 믿지, 날자! ALL IN, MIDZY’에 참여했습니다. ITZY 공식 공지는 류진의 이름을 단 팬미팅 콘텐츠를 7월 1일 공개했고, 공연 일정과 온라인 동시 진행 여부를 함께 안내했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjVfMjEy/MDAxNzg3NjEyNTI3MTIx.xV5-_OVcOOfyGY3cjKW3zwjhoxRwhEW0grFdcbNqN4Yg.__KoYtHfO_-gJjJo99JhYKbOrU3LP04ZSZm3xliMofEg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "ITZY",
+        "있지",
+        "류진",
+        "RYUJIN",
+        "류진근황",
+        "ITZY팬미팅",
+        "Motto",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "팬미팅을 앞둔 류진의 공식 일정",
+          "body": "ITZY는 다섯 번째 팬미팅을 8월 8일 오후 6시와 8월 9일 오후 5시에 진행했습니다. 류진이 출연한 개인 안내 콘텐츠에는 카드 문양과 함께 팬미팅 제목, 날짜, 장소가 표시됩니다. 이 일정은 ITZY의 월드 투어 ‘TUNNEL VISION’과 5월 ‘Motto’ 활동 뒤에 이어진 공식 행사였습니다."
+        },
+        {
+          "heading": "‘2TZY: Hello 2026’에서 유나와 마주한 장면",
+          "body": "ITZY는 2026년 4월 9일 ‘2TZY: Hello 2026’ 8화를 공개했습니다. 류진과 유나가 함께 출연한 영상에서 류진은 연한 베이지색 상의와 흰색 칼라를 착용하고 소파에 앉아 대화를 나눕니다. 0초와 32초 부근에는 정면과 가까운 상반신 구도가 차례로 나타납니다."
+        },
+        {
+          "heading": "‘Motto’ 뮤직비디오 현장의 침대 세트",
+          "body": "ITZY 공식 채널은 2026년 5월 19일 ‘Motto’ 뮤직비디오 메이킹 영상을 공개했습니다. 19분 30초 부근에서 류진은 흰색 상의와 짧은 검은 머리 스타일로 침대 세트에 앉아 촬영을 준비합니다. 어두운 벽면과 흰 침구가 대비를 이루고, 카메라 밖의 제작진이 함께 보입니다."
+        },
+        {
+          "heading": "거울 앞 소품과 붉은 소파가 있는 세트",
+          "body": "20분 부근에는 류진이 거울 앞에 놓인 테이블과 붉은 소파가 있는 공간에 등장합니다. 19분 30초의 침대 세트와 달리, 이 장면은 바닥의 반사와 파란 벽면, 빨간 소파가 화면의 색을 나눕니다. 류진은 몸을 앞으로 기울여 소품을 살피는 동작을 보입니다."
+        },
+        {
+          "heading": "‘LOOK’ 수록곡과 최근 공식 활동의 연결",
+          "body": "ITZY의 미니 앨범 ‘Motto’는 2026년 5월 18일 공개됐으며, 수록곡 목록에는 류진의 솔로곡 ‘LOOK’이 포함됩니다. ITZY는 앨범 활동 뒤 팬미팅과 월드 투어 콘텐츠를 이어 공개했습니다. 팬미팅 일정, ‘2TZY’ 대화 장면, ‘Motto’ 뮤직비디오 현장은 모두 공식 원문에서 날짜와 시간대로 확인할 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-25T01:51:35.750Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:a4f3c8fe23ef930008bac4473128b2213f79908a683400949cf53e89f89b64d7"
+    },
     {
       "id": "naver:tnsqo1126:224389124053",
       "logNo": "224389124053",
