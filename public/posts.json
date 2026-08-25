@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-25T15:04:19.967Z",
-  "expectedPublicCount": 1186,
-  "total": 1186,
+  "generatedAt": "2026-08-25T18:56:49.347Z",
+  "expectedPublicCount": 1187,
+  "total": 1187,
   "counts": {
-    "entertainment": 159,
+    "entertainment": 160,
     "stocks": 99,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224390347617",
+      "logNo": "224390347617",
+      "title": "NMIXX 설윤 근황, 일본 데뷔 쇼케이스와 ‘Always’ 공식 영상",
+      "url": "https://blog.naver.com/tnsqo1126/224390347617",
+      "publishedAt": "2026-08-25T18:39:08.000Z",
+      "dateLabel": "2026. 8. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX는 8월 24일 일본 공식 사이트를 통해 일본 데뷔 쇼케이스 ‘N=MIXX’의 2차 선행 접수 시작을 알렸습니다. 설윤은 NMIXX 멤버로서 이 일정에 함께 이름을 올렸습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjZfODMg/MDAxNzg3NjgzMDU2OTc3.WwYom5YhsgsevTeAuEE3whJV-VEEVx6MHXu80p0e_wYg.5d99xwJvj6wfg5FNHw-8Quu_dWeGyC9ApaLto1w0k50g.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "설윤",
+        "SULLYOON",
+        "NMIXX",
+        "엔믹스",
+        "설윤근황",
+        "일본데뷔쇼케이스",
+        "Always",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224390176828",
       "logNo": "224390176828",
