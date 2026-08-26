@@ -4,15 +4,98 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-25T22:44:18.771Z",
-  "expectedPublicCount": 1188,
-  "total": 1188,
+  "generatedAt": "2026-08-26T01:57:54.117Z",
+  "expectedPublicCount": 1190,
+  "total": 1190,
   "counts": {
-    "entertainment": 160,
+    "entertainment": 162,
     "stocks": 100,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224390560346",
+      "logNo": "224390560346",
+      "title": "아이브 이서 근황, ‘LIZDA’ 비하인드와 월드 투어 로그",
+      "url": "https://blog.naver.com/tnsqo1126/224390560346",
+      "publishedAt": "2026-08-26T01:09:54.000Z",
+      "dateLabel": "2026. 8. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 이서는 2026년 8월 25일 아이브 공식 채널에 공개된 ‘[IVE ON] LEESEO X LIZDA BEHIND’에서 화보 촬영 현장을 보여주었습니다. 영상에는 거울 앞에서 준비하는 장면, 촬영 장비 곁에서 인사하는 장면, 야외 세트로 이동하는 장면이 이어집니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjZfNjgg/MDAxNzg3NzA2NTA1NDU0.iBdI6gy_5lBBo50KRjwKMgBilqtQgi3xAOzzxQgx_o4g.sgU3GtYEOG56kRbKiKayBPnTjgKJNrZVt9R3epi3OCkg.JPEG/naver-photo-01.jpg?type=s3",
+      "tags": [
+        "아이브",
+        "IVE",
+        "이서",
+        "LEESEO",
+        "이서근황",
+        "LIZDA",
+        "아이브월드투어",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 25일 공개된 이서의 촬영 현장",
+          "body": "이 영상은 이서와 리즈가 함께한 콘텐츠의 비하인드입니다. 이서는 창가가 있는 실내 세트에서 헤어와 의상을 정리한 뒤 카메라 앞에 섰고, 촬영 중간에는 현장 카메라를 향해 손을 흔들었습니다. 화면 속 흰색 상의와 분홍색 하의, 분장대와 촬영 장비는 준비 단계와 촬영 진행 상황을 구분해 보여줍니다."
+        },
+        {
+          "heading": "실내 세트와 야외 이동 장면",
+          "body": "공식 영상 중반에는 이서가 실내 세트의 의자에 앉아 카메라를 바라보는 장면과 야외에서 스태프와 이동하는 장면이 나옵니다. 같은 의상이라도 렌즈와 촬영 위치가 달라 장면의 분위기가 구분됩니다. 비하인드 영상은 완성된 화보와 달리 세트 안의 조명, 반사판, 카메라 위치를 함께 확인할 수 있습니다."
+        },
+        {
+          "heading": "체리 소품을 활용한 컷",
+          "body": "후반부에는 이서가 체리를 양손에 든 채 가까이 촬영하는 장면이 공개됐습니다. 흰색 배경과 작은 과일 소품, 손가락에 낀 장식이 한 화면에 담겼습니다. 이 장면은 현장 이동이나 준비 장면과 달리 얼굴과 소품을 가까이 잡은 구도입니다."
+        },
+        {
+          "heading": "월드 투어 중 공개된 이서 로그",
+          "body": "아이브는 2026년 7월 19일 이서의 월드 투어 로그도 공식 채널에 공개했습니다. 영상에는 이동 차량과 공항, 숙소에서 촬영한 짧은 기록이 들어 있습니다. 공항 밖의 야간 거리와 실내 휴식 공간은 8월의 화보 세트와 다른 활동 동선을 보여줍니다."
+        },
+        {
+          "heading": "공식 콘텐츠에서 확인할 다음 일정",
+          "body": "이서는 촬영 현장 비하인드와 월드 투어 로그에서 서로 다른 복장과 장소로 등장했습니다. 아이브의 공식 채널은 ‘SHOW WHAT I AM’ 월드 투어 관련 노트와 멤버별 영상을 계속 공개하고 있습니다. 이후 일정과 새 콘텐츠는 공식 채널 및 공식 계정의 공지를 기준으로 확인하는 편이 정확합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-26T01:57:54.117Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:cebdf63e4245cfdb340f1cd6b0cac27feb2cdfc78e01e39e256706f001d0dc7c"
+    },
+    {
+      "id": "naver:tnsqo1126:224390472394",
+      "logNo": "224390472394",
+      "title": "엄정화 '오케이 마담2' 이미영, 크루즈에서 다시 깨어난 전직 요원",
+      "url": "https://blog.naver.com/tnsqo1126/224390472394",
+      "publishedAt": "2026-08-25T23:37:07.000Z",
+      "dateLabel": "2026. 8. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "엄정화가 영화 '오케이 마담2'의 이미영으로 다시 극장 관객을 만나고 있습니다. 영화진흥위원회 KOBIS에서 이 작품은 8월 25일 일별 박스오피스 5위를 기록했습니다. 전날에도 순위를 지키며 상영을 이어 간 만큼, 1편 이후 6년 만에 돌아온 이미영의 현재를 확인하기 좋은 시점입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjZfNzcg/MDAxNzg3NzAwODg4NDEy.8bZwMdmsiP-gZmeoyv5W3zveC-NCGrFVUkyqW8sBRDEg.Kv5KypkcaSV5FitoKew-A0Qw9hQG0kyTest9IZ2jNWgg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "엄정화",
+        "오케이마담2",
+        "이미영",
+        "한국영화",
+        "영화배우",
+        "배우근황",
+        "엄정화오케이마담2",
+        "이미영한국영화"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224390385102",
       "logNo": "224390385102",
