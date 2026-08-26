@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-26T20:02:11.588Z",
-  "expectedPublicCount": 1194,
-  "total": 1194,
+  "generatedAt": "2026-08-26T23:31:17.896Z",
+  "expectedPublicCount": 1195,
+  "total": 1195,
   "counts": {
-    "entertainment": 165,
+    "entertainment": 166,
     "stocks": 101,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224391556330",
+      "logNo": "224391556330",
+      "title": "NMIXX 규진 근황, 북미 투어와 LA 브이로그·파자마 룸메이트",
+      "url": "https://blog.naver.com/tnsqo1126/224391556330",
+      "publishedAt": "2026-08-26T20:48:14.000Z",
+      "dateLabel": "2026. 8. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX는 2026년 8월 26일 북미 투어 비하인드 영상을 공식 채널에 공개했습니다. 공연장과 이동 동선, 무대 뒤 준비 과정이 이어지는 영상에서 멤버들은 북미 일정의 장면을 차례로 보여줍니다. 규진은 같은 달 공개된 LA 브이로그와 지우·규진의 대화 콘텐츠에서도 서로 다른 일상 장면을 남겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMjAw/MDAxNzg3Nzc3MTkxMzE5.78Cquh32-AO-Mr3WQZztoaDy517-ApXXgopbhBOnhCIg.4S6m-8sV2OwnW3HPjnGeF7AHlcqnwAjOCP_BVBIXUewg.JPEG/la-03.jpg?type=s3",
+      "tags": [
+        "엔믹스",
+        "NMIXX",
+        "규진",
+        "KYUJIN",
+        "규진근황",
+        "엔믹스북미투어",
+        "MIXXLog",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 26일 공개된 북미 투어 비하인드",
+          "body": "NMIXX의 북미 투어 비하인드 영상은 공연 일정을 마친 뒤 공개됐습니다. 영상 제목에는 북미 투어가 명시돼 있으며, 무대와 대기 공간, 이동 과정이 함께 담겼습니다. 규진의 최근 활동은 단일 무대 영상에 그치지 않고 투어 기록과 개인 콘텐츠를 통해 이어집니다."
+        },
+        {
+          "heading": "LA 브이로그에서 이어진 이동 장면",
+          "body": "8월 7일 공개된 ‘MIXX Log’는 규진의 LA 브이로그 형식으로 구성됐습니다. 영상에는 매장을 둘러보고 물건을 살피는 장면과 동행 멤버의 대화가 이어집니다. 흰색 상의와 긴 생머리 차림의 규진은 통로와 진열대 앞에서 카메라를 향해 말합니다."
+        },
+        {
+          "heading": "장면마다 달라지는 LA의 동선",
+          "body": "LA 브이로그는 한 장소에 머무르지 않고 거리, 매장, 실내 공간을 오갑니다. 규진은 이동 중인 화면과 쇼핑하는 화면에서 각기 다른 구도로 등장합니다. 북미 투어라는 큰 일정 안에서 멤버별 기록을 함께 볼 수 있다는 점도 이 영상의 특징입니다."
+        },
+        {
+          "heading": "지우와 함께한 파자마 룸메이트",
+          "body": "7월 31일 공개된 ‘PAJAMA ROOMMATE’는 지우와 규진이 실내에서 대화하는 콘텐츠입니다. 영상 제목은 두 멤버의 이름을 함께 표기합니다. 규진은 소파에 앉아 이야기하고, 손으로 물건을 보여 주며 대화를 이어 갑니다. 무대 밖의 대화 장면은 LA 브이로그의 이동 장면과 다른 구성으로 이어집니다."
+        },
+        {
+          "heading": "공식 채널에서 확인할 다음 기록",
+          "body": "NMIXX 공식 채널에는 북미 투어 비하인드, 규진의 LA 브이로그, 지우·규진 콘텐츠가 각각 남아 있습니다. 북미 일정의 최신 영상은 8월 26일에 공개됐고, LA 브이로그와 파자마 룸메이트는 그보다 앞선 개인 기록을 보여 줍니다. 다음 투어 기록과 멤버별 콘텐츠의 공개 여부는 공식 채널의 새 영상에서 확인할 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-26T23:31:17.896Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8895c1f90ac7e4485dab178a783fb907a590a2a6b2576243f7e5493af200ff6c"
+    },
     {
       "id": "naver:tnsqo1126:224391541242",
       "logNo": "224391541242",
