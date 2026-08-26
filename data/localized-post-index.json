@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-25T18:39:08.000Z",
-  "generatedAt": "2026-08-25T18:56:49.347Z",
+  "sourceGeneratedAt": "2026-08-25T20:48:21.000Z",
+  "generatedAt": "2026-08-25T22:44:18.771Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-25T18:39:08.000Z",
-    "translatedCount": 258,
-    "translationSetHash": "sha256:afc52cd8be111e525b197f93bbc281b0011e344757c2c869e162d3caf7e7401d"
+    "sourceCutoff": "2026-08-25T20:48:21.000Z",
+    "translatedCount": 259,
+    "translationSetHash": "sha256:43553eaea068623bcea495db15d67de61b30796a6cc298f576f55ff2a03f905e"
   },
   "counts": {
     "entertainment": 159,
-    "stocks": 99
+    "stocks": 100
   },
   "translations": [
+    {
+      "logNo": "224390385102",
+      "sourceHash": "sha256:80796b84d1d85ef6da98d31d7bb840dae1679ddbbeb4d3ffd18219b33846c179",
+      "source": {
+        "title": "한전기술 8월 25일 20.27% 상승, 장마감 시세와 반기 재무 점검",
+        "summary": "한전기술은 2026년 8월 25일 네이버페이 증권 KRX 장마감 기준으로 108,600원에 거래를 마쳤습니다. 전 거래일보다 18,300원, 20.27% 올랐습니다. 거래량은 1,484,049주, 거래대금은 1,526억 3,600만 원으로 표시됐습니다. 이 장마감 수치와 최근 반기보고서의 재무 수치는 서로 다른 기준을 보여 줍니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "KEPCO E&C Up 20.27% on August 25: Closing Price and First-Half Financials Checked",
+          "summary": "KEPCO E&C closed at KRW 108,600 on the KRX market close on August 25, 2026, per Naver Pay Securities. That is up KRW 18,300, or 20.27%, from the previous trading day. Trading volume came to 1,484,049 shares, with trading value at KRW 152.64 billion. These closing figures and the recent half-year report's financial figures reflect different bases.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "KEPCO E&C、8月25日に20.27%上昇 終値と上半期決算を点検",
+          "summary": "KEPCO E&Cは2026年8月25日、ネイバーペイ証券のKRX終値基準で10万8,600ウォンで取引を終えました。前取引日より1万8,300ウォン、20.27%上昇しました。出来高は148万4,049株、取引代金は1,526億3,600万ウォンと表示されました。この終値の数値と直近の半期報告書の財務数値は、それぞれ異なる基準を示しています。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224390347617",
       "sourceHash": "sha256:e81cc8b98ce951393aef596cda8d68e969b205d4554023e081cd78eee0f12dca",

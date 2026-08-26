@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-25T20:48:21.000Z",
+  "category": "stocks",
+  "start": 99,
+  "end": 99,
+  "translations": [
+    {
+      "logNo": "224390385102",
+      "en": {
+        "title": "KEPCO E&C Up 20.27% on August 25: Closing Price and First-Half Financials Checked",
+        "summary": "KEPCO E&C closed at KRW 108,600 on the KRX market close on August 25, 2026, per Naver Pay Securities. That is up KRW 18,300, or 20.27%, from the previous trading day. Trading volume came to 1,484,049 shares, with trading value at KRW 152.64 billion. These closing figures and the recent half-year report's financial figures reflect different bases.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "KEPCO E&C、8月25日に20.27%上昇 終値と上半期決算を点検",
+        "summary": "KEPCO E&Cは2026年8月25日、ネイバーペイ証券のKRX終値基準で10万8,600ウォンで取引を終えました。前取引日より1万8,300ウォン、20.27%上昇しました。出来高は148万4,049株、取引代金は1,526億3,600万ウォンと表示されました。この終値の数値と直近の半期報告書の財務数値は、それぞれ異なる基準を示しています。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}
