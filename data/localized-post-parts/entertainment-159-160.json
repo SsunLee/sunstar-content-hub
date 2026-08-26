@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-26T01:09:54.000Z",
+  "category": "entertainment",
+  "start": 159,
+  "end": 160,
+  "translations": [
+    {
+      "logNo": "224390560346",
+      "en": {
+        "title": "IVE Leeseo Update: Behind the Scenes of 'LIZDA' and World Tour Log",
+        "summary": "IVE's Leeseo appeared in '[IVE ON] LEESEO X LIZDA BEHIND,' released on IVE's official channel on August 25, 2026, showing the scene of a pictorial photo shoot. The video moves through her getting ready in front of a mirror, greeting the crew near the filming equipment, and moving to an outdoor set.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "IVEイソ近況、『LIZDA』ビハインドとワールドツアーログ",
+        "summary": "IVEのイソは、2026年8月25日にIVE公式チャンネルで公開された『[IVE ON] LEESEO X LIZDA BEHIND』で、グラビア撮影現場の様子を見せました。映像には鏡の前で身支度をするシーン、撮影機材のそばで挨拶するシーン、屋外セットへ移動するシーンが続きます。",
+        "work": "",
+        "role": ""
+      }
+    },
+    {
+      "logNo": "224390472394",
+      "en": {
+        "title": "Uhm Jung-hwa's 'Okay! Madam 2' Lee Mi-young: A Former Agent Awakens Again on a Cruise",
+        "summary": "Uhm Jung-hwa is meeting theater audiences again as Lee Mi-young in the film 'Okay! Madam 2.' According to the Korean Film Council's KOBIS, the film ranked No. 5 on the daily box office chart on August 25. Since it also held its ranking the day before and kept running in theaters, this is a good moment to check in on Lee Mi-young, who has returned six years after the first film.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "オム・ジョンファ『オーケー・マダム2』イ・ミヨン、クルーズで再び目覚めた元エージェント",
+        "summary": "オム・ジョンファが映画『オーケー・マダム2』のイ・ミヨン役で再び劇場の観客と会っています。映画振興委員会KOBISによると、この作品は8月25日の日別ボックスオフィスで5位を記録しました。前日も順位を維持して上映を続けているだけに、1作目から6年ぶりに戻ってきたイ・ミヨンの現在を確認するのに良い時期です。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

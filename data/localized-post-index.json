@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-25T20:48:21.000Z",
-  "generatedAt": "2026-08-25T22:44:18.771Z",
+  "sourceGeneratedAt": "2026-08-26T01:09:54.000Z",
+  "generatedAt": "2026-08-26T01:57:54.117Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-25T20:48:21.000Z",
-    "translatedCount": 259,
-    "translationSetHash": "sha256:43553eaea068623bcea495db15d67de61b30796a6cc298f576f55ff2a03f905e"
+    "sourceCutoff": "2026-08-26T01:09:54.000Z",
+    "translatedCount": 261,
+    "translationSetHash": "sha256:d546dcdba1bc986fb6795650f640ce00869858a507e581e0402bebea7de4df9b"
   },
   "counts": {
-    "entertainment": 159,
+    "entertainment": 161,
     "stocks": 100
   },
   "translations": [
+    {
+      "logNo": "224390560346",
+      "sourceHash": "sha256:8607583cd9be94d5ecb93b373063e17ab9ebb0d13b311c4b5d34cec76574c522",
+      "source": {
+        "title": "아이브 이서 근황, ‘LIZDA’ 비하인드와 월드 투어 로그",
+        "summary": "아이브 이서는 2026년 8월 25일 아이브 공식 채널에 공개된 ‘[IVE ON] LEESEO X LIZDA BEHIND’에서 화보 촬영 현장을 보여주었습니다. 영상에는 거울 앞에서 준비하는 장면, 촬영 장비 곁에서 인사하는 장면, 야외 세트로 이동하는 장면이 이어집니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "IVE Leeseo Update: Behind the Scenes of 'LIZDA' and World Tour Log",
+          "summary": "IVE's Leeseo appeared in '[IVE ON] LEESEO X LIZDA BEHIND,' released on IVE's official channel on August 25, 2026, showing the scene of a pictorial photo shoot. The video moves through her getting ready in front of a mirror, greeting the crew near the filming equipment, and moving to an outdoor set.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "IVEイソ近況、『LIZDA』ビハインドとワールドツアーログ",
+          "summary": "IVEのイソは、2026年8月25日にIVE公式チャンネルで公開された『[IVE ON] LEESEO X LIZDA BEHIND』で、グラビア撮影現場の様子を見せました。映像には鏡の前で身支度をするシーン、撮影機材のそばで挨拶するシーン、屋外セットへ移動するシーンが続きます。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224390472394",
+      "sourceHash": "sha256:9b0db8af01ab02d9a319d8d6c0949461c353b36d58629d43f5790e6a39902f75",
+      "source": {
+        "title": "엄정화 '오케이 마담2' 이미영, 크루즈에서 다시 깨어난 전직 요원",
+        "summary": "엄정화가 영화 '오케이 마담2'의 이미영으로 다시 극장 관객을 만나고 있습니다. 영화진흥위원회 KOBIS에서 이 작품은 8월 25일 일별 박스오피스 5위를 기록했습니다. 전날에도 순위를 지키며 상영을 이어 간 만큼, 1편 이후 6년 만에 돌아온 이미영의 현재를 확인하기 좋은 시점입니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Uhm Jung-hwa's 'Okay! Madam 2' Lee Mi-young: A Former Agent Awakens Again on a Cruise",
+          "summary": "Uhm Jung-hwa is meeting theater audiences again as Lee Mi-young in the film 'Okay! Madam 2.' According to the Korean Film Council's KOBIS, the film ranked No. 5 on the daily box office chart on August 25. Since it also held its ranking the day before and kept running in theaters, this is a good moment to check in on Lee Mi-young, who has returned six years after the first film.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "オム・ジョンファ『オーケー・マダム2』イ・ミヨン、クルーズで再び目覚めた元エージェント",
+          "summary": "オム・ジョンファが映画『オーケー・マダム2』のイ・ミヨン役で再び劇場の観客と会っています。映画振興委員会KOBISによると、この作品は8月25日の日別ボックスオフィスで5位を記録しました。前日も順位を維持して上映を続けているだけに、1作目から6年ぶりに戻ってきたイ・ミヨンの現在を確認するのに良い時期です。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224390385102",
       "sourceHash": "sha256:80796b84d1d85ef6da98d31d7bb840dae1679ddbbeb4d3ffd18219b33846c179",
