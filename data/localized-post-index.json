@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T14:13:28.000Z",
-  "generatedAt": "2026-08-26T15:52:28.452Z",
+  "sourceGeneratedAt": "2026-08-26T20:00:12.000Z",
+  "generatedAt": "2026-08-26T20:02:11.588Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T14:13:28.000Z",
-    "translatedCount": 264,
-    "translationSetHash": "sha256:dd1ffe1545ef650680340784c9a4707f2d333fa0d517d2fafc979407fa3de40b"
+    "sourceCutoff": "2026-08-26T20:00:12.000Z",
+    "translatedCount": 265,
+    "translationSetHash": "sha256:1b079a48aed070084973be5e71db79cdedb5f43d2489635ca800efab78d4f754"
   },
   "counts": {
-    "entertainment": 163,
+    "entertainment": 164,
     "stocks": 101
   },
   "translations": [
+    {
+      "logNo": "224391541242",
+      "sourceHash": "sha256:59afe28b0b122737cb1df06cf226d23d2f0c5b71288b1021f1f93f4b1e4426af",
+      "source": {
+        "title": "지성 '아파트' 박해강, 178억 앞에서 달라진 전직 보스",
+        "summary": "JTBC 드라마 '아파트'는 8월 16일 방송을 마친 뒤에도 넷플릭스 한국 순위 상단을 지켰습니다. 넷플릭스가 공개한 8월 17일부터 23일까지의 한국 TV 톱10에서 3위에 올랐습니다. 지성이 맡은 박해강은 처음에는 100억 원을 마련하려고 아파트 장기수선충당금 178억 원을 노리지만, 주민들과 얽히면서 자신이 세운 계산과 다른 선택을 하게 되는 인물입니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Ji Sung's Park Hae-gang in 'Apartment': The Former Boss Who Changes Before 17.8 Billion Won",
+          "summary": "JTBC's drama 'Apartment' has stayed near the top of Netflix's Korea rankings even after wrapping its broadcast on August 16. It placed third on Netflix's Korea TV Top 10 for the week of August 17-23. Ji Sung plays Park Hae-gang, a character who initially targets the complex's 17.8 billion won long-term repair reserve fund to raise 10 billion won, but ends up making choices different from his original plan as he becomes entangled with the residents.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "チソン主演『アパート』パク・ヘガン、178億ウォンを前に変わった元ボス",
+          "summary": "JTBCドラマ『アパート』は8月16日の放送終了後もNetflix韓国ランキング上位をキープしています。Netflixが発表した8月17日から23日までの韓国TVトップ10で3位にランクインしました。チソンが演じるパク・ヘガンは、当初100億ウォンを工面するためにマンションの長期修繕積立金178億ウォンを狙いますが、住民たちと関わる中で自らの計算とは異なる選択をすることになる人物です。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224391371113",
       "sourceHash": "sha256:252b99018b075e397c9c6ed1d760a84989b5c78416be346a69d31b0d4d4426cb",
