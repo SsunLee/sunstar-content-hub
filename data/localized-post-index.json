@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T10:48:04.000Z",
-  "generatedAt": "2026-08-26T10:51:21.569Z",
+  "sourceGeneratedAt": "2026-08-26T14:13:28.000Z",
+  "generatedAt": "2026-08-26T15:52:28.452Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T10:48:04.000Z",
-    "translatedCount": 263,
-    "translationSetHash": "sha256:9d5a06b2d9bd6708e6f12ef967172ff030202788931db5bb79690e8f80b90e75"
+    "sourceCutoff": "2026-08-26T14:13:28.000Z",
+    "translatedCount": 264,
+    "translationSetHash": "sha256:dd1ffe1545ef650680340784c9a4707f2d333fa0d517d2fafc979407fa3de40b"
   },
   "counts": {
-    "entertainment": 162,
+    "entertainment": 163,
     "stocks": 101
   },
   "translations": [
+    {
+      "logNo": "224391371113",
+      "sourceHash": "sha256:252b99018b075e397c9c6ed1d760a84989b5c78416be346a69d31b0d4d4426cb",
+      "source": {
+        "title": "아이브 레이 근황, ‘WEGO’ 비하인드와 시드니 공식 영상 장면",
+        "summary": "아이브 레이는 2026년 7월 22일 공개된 ‘REI X WEGO BEHIND’에서 WEGO 촬영 현장과 준비 장면을 보여주었습니다. 영상은 레이가 카메라 앞에서 인사를 건네는 장면으로 시작하며, 의상과 세트가 바뀌는 과정도 담았습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "IVE Rei Update: Behind the Scenes of 'WEGO' and Official Sydney Video Scenes",
+          "summary": "IVE's Rei showed behind-the-scenes footage from the WEGO shoot and preparations in 'REI X WEGO BEHIND,' released on July 22, 2026. The video opens with Rei greeting the camera and also captures the changes in costumes and sets.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "IVEレイ近況、『WEGO』ビハインドとシドニー公式映像シーン",
+          "summary": "IVEのレイは、2026年7月22日に公開された『REI X WEGO BEHIND』でWEGO撮影現場と準備の様子を披露しました。映像はレイがカメラに向かって挨拶するシーンから始まり、衣装とセットが変わる過程も収められています。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224391194446",
       "sourceHash": "sha256:13803cf5f1d9dc817f3629771cee364970aa4da1386e2c7a7109acd7cf11e4ee",

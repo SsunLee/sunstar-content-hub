@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-26T14:13:28.000Z",
+  "category": "entertainment",
+  "start": 162,
+  "end": 162,
+  "translations": [
+    {
+      "logNo": "224391371113",
+      "en": {
+        "title": "IVE Rei Update: Behind the Scenes of 'WEGO' and Official Sydney Video Scenes",
+        "summary": "IVE's Rei showed behind-the-scenes footage from the WEGO shoot and preparations in 'REI X WEGO BEHIND,' released on July 22, 2026. The video opens with Rei greeting the camera and also captures the changes in costumes and sets.",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "IVEレイ近況、『WEGO』ビハインドとシドニー公式映像シーン",
+        "summary": "IVEのレイは、2026年7月22日に公開された『REI X WEGO BEHIND』でWEGO撮影現場と準備の様子を披露しました。映像はレイがカメラに向かって挨拶するシーンから始まり、衣装とセットが変わる過程も収められています。",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}
