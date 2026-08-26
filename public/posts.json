@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-26T15:52:28.452Z",
-  "expectedPublicCount": 1193,
-  "total": 1193,
+  "generatedAt": "2026-08-26T20:02:11.588Z",
+  "expectedPublicCount": 1194,
+  "total": 1194,
   "counts": {
-    "entertainment": 164,
+    "entertainment": 165,
     "stocks": 101,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224391541242",
+      "logNo": "224391541242",
+      "title": "지성 '아파트' 박해강, 178억 앞에서 달라진 전직 보스",
+      "url": "https://blog.naver.com/tnsqo1126/224391541242",
+      "publishedAt": "2026-08-26T20:00:12.000Z",
+      "dateLabel": "2026. 8. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "JTBC 드라마 '아파트'는 8월 16일 방송을 마친 뒤에도 넷플릭스 한국 순위 상단을 지켰습니다. 넷플릭스가 공개한 8월 17일부터 23일까지의 한국 TV 톱10에서 3위에 올랐습니다. 지성이 맡은 박해강은 처음에는 100억 원을 마련하려고 아파트 장기수선충당금 178억 원을 노리지만, 주민들과 얽히면서 자신이 세운 계산과 다른 선택을 하게 되는 인물입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMzAw/MDAxNzg3Nzc0MjU3Njg5.PlwMxQEgvc2kj3STv2bBY8_iRgsou3Vk_Q_VBO_zX9Eg.qKmUtb96RIlAelxQd9a8_7674P7oYnJerhw2Pa9WFNUg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "지성",
+        "아파트",
+        "박해강",
+        "지성근황",
+        "JTBC드라마",
+        "넷플릭스",
+        "한국드라마",
+        "배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224391371113",
       "logNo": "224391371113",
@@ -78,7 +107,7 @@
       "categoryLabel": "주식",
       "sourceCategoryNo": "109",
       "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 본문 이해를 돕기 위한 연출 이미지입니다. 네이버페이 증권 장마감 시세 SK아이이테크놀로지는 2026년 8월 26일 네이버페이 증권 KRX 장마감 기준 19,960원으로 거래를 마쳤습니다. 전 거래일보다 4,600원, 29.95% 오른 가격이며 거래량은 5,531,834주, 거래대금은 999억 4,800만 원으로 표시됩니다.…",
-      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjZfMjMz/MDAxNzg3NzQxMTA3MTUy.Q_r6jkEt7yf9UmfD4Vn8jiYzAPkPEBoUh18UG-kQGxEg.7gC__WkM1aPn8Raf_cJvGxMRkdxpNThZ-q0ZM7NBZOIg.PNG/2026-08-26-361610-skiet-hero.png?type=s3",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMjQ3/MDAxNzg3NzY2MTUxMzY2.kx67kvwyns9vXp4fQH-LUw3QQW0lTT7U_SOJNwzQTDsg.mdXhSTuFnVPWwUPJcDgR7KbDHrVq10BZcrWI9foYwx4g.PNG/2026-08-26-361610-skiet-hero.png?type=s3",
       "tags": [
         "SK아이이테크놀로지",
         "361610",
@@ -120,9 +149,9 @@
           "body": "공시된 일정은 주주확정 기준일 2026년 9월 9일, 합병반대의사 통지 접수 11월 9일부터 23일까지, 임시 주주총회 예정일 11월 24일, 주식매수청구권 행사 기간 11월 24일부터 12월 14일까지, 합병기일 2027년 1월 1일입니다. 신주의 상장예정일은 2027년 1월 18일로 기재됐습니다. 주식매수청구권은 반대의사 통지와 보유 요건 등 공시에 적힌 조건을 충족해야 하므로, 권리 행사 가능 여부는 증권사 안내와 공시 원문을 개별적으로 확인해야 합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-26T10:51:21.569Z",
+      "detailUpdatedAt": "2026-08-26T20:02:11.588Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8a4b3ec729311f0a9acc97366c1a8133352a9ccbd3587dc7fefeca2998fcbdd7"
+      "detailContentHash": "sha256:2f71b1df160afad0987a379d2cdd55498a9d5d5cece3d0885cff6ef2020a1b71"
     },
     {
       "id": "naver:tnsqo1126:224391019773",
