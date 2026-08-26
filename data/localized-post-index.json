@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T01:09:54.000Z",
-  "generatedAt": "2026-08-26T01:57:54.117Z",
+  "sourceGeneratedAt": "2026-08-26T07:46:32.000Z",
+  "generatedAt": "2026-08-26T09:01:47.648Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T01:09:54.000Z",
-    "translatedCount": 261,
-    "translationSetHash": "sha256:d546dcdba1bc986fb6795650f640ce00869858a507e581e0402bebea7de4df9b"
+    "sourceCutoff": "2026-08-26T07:46:32.000Z",
+    "translatedCount": 262,
+    "translationSetHash": "sha256:25d2145f43f238ae4f253898acbf15034853521efb2cc6d44eba6539ef322645"
   },
   "counts": {
-    "entertainment": 161,
+    "entertainment": 162,
     "stocks": 100
   },
   "translations": [
+    {
+      "logNo": "224391019773",
+      "sourceHash": "sha256:52b991d7513feda5b3d2e0dd614e029e7b71ea6c0d5213d505d35ee1178f164a",
+      "source": {
+        "title": "스트레이 키즈 승민 근황, ‘After You’ 메이킹 필름과 미니 브이로그",
+        "summary": "스트레이 키즈 승민은 8월 25일 공개된 ‘After You’ 비디오 메이킹 필름에서 촬영 준비와 현장 장면을 선보였습니다. 이어 8월 20일에는 개인 브이로그 ‘Mini's minilog 7’도 공개했습니다. 두 공식 영상은 같은 시기 승민이 음악 영상 촬영과 일상형 콘텐츠에 함께 참여한 모습을 보여 줍니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Stray Kids Seungmin Update: 'After You' Making Film and Mini Vlog",
+          "summary": "Stray Kids' Seungmin appeared in the 'After You' video making film released on August 25, showing preparation and behind-the-scenes moments from the shoot. He also released a personal vlog, 'Mini's minilog 7,' on August 20. The two official videos show Seungmin taking part in both music video filming and everyday-style content around the same period.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "Stray Kidsスンミン近況、'After You'メイキングフィルムとミニVlog",
+          "summary": "Stray Kidsのスンミンは、8月25日に公開された「After You」ビデオのメイキングフィルムで、撮影準備と現場の様子を披露しました。続いて8月20日には個人Vlog「Mini's minilog 7」も公開しました。2つの公式映像は、同じ時期にスンミンがミュージックビデオ撮影と日常系コンテンツの両方に参加した様子を見せています。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224390560346",
       "sourceHash": "sha256:8607583cd9be94d5ecb93b373063e17ab9ebb0d13b311c4b5d34cec76574c522",
