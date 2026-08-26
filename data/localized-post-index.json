@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T07:46:32.000Z",
-  "generatedAt": "2026-08-26T09:01:47.648Z",
+  "sourceGeneratedAt": "2026-08-26T10:48:04.000Z",
+  "generatedAt": "2026-08-26T10:51:21.569Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T07:46:32.000Z",
-    "translatedCount": 262,
-    "translationSetHash": "sha256:25d2145f43f238ae4f253898acbf15034853521efb2cc6d44eba6539ef322645"
+    "sourceCutoff": "2026-08-26T10:48:04.000Z",
+    "translatedCount": 263,
+    "translationSetHash": "sha256:9d5a06b2d9bd6708e6f12ef967172ff030202788931db5bb79690e8f80b90e75"
   },
   "counts": {
     "entertainment": 162,
-    "stocks": 100
+    "stocks": 101
   },
   "translations": [
+    {
+      "logNo": "224391194446",
+      "sourceHash": "sha256:13803cf5f1d9dc817f3629771cee364970aa4da1386e2c7a7109acd7cf11e4ee",
+      "source": {
+        "title": "SK아이이테크놀로지 합병비율 0.1174540주, 8월 26일 상한가와 일정 확인",
+        "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 본문 이해를 돕기 위한 연출 이미지입니다. 네이버페이 증권 장마감 시세 SK아이이테크놀로지는 2026년 8월 26일 네이버페이 증권 KRX 장마감 기준 19,960원으로 거래를 마쳤습니다. 전 거래일보다 4,600원, 29.95% 오른 가격이며 거래량은 5,531,834주, 거래대금은 999억 4,800만 원으로 표시됩니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "SK IE Technology Merger Ratio 0.1174540 Shares: August 26 Limit-Up and Schedule Checked",
+          "summary": "This is a staged image to aid understanding of the article. Per Naver Pay Securities' KRX market close price, SK IE Technology closed at KRW 19,960 on August 26, 2026. That is up KRW 4,600, or 29.95%, from the previous trading day, with trading volume at 5,531,834 shares and trading value at KRW 99.948 billion.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "SKアイイーテクノロジー合併比率0.1174540株、8月26日ストップ高と日程を確認",
+          "summary": "本文の理解を助けるための演出イメージです。ネイバーペイ証券のKRX終値基準で、SKアイイーテクノロジーは2026年8月26日、1万9,960ウォンで取引を終えました。前取引日より4,600ウォン、29.95%上昇し、出来高は553万1,834株、取引代金は999億4,800万ウォンと表示されました。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224391019773",
       "sourceHash": "sha256:52b991d7513feda5b3d2e0dd614e029e7b71ea6c0d5213d505d35ee1178f164a",
