@@ -4,15 +4,93 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-26T23:31:17.896Z",
-  "expectedPublicCount": 1195,
-  "total": 1195,
+  "generatedAt": "2026-08-27T09:46:07.827Z",
+  "expectedPublicCount": 1197,
+  "total": 1197,
   "counts": {
-    "entertainment": 166,
-    "stocks": 101,
+    "entertainment": 167,
+    "stocks": 102,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224392218603",
+      "logNo": "224392218603",
+      "title": "박소담 '경주기행' 영주, 복수 여행의 계산을 맡은 둘째 딸",
+      "url": "https://blog.naver.com/tnsqo1126/224392218603",
+      "publishedAt": "2026-08-27T08:06:33.000Z",
+      "dateLabel": "2026. 8. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "영화 '경주기행'이 8월 26일 개봉 첫날 영화진흥위원회 일별 박스오피스 3위에 올랐습니다. 당일 관객은 3만 6,795명, 누적 관객은 4만 2,281명이었습니다. 박소담은 엄마 옥실과 세 딸이 떠나는 수상한 가족여행에서 둘째 딸 영주를 맡았습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMjE2/MDAxNzg3ODE3ODY4MTkw.SvRqKV3DS4Vo7QtoTcIeadqnqQ7LQTvAu9HmkzvJOOcg.cHw4TMmRHwaQqa0p1o2Dy5A3diElJ0lUEkwaNpPKfGMg.JPEG/park-so-dam-01.jpg?type=s3",
+      "tags": [
+        "박소담",
+        "경주기행",
+        "영주",
+        "박소담근황",
+        "한국영화",
+        "롯데엔터테인먼트",
+        "영화배우",
+        "박스오피스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224392200660",
+      "logNo": "224392200660",
+      "title": "가온전선 8월 27일 25.00% 상승, 장마감 시세와 반기 재무 점검",
+      "url": "https://blog.naver.com/tnsqo1126/224392200660",
+      "publishedAt": "2026-08-27T07:51:25.000Z",
+      "dateLabel": "2026. 8. 27.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "가온전선은 2026년 8월 27일 네이버페이 증권 KRX 장마감 기준 211,500원에 거래를 마쳤습니다. 전 거래일보다 42,300원, 25.00% 올랐습니다. 거래량은 792,916주, 거래대금은 1,563억 9,500만 원으로 표시됐습니다. 회사 또는 거래소가 가격 상승을 특정 공시나 사업 이슈와 직접 연결한 공식 설명은 확인하지 못했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfNjQg/MDAxNzg3ODE2OTExNjkx.qgSf6-UmvVxD5JOl-J9dJ3eQCB7GHBrbzY53m0ZHKFog.BzB4cw0RdQlO8NHmN66bbYTb_xjLWvbgrBbGUy5yDmcg.PNG/2026-08-27-000500-gaon-cable-hero.png?type=s3",
+      "tags": [
+        "가온전선",
+        "000500",
+        "가온전선주가",
+        "장마감",
+        "전력케이블",
+        "반기보고서",
+        "거래대금"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 27일 장마감에서 확인된 시세",
+          "body": "네이버페이 증권은 시가총액을 6조 2,980억 원, 코스피 순위를 102위, 외국인 보유율을 1.91%로 표시합니다. 최근 4분기 기준 PER은 97.96배, PBR은 11.88배입니다. 이 지표는 규모·보유 구조·평가를 참고하는 수치이며 당일 상승의 원인이나 이후 방향을 확정하지 않습니다."
+        },
+        {
+          "heading": "시가·저가·고가·종가를 따로 보기",
+          "body": "8월 27일 시가는 175,700원, 저가는 171,000원, 고가는 217,000원, 종가는 211,500원입니다. 저가와 고가의 차이는 46,000원입니다. 종가는 장중 고가보다 5,500원 낮았지만 전일 종가보다 42,300원 높습니다. 이 네 가격은 서로 다른 시점을 나타내므로 고가와 종가의 간격만으로 다음 날 변동 방향을 확정할 수는 없습니다."
+        },
+        {
+          "heading": "반기보고서가 보여 주는 재무 맥락",
+          "body": "2026년 상반기 연결 반기보고서의 반기 누적 매출액은 8,693억 9,020만 원, 영업이익은 361억 3,180만 원입니다. 영업활동 현금흐름은 1,742억 9,498만 원 순유출입니다. 손익계산서의 매출·영업이익과 현금흐름표의 영업활동 현금흐름은 같은 뜻이 아닙니다."
+        },
+        {
+          "heading": "다음 거래일 전에 확인할 항목",
+          "body": "다음 거래일에는 장마감 종가와 거래대금이 8월 27일 수치에서 어떻게 달라지는지, 수주·실적·정정 공시가 새로 나오는지를 확인할 수 있습니다. 가격 움직임의 공식 근거가 없는 상태에서는 산업 뉴스나 시장 해석을 개별 종목의 주가 원인으로 바꾸어 말하지 않는 편이 안전합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-27T09:46:07.827Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d98a622a0292120dec6a864c219c200134ddfe638f4e62e7f93910238c811949"
+    },
     {
       "id": "naver:tnsqo1126:224391556330",
       "logNo": "224391556330",
