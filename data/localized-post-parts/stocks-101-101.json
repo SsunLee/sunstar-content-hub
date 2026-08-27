@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-27T08:06:33.000Z",
+  "category": "stocks",
+  "start": 101,
+  "end": 101,
+  "translations": [
+    {
+      "logNo": "224392200660",
+      "en": {
+        "title": "Gaon Cable Up 25.00% on August 27: Closing Price and First-Half Financial Check",
+        "summary": "Gaon Cable closed at KRW 211,500 on August 27, 2026, per Naver Pay Securities' KRX market-close price. That's up KRW 42,300, or 25.00%, from the previous trading day, with trading volume at 792,916 shares and trading value at KRW 156.395 billion. No official explanation was confirmed connecting the price increase directly to a specific disclosure or business issue from the company or the exchange.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "ガオンケーブル、8月27日25.00%上昇 取引終了時点の株価と上半期財務を点検",
+        "summary": "ガオンケーブルは2026年8月27日、ネイバーペイ証券のKRX終値基準で21万1,500ウォンで取引を終えた。前取引日より4万2,300ウォン、25.00%上昇し、出来高は79万2,916株、取引代金は1,563億9,500万ウォンと表示された。株価上昇を特定の公示や事業案件に直接結び付ける公式な説明は確認されていない。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}

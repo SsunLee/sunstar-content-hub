@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T20:48:14.000Z",
-  "generatedAt": "2026-08-26T23:31:17.896Z",
+  "sourceGeneratedAt": "2026-08-27T08:06:33.000Z",
+  "generatedAt": "2026-08-27T09:46:07.827Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T20:48:14.000Z",
-    "translatedCount": 266,
-    "translationSetHash": "sha256:1266500b83ccd68cc11d8b8c2bbae03e928ac6fac1b401fd43bc7a7368a2903c"
+    "sourceCutoff": "2026-08-27T08:06:33.000Z",
+    "translatedCount": 268,
+    "translationSetHash": "sha256:63a5979add9c6905b24e56259d8de112b282e0b629024c3f307687b18d215f5c"
   },
   "counts": {
-    "entertainment": 165,
-    "stocks": 101
+    "entertainment": 166,
+    "stocks": 102
   },
   "translations": [
+    {
+      "logNo": "224392218603",
+      "sourceHash": "sha256:270abf0e2b1df0182098d87c0b21ad61e28f89430e068b8f7f66a449dbbc3a47",
+      "source": {
+        "title": "박소담 '경주기행' 영주, 복수 여행의 계산을 맡은 둘째 딸",
+        "summary": "영화 '경주기행'이 8월 26일 개봉 첫날 영화진흥위원회 일별 박스오피스 3위에 올랐습니다. 당일 관객은 3만 6,795명, 누적 관객은 4만 2,281명이었습니다. 박소담은 엄마 옥실과 세 딸이 떠나는 수상한 가족여행에서 둘째 딸 영주를 맡았습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Park So-dam's 'Gyeongju Travelogue': Yeong-ju, the Second Daughter Handling the Revenge Trip's Calculations",
+          "summary": "The film 'Gyeongju Travelogue' ranked third on the Korean Film Council's daily box office chart on its August 26 opening day. Same-day admissions were 36,795, with cumulative admissions at 42,281. Park So-dam plays Yeong-ju, the second daughter, in a suspicious family trip taken by mother Ok-sil and her three daughters.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "パク・ソダム『慶州紀行』ヨンジュ、復讐旅行の計算を担う次女",
+          "summary": "映画『慶州紀行』は公開初日の8月26日、映画振興委員会の日別ボックスオフィスで3位となった。当日の観客数は3万6,795人、累計観客数は4万2,281人だった。パク・ソダムは、母オクシルと3人の娘が繰り広げる怪しい家族旅行で次女ヨンジュを演じた。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224392200660",
+      "sourceHash": "sha256:5ce41c466a8ef9644e3c06a464632850dde9de1c673a02b7adcebfb71e519230",
+      "source": {
+        "title": "가온전선 8월 27일 25.00% 상승, 장마감 시세와 반기 재무 점검",
+        "summary": "가온전선은 2026년 8월 27일 네이버페이 증권 KRX 장마감 기준 211,500원에 거래를 마쳤습니다. 전 거래일보다 42,300원, 25.00% 올랐습니다. 거래량은 792,916주, 거래대금은 1,563억 9,500만 원으로 표시됐습니다. 회사 또는 거래소가 가격 상승을 특정 공시나 사업 이슈와 직접 연결한 공식 설명은 확인하지 못했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Gaon Cable Up 25.00% on August 27: Closing Price and First-Half Financial Check",
+          "summary": "Gaon Cable closed at KRW 211,500 on August 27, 2026, per Naver Pay Securities' KRX market-close price. That's up KRW 42,300, or 25.00%, from the previous trading day, with trading volume at 792,916 shares and trading value at KRW 156.395 billion. No official explanation was confirmed connecting the price increase directly to a specific disclosure or business issue from the company or the exchange.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ガオンケーブル、8月27日25.00%上昇 取引終了時点の株価と上半期財務を点検",
+          "summary": "ガオンケーブルは2026年8月27日、ネイバーペイ証券のKRX終値基準で21万1,500ウォンで取引を終えた。前取引日より4万2,300ウォン、25.00%上昇し、出来高は79万2,916株、取引代金は1,563億9,500万ウォンと表示された。株価上昇を特定の公示や事業案件に直接結び付ける公式な説明は確認されていない。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224391556330",
       "sourceHash": "sha256:f0ac56b986e18887c2b19b748e48bafcc4be40227a0b22f8227237050009193d",
