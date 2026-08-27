@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-26T20:00:12.000Z",
-  "generatedAt": "2026-08-26T20:02:11.588Z",
+  "sourceGeneratedAt": "2026-08-26T20:48:14.000Z",
+  "generatedAt": "2026-08-26T23:31:17.896Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-26T20:00:12.000Z",
-    "translatedCount": 265,
-    "translationSetHash": "sha256:1b079a48aed070084973be5e71db79cdedb5f43d2489635ca800efab78d4f754"
+    "sourceCutoff": "2026-08-26T20:48:14.000Z",
+    "translatedCount": 266,
+    "translationSetHash": "sha256:1266500b83ccd68cc11d8b8c2bbae03e928ac6fac1b401fd43bc7a7368a2903c"
   },
   "counts": {
-    "entertainment": 164,
+    "entertainment": 165,
     "stocks": 101
   },
   "translations": [
+    {
+      "logNo": "224391556330",
+      "sourceHash": "sha256:f0ac56b986e18887c2b19b748e48bafcc4be40227a0b22f8227237050009193d",
+      "source": {
+        "title": "NMIXX 규진 근황, 북미 투어와 LA 브이로그·파자마 룸메이트",
+        "summary": "NMIXX는 2026년 8월 26일 북미 투어 비하인드 영상을 공식 채널에 공개했습니다. 공연장과 이동 동선, 무대 뒤 준비 과정이 이어지는 영상에서 멤버들은 북미 일정의 장면을 차례로 보여줍니다. 규진은 같은 달 공개된 LA 브이로그와 지우·규진의 대화 콘텐츠에서도 서로 다른 일상 장면을 남겼습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Kyujin Update: North America Tour, LA Vlog, and 'Pajama Roommate'",
+          "summary": "NMIXX released a behind-the-scenes video of their North America tour on their official channel on August 26, 2026. The video follows the venues, travel between stops, and backstage preparations, showing each member's moments from the North America schedule in turn. Kyujin also left different everyday scenes that same month in her LA vlog and in a conversation video with Jiwoo.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXXキュジン近況、北米ツアーとLAブイログ・パジャマルームメイト",
+          "summary": "NMIXXは2026年8月26日、公式チャンネルで北米ツアーの舞台裏映像を公開した。会場やツアー先の移動、舞台裏の準備が続く映像で、メンバーたちは北米日程での場面を順番に見せている。キュジンは同月に公開されたLAブイログや、ジウ・キュジンの会話コンテンツでも、それぞれ異なる日常の場面を残した。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224391541242",
       "sourceHash": "sha256:59afe28b0b122737cb1df06cf226d23d2f0c5b71288b1021f1f93f4b1e4426af",
