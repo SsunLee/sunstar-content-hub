@@ -321,6 +321,17 @@ const partSpecs = [
       "stocks-101-101.json",
     ),
   },
+  {
+    category: "entertainment",
+    start: 166,
+    end: 168,
+    path: resolve(
+      projectRoot,
+      "data",
+      "localized-post-parts",
+      "entertainment-166-168.json",
+    ),
+  },
 ];
 const fields = ["title", "summary", "work", "role"];
 const targetLocales = ["en", "ja"];
