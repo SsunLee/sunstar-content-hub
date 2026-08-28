@@ -1,18 +1,114 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-27T18:06:35.000Z",
-  "generatedAt": "2026-08-27T20:29:45.881Z",
+  "sourceGeneratedAt": "2026-08-28T05:31:52.000Z",
+  "generatedAt": "2026-08-28T06:06:38.963Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-27T18:06:35.000Z",
-    "translatedCount": 271,
-    "translationSetHash": "sha256:4a0309e3a79c0d8deaca5ab179e3b1a6e3ec5467569c131ca7a957b170fec452"
+    "sourceCutoff": "2026-08-28T05:31:52.000Z",
+    "translatedCount": 275,
+    "translationSetHash": "sha256:416266c08baee1e03a4286a74794d0fd49574dcd3846faeef57ba8f78146d83d"
   },
   "counts": {
-    "entertainment": 169,
-    "stocks": 102
+    "entertainment": 172,
+    "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224393182414",
+      "sourceHash": "sha256:f2fe6a2cafab243dbd2813b07094050c54bbf7766377fa80e487a56927e76ce2",
+      "source": {
+        "title": "스트레이 키즈 리노 근황, 8월 커버 영상과 SKZ-TALKER 85편",
+        "summary": "스트레이 키즈 리노는 2026년 8월 22일 공식 유튜브 채널에서 공개된 ‘The kNOw Way’ 여섯 번째 영상으로 김광진의 ‘처음 느낌 그대로’를 커버했습니다. 8월 26일에는 같은 채널의 ‘SKZ-TALKER’ 85편에도 등장했습니다. 두 영상은 무대 위 결과물과 촬영 현장의 움직임을 서로 다른 형식으로 보여 줍니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Stray Kids Lee Know Update: August Cover Video and SKZ-TALKER Episode 85",
+          "summary": "Stray Kids' Lee Know covered Kim Kwang-jin's song 'Cheoeum Neukkim Geudaero' in the sixth video of 'The kNOw Way,' released on the group's official YouTube channel on August 22, 2026. He also appeared in episode 85 of 'SKZ-TALKER' on the same channel on August 26. The two videos show, in different formats, a finished on-stage performance and the movement of a shoot in progress.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "Stray Kidsリノ近況、8月カバー映像とSKZ-TALKER第85話",
+          "summary": "Stray Kidsのリノは、2026年8月22日に公式YouTubeチャンネルで公開された「The kNOw Way」第6弾の映像で、キム・グァンジンの楽曲「チョウム ヌッキム クデロ」をカバーした。8月26日には同チャンネルの「SKZ-TALKER」第85話にも登場した。2本の映像は、ステージ上の完成された姿と撮影現場の動きを、それぞれ異なる形式で見せている。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224393087619",
+      "sourceHash": "sha256:3f2a151dc339f31e263606a864fa07d0d6ecfb32265ce6c07ad03a2ec8313e31",
+      "source": {
+        "title": "그레타 리 '라스트 하우스' 앤, 가족을 지키는 생존의 중심",
+        "summary": "넷플릭스 영화 '라스트 하우스'는 2026년 8월 23일로 끝난 주간 한국 영화 톱10에서 1위를 기록했습니다. 그레타 리가 맡은 앤 델가도는 재난으로 고립된 가족의 생활을 붙드는 인물입니다. 그레타 리는 수중 장면을 직접 준비하려고 런던에서 잠수 훈련까지 받았습니다. 순위, 배역, 최근 준비 과정을 함께 보면 앤이 이야기의 중심에 놓인 이유가 또렷해집니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Greta Lee's Anne in 'The Last House': The Center of a Family's Survival",
+          "summary": "The Netflix film 'The Last House' ranked No. 1 on Netflix's weekly Top 10 (Korean Films) chart for the week ending August 23, 2026. Greta Lee plays Anne Delgado, the character who holds together a family's life after they're cut off by disaster. Greta Lee even trained in scuba diving in London to prepare the underwater scenes herself. Taken together, the ranking, the role, and her recent preparation make clear why Anne sits at the center of the story.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "グレタ・リー『ラスト・ハウス』アン、家族を守り抜く生存の中心",
+          "summary": "Netflix映画『ラスト・ハウス』は、2026年8月23日締めの週間Netflix Top10(韓国映画)チャートで1位を記録した。グレタ・リーが演じるアン・デルガドは、災害によって孤立した家族の生活を支える人物だ。グレタ・リーは水中シーンを自ら演じるため、ロンドンでダイビング訓練まで受けた。ランキング、役柄、そして最近の準備過程を合わせて見ると、アンがこの物語の中心に置かれた理由がはっきりと見えてくる。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224392778360",
+      "sourceHash": "sha256:da4c0d7ff82a5d788048ee7df76a5df5d68a2cc6214ab59ef8323b47909bc729",
+      "source": {
+        "title": "아이브 가을 근황, ROGER & GALLET 비하인드와 도쿄 투어 노트",
+        "summary": "아이브 가을은 2026년 8월 10일 공개된 ‘GAEUL X ROGER & GALLET BEHIND’에서 브랜드 촬영 현장의 준비 과정과 여러 세트를 오가며 등장했습니다. 이어 8월 8일 공개된 ‘Note #8 : TOKYO’에는 아이브의 ‘SHOW WHAT I AM’ 월드 투어 도쿄 일정이 담겼습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "IVE Gaeul Update: ROGER & GALLET Behind-the-Scenes and Tokyo Tour Notes",
+          "summary": "IVE's Gaeul appeared moving between the preparation process and multiple sets on a brand photo shoot in 'GAEUL X ROGER & GALLET BEHIND,' released on August 10, 2026. Then, 'Note #8 : TOKYO,' released on August 8, captured the Tokyo dates of IVE's 'SHOW WHAT I AM' world tour.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "IVEガウル近況、ROGER & GALLET舞台裏と東京ツアーノート",
+          "summary": "IVEのガウルは、2026年8月10日に公開された「GAEUL X ROGER & GALLET BEHIND」で、ブランド撮影現場の準備過程と複数のセットを行き来しながら登場した。続いて8月8日に公開された「Note #8 : TOKYO」には、IVEの「SHOW WHAT I AM」ワールドツアーの東京公演の様子が収められている。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224392746657",
+      "sourceHash": "sha256:cd1321b6fbd006ed121caed14828a378a92901a2011773912fc6a24772b31ec6",
+      "source": {
+        "title": "삼성SDI 8월 27일 10.27% 상승, 장마감 시세와 반기 재무 점검",
+        "summary": "삼성SDI는 2026년 8월 27일 네이버페이 증권 KRX 장마감 기준 569,000원에 거래를 마쳤습니다. 전 거래일보다 53,000원, 10.27% 올랐습니다. 거래량은 940,535주, 거래대금은 5,257억 2,700만 원으로 표시됐습니다. 회사 또는 거래소가 이 가격 상승을 특정 공시나 사업 이슈와 직접 연결한 공식 설명은 확인하지 못했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Samsung SDI Up 10.27% on August 27: Closing Price and First-Half Financial Check",
+          "summary": "Samsung SDI closed at KRW 569,000 on August 27, 2026, per Naver Pay Securities' KRX market-close price. That's up KRW 53,000, or 10.27%, from the previous trading day, with trading volume at 940,535 shares and trading value at KRW 525.727 billion. No official explanation was confirmed connecting the price increase directly to a specific disclosure or business issue from the company or the exchange.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "サムスンSDI、8月27日10.27%上昇 取引終了時点の株価と上半期財務を点検",
+          "summary": "サムスンSDIは2026年8月27日、ネイバーペイ証券のKRX終値基準で56万9,000ウォンで取引を終えた。前取引日より5万3,000ウォン、10.27%上昇し、出来高は94万535株、取引代金は5,257億2,700万ウォンと表示された。株価上昇を特定の公示や事業案件に直接結び付ける公式な説明は確認されていない。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224392672235",
       "sourceHash": "sha256:26f9d87852270f748d7793aa5102182c1b7fd2caaef232d04cd4beb132af7388",

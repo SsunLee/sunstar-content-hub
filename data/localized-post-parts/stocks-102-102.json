@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceGeneratedAt": "2026-08-28T05:31:52.000Z",
+  "category": "stocks",
+  "start": 102,
+  "end": 102,
+  "translations": [
+    {
+      "logNo": "224392746657",
+      "en": {
+        "title": "Samsung SDI Up 10.27% on August 27: Closing Price and First-Half Financial Check",
+        "summary": "Samsung SDI closed at KRW 569,000 on August 27, 2026, per Naver Pay Securities' KRX market-close price. That's up KRW 53,000, or 10.27%, from the previous trading day, with trading volume at 940,535 shares and trading value at KRW 525.727 billion. No official explanation was confirmed connecting the price increase directly to a specific disclosure or business issue from the company or the exchange.…",
+        "work": "",
+        "role": ""
+      },
+      "ja": {
+        "title": "サムスンSDI、8月27日10.27%上昇 取引終了時点の株価と上半期財務を点検",
+        "summary": "サムスンSDIは2026年8月27日、ネイバーペイ証券のKRX終値基準で56万9,000ウォンで取引を終えた。前取引日より5万3,000ウォン、10.27%上昇し、出来高は94万535株、取引代金は5,257億2,700万ウォンと表示された。株価上昇を特定の公示や事業案件に直接結び付ける公式な説明は確認されていない。…",
+        "work": "",
+        "role": ""
+      }
+    }
+  ]
+}
