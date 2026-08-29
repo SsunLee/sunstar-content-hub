@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-29T02:49:19.556Z",
-  "expectedPublicCount": 1206,
-  "total": 1206,
+  "generatedAt": "2026-08-29T11:04:49.859Z",
+  "expectedPublicCount": 1207,
+  "total": 1207,
   "counts": {
-    "entertainment": 175,
+    "entertainment": 176,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224394393384",
+      "logNo": "224394393384",
+      "title": "'욕망의 덫' 장서희가 맡은 주미란, 이름과 과거를 지운 설계자",
+      "url": "https://blog.naver.com/tnsqo1126/224394393384",
+      "publishedAt": "2026-08-29T10:59:15.000Z",
+      "dateLabel": "2026. 8. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "장서희는 KBS2 일일드라마 '욕망의 덫'에서 주미란을 맡았습니다. 주미란은 자신의 이름과 과거를 지운 채 청마그룹에 보모로 들어가 새로운 삶을 만든 인물입니다. 닐슨코리아가 집계한 2026년 8월 28일 전국 가구 시청률은 7.9%였으며, 이 수치는 배우 개인의 인기가 아니라 해당 회차의 방송 성적을 뜻합니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjlfNzMg/MDAxNzg4MDAxMDEzNDUx.JvPsQcrvHT5WIl3TIFQntYiBkIDxrn2Yadcqtjnd5dEg.8ZiH9Wep3MZvQ7Ip-_4OhZiYLpPcs4R1cjjKXDh0lVwg.JPEG/jang-seo-hee-01-teaser-emotional.jpg?type=s3",
+      "tags": [
+        "장서희",
+        "욕망의덫",
+        "주미란",
+        "KBS2드라마",
+        "일일드라마",
+        "배우근황",
+        "드라마배우",
+        "복수극"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224393967777",
       "logNo": "224393967777",
