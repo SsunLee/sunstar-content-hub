@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-29T10:59:15.000Z",
-  "generatedAt": "2026-08-29T11:04:49.859Z",
+  "sourceGeneratedAt": "2026-08-29T14:11:37.000Z",
+  "generatedAt": "2026-08-29T16:47:37.155Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-29T10:59:15.000Z",
-    "translatedCount": 278,
-    "translationSetHash": "sha256:379802a20d872e78d13b9f9eadb0bc1cc3ada33dcc8dd9990d4f4eb1e07e6507"
+    "sourceCutoff": "2026-08-29T14:11:37.000Z",
+    "translatedCount": 279,
+    "translationSetHash": "sha256:81a2761b153e90934c31c9f7c6941587229820c56a91a54c905a1c5a75bcc50a"
   },
   "counts": {
-    "entertainment": 175,
+    "entertainment": 176,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224394526191",
+      "sourceHash": "sha256:b3e78e472bfb55cc4bb0f94473e36611e119e56f08dd3be02a3df6cbeb20c553",
+      "source": {
+        "title": "NMIXX 규진 휴가 브이로그 근황, 야구 연습 숏폼까지",
+        "summary": "NMIXX 공식 유튜브 채널은 2026년 8월 28일 규진의 개인 휴가 브이로그를 공개했습니다. 8월 21일에는 규진이 야구 연습을 하는 숏폼도 공개됐습니다. 집에서 보내는 시간, 외출과 노래방, 야구장 실내 장면까지 이어지는 8월 공식 콘텐츠를 확인할 수 있습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Kyujin Update: Vacation Vlog and Baseball Practice Short-Form Video",
+          "summary": "NMIXX's official YouTube channel released Kyujin's personal vacation vlog on August 28, 2026. On August 21, a short-form video of Kyujin practicing baseball was also released. The August official content spans time at home, outings and karaoke, and scenes inside a baseball facility.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXX キュジン近況、休暇Vlogから野球練習のショート動画まで",
+          "summary": "NMIXXの公式YouTubeチャンネルは、2026年8月28日にキュジンの個人休暇Vlogを公開した。8月21日には、キュジンが野球の練習をするショート動画も公開された。自宅で過ごす時間から外出やカラオケ、屋内野球場の場面まで続く8月の公式コンテンツを確認できる。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224394393384",
       "sourceHash": "sha256:4fd6b49c3b2d778aa40d3dbf490c2fcd986c20c8a090b94bfdf8c0d5b5a2bbc7",
