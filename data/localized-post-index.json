@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-29T14:11:37.000Z",
-  "generatedAt": "2026-08-29T16:47:37.155Z",
+  "sourceGeneratedAt": "2026-08-29T20:40:50.000Z",
+  "generatedAt": "2026-08-29T20:54:33.087Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-29T14:11:37.000Z",
-    "translatedCount": 279,
-    "translationSetHash": "sha256:81a2761b153e90934c31c9f7c6941587229820c56a91a54c905a1c5a75bcc50a"
+    "sourceCutoff": "2026-08-29T20:40:50.000Z",
+    "translatedCount": 280,
+    "translationSetHash": "sha256:b256b92601620d04c7b926a6a62a142bf6c1729fcccc312c7a289111d4f12686"
   },
   "counts": {
-    "entertainment": 176,
+    "entertainment": 177,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224394697789",
+      "sourceHash": "sha256:ff2bfd028fa0b2c8fe70478c11cfbccb0f53095aa3b4680662f9534e05b41232",
+      "source": {
+        "title": "NMIXX 설윤 근황, ATURIA 광고 메이킹과 릴리 룸메이트 영상",
+        "summary": "NMIXX 공식 유튜브 채널은 2026년 8월 12일 설윤의 ‘SULLYOON ATURIA Ad Behind-the-Scenes | Day MIXX’를 공개했습니다. 영상에는 준비실, 헤어 연출, 식사 시간, 색이 다른 촬영 세트가 차례로 담겼습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Sullyoon Update: ATURIA Ad Behind-the-Scenes and 'Pajama Roommate' with Lily",
+          "summary": "NMIXX's official YouTube channel released Sullyoon's 'SULLYOON ATURIA Ad Behind-the-Scenes | Day MIXX' on August 12, 2026. The video shows, in order, the dressing room, hair styling, mealtime, and shooting sets in different colors.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXXソルユン近況、ATURIA広告メイキングとリリーとの「パジャマルームメイト」",
+          "summary": "NMIXX公式YouTubeチャンネルは、2026年8月12日にソルユンの「SULLYOON ATURIA Ad Behind-the-Scenes | Day MIXX」を公開した。映像には、準備室、ヘアスタイリング、食事の時間、色の異なる撮影セットが順に収められている。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224394526191",
       "sourceHash": "sha256:b3e78e472bfb55cc4bb0f94473e36611e119e56f08dd3be02a3df6cbeb20c553",
