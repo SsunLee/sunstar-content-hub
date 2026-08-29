@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-28T14:43:59.000Z",
-  "generatedAt": "2026-08-28T18:40:23.387Z",
+  "sourceGeneratedAt": "2026-08-29T00:43:00.000Z",
+  "generatedAt": "2026-08-29T02:49:19.556Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-28T14:43:59.000Z",
-    "translatedCount": 276,
-    "translationSetHash": "sha256:73e5e1f3ed032049ef646dcf97502002d00af6458cb399895da03c0dcca676bb"
+    "sourceCutoff": "2026-08-29T00:43:00.000Z",
+    "translatedCount": 277,
+    "translationSetHash": "sha256:4840f8bb452097c94253298f8348121f9a91989dadfdd1f08972770e141652b2"
   },
   "counts": {
-    "entertainment": 173,
+    "entertainment": 174,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224393967777",
+      "sourceHash": "sha256:1ac91cf1fbc3f86725d329dd8e592d4d38c3868cc91f48d52c5db3517dd8b829",
+      "source": {
+        "title": "'오크 스트리트의 마지막 날' 앤 해서웨이, 드니스는 어떤 엄마인가?",
+        "summary": "앤 해서웨이는 영화 '오크 스트리트의 마지막 날'에서 플랫 가족의 엄마 드니스 플랫을 맡았습니다. 워너브러더스 코리아는 드니스를 가족을 지키려고 위험에 먼저 맞서는 인물로 소개합니다. 영화는 2026년 8월 26일 한국 극장에서 개봉했고, 영화진흥위원회가 집계한 8월 28일 일별 박스오피스 4위에 올랐습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'The Last Day of Oak Street': What Kind of Mother Is Anne Hathaway's Denise?",
+          "summary": "Anne Hathaway plays Denise Flatt, mother of the Flatt family, in the film 'The Last Day of Oak Street.' Warner Bros. Korea introduces Denise as a character who confronts danger first to protect her family. The film opened in South Korean theaters on August 26, 2026, and ranked No. 4 on the Korean Film Council's daily box office chart for August 28.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『オーク・ストリートの最後の日』アン・ハサウェイ、ドニスはどんな母親か?",
+          "summary": "アン・ハサウェイは映画『オーク・ストリートの最後の日』で、フラット家の母ドニス・フラットを演じる。ワーナー・ブラザース・コリアは、ドニスを家族を守るために真っ先に危険に立ち向かう人物として紹介している。同作は2026年8月26日に韓国の劇場で公開され、映画振興委員会集計の8月28日付日別ボックスオフィスで4位となった。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224393696090",
       "sourceHash": "sha256:47c0c5186e21e60d7f50fb48d1cf103538ba8f59ef3d28a9c8c2cee468e38c01",
