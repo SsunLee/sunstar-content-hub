@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-28T18:40:23.387Z",
-  "expectedPublicCount": 1205,
-  "total": 1205,
+  "generatedAt": "2026-08-29T02:49:19.556Z",
+  "expectedPublicCount": 1206,
+  "total": 1206,
   "counts": {
-    "entertainment": 174,
+    "entertainment": 175,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224393967777",
+      "logNo": "224393967777",
+      "title": "'오크 스트리트의 마지막 날' 앤 해서웨이, 드니스는 어떤 엄마인가?",
+      "url": "https://blog.naver.com/tnsqo1126/224393967777",
+      "publishedAt": "2026-08-29T00:43:00.000Z",
+      "dateLabel": "2026. 8. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "앤 해서웨이는 영화 '오크 스트리트의 마지막 날'에서 플랫 가족의 엄마 드니스 플랫을 맡았습니다. 워너브러더스 코리아는 드니스를 가족을 지키려고 위험에 먼저 맞서는 인물로 소개합니다. 영화는 2026년 8월 26일 한국 극장에서 개봉했고, 영화진흥위원회가 집계한 8월 28일 일별 박스오피스 4위에 올랐습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjlfMTQ2/MDAxNzg3OTY0MDI4NjU4.idnFNLO3Bf0VTxAJ5FFt5Z-5GnB59Fn7gopw1l3lRMQg.po5mTQn8gZS17hCK_ayHbS4yahp3Sx2L2eC2WA-j53cg.JPEG/anne-hathaway-01-warner-still.jpg?type=s3",
+      "tags": [
+        "앤해서웨이",
+        "오크스트리트의마지막날",
+        "드니스플랫",
+        "영화배우",
+        "할리우드영화",
+        "워너브러더스",
+        "박스오피스",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224393696090",
       "logNo": "224393696090",
