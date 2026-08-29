@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-29T16:47:37.155Z",
-  "expectedPublicCount": 1208,
-  "total": 1208,
+  "generatedAt": "2026-08-29T20:54:33.087Z",
+  "expectedPublicCount": 1209,
+  "total": 1209,
   "counts": {
-    "entertainment": 177,
+    "entertainment": 178,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224394697789",
+      "logNo": "224394697789",
+      "title": "NMIXX 설윤 근황, ATURIA 광고 메이킹과 릴리 룸메이트 영상",
+      "url": "https://blog.naver.com/tnsqo1126/224394697789",
+      "publishedAt": "2026-08-29T20:40:50.000Z",
+      "dateLabel": "2026. 8. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX 공식 유튜브 채널은 2026년 8월 12일 설윤의 ‘SULLYOON ATURIA Ad Behind-the-Scenes | Day MIXX’를 공개했습니다. 영상에는 준비실, 헤어 연출, 식사 시간, 색이 다른 촬영 세트가 차례로 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzBfOTEg/MDAxNzg4MDM1OTU3NTAy.J3N3AUcFwQFJCRucLcQ26uIgK64sJiPL5x-uNRQrxykg.RzGqnKJdWaBsz0d83oWjO6lRqIsfhmLRtgNpcI6ABe4g.JPEG/sullyoon-aturia-0020.jpg?type=s3",
+      "tags": [
+        "엔믹스",
+        "NMIXX",
+        "설윤",
+        "SULLYOON",
+        "설윤근황",
+        "DayMIXX",
+        "ATURIA",
+        "PAJAMAROOMMATE"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 12일 공개된 설윤의 Day MIXX",
+          "body": "공식 영상 제목에는 설윤과 ATURIA가 함께 표기돼 있습니다. 첫 장면에서 설윤은 분홍색 의상을 입고 준비실의 테이블 앞에 앉아 있습니다. 이어지는 화면은 한 장소만 반복하지 않고, 헤어 스타일링과 촬영 준비가 진행되는 공간을 차례로 보여 줍니다."
+        },
+        {
+          "heading": "검은색 의상과 헤어 연출 장면",
+          "body": "영상 초반에는 설윤이 검은색 민소매 의상을 입고 의자에 앉아 있습니다. 스태프가 머리카락을 정리하는 동안 설윤은 카메라와 대화하고, 식사 상자를 들고 화면에 나오는 장면도 이어집니다. 검은색 의상과 긴 생머리, 실내의 회색 배경이 함께 보이는 구도입니다."
+        },
+        {
+          "heading": "촬영 세트에서 달라지는 의상과 배경",
+          "body": "중반부에는 흰색 의상과 목걸이를 착용한 설윤이 분홍색 배경 앞에 섭니다. 손을 턱 아래에 대거나 카메라 방향을 바꾸는 동작이 이어지고, 조명과 배경색이 바뀌면서 같은 영상 안에서도 촬영 장면의 구성이 달라집니다. 화면에 보이는 움직임과 의상 변화만으로도 준비실 장면과 촬영 세트를 구분할 수 있습니다."
+        },
+        {
+          "heading": "꽃다발이 나온 노란색 배경 장면",
+          "body": "후반부에서 설윤은 연한 색의 상의를 입고 노란색 배경 앞에 앉아 꽃다발을 듭니다. 앞선 분홍색 배경 장면과 비교하면 배경색, 의상, 소품, 카메라 거리 모두 달라집니다. 영상은 촬영이 완성되는 결과를 설명하기보다, 현장에서 이어지는 준비와 촬영 순간을 보여 줍니다."
+        },
+        {
+          "heading": "릴리와 함께 나온 룸메이트 영상",
+          "body": "NMIXX 공식 채널은 2026년 7월 24일 릴리와 설윤이 함께 출연한 ‘PAJAMA ROOMMATE’를 공개했습니다. 1분 20초대에서 설윤은 검은색 파자마 차림으로 릴리와 침대 옆에 앉아 대화합니다. 8월 광고 메이킹의 촬영 세트와 달리 객실의 침대, 벽 타일, 잠옷 차림이 보이는 일상형 구도입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-29T20:54:33.087Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:67857d301fc56c3269303239bde8953812e0aaed792a46c13bc022cd1d7c36e0"
+    },
     {
       "id": "naver:tnsqo1126:224394526191",
       "logNo": "224394526191",
