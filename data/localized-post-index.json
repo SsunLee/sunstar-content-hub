@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-29T00:43:00.000Z",
-  "generatedAt": "2026-08-29T02:49:19.556Z",
+  "sourceGeneratedAt": "2026-08-29T10:59:15.000Z",
+  "generatedAt": "2026-08-29T11:04:49.859Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-29T00:43:00.000Z",
-    "translatedCount": 277,
-    "translationSetHash": "sha256:4840f8bb452097c94253298f8348121f9a91989dadfdd1f08972770e141652b2"
+    "sourceCutoff": "2026-08-29T10:59:15.000Z",
+    "translatedCount": 278,
+    "translationSetHash": "sha256:379802a20d872e78d13b9f9eadb0bc1cc3ada33dcc8dd9990d4f4eb1e07e6507"
   },
   "counts": {
-    "entertainment": 174,
+    "entertainment": 175,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224394393384",
+      "sourceHash": "sha256:4fd6b49c3b2d778aa40d3dbf490c2fcd986c20c8a090b94bfdf8c0d5b5a2bbc7",
+      "source": {
+        "title": "'욕망의 덫' 장서희가 맡은 주미란, 이름과 과거를 지운 설계자",
+        "summary": "장서희는 KBS2 일일드라마 '욕망의 덫'에서 주미란을 맡았습니다. 주미란은 자신의 이름과 과거를 지운 채 청마그룹에 보모로 들어가 새로운 삶을 만든 인물입니다. 닐슨코리아가 집계한 2026년 8월 28일 전국 가구 시청률은 7.9%였으며, 이 수치는 배우 개인의 인기가 아니라 해당 회차의 방송 성적을 뜻합니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Trap of Desire': Jang Seo-hee's Joo Mi-ran Is the Architect Who Erased Her Name and Past",
+          "summary": "Jang Seo-hee plays Joo Mi-ran in the KBS2 daily drama 'Trap of Desire.' Joo Mi-ran erased her own name and past to join the Cheongma Group as a nanny and build a new life. According to Nielsen Korea, the nationwide household rating for the August 28, 2026 episode was 7.9%, a figure that reflects that episode's broadcast performance rather than the actor's personal popularity.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『欲望の罠』チャン・ソヒ演じるジュ・ミラン、名前と過去を消した設計者",
+          "summary": "チャン・ソヒはKBS2の日日ドラマ『欲望の罠』でジュ・ミランを演じる。ジュ・ミランは自身の名前と過去を消し、チョンマグループに乳母として入り込み、新たな人生を築いた人物だ。ニールセンコリアの集計によると、2026年8月28日放送分の全国世帯視聴率は7.9%で、この数値は俳優個人の人気ではなく該当回の放送成績を意味する。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224393967777",
       "sourceHash": "sha256:1ac91cf1fbc3f86725d329dd8e592d4d38c3868cc91f48d52c5db3517dd8b829",
