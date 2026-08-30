@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-29T20:40:50.000Z",
-  "generatedAt": "2026-08-29T20:54:33.087Z",
+  "sourceGeneratedAt": "2026-08-29T21:14:27.000Z",
+  "generatedAt": "2026-08-30T00:19:13.406Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-29T20:40:50.000Z",
-    "translatedCount": 280,
-    "translationSetHash": "sha256:b256b92601620d04c7b926a6a62a142bf6c1729fcccc312c7a289111d4f12686"
+    "sourceCutoff": "2026-08-29T21:14:27.000Z",
+    "translatedCount": 281,
+    "translationSetHash": "sha256:454e4d23d07d2e88c503412089d560786f8160dc2473416f5f7490b755c466ae"
   },
   "counts": {
-    "entertainment": 177,
+    "entertainment": 178,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224394705812",
+      "sourceHash": "sha256:507e1f78a2d1b43e5fcacdace19aecc0f5b88736bc23f0307e8f29ba459ca016",
+      "source": {
+        "title": "'오크 스트리트의 마지막 날' 4위, 이완 맥그리거가 맡은 그레그 플랫",
+        "summary": "이완 맥그리거는 영화 '오크 스트리트의 마지막 날'에서 플랫 가족의 아버지 그레그 플랫을 맡았습니다. 영화는 2026년 8월 26일 한국 극장에서 개봉했고, 영화진흥위원회가 집계한 8월 29일 일별 박스오피스 4위에 올랐습니다. 그레그는 평범한 동네가 선사시대로 바뀐 뒤 아내 드니스와 두 아이를 지키려고 몸부터 움직이는 인물입니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'The Last Day of Oak Street' Holds No. 4: Ewan McGregor as Greg Flatt",
+          "summary": "Ewan McGregor plays Greg Flatt, father of the Flatt family, in the film 'The Last Day of Oak Street.' The film opened in South Korean theaters on August 26, 2026, and ranked No. 4 on the Korean Film Council's daily box office chart for August 29. Greg is the character who acts first to protect his wife Denise and their two children after their ordinary neighborhood is transformed into a prehistoric era.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『オーク・ストリートの最後の日』4位、イワン・マクレガーが演じるグレッグ・フラット",
+          "summary": "イワン・マクレガーは映画『オーク・ストリートの最後の日』で、フラット家の父グレッグ・フラットを演じる。同作は2026年8月26日に韓国の劇場で公開され、映画振興委員会集計の8月29日付日別ボックスオフィスで4位となった。グレッグは、ありふれた街が先史時代に変わった後、妻ドニスと2人の子どもを守るために真っ先に行動する人物だ。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224394697789",
       "sourceHash": "sha256:ff2bfd028fa0b2c8fe70478c11cfbccb0f53095aa3b4680662f9534e05b41232",
