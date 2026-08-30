@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-30T14:52:07.874Z",
-  "expectedPublicCount": 1213,
-  "total": 1213,
+  "generatedAt": "2026-08-30T19:19:00.936Z",
+  "expectedPublicCount": 1214,
+  "total": 1214,
   "counts": {
-    "entertainment": 182,
+    "entertainment": 183,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224395491488",
+      "logNo": "224395491488",
+      "title": "ITZY 채령 근황, KIA 타이거즈 시구와 ‘Full Moon’ 공식 무대",
+      "url": "https://blog.naver.com/tnsqo1126/224395491488",
+      "publishedAt": "2026-08-30T16:14:02.000Z",
+      "dateLabel": "2026. 8. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 채령은 2026년 8월 4일 공개된 KIA 타이거즈 시구 영상과 8월 12일 공개된 다섯 번째 팬미팅 ‘ALL IN, MIDZY’의 ‘Full Moon’ 무대 영상에서 서로 다른 일정의 모습을 보였습니다. KIA 타이거즈 시구와 팬미팅 무대에서 채령의 최근 공식 활동 장면을 확인할 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzFfMTIy/MDAxNzg4MTA2MzMyODkz.Fpl11DcJTlNy9B-bR1v6oQWU7BQJlGs2jQ3mOWxIlBkg.B0fJGko1wNcuZ_-bFlhtSs8STkVEHvVbvHvk_YLYHV0g.JPEG/chaeryeong-kia-0020.jpg?type=s3",
+      "tags": [
+        "ITZY",
+        "있지",
+        "채령",
+        "CHAERYEONG",
+        "채령근황",
+        "KIA타이거즈",
+        "시구",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "KIA 타이거즈 시구를 앞둔 이동 장면",
+          "body": "ITZY 공식 채널의 ‘[ITZY?ITZY!] EP.261’은 제목에 채령의 KIA 타이거즈 시구를 명시했습니다. 영상 초반에는 차량 안에서 카메라를 향해 인사하는 채령의 모습이 나오며, 시구 일정으로 향하는 이동 장면이 이어집니다."
+        },
+        {
+          "heading": "구장 안에서 만난 KIA 타이거즈 상징",
+          "body": "영상 6분대에는 KIA 타이거즈의 호랑이 그래픽이 있는 벽면 앞에 선 채령이 담겼습니다. 흰색 상의와 청바지 차림, 구단 상징이 보이는 실내 배경이 같은 일정의 준비 과정임을 보여 줍니다."
+        },
+        {
+          "heading": "차량 창문 너머의 인사",
+          "body": "7분 30초 무렵에는 채령이 차량 창문을 열고 손을 들어 인사합니다. 이동 중 촬영된 장면이라 앞선 실내 컷과 배경과 시선의 방향이 다르게 나타납니다."
+        },
+        {
+          "heading": "관중석이 보이는 시구 전 구장 풍경",
+          "body": "9분 10초에는 채령이 관중석과 경기장이 내려다보이는 자리에서 두 팔을 들고 서 있습니다. 구장 전체와 관중석이 함께 보이는 넓은 구도여서, 차량과 실내에서 이어진 시구 당일의 현장 분위기를 확인할 수 있습니다."
+        },
+        {
+          "heading": "‘Full Moon’으로 이어진 팬미팅 무대",
+          "body": "ITZY 공식 채널은 2026년 8월 12일 ‘CHAERYEONG “Full Moon” @ ITZY The 5th Fan Meeting “ALL IN, MIDZY”’ 영상을 공개했습니다. 무대에서 채령은 흰색 의상을 입고 소파와 보라색 조명이 놓인 세트에서 안무를 선보였습니다. 시구 영상의 낮 시간 야외 장면과 달리, 이 영상은 공연 조명과 무대 장치가 중심이 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-30T19:19:00.936Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:5e145c0d50ea1a7c854bfefc59bec6694b9fb1542338e12a118f00c20716baf5"
+    },
     {
       "id": "naver:tnsqo1126:224395179718",
       "logNo": "224395179718",
