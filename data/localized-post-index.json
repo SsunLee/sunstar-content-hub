@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-30T09:47:40.000Z",
-  "generatedAt": "2026-08-30T14:52:07.874Z",
+  "sourceGeneratedAt": "2026-08-30T16:14:02.000Z",
+  "generatedAt": "2026-08-30T19:19:00.936Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-30T09:47:40.000Z",
-    "translatedCount": 284,
-    "translationSetHash": "sha256:21d2c780070406c7d65963a7c33edb045bf4177399ef40f9ce779c29b27b53a7"
+    "sourceCutoff": "2026-08-30T16:14:02.000Z",
+    "translatedCount": 285,
+    "translationSetHash": "sha256:f497a81e980f72978e22d769e9b4d56425add846c835a4add6aef218e7a3f8c1"
   },
   "counts": {
-    "entertainment": 181,
+    "entertainment": 182,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224395491488",
+      "sourceHash": "sha256:30a6fa4bc33d68252ebad954de48b85327e334ca63b17135c69f294e494d28fc",
+      "source": {
+        "title": "ITZY 채령 근황, KIA 타이거즈 시구와 ‘Full Moon’ 공식 무대",
+        "summary": "ITZY 채령은 2026년 8월 4일 공개된 KIA 타이거즈 시구 영상과 8월 12일 공개된 다섯 번째 팬미팅 ‘ALL IN, MIDZY’의 ‘Full Moon’ 무대 영상에서 서로 다른 일정의 모습을 보였습니다. KIA 타이거즈 시구와 팬미팅 무대에서 채령의 최근 공식 활동 장면을 확인할 수 있습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY Chaeryeong Update: KIA Tigers Ceremonial First Pitch and 'Full Moon' Official Stage",
+          "summary": "ITZY's Chaeryeong appeared in two videos showing different schedules: a KIA Tigers ceremonial first pitch clip released on August 4, 2026, and a 'Full Moon' stage video from the fifth fan meeting 'ALL IN, MIDZY,' released on August 12, 2026. The ceremonial first pitch and fan-meeting stage show Chaeryeong's recent official activities.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZYチェリョン近況、KIAタイガース始球式と『Full Moon』公式ステージ",
+          "summary": "ITZYのチェリョンは、2026年8月4日に公開されたKIAタイガースの始球式映像と、8月12日に公開された5回目のファンミーティング『ALL IN, MIDZY』の『Full Moon』ステージ映像で、それぞれ異なる日程の姿を見せた。始球式とファンミーティングのステージで、チェリョンの最近の公式活動の様子を確認できる。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224395179718",
       "sourceHash": "sha256:01eecf5b2308088afe4b50de6f012eb776c68273ff535a95db9356ed7041d28a",
