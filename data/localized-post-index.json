@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-29T21:14:27.000Z",
-  "generatedAt": "2026-08-30T00:19:13.406Z",
+  "sourceGeneratedAt": "2026-08-30T07:19:21.000Z",
+  "generatedAt": "2026-08-30T08:18:02.325Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-29T21:14:27.000Z",
-    "translatedCount": 281,
-    "translationSetHash": "sha256:454e4d23d07d2e88c503412089d560786f8160dc2473416f5f7490b755c466ae"
+    "sourceCutoff": "2026-08-30T07:19:21.000Z",
+    "translatedCount": 283,
+    "translationSetHash": "sha256:63747fc42c7ba7b32df0744692ffa4a64e2937103bcf21452b7aefb1ff1be4c8"
   },
   "counts": {
-    "entertainment": 178,
+    "entertainment": 180,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224395065914",
+      "sourceHash": "sha256:be01d70d8cc5f051d4afb5eef1a9fee9e28092c936f4eac44241b3e9ecfad7c6",
+      "source": {
+        "title": "포핸즈 3.391% 출발, 장규리가 맡은 홍재인은 어떤 인물인가",
+        "summary": "장규리는 tvN 토일드라마 '포핸즈'에서 비올라 전공생 홍재인을 맡았습니다. 홍재인은 절대음감과 예민한 귀로 강비오와 최정요의 재능을 가장 먼저 알아보는 인물입니다. 2026년 8월 29일 첫 방송된 '포핸즈'는 닐슨코리아 전국 유료플랫폼 가구 기준 시청률 3.391%로 케이블 일일 순위 1위를 기록했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Four Hands' Debuts at 3.391%: Who Is Hong Jae-in, Played by Jang Gyu-ri?",
+          "summary": "Jang Gyu-ri plays viola major Hong Jae-in in tvN's Saturday-Sunday drama 'Four Hands.' Hong Jae-in is the character who uses her perfect pitch and keen ear to recognize Kang Bi-o and Choi Jeong-yo's talents first. 'Four Hands,' which premiered on August 29, 2026, recorded a 3.391% rating among nationwide pay-platform households per Nielsen Korea, ranking No. 1 in the daily cable chart.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『フォーハンズ』初回3.391%、チャン・ギュリ演じるホン・ジェインとは",
+          "summary": "チャン・ギュリはtvNの土日ドラマ『フォーハンズ』で、ビオラ専攻生ホン・ジェインを演じる。ホン・ジェインは絶対音感と鋭い耳で、カン・ビオとチェ・ジョンヨの才能を誰よりも早く見抜く人物だ。2026年8月29日に初放送された『フォーハンズ』は、ニールセンコリア全国有料プラットフォーム世帯基準で視聴率3.391%を記録し、ケーブル日刊順位1位となった。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224394881820",
+      "sourceHash": "sha256:8550f0ebfcbb55b6cc174c9efd897e0ae9c5dfd0e70a139d67965c9a1ff44afc",
+      "source": {
+        "title": "아이브 리즈 근황, 와이헤케 섬 투어와 ASMR 공식 영상",
+        "summary": "IVE 공식 유튜브 채널은 2026년 8월 29일 리즈의 ‘[IVE OFF] 리즈, 와이헤케 섬 투어 렛츠 고’를 공개했습니다. 영상에서 리즈는 뉴질랜드 와이헤케 섬의 해안 도로와 식당, 야외 공간을 차례로 방문합니다. 8월 2일에는 리즈가 실내 세트에서 뿌셔뿌셔 왁뿌볼을 만드는 ASMR 영상도 공개됐습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "IVE Liz Update: Waiheke Island Tour and Official ASMR Video",
+          "summary": "IVE's official YouTube channel released Liz's '[IVE OFF] Liz, Let's Go Waiheke Island Tour' on August 29, 2026. In the video, Liz visits the coastal road, restaurants, and outdoor spaces of Waiheke Island, New Zealand, in turn. On August 2, an ASMR video of Liz making a hand-rolled 'wakppu-bol' ball from crushed Ppushu Ppushu snack in an indoor set was also released.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "IVEリズ近況、ワイヘキ島ツアーとASMR公式映像",
+          "summary": "IVE公式YouTubeチャンネルは2026年8月29日、リズの『[IVE OFF] リズ、ワイヘキ島ツアー レッツゴー』を公開した。映像でリズはニュージーランド・ワイヘキ島の海岸道路やレストラン、屋外スペースを順に訪れる。8月2日には、リズが屋内セットでプショプショを砕いて作る「ワクプボール」のASMR映像も公開された。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224394705812",
       "sourceHash": "sha256:507e1f78a2d1b43e5fcacdace19aecc0f5b88736bc23f0307e8f29ba459ca016",
