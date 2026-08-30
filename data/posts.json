@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-30T08:18:02.325Z",
-  "expectedPublicCount": 1212,
-  "total": 1212,
+  "generatedAt": "2026-08-30T14:52:07.874Z",
+  "expectedPublicCount": 1213,
+  "total": 1213,
   "counts": {
-    "entertainment": 181,
+    "entertainment": 182,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224395179718",
+      "logNo": "224395179718",
+      "title": "ITZY 류진 근황, 방콕 투어로그와 DaDa-ITZY 공식 영상",
+      "url": "https://blog.naver.com/tnsqo1126/224395179718",
+      "publishedAt": "2026-08-30T09:47:40.000Z",
+      "dateLabel": "2026. 8. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 류진은 2026년 8월 28일 공개된 방콕 투어로그에서 세 번째 월드투어 ‘TUNNEL VISION’ 방콕 일정을 전했습니다. 영상은 숙소에서 시작해 리허설과 무대, 공연 뒤 인사까지 이어집니다. 8월 27일에는 ITZY 다섯 멤버가 함께 출연한 ‘DaDa-ITZY’ 1화도 공개됐습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzBfOTMg/MDAxNzg4MDgzMTQ2MjQw.XZqv0xBg6vnxLPI_3h79J70lhQZSuEpFrOFqlsHdJJcg.A7G4CbjFbRkSsqCcQ96zb3CzaWvA_fCvrRzUSYf9OFkg.JPEG/ryujin-bangkok-0030.jpg?type=s3",
+      "tags": [
+        "ITZY",
+        "있지",
+        "류진",
+        "RYUJIN",
+        "류진근황",
+        "방콕투어",
+        "TUNNELVISION",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "방콕 일정에서 시작된 류진의 하루",
+          "body": "투어로그 초반의 류진은 검은 티셔츠와 선글라스 차림으로 숙소 안을 이동합니다. 카메라는 가까운 거리에서 짧은 머리와 검은 의상을 잡고, 이어 공연장으로 장소가 바뀝니다. 영상 제목의 방콕 표기는 해당 콘텐츠가 ITZY 월드투어 현장에서 촬영됐다는 점을 분명하게 보여 줍니다."
+        },
+        {
+          "heading": "리허설 무대와 멤버 사이의 움직임",
+          "body": "공연장 장면에서 류진은 다른 멤버들과 함께 리허설 순서를 확인합니다. 넓은 무대와 중앙 LED 화면이 한 프레임에 들어오고, 멤버들은 마이크를 든 채 위치를 옮깁니다. 검은색과 흰색이 섞인 편한 차림은 본 공연 의상과 구분되는 리허설 장면의 특징입니다."
+        },
+        {
+          "heading": "수영장 장면과 휴식 시간",
+          "body": "숙소 수영장 장면에서는 무대 조명 대신 물결과 야간 조명이 화면을 채웁니다. 류진은 물가에서 다른 멤버와 대화하고, 카메라는 수면과 주변 타일을 넓게 함께 담습니다. 같은 영상 안에서도 리허설 공간과 숙소의 분위기가 뚜렷하게 달라집니다."
+        },
+        {
+          "heading": "공연 뒤 무대에서 남긴 인사",
+          "body": "영상 후반에는 ITZY 다섯 멤버가 무대 위에서 관객을 향해 손을 듭니다. 류진은 검은 상의와 밝은 하의로 멤버들 사이에 서 있으며, 조명이 비친 무대 바닥과 대형 화면이 공연 규모를 보여 줍니다. 이 장면은 방콕 일정이 리허설과 휴식뿐 아니라 실제 공연으로 이어졌음을 확인하게 합니다."
+        },
+        {
+          "heading": "DaDa-ITZY 1화에서 이어진 멤버 콘텐츠",
+          "body": "8월 27일 공개된 ‘DaDa-ITZY’ 1화에는 ITZY 멤버들이 실내 세트에서 함께 출연합니다. 류진은 짧은 검은 머리와 흰 셔츠 차림으로 화면 오른쪽에 앉아 대화에 참여합니다. 방콕 투어로그가 현장 일정의 기록이라면, 이 영상은 멤버들이 함께 진행하는 별도 공식 콘텐츠입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-30T14:52:07.874Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8d25f2399b990f72b53ed67624153ceb4fe1f298fae95833f57d3e5e600df2d0"
+    },
     {
       "id": "naver:tnsqo1126:224395065914",
       "logNo": "224395065914",
