@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-30T07:19:21.000Z",
-  "generatedAt": "2026-08-30T08:18:02.325Z",
+  "sourceGeneratedAt": "2026-08-30T09:47:40.000Z",
+  "generatedAt": "2026-08-30T14:52:07.874Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-30T07:19:21.000Z",
-    "translatedCount": 283,
-    "translationSetHash": "sha256:63747fc42c7ba7b32df0744692ffa4a64e2937103bcf21452b7aefb1ff1be4c8"
+    "sourceCutoff": "2026-08-30T09:47:40.000Z",
+    "translatedCount": 284,
+    "translationSetHash": "sha256:21d2c780070406c7d65963a7c33edb045bf4177399ef40f9ce779c29b27b53a7"
   },
   "counts": {
-    "entertainment": 180,
+    "entertainment": 181,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224395179718",
+      "sourceHash": "sha256:01eecf5b2308088afe4b50de6f012eb776c68273ff535a95db9356ed7041d28a",
+      "source": {
+        "title": "ITZY 류진 근황, 방콕 투어로그와 DaDa-ITZY 공식 영상",
+        "summary": "ITZY 류진은 2026년 8월 28일 공개된 방콕 투어로그에서 세 번째 월드투어 ‘TUNNEL VISION’ 방콕 일정을 전했습니다. 영상은 숙소에서 시작해 리허설과 무대, 공연 뒤 인사까지 이어집니다. 8월 27일에는 ITZY 다섯 멤버가 함께 출연한 ‘DaDa-ITZY’ 1화도 공개됐습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "ITZY Ryujin Update: Bangkok Tour Log and Official DaDa-ITZY Video",
+          "summary": "ITZY's Ryujin shared her Bangkok schedule for the third world tour 'TUNNEL VISION' in a tour log released on August 28, 2026. The video runs from her accommodation to rehearsal, the stage, and a post-show greeting. On August 27, the first episode of 'DaDa-ITZY,' featuring all five ITZY members, was also released.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "ITZYリュジン近況、バンコク・ツアーログと『DaDa-ITZY』公式映像",
+          "summary": "ITZYのリュジンは2026年8月28日に公開されたバンコク・ツアーログで、3度目のワールドツアー『TUNNEL VISION』のバンコク日程を伝えた。映像は宿泊先から始まり、リハーサルとステージ、公演後の挨拶まで続く。8月27日にはITZYの5人のメンバーが揃って出演した『DaDa-ITZY』第1話も公開された。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224395065914",
       "sourceHash": "sha256:be01d70d8cc5f051d4afb5eef1a9fee9e28092c936f4eac44241b3e9ecfad7c6",

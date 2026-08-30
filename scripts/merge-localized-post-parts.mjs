@@ -431,6 +431,17 @@ const partSpecs = [
       "entertainment-178-179.json",
     ),
   },
+  {
+    category: "entertainment",
+    start: 180,
+    end: 180,
+    path: resolve(
+      projectRoot,
+      "data",
+      "localized-post-parts",
+      "entertainment-180-180.json",
+    ),
+  },
 ];
 const fields = ["title", "summary", "work", "role"];
 const targetLocales = ["en", "ja"];
