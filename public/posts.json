@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-29T20:54:33.087Z",
-  "expectedPublicCount": 1209,
-  "total": 1209,
+  "generatedAt": "2026-08-30T00:19:13.406Z",
+  "expectedPublicCount": 1210,
+  "total": 1210,
   "counts": {
-    "entertainment": 178,
+    "entertainment": 179,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224394705812",
+      "logNo": "224394705812",
+      "title": "'오크 스트리트의 마지막 날' 4위, 이완 맥그리거가 맡은 그레그 플랫",
+      "url": "https://blog.naver.com/tnsqo1126/224394705812",
+      "publishedAt": "2026-08-29T21:14:27.000Z",
+      "dateLabel": "2026. 8. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "이완 맥그리거는 영화 '오크 스트리트의 마지막 날'에서 플랫 가족의 아버지 그레그 플랫을 맡았습니다. 영화는 2026년 8월 26일 한국 극장에서 개봉했고, 영화진흥위원회가 집계한 8월 29일 일별 박스오피스 4위에 올랐습니다. 그레그는 평범한 동네가 선사시대로 바뀐 뒤 아내 드니스와 두 아이를 지키려고 몸부터 움직이는 인물입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzBfMjEy/MDAxNzg4MDM3OTQ2NDkz.s6eZlYoiQc6cFsBPYIDSliwIwoa0WFLA3Fi9pdYHgq4g.MwkbisoS9HFDO3Cgjk2vK0CVhtMEQYFsMwKANY7CvHUg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "이완맥그리거",
+        "오크스트리트의마지막날",
+        "그레그플랫",
+        "영화배우",
+        "할리우드영화",
+        "워너브러더스",
+        "박스오피스",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224394697789",
       "logNo": "224394697789",
