@@ -4,15 +4,177 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-30T19:19:00.936Z",
-  "expectedPublicCount": 1214,
-  "total": 1214,
+  "generatedAt": "2026-08-31T05:32:10.189Z",
+  "expectedPublicCount": 1217,
+  "total": 1217,
   "counts": {
-    "entertainment": 183,
+    "entertainment": 186,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224396030562",
+      "logNo": "224396030562",
+      "title": "엔믹스 릴리 근황, 퇴근 브이로그와 ‘Toxic’ MIXX SERENADE 공식 영상",
+      "url": "https://blog.naver.com/tnsqo1126/224396030562",
+      "publishedAt": "2026-08-31T05:17:38.000Z",
+      "dateLabel": "2026. 8. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX 릴리는 2026년 8월 17일 공개된 개인 영상 ‘릴리 퇴근했습니다’에서 촬영을 마친 뒤의 일정을 보여 줬습니다. 5월 28일 공개된 ‘Toxic’ MIXX SERENADE 무대에서는 같은 멤버가 무대 의상과 마이크를 갖추고 노래하는 모습이 이어집니다. 두 공식 콘텐츠는 일상 이동과 짧은 라이브 무대라는 서로 다른 활동 장면을 담고 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzFfMTMg/MDAxNzg4MTUzMzcwMTQ5.7OCAxGFDVt5hEYyVQJaogZCYnwo-f57bLCnq2soCwbMg.NZXoilhaEMnVwXi0T4wwKvY84h4uhy0bw7IN7Aj5f0Ag.JPEG/lily-afterwork-0020.jpg?type=s3",
+      "tags": [
+        "NMIXX",
+        "엔믹스",
+        "릴리",
+        "LILY",
+        "릴리근황",
+        "MIXXLog",
+        "MIXXSERENADE",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "촬영장 안에서 시작한 릴리의 퇴근 일정",
+          "body": "NMIXX 공식 채널은 8월 17일 ‘릴리 퇴근했습니다’를 공개했습니다. 영상 초반에 릴리는 밝은 금발을 양쪽으로 땋고 회색 상의와 검은 바지를 입은 채 실내에서 카메라를 향해 이야기합니다. 벽면과 조명 장비가 있는 공간에서 촬영 준비를 마친 뒤의 상황을 전하며, 이어지는 이동 장면의 출발점이 됩니다."
+        },
+        {
+          "heading": "복도에서 이어진 대기 시간",
+          "body": "영상 중간에는 릴리가 실내 복도에 앉아 대기하는 장면이 나옵니다. 같은 날의 회색 상의와 금발 땋은 머리 모습이 이어지며, 유리창 너머로 보이는 건물과 복도 벽면이 배경을 이룹니다. 릴리는 카메라를 보며 말하고, 촬영 일정 사이의 대기 시간을 자연스럽게 보여 줍니다."
+        },
+        {
+          "heading": "스크린 골프장에서 보낸 마무리",
+          "body": "릴리는 스크린 골프장에도 들릅니다. 초록색 매트와 대형 스크린 앞에서 골프채를 들고 스윙하는 장면은 앞선 실내 대기 장면과 다른 공간에서 이어집니다. 이 영상은 촬영장 안의 준비와 대기, 취미 활동 장면을 한 편의 개인 일정으로 연결합니다."
+        },
+        {
+          "heading": "‘Toxic’으로 선보인 MIXX SERENADE 무대",
+          "body": "NMIXX 공식 채널은 2026년 5월 28일 릴리M의 브리트니 스피어스 ‘Toxic’ 무대를 MIXX SERENADE 풀버전으로 공개했습니다. 릴리는 체크무늬 의상 위에 검은색 카디건을 입고 스탠드 마이크 앞에서 노래합니다. 초록색 계열 조명과 어두운 배경이 있는 무대는 8월 퇴근 영상의 밝은 실내와 구분됩니다."
+        },
+        {
+          "heading": "한 곡의 후반부까지 이어진 보컬 장면",
+          "body": "‘Toxic’ 영상의 후반부에서 릴리는 손에 든 마이크로 노래를 이어 갑니다. 보라색과 분홍색 조명이 비추는 가운데 금발 머리와 체크무늬 의상이 화면에 나타납니다. 8월 개인 영상에서는 활동을 마친 뒤의 일상이, MIXX SERENADE에서는 한 곡을 마무리하는 공연 장면이 확인됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-31T05:32:10.189Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d2f81f91af3b78d6b5404e81fdcb7078371a01c247960adf3a7031b329b5789f"
+    },
+    {
+      "id": "naver:tnsqo1126:224395925315",
+      "logNo": "224395925315",
+      "title": "사랑이 온다 16.6% 1위, 정보민이 맡은 권희나는 누구인가",
+      "url": "https://blog.naver.com/tnsqo1126/224395925315",
+      "publishedAt": "2026-08-31T03:46:24.000Z",
+      "dateLabel": "2026. 8. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "정보민은 KBS2 주말드라마 '사랑이 온다'에서 초등학교 교사 권희나를 연기합니다. 닐슨코리아가 집계한 2026년 8월 30일 전국 가구 시청률은 16.6%였고, '사랑이 온다'는 같은 날 지상파 일일 순위 1위에 올랐습니다. 이 수치는 배우 개인의 순위가 아니라 작품 전체의 방송 성적입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzFfMTY3/MDAxNzg4MTQ3ODQyNDM4.2wCVJHHZnT-ezfeTEftABfU0PyUXQw0UlPghUMp_c20g.CoiIzvhr_g_ipMdrB8eWyP9f-r_IpXNvTrVpYYSkG10g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "정보민",
+        "사랑이온다",
+        "권희나",
+        "KBS주말드라마",
+        "배우근황",
+        "드라마배우",
+        "한규오",
+        "정보민사랑이온다"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 30일 16.6%, 정보민의 최근 공식 활동",
+          "body": "닐슨코리아의 2026년 8월 30일 지상파 일일 시청률 자료에서 KBS2 '사랑이 온다'는 전국 가구 기준 16.6%를 기록했습니다. 같은 기준의 지상파 일일 순위는 1위이며, 시청자 수 추정치는 315만 9천 명입니다. 날짜와 조사 기준이 정해진 수치이므로 다른 날이나 다른 지역의 성적과 혼동해서는 안 됩니다."
+        },
+        {
+          "heading": "권희나는 일과 관계 사이에서 선을 지키는 교사",
+          "body": "권희나의 직업은 초등학교 교사입니다. 교무실에서 아이들의 생활을 챙기고 학교 밖에서도 학생의 상태를 살피는 장면이 이어집니다. KBS 공식 소개가 강조한 밝고 따뜻한 성격은 큰 선언보다 상대의 말을 듣고 필요한 행동을 먼저 하는 모습에서 확인됩니다."
+        },
+        {
+          "heading": "정보민 기본 정보와 2019년 데뷔",
+          "body": "아우터유니버스 공식 배우 프로필에 따르면 정보민의 생년월일은 1997년 6월 17일입니다. 2026년 8월 31일 기준 국제 나이는 만 29세입니다. 생년월일과 현재 출연작은 소속사 공식 프로필을 기준으로 대조했습니다."
+        },
+        {
+          "heading": "혼례대첩부터 사랑이 온다까지 넓어진 배역",
+          "body": "아우터유니버스 공식 프로필에는 정보민의 방송 활동이 연도별로 정리돼 있습니다. 2022년 '닥터로이어'의 선애와 '국가대표 와이프'의 한슬아, 2023년 '오아시스'의 금연희와 '혼례대첩'의 맹삼순, 2024년 '개소리'의 홍지수로 이어집니다. 서로 다른 시대와 직업을 오가며 조연의 생활 배경을 빠르게 설득해야 하는 역할들입니다."
+        },
+        {
+          "heading": "권희나의 다음 선택에서 볼 세 가지",
+          "body": "첫 번째로 볼 지점은 권희나가 한규오를 다시 판단하는 기준입니다. 공식 하이라이트의 두 사람은 연락을 주고받지만 결정적인 순간에는 서로 다른 장소와 시간에 머뭅니다. 권희나가 단순히 호감을 확인하는 데 그치지 않고 상대의 태도와 자신의 생활을 함께 고려하는지가 관계의 방향을 정하게 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-31T05:32:10.189Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:34e396834c460819e5f55eaf5b377b85dcafb694bc11febcdb4adde78dadfdcf"
+    },
+    {
+      "id": "naver:tnsqo1126:224395631282",
+      "logNo": "224395631282",
+      "title": "엔믹스 배이 근황, 일상 MIXX Log와 해원 룸메이트 공식 영상",
+      "url": "https://blog.naver.com/tnsqo1126/224395631282",
+      "publishedAt": "2026-08-30T22:47:55.000Z",
+      "dateLabel": "2026. 8. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "NMIXX 배이는 2026년 8월 28일 공개된 개인 일상 MIXX Log와 7월 17일 공개된 해원과의 ‘PAJAMA ROOMMATE’ 영상에서 서로 다른 일정을 보였습니다. 8월 영상에는 숙소와 이동 중인 모습, 실내 야구 연습장 장면이 이어지고, 7월 영상에서는 해원과 객실에서 대화하는 모습이 담겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MzFfODYg/MDAxNzg4MTI5OTgzNTIy.kmpdyI8pwVVXOsiVWjLCBiMjxIbcYXrz3K4MCFfyYKkg.-mKQaZ1lxjqcj85QQGtwidfnhXKzFoMZlhvmVWJzoKYg.JPEG/bae-vlog-0025.jpg?type=s3",
+      "tags": [
+        "NMIXX",
+        "엔믹스",
+        "배이",
+        "BAE",
+        "배이근황",
+        "MIXXLog",
+        "PAJAMAROOMMATE",
+        "JYP"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "숙소에서 시작한 배이의 아침 장면",
+          "body": "NMIXX 공식 채널은 8월 28일 배이의 일상을 담은 MIXX Log를 공개했습니다. 영상 초반에 배이는 침대와 흰색 침구가 놓인 객실에서 카메라를 향해 이야기합니다. 검은색 긴 머리와 밝은색 잠옷 차림이 보이는 근접 구도라서, 이후의 외출 장면과 다른 실내 일상의 모습을 확인할 수 있습니다."
+        },
+        {
+          "heading": "검은색 상의로 준비한 실내 시간",
+          "body": "같은 영상 9분대에는 배이가 흰색 벽과 침대가 보이는 공간에서 분홍색 도구를 손에 들고 준비하는 모습이 나옵니다. 배이는 검은색 반소매 상의를 입고 있으며, 아침 장면과는 헤어스타일과 의상, 카메라 거리도 달라집니다. 공식 영상은 한 날짜에만 머물지 않고 숙소 안의 여러 시간을 이어서 보여 줍니다."
+        },
+        {
+          "heading": "실내 야구 연습장에 선 배이",
+          "body": "17분대에는 인조 잔디와 그물망이 설치된 실내 야구 연습장 장면이 이어집니다. 배이는 흰색 민소매 상의와 청바지를 입고 방망이를 든 채 타석 쪽을 바라봅니다. 객실 장면과 달리 넓은 공간과 연습 장비가 함께 보이는 후면 구도여서, 영상에 담긴 활동 장소의 차이가 분명하게 나타납니다."
+        },
+        {
+          "heading": "이동 차량 안에서 이어진 식사",
+          "body": "24분대에는 배이가 차량 뒷좌석에 앉아 음식을 먹는 모습이 나옵니다. 창밖의 도로와 차량 실내 조명, 좌석 옆에 놓인 포장 상자가 함께 보여 이동 중인 장면임을 알 수 있습니다. 배이는 흰색 상의와 검은 머리 차림으로 카메라 쪽을 향하며, 실내 야구 연습장과 다른 일상의 한 부분을 남겼습니다."
+        },
+        {
+          "heading": "해원과 함께한 ‘PAJAMA ROOMMATE’",
+          "body": "NMIXX 공식 채널은 2026년 7월 17일 해원과 배이가 출연한 ‘PAJAMA ROOMMATE’를 공개했습니다. 객실 장면에서 배이는 금발과 파란 줄무늬 잠옷 차림으로 해원 옆에 앉아 대화를 이어 갑니다. 8월 MIXX Log의 검은 머리와 일상 이동 장면과 달리, 이 영상에서는 두 멤버가 같은 객실에서 질문에 답하는 구성이 중심이 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-08-31T05:32:10.189Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3d1e9a314dac12ad520bb9c1bc33c88c51ee87717d1ff0cd3a00b8a6451463fe"
+    },
     {
       "id": "naver:tnsqo1126:224395491488",
       "logNo": "224395491488",
