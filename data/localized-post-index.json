@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-31T11:51:08.000Z",
-  "generatedAt": "2026-08-31T13:46:41.257Z",
+  "sourceGeneratedAt": "2026-08-31T18:23:20.000Z",
+  "generatedAt": "2026-08-31T20:03:48.922Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-31T11:51:08.000Z",
-    "translatedCount": 289,
-    "translationSetHash": "sha256:6d98df8d5aa01cab25e74ea7fe11db6dea9bebdad5273667b824a09d4ffa142d"
+    "sourceCutoff": "2026-08-31T18:23:20.000Z",
+    "translatedCount": 291,
+    "translationSetHash": "sha256:e88ced0f197c389cc147bf30aac45f2fc9fae56ca4921dae00e4f09741867d00"
   },
   "counts": {
-    "entertainment": 186,
+    "entertainment": 188,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224396786211",
+      "sourceHash": "sha256:4dfc9e37ceb826db14029587cdbad00117e8674e9ca79551aade141b7f7ccb2a",
+      "source": {
+        "title": "에스파 카리나 근황, CONVERSE 비하인드와 Serenade 녹음 영상",
+        "summary": "aespa 카리나는 2026년 8월 31일 공식 유튜브 채널에 공개된 ‘[ae:scenes] aespa KARINA CONVERSE Behind’에서 촬영 현장을 보였습니다. 같은 채널은 8월 27일 ‘aespa ‘Serenade KARINA & WINTER’ Recording Behind’도 공개해 카리나와 윈터의 녹음실 모습을 전했습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "aespa's Karina Update: CONVERSE Behind-the-Scenes and 'Serenade' Recording Video",
+          "summary": "aespa's Karina appeared on set in the official YouTube video '[ae:scenes] aespa KARINA CONVERSE Behind,' released on August 31, 2026. The same channel also released 'aespa 'Serenade KARINA & WINTER' Recording Behind' on August 27, showing Karina and Winter in the recording studio.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "aespaカリナ近況、CONVERSE舞台裏映像と『Serenade』レコーディング映像",
+          "summary": "aespaのカリナは、2026年8月31日に公式YouTubeチャンネルで公開された『[ae:scenes] aespa KARINA CONVERSE Behind』で撮影現場の様子を見せた。同チャンネルは8月27日にも『aespa 'Serenade KARINA & WINTER' Recording Behind』を公開し、カリナとウィンターのレコーディングスタジオでの様子を伝えた。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224396629755",
+      "sourceHash": "sha256:1727b064c691b9a12c79a2f0ea2aec761138b2b95f50f7905df0850a66b798e1",
+      "source": {
+        "title": "안나 4.4%, 수지가 맡은 이유미는 왜 안나가 되었나",
+        "summary": "2026년 8월 30일 MBC에서 방송된 '안나'는 닐슨코리아 전국 가구 기준 시청률 4.4%를 기록했습니다. 같은 날 지상파 프로그램 가운데 11위였고, 시청자 수 추정치는 83만 8천 명입니다. 이 수치는 배우 개인의 성적이 아니라 작품 전체의 방송 성적이며, 조사 기준일은 8월 30일입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Anna' Rating 4.4%: Why Suzy's Lee Yu-mi Became Anna",
+          "summary": "'Anna,' broadcast on MBC on August 30, 2026, recorded a nationwide household rating of 4.4% according to Nielsen Korea. It ranked 11th among terrestrial programs that day, with an estimated audience of 838,000 viewers. This figure reflects the show's overall broadcast performance, not the actor's individual standing, and the survey date was August 30.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『アンナ』視聴率4.4%、スジ演じるイ・ユミはなぜアンナになったのか",
+          "summary": "2026年8月30日にMBCで放送された『アンナ』は、ニールセン・コリアの全国世帯基準で視聴率4.4%を記録した。同日の地上波番組の中で11位となり、推定視聴者数は83万8千人だった。この数値は俳優個人の成績ではなく作品全体の放送成績であり、調査基準日は8月30日である。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224396478037",
       "sourceHash": "sha256:b274c30c575b3ba523079d2e44415df3840cc749e8a7c7265b26dc2c081702c2",
