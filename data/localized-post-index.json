@@ -1,18 +1,90 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-30T16:14:02.000Z",
-  "generatedAt": "2026-08-30T19:19:00.936Z",
+  "sourceGeneratedAt": "2026-08-31T05:17:38.000Z",
+  "generatedAt": "2026-08-31T05:32:10.189Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-30T16:14:02.000Z",
-    "translatedCount": 285,
-    "translationSetHash": "sha256:f497a81e980f72978e22d769e9b4d56425add846c835a4add6aef218e7a3f8c1"
+    "sourceCutoff": "2026-08-31T05:17:38.000Z",
+    "translatedCount": 288,
+    "translationSetHash": "sha256:76c3aedeefe869b6bb951166b5e1401586a53d59d138443a99c05be31d226964"
   },
   "counts": {
-    "entertainment": 182,
+    "entertainment": 185,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224396030562",
+      "sourceHash": "sha256:c60e5336249460832fe3111e702cbcc1b20e4db8884fb918829254407b17a2b2",
+      "source": {
+        "title": "엔믹스 릴리 근황, 퇴근 브이로그와 ‘Toxic’ MIXX SERENADE 공식 영상",
+        "summary": "NMIXX 릴리는 2026년 8월 17일 공개된 개인 영상 ‘릴리 퇴근했습니다’에서 촬영을 마친 뒤의 일정을 보여 줬습니다. 5월 28일 공개된 ‘Toxic’ MIXX SERENADE 무대에서는 같은 멤버가 무대 의상과 마이크를 갖추고 노래하는 모습이 이어집니다. 두 공식 콘텐츠는 일상 이동과 짧은 라이브 무대라는 서로 다른 활동 장면을 담고 있습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Lily Update: Off-Work Vlog and Official 'Toxic' MIXX SERENADE Video",
+          "summary": "NMIXX's Lily is shown wrapping up after filming in 'Lily Clocked Out,' a personal video released on August 17, 2026. In the 'Toxic' MIXX SERENADE stage released on May 28, the same member appears in stage outfit and microphone, singing. The two official pieces of content capture different kinds of activity — everyday movement and a short live stage.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXXリリー近況、退勤Vlogと『Toxic』MIXX SERENADE公式映像",
+          "summary": "NMIXXのリリーは、2026年8月17日に公開された個人映像『リリー、退勤しました』で、撮影を終えた後の日程を見せた。5月28日に公開された『Toxic』MIXX SERENADEのステージでは、同じメンバーがステージ衣装とマイクを手に歌う姿が続く。二つの公式コンテンツには、日常の移動と短いライブステージという、それぞれ異なる活動の場面が収められている。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224395925315",
+      "sourceHash": "sha256:858eaaf57a710cf6126af834dfa57b129ca09c87ff588f1b857498f77cb15f03",
+      "source": {
+        "title": "사랑이 온다 16.6% 1위, 정보민이 맡은 권희나는 누구인가",
+        "summary": "정보민은 KBS2 주말드라마 '사랑이 온다'에서 초등학교 교사 권희나를 연기합니다. 닐슨코리아가 집계한 2026년 8월 30일 전국 가구 시청률은 16.6%였고, '사랑이 온다'는 같은 날 지상파 일일 순위 1위에 올랐습니다. 이 수치는 배우 개인의 순위가 아니라 작품 전체의 방송 성적입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Love Is Coming' Hits 16.6%, No. 1: Who Is Jung Bo-min's Kwon Hee-na?",
+          "summary": "Jung Bo-min plays elementary school teacher Kwon Hee-na in KBS2's weekend drama 'Love Is Coming.' According to Nielsen Korea, the nationwide household rating for the August 30, 2026 episode was 16.6%, and 'Love Is Coming' topped that day's terrestrial daily chart. This figure reflects the show's overall broadcast performance, not the actor's individual ranking.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『愛がやってくる』16.6%で1位、チョン・ボミンが演じるクォン・ヒナとは",
+          "summary": "チョン・ボミンはKBS2の週末ドラマ『愛がやってくる』で小学校教師クォン・ヒナを演じる。ニールセン・コリアの集計によると、2026年8月30日放送分の全国世帯視聴率は16.6%で、『愛がやってくる』は同日の地上波デイリーチャートで1位となった。この数値は俳優個人の順位ではなく、作品全体の放送成績を示す。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224395631282",
+      "sourceHash": "sha256:8b4b23739c16629f79425ce8a972be6e4ad62a54051e8f1b49dc8b260207ef49",
+      "source": {
+        "title": "엔믹스 배이 근황, 일상 MIXX Log와 해원 룸메이트 공식 영상",
+        "summary": "NMIXX 배이는 2026년 8월 28일 공개된 개인 일상 MIXX Log와 7월 17일 공개된 해원과의 ‘PAJAMA ROOMMATE’ 영상에서 서로 다른 일정을 보였습니다. 8월 영상에는 숙소와 이동 중인 모습, 실내 야구 연습장 장면이 이어지고, 7월 영상에서는 해원과 객실에서 대화하는 모습이 담겼습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Bae Update: Everyday MIXX Log and 'Pajama Roommate' with Haewon",
+          "summary": "NMIXX's Bae showed two different schedules — her personal, everyday MIXX Log released on August 28, 2026, and 'Pajama Roommate' with Haewon, released on July 17. The August video follows scenes at the dorm, on the move, and inside an indoor baseball practice facility, while the July video shows Bae and Haewon talking together in their room.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXXベイ近況、日常MIXX Logとヘウォンとの『パジャマルームメイト』公式映像",
+          "summary": "NMIXXのベイは、2026年8月28日に公開された個人の日常MIXX Logと、7月17日に公開されたヘウォンとの『パジャマルームメイト』映像で、それぞれ異なる日程を見せた。8月の映像には宿舎や移動中の姿、屋内野球練習場の場面が続き、7月の映像ではヘウォンと客室で会話する様子が収められている。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224395491488",
       "sourceHash": "sha256:30a6fa4bc33d68252ebad954de48b85327e334ca63b17135c69f294e494d28fc",
