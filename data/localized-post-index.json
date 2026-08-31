@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-08-31T05:17:38.000Z",
-  "generatedAt": "2026-08-31T05:32:10.189Z",
+  "sourceGeneratedAt": "2026-08-31T11:51:08.000Z",
+  "generatedAt": "2026-08-31T13:46:41.257Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-08-31T05:17:38.000Z",
-    "translatedCount": 288,
-    "translationSetHash": "sha256:76c3aedeefe869b6bb951166b5e1401586a53d59d138443a99c05be31d226964"
+    "sourceCutoff": "2026-08-31T11:51:08.000Z",
+    "translatedCount": 289,
+    "translationSetHash": "sha256:6d98df8d5aa01cab25e74ea7fe11db6dea9bebdad5273667b824a09d4ffa142d"
   },
   "counts": {
-    "entertainment": 185,
+    "entertainment": 186,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224396478037",
+      "sourceHash": "sha256:b274c30c575b3ba523079d2e44415df3840cc749e8a7c7265b26dc2c081702c2",
+      "source": {
+        "title": "에스파 윈터 근황, 윔블던 브이로그와 일본 돔 투어 공식 영상",
+        "summary": "aespa 윈터는 2026년 8월 17일 공개된 공식 영상 ‘See you in London! | WINTER at The Championships, Wimbledon 2026 | Wintering Vlog’에서 런던 이동과 행사 준비 일정을 보여 줬습니다. 7월 12일 공개된 일본 돔 투어 비하인드 영상에는 aespa의 연습실과 무대 준비 과정이 담겼습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "aespa Winter Update: Wimbledon Vlog and Japan Dome Tour Official Video",
+          "summary": "aespa's Winter showed her move to London and event preparations in the official video 'See you in London! | WINTER at The Championships, Wimbledon 2026 | Wintering Vlog,' released on August 17, 2026. A Japan Dome Tour behind-the-scenes video released on July 12 captured aespa's rehearsal room and stage preparations.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "aespaウィンター近況、ウィンブルドンVlogと日本ドームツアー公式映像",
+          "summary": "aespaのウィンターは、2026年8月17日に公開された公式映像『See you in London! | WINTER at The Championships, Wimbledon 2026 | Wintering Vlog』で、ロンドンへの移動とイベント準備の日程を見せた。7月12日に公開された日本ドームツアーのビハインド映像には、aespaの練習室とステージ準備の様子が収められている。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224396030562",
       "sourceHash": "sha256:c60e5336249460832fe3111e702cbcc1b20e4db8884fb918829254407b17a2b2",
