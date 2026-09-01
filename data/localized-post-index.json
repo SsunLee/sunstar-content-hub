@@ -1,18 +1,66 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-01T13:58:30.000Z",
-  "generatedAt": "2026-09-01T16:38:29.258Z",
+  "sourceGeneratedAt": "2026-09-01T20:34:30.000Z",
+  "generatedAt": "2026-09-01T21:01:23.388Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-01T13:58:30.000Z",
-    "translatedCount": 295,
-    "translationSetHash": "sha256:0ff220e8d6d6c90b814ab504d1eaa48c791a3aad79a0abfd1890e2d5e401f1fc"
+    "sourceCutoff": "2026-09-01T20:34:30.000Z",
+    "translatedCount": 297,
+    "translationSetHash": "sha256:d34d00a387f14390cae043b873f903f574bb5d3ee2c268df2c26f2dbaf4a90ab"
   },
   "counts": {
-    "entertainment": 192,
+    "entertainment": 194,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224398029856",
+      "sourceHash": "sha256:028ff5b02df2c9cf1844d166abf34bb25f86543b400572316ad8350f60802170",
+      "source": {
+        "title": "영화 인턴 예매 3위, 한소희가 맡은 CEO 선우의 역할",
+        "summary": "한소희는 2026년 9월 16일 개봉하는 영화 '인턴'에서 패션 브랜드 WOO22를 창업 3년 만에 100억 원대 매출로 키운 젊은 CEO 선우를 연기합니다. 영화진흥위원회가 9월 2일 집계한 실시간 예매 순위에서 '인턴'은 예매 관객 3만 9,633명, 예매 점유율 6.7%로 3위에 올랐습니다. 선우는 빠르게 성장한 회사를 책임지느라 일과 생활의 경계가 흐려진 인물입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "Movie 'Intern' Ranks No. 3 in Advance Ticket Sales — Han So-hee's Role as CEO Seonwoo",
+          "summary": "Han So-hee plays Seonwoo, a young CEO who grew fashion brand WOO22 to roughly 10 billion won in annual sales within three years of founding it, in the movie 'Intern,' opening September 16, 2026. In real-time advance ticket rankings tallied by the Korean Film Council on September 2, 'Intern' placed third with 39,633 advance viewers and a 6.7% booking share. Seonwoo is a character whose boundary between work and life has blurred from shouldering a rapidly growing company.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "映画「インターン」予売り3位、ハン・ソヒが演じるCEOソヌの役柄",
+          "summary": "ハン・ソヒは、2026年9月16日に公開される映画「インターン」で、創業3年でファッションブランドWOO22を売上高100億ウォン規模に育てた若きCEO、ソヌを演じる。映画振興委員会が9月2日に集計したリアルタイム予売りランキングで、「インターン」は予売り観客3万9,633人、予売りシェア6.7%で3位となった。ソヌは急成長した会社を背負い、仕事と生活の境界があいまいになった人物だ。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
+    {
+      "logNo": "224398028870",
+      "sourceHash": "sha256:acab1525643a73c70fce68fcf5a890cb01450a57981609163f47388045fed758",
+      "source": {
+        "title": "엔믹스 해원 근황, ‘MIXX ARCHIVE 필담’과 유럽 투어 공식 영상",
+        "summary": "엔믹스 해원은 2026년 8월 14일 공개된 ‘MIXX ARCHIVE 필담’과 8월 5일 공개된 유럽 투어 비하인드 영상에서 서로 다른 활동 장면을 보여줬습니다. 필담 콘텐츠에서는 멤버들과 테이블에 앉아 글과 그림으로 대화했고, 유럽 투어 영상에서는 공연 전후의 대기실과 무대 주변 모습을 확인할 수 있습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "NMIXX Haewon Update: 'MIXX ARCHIVE: Written Conversation' and European Tour Official Video",
+          "summary": "NMIXX's Haewon appeared in two separate pieces of content: the 'MIXX ARCHIVE: Written Conversation' video released on August 14, 2026, and the European tour behind-the-scenes video released on August 5. In the written-conversation content, she sat at a table with members and communicated through writing and drawings, while the tour video shows backstage and around-the-stage moments before and after performances.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "NMIXX ヘウォン近況、『MIXX ARCHIVE 筆談』と欧州ツアー公式映像",
+          "summary": "NMIXXのヘウォンは、2026年8月14日公開の『MIXX ARCHIVE 筆談』と、8月5日公開の欧州ツアー舞台裏映像で、それぞれ異なる活動の様子を見せた。筆談コンテンツではメンバーとテーブルを囲み、文字と絵で対話し、欧州ツアー映像では公演前後の控室やステージ周辺の様子を確認できる。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224397837627",
       "sourceHash": "sha256:c7b84307ca5198a5bf6c23ab6fc4cad3bb271cf13e1384e85f4c1205e3da719b",
