@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-01T00:54:26.000Z",
-  "generatedAt": "2026-09-01T05:06:01.005Z",
+  "sourceGeneratedAt": "2026-09-01T10:19:37.000Z",
+  "generatedAt": "2026-09-01T11:37:39.931Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-01T00:54:26.000Z",
-    "translatedCount": 293,
-    "translationSetHash": "sha256:363d14c0aae6f47d7f573e4ecfc35b0c39dac7d2c83f151d1feafeff420bcfdc"
+    "sourceCutoff": "2026-09-01T10:19:37.000Z",
+    "translatedCount": 294,
+    "translationSetHash": "sha256:043edeef137a5a6cefca58646de53bfc6f185ad310de3b55aebbd41c2e2920c7"
   },
   "counts": {
-    "entertainment": 190,
+    "entertainment": 191,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224397641426",
+      "sourceHash": "sha256:31fe6a64329076a913b60eb22837b1a5bb99e055471d7750f5855189071b30c1",
+      "source": {
+        "title": "드라큘라: 러브 테일 다양성영화 1위, 칼렙 랜드리 존스의 드라큘라",
+        "summary": "영화진흥위원회의 2026년 8월 31일 다양성영화 일일 박스오피스에서 '드라큘라: 러브 테일'은 관객 793명, 누적 관객 1만 2,470명으로 1위를 기록했습니다. 8월 26일 국내 개봉 뒤 전날보다 두 계단 오른 결과입니다. 이 순위는 전체 박스오피스가 아니라 다양성영화 부문 작품 순위이며, 배우 개인의 성적을 뜻하지는 않습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Dracula: A Love Tale' Tops Diversity Film Chart as Caleb Landry Jones's Dracula",
+          "summary": "'Dracula: A Love Tale' topped the Korean Film Council's daily diversity film box office for August 31, 2026, drawing 793 admissions and reaching a cumulative total of 12,470 admissions. This is a two-spot rise from the previous day, following the film's domestic release on August 26. The ranking reflects the diversity film category rather than the overall box office, and does not represent an individual actor's personal standing.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "「ドラキュラ:ア・ラブ・テイル」多様性映画1位、カレブ・ランドリー・ジョーンズが演じるドラキュラ",
+          "summary": "映画振興委員会の2026年8月31日付多様性映画デイリーボックスオフィスで、『ドラキュラ:ア・ラブ・テイル』は観客793人、累計観客1万2,470人で1位となった。8月26日の国内公開後、前日より2ランク上昇した結果だ。この順位は全体ボックスオフィスではなく多様性映画部門の作品順位であり、俳優個人の成績を意味するものではない。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224396986916",
       "sourceHash": "sha256:80f5780e789127860a4e22f016f8b824e1648b861cfe82fc5e418273e87df5ee",
