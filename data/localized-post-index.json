@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-01T10:19:37.000Z",
-  "generatedAt": "2026-09-01T11:37:39.931Z",
+  "sourceGeneratedAt": "2026-09-01T13:58:30.000Z",
+  "generatedAt": "2026-09-01T16:38:29.258Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-01T10:19:37.000Z",
-    "translatedCount": 294,
-    "translationSetHash": "sha256:043edeef137a5a6cefca58646de53bfc6f185ad310de3b55aebbd41c2e2920c7"
+    "sourceCutoff": "2026-09-01T13:58:30.000Z",
+    "translatedCount": 295,
+    "translationSetHash": "sha256:0ff220e8d6d6c90b814ab504d1eaa48c791a3aad79a0abfd1890e2d5e401f1fc"
   },
   "counts": {
-    "entertainment": 191,
+    "entertainment": 192,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224397837627",
+      "sourceHash": "sha256:c7b84307ca5198a5bf6c23ab6fc4cad3bb271cf13e1384e85f4c1205e3da719b",
+      "source": {
+        "title": "에스파 닝닝 근황, ‘Switchblade’ 무대와 ‘Lollipop’ 녹음 비하인드",
+        "summary": "에스파 닝닝은 2026년 8월 26일 공개된 ‘Switchblade’ 공식 공연 영상과 8월 25일 공개된 ‘Lollipop’ 녹음 비하인드에서 서로 다른 활동 장면을 보였습니다. 무대에서는 검은 의상과 군무 안에서 곡의 흐름을 이어 갔고, 녹음실에서는 마이크와 가사지 앞에서 파트를 확인했습니다.",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "aespa NINGNING Update: 'Switchblade' Stage Performance and 'Lollipop' Recording Behind-the-Scenes",
+          "summary": "aespa's NINGNING appeared in two separate activities: the official 'Switchblade' stage performance video released on August 26, 2026, and the 'Lollipop' recording behind-the-scenes video released on August 25. On stage, she carried the song's flow through black outfits and group choreography, while in the recording booth she checked her part in front of a microphone and lyric sheet.",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "aespa NINGNING近況、「Switchblade」ステージ映像と「Lollipop」レコーディング舞台裏",
+          "summary": "aespaのNINGNINGは、2026年8月26日公開の「Switchblade」公式ステージ映像と、8月25日公開の「Lollipop」レコーディング舞台裏映像で、それぞれ異なる活動の様子を見せた。ステージでは黒い衣装と群舞の中で曲の流れをつなぎ、レコーディングブースではマイクと歌詞カードの前でパートを確認した。",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224397641426",
       "sourceHash": "sha256:31fe6a64329076a913b60eb22837b1a5bb99e055471d7750f5855189071b30c1",
