@@ -4,15 +4,123 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-08-31T20:03:48.922Z",
-  "expectedPublicCount": 1220,
-  "total": 1220,
+  "generatedAt": "2026-09-01T05:06:01.005Z",
+  "expectedPublicCount": 1222,
+  "total": 1222,
   "counts": {
-    "entertainment": 189,
+    "entertainment": 191,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224396986916",
+      "logNo": "224396986916",
+      "title": "에스파 지젤 근황, SuperELLE 화보와 ‘Lollipop’ 녹음 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224396986916",
+      "publishedAt": "2026-09-01T00:54:26.000Z",
+      "dateLabel": "2026. 9. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "aespa 지젤은 2026년 8월 19일 공식 유튜브 채널에 공개된 ‘[ae:scenes] aespa GISELLE SuperELLE Photoshoot Behind’에서 화보 촬영 현장을 보였습니다. 같은 채널은 8월 25일 지젤과 닝닝이 참여한 ‘aespa ‘Lollipop (GISELLE & NINGNING)’ Recording Behind’를 공개했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MDFfNiAg/MDAxNzg4MjIzOTczMjU5.5JT6IQZ0GuHPYs8gvwh-92coK703AgjTRkHaztvTSSwg.jxIDvBqqiQdL9SUB-_M2ta4fmP1372fbzKQRJxXtPd4g.JPEG/giselle-superelle-0023.jpg?type=s3",
+      "tags": [
+        "aespa",
+        "에스파",
+        "지젤",
+        "GISELLE",
+        "지젤근황",
+        "SuperELLE",
+        "Lollipop",
+        "에스파공식영상"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "파란 배경 앞에서 시작한 SuperELLE 촬영",
+          "body": "SuperELLE 화보 비하인드 초반에서 지젤은 흰색 재킷과 검은색 긴 머리 차림으로 파란 배경 앞에 섭니다. 의자에 앉은 구도와 상체를 가까이 잡은 구도가 이어지며, 화면 가장자리에는 조명 장비와 촬영용 배경지가 보입니다. 영상 제목에 적힌 GISELLE과 SuperELLE는 이 장면이 지젤의 화보 촬영 현장이라는 점을 알려 줍니다."
+        },
+        {
+          "heading": "검은 의상과 빨간 배경으로 바뀐 세트",
+          "body": "2분대 장면에서 배경은 빨간색으로 바뀌고, 지젤은 검은색 의상과 모자를 착용합니다. 보라색 공을 든 전신 장면, 의자에 앉아 촬영을 준비하는 장면, 카메라를 향해 고개를 돌리는 장면이 차례로 등장합니다. 배경색과 의상이 모두 바뀌어 앞선 파란 세트와는 다른 촬영 순서를 구분할 수 있습니다."
+        },
+        {
+          "heading": "후드 재킷을 활용한 또 다른 화보 장면",
+          "body": "4분대에는 지젤이 파란색과 카키색이 섞인 후드 재킷을 입고 같은 빨간 배경 앞에 다시 섭니다. 후드를 쓰는 동작, 바닥에 앉은 전신 구도, 옆모습을 잡은 장면이 이어집니다. 촬영용 조명과 반사판이 함께 보이기 때문에 완성 화보가 아니라 의상과 포즈를 바꾸며 진행한 현장임을 확인할 수 있습니다."
+        },
+        {
+          "heading": "‘Lollipop’ 녹음 전 가사를 확인하는 지젤",
+          "body": "8월 25일 공개된 ‘Lollipop’ 녹음 비하인드의 초반에서 지젤은 닝닝과 함께 소파에 앉아 가사가 적힌 종이를 확인합니다. 이 영상은 제목대로 두 멤버의 녹음 과정을 담았고, 지젤은 검은색 상의와 묶은 머리 차림으로 화면에 나옵니다. 화보 스튜디오의 장면과 달리 흰색 벽과 소파, 가사지가 있는 준비 공간이 보입니다."
+        },
+        {
+          "heading": "마이크 앞에서 이어진 녹음 부스 장면",
+          "body": "영상 후반부에서 지젤은 헤드폰을 쓰고 마이크 앞에 앉아 녹음을 이어 갑니다. 악보 받침대와 마이크, 노란 의자가 함께 잡히며 지젤이 가사를 보면서 작업하는 모습이 나타납니다. 공식 영상은 8월 19일 화보 비하인드와 8월 25일 녹음 비하인드를 통해 지젤의 서로 다른 공식 콘텐츠를 공개했습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-01T05:06:01.005Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:9d18b6b42f0d4d34ccbb99e6827b7b74b3a2e44c49e28a3c61a42dfdbb71b06b"
+    },
+    {
+      "id": "naver:tnsqo1126:224396944371",
+      "logNo": "224396944371",
+      "title": "가족관계증명서 5.6%, 박세영이 맡은 나지니는 누구인가",
+      "url": "https://blog.naver.com/tnsqo1126/224396944371",
+      "publishedAt": "2026-09-01T00:11:04.000Z",
+      "dateLabel": "2026. 9. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "2026년 8월 31일 방송된 MBC 일일드라마 '가족관계증명서'는 닐슨코리아 전국 가구 시청률 5.6%를 기록했습니다. 같은 날 지상파 프로그램 가운데 7위였고, 시청자 수 추정치는 99만 1천 명입니다. 조사 대상과 기준일이 분명한 작품 전체의 방송 성적이며, 배우 개인의 성적을 뜻하지는 않습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MDFfNDMg/MDAxNzg4MjIxMjU4OTky.0mvPZIUW-y9-lUcBbmT8ej3FLUwSfDo0Pr0WCtc2pYIg.Rqg0Oqx0QgMWVChlSg4dkbDo0ne2O1-M0tcqOTQ0PiIg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "박세영",
+        "가족관계증명서",
+        "나지니",
+        "MBC드라마",
+        "일일드라마",
+        "배우근황",
+        "박세영가족관계증명서",
+        "나지니MBC드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8월 31일 5.6%, 가족관계증명서의 최근 흐름",
+          "body": "닐슨코리아의 2026년 8월 31일 지상파 일일 자료에서 '가족관계증명서'는 전국 가구 시청률 5.6%를 기록했습니다. 시청자 수 추정치는 99만 1천 명이며, 당일 지상파 전체 순위는 7위입니다. 이 수치는 전국 가구 기준의 날짜별 시청률이므로 온라인 재생 수나 화제성 지수와 섞어 해석할 수 없습니다."
+        },
+        {
+          "heading": "나지니, 가족의 낙인과 자신의 이름 사이",
+          "body": "MBC 공식 인물 소개에서 나지니는 혼외 출생이라는 이유로 상처와 차별을 겪은 인물입니다. 부모를 선택할 수 없는데도 자신이 감당해야 했던 시선과 학교 폭력, 그 뒤에 이어진 거짓말을 더는 피하지 않겠다는 태도가 캐릭터의 출발점입니다. 제목의 '가족관계증명서'는 서류 한 장을 넘어 누가 가족으로 인정되고 누구의 진실이 지워졌는지를 묻는 장치로 작동합니다."
+        },
+        {
+          "heading": "박세영 기본 정보와 2011년 정식 데뷔",
+          "body": "KBS 공식 스타 프로필에 따르면 박세영은 1988년 7월 30일생입니다. 2026년 9월 1일 기준 국제 나이는 만 38세입니다. 현재 소속사는 CL&컴퍼니이며, 소속사 공식 프로필에도 2026년 MBC '가족관계증명서'가 출연작으로 올라와 있습니다."
+        },
+        {
+          "heading": "학교 2013부터 돈꽃까지 이어진 연기 이력",
+          "body": "박세영은 2012년 '신의'와 '적도의 남자', 2013년 '학교 2013'과 '지성이면 감천'을 거치며 사극과 현대극을 오갔습니다. '학교 2013'에서는 학생 송하경을 맡았고, '지성이면 감천'에서는 주인공 최세영을 연기했습니다. 비슷한 시기에 학생과 방송사 신입 PD라는 서로 다른 생활권의 인물을 맡으며 활동 폭을 넓혔습니다."
+        },
+        {
+          "heading": "8월 말 공식 장면에서 확인할 변화",
+          "body": "8월 26일 공식 영상에서 나지니는 박도희의 집으로 들어가 직접 상황을 확인합니다. 상대의 설명만 기다리지 않고 자신이 확인할 수 있는 공간으로 움직인다는 점이 드러납니다. 그림을 들고 선 나지니의 모습은 가족 문제와 별개로 이어지는 창작자의 생활도 함께 보여 줍니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-01T05:06:01.005Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:17367dd15af7500bd6908ae4815d8c156ee05b010d28629bdd63507900eb468c"
+    },
     {
       "id": "naver:tnsqo1126:224396786211",
       "logNo": "224396786211",
