@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-01T11:37:39.931Z",
-  "expectedPublicCount": 1223,
-  "total": 1223,
+  "generatedAt": "2026-09-01T16:38:29.258Z",
+  "expectedPublicCount": 1224,
+  "total": 1224,
   "counts": {
-    "entertainment": 192,
+    "entertainment": 193,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224397837627",
+      "logNo": "224397837627",
+      "title": "에스파 닝닝 근황, ‘Switchblade’ 무대와 ‘Lollipop’ 녹음 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224397837627",
+      "publishedAt": "2026-09-01T13:58:30.000Z",
+      "dateLabel": "2026. 9. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "에스파 닝닝은 2026년 8월 26일 공개된 ‘Switchblade’ 공식 공연 영상과 8월 25일 공개된 ‘Lollipop’ 녹음 비하인드에서 서로 다른 활동 장면을 보였습니다. 무대에서는 검은 의상과 군무 안에서 곡의 흐름을 이어 갔고, 녹음실에서는 마이크와 가사지 앞에서 파트를 확인했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MDFfMjk0/MDAxNzg4MjcxMDE1NTMx.zKZFeMBxdBDUPaCHzx3iAdl8vRyyzu4h2aNg5ljgAnwg.c5A34PC79meco2lQ9AoQgIp8jdIXQakyNMtw5nSz0i4g.JPEG/switchblade-0050.jpg?type=s3",
+      "tags": [
+        "aespa",
+        "에스파",
+        "닝닝",
+        "NINGNING",
+        "닝닝근황",
+        "Switchblade",
+        "Lollipop",
+        "에스파공식영상"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2026년 8월 26일 ‘Switchblade’ 공식 공연",
+          "body": "aespa 공식 유튜브는 2026년 8월 26일 ‘Switchblade (Feat. Ty Dolla $ign)’ 무대 영상을 공개했습니다. 영상은 넓은 무대와 LED 화면, 댄서가 함께 보이는 구성을 따라가며, 닝닝은 멤버들과 검은색 무대 의상을 맞춰 입고 안무 대형을 이어 갑니다."
+        },
+        {
+          "heading": "무대 조명과 안무 대형의 변화",
+          "body": "‘Switchblade’ 무대에는 푸른색과 붉은색 조명이 번갈아 나타나며, 화면 속 LED 패턴도 곡의 구간에 따라 바뀝니다. 닝닝은 멤버들과 같은 대형 안에서 팔 동작과 이동 동선을 맞추고, 카메라가 가까워지는 구간에서는 얼굴과 상의의 검은 질감이 더 또렷하게 보입니다."
+        },
+        {
+          "heading": "‘Lollipop’ 녹음실에서 확인한 닝닝의 파트",
+          "body": "aespa 공식 유튜브는 2026년 8월 25일 지젤과 닝닝의 ‘Lollipop’ 녹음 비하인드 영상을 공개했습니다. 닝닝은 녹음 부스 안에서 헤드폰을 쓰고 마이크 앞에 앉아 가사를 확인한 뒤 파트를 녹음합니다. 보라색 조명과 노란 의자가 있는 실내 구성이 무대와 다른 환경을 보여 줍니다."
+        },
+        {
+          "heading": "같은 녹음실에서 달라지는 의상과 구도",
+          "body": "닝닝은 영상에서 파란색 상의와 흰색 겉옷을 함께 입고 녹음을 진행합니다. 카메라가 정면과 측면, 위쪽 구도로 바뀌어도 마이크, 가사지, 헤드폰이 중심에 놓여 있어 녹음 비하인드라는 활동 맥락이 이어집니다."
+        },
+        {
+          "heading": "에스파 닝닝의 최근 공식 콘텐츠 확인 포인트",
+          "body": "공식 채널 기준으로 닝닝의 최근 확인 포인트는 8월 25일 ‘Lollipop’ 녹음 비하인드와 8월 26일 ‘Switchblade’ 공연 영상입니다. 두 콘텐츠는 하루 차이로 공개됐지만, 하나는 녹음실의 개별 파트와 대기 장면을, 다른 하나는 그룹 공연의 안무와 무대 대형을 담고 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-01T16:38:29.258Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3435bf7aa32174cc0fd080615a65b8deabad88a0b974d7b45bb499e876f82d27"
+    },
     {
       "id": "naver:tnsqo1126:224397641426",
       "logNo": "224397641426",
