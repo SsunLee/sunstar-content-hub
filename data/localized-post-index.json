@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-02T06:48:25.000Z",
-  "generatedAt": "2026-09-02T11:16:42.356Z",
+  "sourceGeneratedAt": "2026-09-02T17:03:47.000Z",
+  "generatedAt": "2026-09-02T21:02:28.289Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-02T06:48:25.000Z",
-    "translatedCount": 298,
-    "translationSetHash": "sha256:ed9183010fa40657a32954fc4ab2dd25e74267fbb0b5fa5bd12fa980f149a505"
+    "sourceCutoff": "2026-09-02T17:03:47.000Z",
+    "translatedCount": 299,
+    "translationSetHash": "sha256:a310ed02b62bbb9ec83a701a3fb4b2a417f061cd692b31f31de59dc12984b0e3"
   },
   "counts": {
-    "entertainment": 195,
+    "entertainment": 196,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224399151003",
+      "sourceHash": "sha256:3f63732765f221dc380704c9f31bc487a969a1fe258eef8163884a17b230d185",
+      "source": {
+        "title": "싱 어게인 일별 6위, 폴 러드가 맡은 릭 파워의 역할",
+        "summary": "폴 러드는 2026년 9월 2일 국내 개봉한 영화 '싱 어게인'에서 팝스타의 꿈을 접고 결혼식 축가를 부르며 살아가는 릭 파워를 연기합니다. 영화진흥위원회의 9월 2일 일별 박스오피스에서 '싱 어게인'은 관객 1만 501명으로 전체 6위를 기록했습니다. 릭은 한때 음악가를 꿈꿨지만 세상에 알려지지 않은 채 축가 가수로 남은 인물입니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Sing Again' Ranks No. 6 in Daily Box Office — Paul Rudd's Role as Rick Power",
+          "summary": "Paul Rudd plays Rick Power in the movie 'Sing Again,' which opened in South Korea on September 2, 2026 — a man who gave up his dream of pop stardom and now makes a living singing at wedding receptions. In the Korean Film Council's daily box office for September 2, 'Sing Again' ranked No. 6 overall with 10,501 admissions. Rick once dreamed of being a musician but remains an unknown wedding singer.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『シング・アゲイン』日別6位、ポール・ラッドが演じるリック・パワーの役柄",
+          "summary": "ポール・ラッドは、2026年9月2日に韓国で公開された映画『シング・アゲイン』で、ポップスターの夢を諦め、結婚式で祝いの歌を歌いながら生きるリック・パワーを演じる。映画振興委員会の9月2日付日別ボックスオフィスで、『シング・アゲイン』は観客1万501人で全体6位を記録した。リックはかつて音楽家を夢見たが、世に知られぬまま結婚式の歌手として残った人物だ。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224398597472",
       "sourceHash": "sha256:f2cc7e54119891ea272acfa8d8a0816b93e9697bd59c4d0aecf875d00781c249",
