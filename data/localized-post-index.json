@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-02T17:03:47.000Z",
-  "generatedAt": "2026-09-02T21:02:28.289Z",
+  "sourceGeneratedAt": "2026-09-03T03:05:00.000Z",
+  "generatedAt": "2026-09-03T04:34:37.610Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-02T17:03:47.000Z",
-    "translatedCount": 299,
-    "translationSetHash": "sha256:a310ed02b62bbb9ec83a701a3fb4b2a417f061cd692b31f31de59dc12984b0e3"
+    "sourceCutoff": "2026-09-03T03:05:00.000Z",
+    "translatedCount": 300,
+    "translationSetHash": "sha256:1934d8642f26e3098163ce4e23711a2584eb5936b26b1214e97d0d72d91a489d"
   },
   "counts": {
-    "entertainment": 196,
+    "entertainment": 197,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224399533240",
+      "sourceHash": "sha256:172d896f2e038d93654764f5ffe189a49f9c65d7cbc3c858f69fb3aac1ba9cbf",
+      "source": {
+        "title": "기쁜 우리 좋은 날 시청률 10.4%, 윤다훈이 맡은 고대치의 역할",
+        "summary": "윤다훈은 KBS1 일일드라마 '기쁜 우리 좋은 날'에서 강수건설 사장 고대치를 연기합니다. 고대치는 조성준의 고등학교 동창이자 두 아들 고결과 고민호의 아버지로, 회사의 권력 관계와 가족 갈등을 동시에 움직이는 인물입니다. 닐슨코리아가 2026년 9월 2일 집계한 전국 가구 시청률에서 작품은 10.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Our Happy Good Day' Rating Hits 10.4% — Yoon Da-hoon's Role as Go Dae-chi",
+          "summary": "Yoon Da-hoon plays Go Dae-chi, president of Kangsu Construction, in KBS1's daily drama 'Our Happy Good Day.' Go Dae-chi is Jo Seong-jun's high school classmate and the father of two sons, Go-gyeol and Go Min-ho, driving both the company's power struggles and the family's conflicts. In the nationwide household ratings Nielsen Korea tallied for September 2, 2026, the show recorded 10.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "「幸せな私たちの良き日」視聴率10.4%、ユン・ダフンが演じるコデチの役割",
+          "summary": "ユン・ダフンはKBS1の連続ドラマ『幸せな私たちの良き日』で、カンス建設社長コデチを演じる。コデチはチョ・ソンジュンの高校の同級生であり、コギョルとコミンホという二人の息子を持つ父親として、会社の権力関係と家族の葛藤を同時に動かす人物だ。ニールセン・コリアが集計した2026年9月2日の全国世帯視聴率で、同作は10.…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224399151003",
       "sourceHash": "sha256:3f63732765f221dc380704c9f31bc487a969a1fe258eef8163884a17b230d185",
