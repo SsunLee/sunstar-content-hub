@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-03T23:27:26.000Z",
-  "generatedAt": "2026-09-04T00:08:55.408Z",
+  "sourceGeneratedAt": "2026-09-04T09:45:13.000Z",
+  "generatedAt": "2026-09-04T11:19:25.765Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-03T23:27:26.000Z",
-    "translatedCount": 303,
-    "translationSetHash": "sha256:eda498f62d7d25182b7dd7ae51dd8ae171dc41e1250080ce05caeba13ae6713b"
+    "sourceCutoff": "2026-09-04T09:45:13.000Z",
+    "translatedCount": 304,
+    "translationSetHash": "sha256:7478c1cf78b3d72d2afa8cc089a25cc776df356b32e598667055bcf0b32ac6ca"
   },
   "counts": {
-    "entertainment": 200,
+    "entertainment": 201,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224401164823",
+      "sourceHash": "sha256:f326554c29efaa9e3e9b87cc8c074a0ca4ce6ec8e7ec86a2dc230af759e1942d",
+      "source": {
+        "title": "비광 일별 4위, 하지원이 맡은 남미의 역할",
+        "summary": "하지원은 2026년 9월 2일 개봉한 영화 '비광'에서 한때 정상에 올랐던 배우 남미를 연기합니다. 영화진흥위원회의 9월 3일 일별 박스오피스에서 '비광'은 전체 4위에 올랐고, 이날 관객 1만 2,726명과 누적 관객 3만 557명을 기록했습니다. 남미는 야구 스타 황중구와 화려한 부부로 살다가 중구의 딸 동주가 나타난 뒤 파경과 몰락을 겪습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Portrait of a Family' Ranks No. 4 in Daily Box Office — Ha Ji-won's Role as Nam-mi",
+          "summary": "Ha Ji-won plays Nam-mi, once a top actress, in the movie 'Portrait of a Family,' which opened on September 2, 2026. In the Korean Film Council's daily box office for September 3, 'Portrait of a Family' ranked No. 4 overall, with 12,726 admissions that day and 30,557 cumulative admissions. Nam-mi lives as a glamorous couple with baseball star Hwang Jung-gu until his daughter Dong-joo appears, and she suffers a breakup and downfall.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "映画『ビグァン』(雨光)日別4位、ハ・ジウォンが演じるナミの役割",
+          "summary": "ハ・ジウォンは、2026年9月2日に公開された映画『ビグァン』(雨光)で、かつて頂点に立った女優ナミを演じる。映画振興委員会の9月3日付日別ボックスオフィスで、『ビグァン』は全体4位となり、この日の観客数1万2,726人、累計観客数3万557人を記録した。ナミは野球選手ファン・ジュングと華やかな夫婦として暮らしていたが、ジュングの娘トンジュが現れた後、破局と没落を経験する。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224400478757",
       "sourceHash": "sha256:5cb9a85aded31ff86cb2c6aaa6e11486ebdfb0db14a2e9b81fd2ac08e74d8e64",
