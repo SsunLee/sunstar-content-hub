@@ -1,18 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceGeneratedAt": "2026-09-03T13:24:21.000Z",
-  "generatedAt": "2026-09-03T16:24:34.829Z",
+  "sourceGeneratedAt": "2026-09-03T23:27:26.000Z",
+  "generatedAt": "2026-09-04T00:08:55.408Z",
   "translationLag": {
     "policy": "newer-source-posts-only",
-    "sourceCutoff": "2026-09-03T13:24:21.000Z",
-    "translatedCount": 302,
-    "translationSetHash": "sha256:63d1cedb14e80106452bb75f589fa94594cf59abfa65e8616521995c58ff2637"
+    "sourceCutoff": "2026-09-03T23:27:26.000Z",
+    "translatedCount": 303,
+    "translationSetHash": "sha256:eda498f62d7d25182b7dd7ae51dd8ae171dc41e1250080ce05caeba13ae6713b"
   },
   "counts": {
-    "entertainment": 199,
+    "entertainment": 200,
     "stocks": 103
   },
   "translations": [
+    {
+      "logNo": "224400478757",
+      "sourceHash": "sha256:5cb9a85aded31ff86cb2c6aaa6e11486ebdfb0db14a2e9b81fd2ac08e74d8e64",
+      "source": {
+        "title": "넷플릭스 들쥐 한국 TV 주간 1위, 류준열이 맡은 제문재의 역할",
+        "summary": "류준열은 넷플릭스 시리즈 '들쥐'에서 은둔형 천재 소설가 제문재를 연기합니다. 문재는 의문의 존재인 들쥐에게 이름과 얼굴, 재산과 인생을 빼앗긴 뒤 자신이 진짜라는 사실을 증명하려고 세상 밖으로 나오는 인물입니다. 넷플릭스 공식 한국 TV 톱10에서 '들쥐'는 2026년 8월 24일부터 30일까지 집계한 주간 순위 1위에 올랐습니다.…",
+        "work": "",
+        "role": ""
+      },
+      "locales": {
+        "en": {
+          "title": "'Mousetrap' Ranks No. 1 Weekly on Netflix Korea TV — Ryu Jun-yeol's Role as Je Moon-jae",
+          "summary": "Ryu Jun-yeol plays reclusive genius novelist Je Moon-jae in the Netflix series 'Mousetrap.' After a mysterious being known as the 'Field Mouse' steals his name, face, fortune, and life, Moon-jae emerges from hiding to prove that he is the real one. 'Mousetrap' topped Netflix's official Korea TV Top 10 for the week of August 24-30, 2026.…",
+          "work": "",
+          "role": ""
+        },
+        "ja": {
+          "title": "『なりすましの鼠』Netflix韓国TV週間1位、リュ・ジュンヨルが演じるチェ・ムンジェの役割",
+          "summary": "リュ・ジュンヨルはNetflixシリーズ『なりすましの鼠』で、引きこもりの天才小説家チェ・ムンジェを演じる。ムンジェは正体不明の存在「ネズミ」に名前と顔、財産と人生を奪われた後、自分が本物であることを証明するために世の中へ出て行く人物だ。『なりすましの鼠』はNetflix公式韓国TVトップ10で、2026年8月24日から30日までの集計で週間1位となった。…",
+          "work": "",
+          "role": ""
+        }
+      }
+    },
     {
       "logNo": "224400185065",
       "sourceHash": "sha256:cd1868b401321e8df5a5d11a91685f3b97e4afcdec6c0780726657d5f4dcedab",
