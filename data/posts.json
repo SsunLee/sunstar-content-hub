@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-04T11:19:25.765Z",
-  "expectedPublicCount": 1233,
-  "total": 1233,
+  "generatedAt": "2026-09-11T04:38:07.384Z",
+  "expectedPublicCount": 1234,
+  "total": 1234,
   "counts": {
-    "entertainment": 202,
+    "entertainment": 203,
     "stocks": 103,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224408248272",
+      "logNo": "224408248272",
+      "title": "트와이스 나연 근황, LG 트윈스 시구 비하인드와 월드 투어 로그",
+      "url": "https://blog.naver.com/tnsqo1126/224408248272",
+      "publishedAt": "2026-09-11T04:38:06.000Z",
+      "dateLabel": "2026. 9. 11.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "트와이스 나연은 2026년 8월 31일 공식 유튜브 채널에 공개된 NAYEON First Pitch Behind with LG TWINS에서 LG 트윈스 시구 일정을 준비하고 경기장을 찾는 모습을 보였습니다. 영상은 이동 중인 차 안의 장면에서 시작해 실내 연습과 잠실야구장 현장을 차례로 담습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTFfNTgg/MDAxNzg5MTAxMzgxODE5.jud7rtStSe8-K8Ok8qBjOjC7Ies6um-VO9EbsBFFaNkg.YvT14sqfGpnGLKXOv-2cKTS-PpP2oneS_ap6uzgtQcUg.JPEG/pitch-0130.jpg?type=s3",
+      "tags": [
+        "TWICE",
+        "트와이스",
+        "나연",
+        "NAYEON",
+        "트와이스나연",
+        "나연근황",
+        "LG트윈스",
+        "나연시구"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "LG 트윈스 시구 비하인드가 공개된 날",
+          "body": "공식 영상의 제목은 나연의 LG 트윈스 시구 비하인드를 직접 밝힙니다. 8월 31일에 올라온 14분 30초 분량의 영상에는 나연이 차량 안에서 일정을 이야기하는 장면과 야구장으로 이동하는 흐름이 이어집니다. 화면 왼쪽 위에는 NAYEON 표기가 나타나며, 나연이 이 콘텐츠의 중심 인물이라는 점도 영상 안에서 분명하게 확인됩니다."
+        },
+        {
+          "heading": "글러브와 공으로 점검한 투구 동작",
+          "body": "실내 연습 공간에서 나연은 공과 글러브를 든 채 투구 동작을 확인합니다. 초록색 그물망이 설치된 공간에서 공을 쥐는 손과 글러브를 낀 손을 번갈아 움직이고, 현장 관계자의 안내를 들으며 자세를 맞춥니다. 연습 공간의 네트, 바구니, 투구판은 야구장 시구를 앞둔 장면이라는 맥락을 구체적으로 보여 줍니다."
+        },
+        {
+          "heading": "월드 투어 로그에서 이어진 이동 장면",
+          "body": "트와이스 공식 유튜브 채널은 2026년 7월 16일 TW-LOG @ 6TH WORLD TOUR ‘THIS IS FOR’ ep.NAYEON | Pt.2도 공개했습니다. 약 29분 분량의 이 영상은 나연이 월드 투어 일정 중 차량과 숙소, 복도 등 여러 장소에 머무는 모습을 담습니다. 시구 비하인드와 달리 검은 모자, 흰 상의, 검은 민소매 상의처럼 의상이 바뀌며, 영상마다 촬영 장소와 일정의 성격도 구별됩니다."
+        },
+        {
+          "heading": "서로 다른 의상과 장소로 보는 최근 활동",
+          "body": "나연의 공식 콘텐츠에는 시구용 핑크색 유니폼과 월드 투어 로그의 일상 의상이 나란히 나타납니다. 시구 영상에서는 공과 글러브, 연습 네트, 관중석이 주요 배경을 이루고, 월드 투어 로그에서는 차량 좌석, 식사 공간, 숙소 복도가 이어집니다. 두 영상 모두 트와이스 공식 유튜브 채널이 게시했으며, 각 장면은 원문 영상의 해당 시점으로 연결됩니다."
+        },
+        {
+          "heading": "공식 원문에서 확인할 수 있는 정보",
+          "body": "시구 비하인드의 게시일은 2026년 8월 31일이고, 제목에는 LG 트윈스와 시구가 명시돼 있습니다. 월드 투어 로그의 게시일은 2026년 7월 16일이며, 제목에는 6번째 월드 투어 THIS IS FOR와 나연의 이름이 포함돼 있습니다. 두 원문은 모두 트와이스 공식 유튜브 채널에서 확인할 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-11T04:38:07.384Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3eee2c8a32dfb2b364b8e378f4f3862a55e9e9b017751bde45ddff1ce1bff9ac"
+    },
     {
       "id": "naver:tnsqo1126:224401164823",
       "logNo": "224401164823",
