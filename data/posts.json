@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-12T12:09:51.881Z",
-  "expectedPublicCount": 1238,
-  "total": 1238,
+  "generatedAt": "2026-09-12T15:30:37.841Z",
+  "expectedPublicCount": 1239,
+  "total": 1239,
   "counts": {
-    "entertainment": 206,
+    "entertainment": 207,
     "stocks": 104,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224409739527",
+      "logNo": "224409739527",
+      "title": "'더 드라마'의 엠마는 누구? 젠데이아의 배역과 국내 개봉 근황",
+      "url": "https://blog.naver.com/tnsqo1126/224409739527",
+      "publishedAt": "2026-09-12T15:15:45.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "젠데이아는 영화 '더 드라마'에서 결혼을 앞둔 엠마를 연기합니다. 로버트 패틴슨이 맡은 찰리와 함께 결혼식을 준비하지만, 예상하지 못한 고백 이후 두 사람의 관계가 흔들립니다. '더 드라마'는 2026년 9월 9일 국내 개봉했고, 영화진흥위원회의 9월 11일 일별 박스오피스에서 4위를 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfMjE1/MDAxNzg5MjI2MDg5ODc0.d6FbtPhgwNAykOKjOqgd0DswAsGzn6dVAMy98G0ZZucg.YSPh7gyBWYyv_OFK7Ms0v8K_NhN2_lcWzReCHZf5WfQg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "젠데이아",
+        "더드라마",
+        "엠마",
+        "로버트패틴슨",
+        "A24",
+        "영화배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224409415464",
       "logNo": "224409415464",
