@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-12T07:08:53.876Z",
-  "expectedPublicCount": 1237,
-  "total": 1237,
+  "generatedAt": "2026-09-12T12:09:51.881Z",
+  "expectedPublicCount": 1238,
+  "total": 1238,
   "counts": {
-    "entertainment": 205,
+    "entertainment": 206,
     "stocks": 104,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224409415464",
+      "logNo": "224409415464",
+      "title": "이준영의 포핸즈 최정요, 5회 콩쿠르에 함께 나서는 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224409415464",
+      "publishedAt": "2026-09-12T07:20:55.000Z",
+      "dateLabel": "2026. 9. 12.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "이준영은 tvN 토일드라마 ‘포핸즈’에서 피아노에 뛰어난 재능을 지닌 최정요를 연기합니다. 9월 12일 방송을 앞둔 5회 공식 예고에서는 강비오의 요청을 받고 같은 국제 콩쿠르에 출전합니다. 함께 음악을 즐기던 두 사람이 같은 무대의 경쟁자가 되는 대목입니다. ‘포핸즈’는 넷플릭스의 2026년 8월 31일~9월 6일 한국 TV 주간 차트에서 2위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTJfMjk0/MDAxNzg5MTk3NTk3ODMw.Ch3AoE5oI5qP4a_UI40Nm3xJHvWgB6yNT-l0DN89q2Qg.eR7_ws2YPNv2ZxEb47-_nJSxfmlnxEAC3w6lpG5BIsYg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "이준영",
+        "포핸즈",
+        "최정요",
+        "포핸즈5회",
+        "tvN토일드라마",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224409370598",
       "logNo": "224409370598",
