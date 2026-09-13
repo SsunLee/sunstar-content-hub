@@ -4,21 +4,77 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-13T04:45:19.765Z",
-  "expectedPublicCount": 1242,
-  "total": 1242,
+  "generatedAt": "2026-09-13T11:49:43.829Z",
+  "expectedPublicCount": 1244,
+  "total": 1244,
   "counts": {
-    "entertainment": 208,
+    "entertainment": 209,
     "stocks": 106,
-    "archive": 928
+    "archive": 929
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224410327248",
+      "logNo": "224410327248",
+      "title": "추석 카카오톡 테마, 한복 입은 크림 고양이 라이트·다크 | 아이폰·안드로이드",
+      "url": "https://blog.naver.com/tnsqo1126/224410327248",
+      "publishedAt": "2026-09-13T09:55:02.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "116",
+      "summary": "직접 판매하는 유료 카카오톡 테마를 소개하는 홍보 글입니다. 한복 입은 크림 고양이와 미리 추석맞이해요. 송편처럼 포근하고 보름달처럼 환한 한가위를 준비해 보세요 크림 고양이 추석 테마는 한복, 송편, 보름달을 담은 모바일 카카오톡 사용자 테마입니다. 따뜻한 크림색의 라이트와 짙은 남색의 다크 중에서 평소 좋아하는 대화창 색을 고를 수 있어요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfMjQ3/MDAxNzg5MjkzMTAxNTM4.q2i4rSzeqww4wMAV6jRGujT0amAcBGu6gOXKnwi_3xsg.urWS6xEeU4uQbJ32Re0jiSRxbCDDRlfoRQ4D-BjS2Dwg.PNG/light-01-cover.png?type=s3",
+      "tags": [
+        "추석카카오톡테마",
+        "추석카톡테마",
+        "한가위",
+        "크림고양이",
+        "아이폰카톡테마",
+        "안드로이드카톡테마",
+        "카톡다크테마",
+        "포스타입"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224410209217",
+      "logNo": "224410209217",
+      "title": "국내 개봉한 '더 드라마', 로버트 패틴슨이 연기한 예비 신랑 찰리",
+      "url": "https://blog.naver.com/tnsqo1126/224410209217",
+      "publishedAt": "2026-09-13T07:14:19.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "로버트 패틴슨은 영화 '더 드라마'에서 엠마와 결혼을 앞둔 찰리를 연기합니다. 결혼식을 준비하던 두 사람은 예상하지 못한 고백을 계기로 서로를 얼마나 알고 있는지 돌아보게 됩니다. '더 드라마'는 2026년 9월 9일 국내 개봉했습니다. 찰리의 배역과 패틴슨의 출연 이력을 알고 보면, 안경을 쓴 예비 신랑의 일상과 결혼 준비 과정에서 달라지는 표정을 따라가기 쉽습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfMjE0/MDAxNzg5MjgzNTk2NzM5.xIcpAYiavAKLo2rTjggN7l7aTpAw5nNqfJgIjTL-Vm0g.cVNzeVz0axoVJOmo1IS6depiuh3YPcKYlJjgLPDxIlEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "더드라마",
+        "로버트패틴슨",
+        "찰리",
+        "A24",
+        "더드라마출연진",
+        "로버트패틴슨근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224410097790",
       "logNo": "224410097790",
       "title": "현대차 9월 11일 종가 38만2500원, 상반기 매출 증가에도 이익이 줄어든 구조",
       "url": "https://blog.naver.com/tnsqo1126/224410097790",
-      "publishedAt": "2026-09-13T04:37:06.000Z",
+      "publishedAt": "2026-09-13T04:37:05.000Z",
       "dateLabel": "2026. 9. 13.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -74,7 +130,7 @@
       "logNo": "224409844483",
       "title": "삼성전자 9월 11일 종가 25만9500원, 시간외 가격과 상반기 재무 점검",
       "url": "https://blog.naver.com/tnsqo1126/224409844483",
-      "publishedAt": "2026-09-12T20:30:55.000Z",
+      "publishedAt": "2026-09-12T20:30:54.000Z",
       "dateLabel": "2026. 9. 13.",
       "category": "stocks",
       "categoryLabel": "주식",
@@ -123,9 +179,9 @@
           "body": "다음 거래를 앞두고는 가격의 시장 구분, 새 공시의 원문, 재무 지표의 기간을 차례로 확인할 수 있습니다. 가격은 정규장 종가와 시간외 가격을 나누고, 공시는 발표 시각과 실제 내용을 읽어야 합니다. 공시 제목에 주식 변동이 적혀 있어도 그 사실만으로 이후 가격의 방향을 예측할 수는 없습니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-12T22:16:28.843Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:c9adefe5833a4b60ba3ea8942af3579f6eb31f575ebde5a97ebedaf7ff463d9d"
+      "detailContentHash": "sha256:2dadbbbe81bd35af08bdffbdf2e6b3c5187a5813c29f3b7609ce6e722730e41e"
     },
     {
       "id": "naver:tnsqo1126:224409739527",
@@ -327,7 +383,7 @@
       "logNo": "224408248272",
       "title": "트와이스 나연 근황, LG 트윈스 시구 비하인드와 월드 투어 로그",
       "url": "https://blog.naver.com/tnsqo1126/224408248272",
-      "publishedAt": "2026-09-11T04:38:06.000Z",
+      "publishedAt": "2026-09-11T04:38:05.000Z",
       "dateLabel": "2026. 9. 11.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -372,16 +428,16 @@
           "body": "시구 비하인드의 게시일은 2026년 8월 31일이고, 제목에는 LG 트윈스와 시구가 명시돼 있습니다. 월드 투어 로그의 게시일은 2026년 7월 16일이며, 제목에는 6번째 월드 투어 THIS IS FOR와 나연의 이름이 포함돼 있습니다. 두 원문은 모두 트와이스 공식 유튜브 채널에서 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-11T04:38:07.384Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:3eee2c8a32dfb2b364b8e378f4f3862a55e9e9b017751bde45ddff1ce1bff9ac"
+      "detailContentHash": "sha256:c402e2705840ed06cd66ce09cf196ce1f79f56a04dcede58ad34606e3045ae1e"
     },
     {
       "id": "naver:tnsqo1126:224401164823",
       "logNo": "224401164823",
       "title": "비광 일별 4위, 하지원이 맡은 남미의 역할",
       "url": "https://blog.naver.com/tnsqo1126/224401164823",
-      "publishedAt": "2026-09-04T09:45:13.000Z",
+      "publishedAt": "2026-09-04T09:45:12.000Z",
       "dateLabel": "2026. 9. 4.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -426,9 +482,9 @@
           "body": "공식 티저 예고편에서 남미는 빗속에서 우산을 든 채 젖은 얼굴로 누군가를 바라보고, 화려한 무대 의상을 입은 과거와 어두운 생활 공간의 현재를 오갑니다. 의상과 머리 모양, 조명이 달라질 때마다 같은 인물이 어느 시점에 서 있는지 구분됩니다. 사건의 진상을 좇는 장면에서는 남미의 시선이 동주와 중구, 과거의 악연 사이를 연결합니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-04T11:19:25.765Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:9c559a5c7976c7fb6ac125c383a1919d52b4c21b69305ff6e0a3d3652fcca930"
+      "detailContentHash": "sha256:d0e0c7952d8c45ec3ddc5e18c9e167c0c4d8154b433f1ad21b527a771d991830"
     },
     {
       "id": "naver:tnsqo1126:224400478757",
@@ -597,7 +653,7 @@
       "logNo": "224399533240",
       "title": "기쁜 우리 좋은 날 시청률 10.4%, 윤다훈이 맡은 고대치의 역할",
       "url": "https://blog.naver.com/tnsqo1126/224399533240",
-      "publishedAt": "2026-09-03T03:05:00.000Z",
+      "publishedAt": "2026-09-03T03:04:59.000Z",
       "dateLabel": "2026. 9. 3.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -642,16 +698,16 @@
           "body": "8월 27일 KBS Drama 공식 영상에서 고대치는 이호재가 연기하는 인물 앞에 서서 자신이 한 일을 털어놓습니다. 다음 날 공개된 영상에서는 고결과 정면으로 맞서며 부자 관계의 균열을 드러냅니다. 8월 31일에는 증거물을 둘러싼 행동이 발각됐고, 9월 1일에는 유언장을 마지막 희망처럼 언급했습니다. 닷새 동안 공개된 장면을 순서대로 보면 진실 고백, 아들과의 대립, 증거 확보 실패, 유언장이라는 다음 선택이 이어집니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-03T04:34:37.610Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:af8d773d633467db0daccabf7cb0ae6479d17631daecbd3fb396aa5dadd2618a"
+      "detailContentHash": "sha256:8515be0e5a266e74bccce69f9292e90970b2bee8d33f7f8d838236252ae0b9a9"
     },
     {
       "id": "naver:tnsqo1126:224399151003",
       "logNo": "224399151003",
       "title": "싱 어게인 일별 6위, 폴 러드가 맡은 릭 파워의 역할",
       "url": "https://blog.naver.com/tnsqo1126/224399151003",
-      "publishedAt": "2026-09-02T17:03:47.000Z",
+      "publishedAt": "2026-09-02T17:03:46.000Z",
       "dateLabel": "2026. 9. 3.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -696,9 +752,9 @@
           "body": "폴 러드는 2026년 6월 4일 NBC 'TODAY' 공식 인터뷰에서 기타를 오래 연주했지만 능숙한 연주자는 아니었다고 말했습니다. '싱 어게인'을 준비하며 기타 연주와 노래를 더 익혔지만 촬영 일정이 빠르게 정해져 충분한 시간을 두고 레슨을 받지는 못했다고 설명했습니다. 화면에서 릭의 연주가 지나치게 매끈하기보다 생활 속에서 오래 악기를 잡아 온 사람처럼 보이는 배경입니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-02T21:02:28.289Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:eabe68a9a144e76faec6e7cbd791c5f896cdef95526b40a74838a28d7a105dab"
+      "detailContentHash": "sha256:a7597b5cd07155b27aadff674800a195a834e7bb7b7e7556c95c6e042e7f58ca"
     },
     {
       "id": "naver:tnsqo1126:224398597472",
@@ -867,7 +923,7 @@
       "logNo": "224397837627",
       "title": "에스파 닝닝 근황, ‘Switchblade’ 무대와 ‘Lollipop’ 녹음 비하인드",
       "url": "https://blog.naver.com/tnsqo1126/224397837627",
-      "publishedAt": "2026-09-01T13:58:30.000Z",
+      "publishedAt": "2026-09-01T13:58:29.000Z",
       "dateLabel": "2026. 9. 1.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -912,9 +968,9 @@
           "body": "공식 채널 기준으로 닝닝의 최근 확인 포인트는 8월 25일 ‘Lollipop’ 녹음 비하인드와 8월 26일 ‘Switchblade’ 공연 영상입니다. 두 콘텐츠는 하루 차이로 공개됐지만, 하나는 녹음실의 개별 파트와 대기 장면을, 다른 하나는 그룹 공연의 안무와 무대 대형을 담고 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-01T16:38:29.258Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:3435bf7aa32174cc0fd080615a65b8deabad88a0b974d7b45bb499e876f82d27"
+      "detailContentHash": "sha256:8000907e996599875c68e64af9baaa22ccbe26d86ad80c3c68b798a00ce56083"
     },
     {
       "id": "naver:tnsqo1126:224397641426",
@@ -975,7 +1031,7 @@
       "logNo": "224396986916",
       "title": "에스파 지젤 근황, SuperELLE 화보와 ‘Lollipop’ 녹음 비하인드",
       "url": "https://blog.naver.com/tnsqo1126/224396986916",
-      "publishedAt": "2026-09-01T00:54:26.000Z",
+      "publishedAt": "2026-09-01T00:54:25.000Z",
       "dateLabel": "2026. 9. 1.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1020,9 +1076,9 @@
           "body": "영상 후반부에서 지젤은 헤드폰을 쓰고 마이크 앞에 앉아 녹음을 이어 갑니다. 악보 받침대와 마이크, 노란 의자가 함께 잡히며 지젤이 가사를 보면서 작업하는 모습이 나타납니다. 공식 영상은 8월 19일 화보 비하인드와 8월 25일 녹음 비하인드를 통해 지젤의 서로 다른 공식 콘텐츠를 공개했습니다."
         }
       ],
-      "detailUpdatedAt": "2026-09-01T05:06:01.005Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:9d18b6b42f0d4d34ccbb99e6827b7b74b3a2e44c49e28a3c61a42dfdbb71b06b"
+      "detailContentHash": "sha256:b6798b051f2fa1fdb5a809db4e0911a2c5dfe61657ef628ea0686f01354eb073"
     },
     {
       "id": "naver:tnsqo1126:224396944371",
@@ -1083,7 +1139,7 @@
       "logNo": "224396786211",
       "title": "에스파 카리나 근황, CONVERSE 비하인드와 Serenade 녹음 영상",
       "url": "https://blog.naver.com/tnsqo1126/224396786211",
-      "publishedAt": "2026-08-31T18:23:20.000Z",
+      "publishedAt": "2026-08-31T18:23:19.000Z",
       "dateLabel": "2026. 9. 1.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1128,9 +1184,9 @@
           "body": "카리나의 CONVERSE 비하인드는 8월 31일에, Serenade 녹음 비하인드는 8월 27일에 aespa 공식 채널에서 각각 공개됐습니다. 하나는 촬영 현장의 조명과 포즈를, 다른 하나는 녹음실의 마이크와 가사지를 담습니다. 두 콘텐츠를 함께 보면 카리나가 참여한 8월 말 공식 영상의 성격과 장면을 원문 기준으로 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-31T20:03:48.922Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8c03919eaaaecc918ed5f11033c89453dbf5e88b1029268e06dd89bb50753eec"
+      "detailContentHash": "sha256:e75cfdd51bd318e6228bce6fef0dc0d4943a9c837d86aeef2cafc8253d66b10a"
     },
     {
       "id": "naver:tnsqo1126:224396629755",
@@ -1299,7 +1355,7 @@
       "logNo": "224395925315",
       "title": "사랑이 온다 16.6% 1위, 정보민이 맡은 권희나는 누구인가",
       "url": "https://blog.naver.com/tnsqo1126/224395925315",
-      "publishedAt": "2026-08-31T03:46:24.000Z",
+      "publishedAt": "2026-08-31T03:46:23.000Z",
       "dateLabel": "2026. 8. 31.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1344,9 +1400,9 @@
           "body": "첫 번째로 볼 지점은 권희나가 한규오를 다시 판단하는 기준입니다. 공식 하이라이트의 두 사람은 연락을 주고받지만 결정적인 순간에는 서로 다른 장소와 시간에 머뭅니다. 권희나가 단순히 호감을 확인하는 데 그치지 않고 상대의 태도와 자신의 생활을 함께 고려하는지가 관계의 방향을 정하게 됩니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-31T05:32:10.189Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:34e396834c460819e5f55eaf5b377b85dcafb694bc11febcdb4adde78dadfdcf"
+      "detailContentHash": "sha256:c8d0b24e5dfdbf9c64772570832aef278f9e76a6019026a41c13ab1efeac57a0"
     },
     {
       "id": "naver:tnsqo1126:224395631282",
@@ -1461,7 +1517,7 @@
       "logNo": "224395179718",
       "title": "ITZY 류진 근황, 방콕 투어로그와 DaDa-ITZY 공식 영상",
       "url": "https://blog.naver.com/tnsqo1126/224395179718",
-      "publishedAt": "2026-08-30T09:47:40.000Z",
+      "publishedAt": "2026-08-30T09:47:39.000Z",
       "dateLabel": "2026. 8. 30.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1506,16 +1562,16 @@
           "body": "8월 27일 공개된 ‘DaDa-ITZY’ 1화에는 ITZY 멤버들이 실내 세트에서 함께 출연합니다. 류진은 짧은 검은 머리와 흰 셔츠 차림으로 화면 오른쪽에 앉아 대화에 참여합니다. 방콕 투어로그가 현장 일정의 기록이라면, 이 영상은 멤버들이 함께 진행하는 별도 공식 콘텐츠입니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-30T14:52:07.874Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8d25f2399b990f72b53ed67624153ceb4fe1f298fae95833f57d3e5e600df2d0"
+      "detailContentHash": "sha256:5be6723ee78a8bd3cd6161a8c9592815c70d3ac806a5e4eb82d6e837a476c4a6"
     },
     {
       "id": "naver:tnsqo1126:224395065914",
       "logNo": "224395065914",
       "title": "포핸즈 3.391% 출발, 장규리가 맡은 홍재인은 어떤 인물인가",
       "url": "https://blog.naver.com/tnsqo1126/224395065914",
-      "publishedAt": "2026-08-30T07:19:21.000Z",
+      "publishedAt": "2026-08-30T07:19:20.000Z",
       "dateLabel": "2026. 8. 30.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1560,9 +1616,9 @@
           "body": "첫 번째로 볼 지점은 홍재인이 두 연주자를 구별하는 방식입니다. 비오에게는 오랫동안 품어 온 애정과 확신이 있고, 정요에게는 예상하지 못한 음악적 발견이 있습니다. 같은 감탄처럼 보여도 출발점이 다르기 때문에 장규리의 표정과 말투가 어느 방향으로 움직이는지 살펴볼 만합니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-30T08:18:02.325Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:15471941d08890366062b3418624a30b324c54dcb54374f66d85ea4992f8faf4"
+      "detailContentHash": "sha256:64120b9c18f9f764985c60a196b7cb0ba0db806021a729c7b55fd8ed9f8a5490"
     },
     {
       "id": "naver:tnsqo1126:224394881820",
@@ -1623,7 +1679,7 @@
       "logNo": "224394705812",
       "title": "'오크 스트리트의 마지막 날' 4위, 이완 맥그리거가 맡은 그레그 플랫",
       "url": "https://blog.naver.com/tnsqo1126/224394705812",
-      "publishedAt": "2026-08-29T21:14:27.000Z",
+      "publishedAt": "2026-08-29T21:14:26.000Z",
       "dateLabel": "2026. 8. 30.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1789,7 +1845,7 @@
       "logNo": "224393967777",
       "title": "'오크 스트리트의 마지막 날' 앤 해서웨이, 드니스는 어떤 엄마인가?",
       "url": "https://blog.naver.com/tnsqo1126/224393967777",
-      "publishedAt": "2026-08-29T00:43:00.000Z",
+      "publishedAt": "2026-08-29T00:42:59.000Z",
       "dateLabel": "2026. 8. 29.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1872,7 +1928,7 @@
       "logNo": "224393182414",
       "title": "스트레이 키즈 리노 근황, 8월 커버 영상과 SKZ-TALKER 85편",
       "url": "https://blog.naver.com/tnsqo1126/224393182414",
-      "publishedAt": "2026-08-28T05:31:52.000Z",
+      "publishedAt": "2026-08-28T05:31:51.000Z",
       "dateLabel": "2026. 8. 28.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -1917,9 +1973,9 @@
           "body": "리노의 8월 공식 활동은 8월 22일 공개된 ‘The kNOw Way’ 여섯 번째 커버 영상과 8월 26일 공개된 ‘SKZ-TALKER’ 85편에서 확인할 수 있습니다. 전자는 한 곡을 부르는 단독 세트가 중심이고, 후자는 다른 멤버와 함께한 촬영 기록이 중심입니다. 두 원문은 각각의 게시일과 제목을 제공하므로, 이후 새 콘텐츠가 공개될 때에는 기존 영상과 제목·날짜를 구분해 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-28T06:06:38.963Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:5ee26661789f2fd343a92f575d03d01cf74f5a491250c9ac0ba2520cc02f029b"
+      "detailContentHash": "sha256:9605589fb49ca939ae7e9af5988641d2559c87322371d379cd416416e40ec958"
     },
     {
       "id": "naver:tnsqo1126:224393087619",
@@ -1955,7 +2011,7 @@
       "logNo": "224392778360",
       "title": "아이브 가을 근황, ROGER & GALLET 비하인드와 도쿄 투어 노트",
       "url": "https://blog.naver.com/tnsqo1126/224392778360",
-      "publishedAt": "2026-08-27T22:52:53.000Z",
+      "publishedAt": "2026-08-27T22:52:52.000Z",
       "dateLabel": "2026. 8. 28.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -2000,9 +2056,9 @@
           "body": "가을의 최근 공식 영상은 서로 다른 두 공간을 보여 줍니다. ROGER & GALLET 비하인드에서는 준비실과 촬영 세트가 바뀌고, 도쿄 투어 노트에서는 공연장과 이동 공간이 이어집니다. 첫 번째로 볼 지점은 촬영 현장에서 바뀌는 의상과 배경입니다. 가까운 얼굴 화면과 전신 화면이 교차하며 제품과 인물이 놓이는 구도가 달라집니다. 두 번째는 카메라 앞에서 자세를 바꾸는 순간입니다. 손에 든 소품, 시선의 높이, 앉거나 서는 방식이 장면마다 다르게 나타납니다. 세 번째는 도쿄 노트의 무대 뒤 장면입니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-28T06:06:38.963Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:c620b7b0effec742af20b81e9ff812fa71b4879e0e0e91abd3decf61a7904b3b"
+      "detailContentHash": "sha256:e22c40bb46c6470ef93c587b3763568b83ca0c4dd23dc46cef0fa4fa609d8971"
     },
     {
       "id": "naver:tnsqo1126:224392746657",
@@ -2091,7 +2147,7 @@
       "logNo": "224392632347",
       "title": "스트레이 키즈 창빈 근황, 8월 ‘FARMING’ 영상과 3RACHA Session",
       "url": "https://blog.naver.com/tnsqo1126/224392632347",
-      "publishedAt": "2026-08-27T16:27:08.000Z",
+      "publishedAt": "2026-08-27T16:27:07.000Z",
       "dateLabel": "2026. 8. 28.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -2136,16 +2192,16 @@
           "body": "창빈의 8월 공개 흐름은 11일 단독 브이로그, 26일 3RACHA Session #4, 27일 ‘FARMING’ 영상 순서로 확인됩니다. 각각의 영상은 단독 이동 장면, 세 멤버 대화, 그룹 영상이라는 다른 형식을 사용합니다. 제목과 게시일을 함께 보면 동일한 시기에도 콘텐츠별 구성과 출연 범위가 어떻게 달라지는지 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-27T20:29:45.881Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:e99424283f741a44654c026c94f01eddcf7cff162bbb353cbba1f07d6e19d885"
+      "detailContentHash": "sha256:aaf2aabca7372d13fd7c00bcc8866b33117ea8daf937520f327b7c1d680c1660"
     },
     {
       "id": "naver:tnsqo1126:224392320338",
       "logNo": "224392320338",
       "title": "NMIXX 지우 근황, 북미 투어 비하인드와 파자마 룸메이트",
       "url": "https://blog.naver.com/tnsqo1126/224392320338",
-      "publishedAt": "2026-08-27T09:48:11.000Z",
+      "publishedAt": "2026-08-27T09:48:10.000Z",
       "dateLabel": "2026. 8. 27.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -2190,9 +2246,9 @@
           "body": "북미 투어 비하인드는 8월 26일 공개된 최신 공식 영상이며, 파자마 룸메이트는 지우와 규진의 실내 대화를 별도 형식으로 담았습니다. 두 영상의 정확한 장면과 업로드 정보는 NMIXX 공식 채널에서 확인할 수 있습니다. 지우의 이름과 생년월일은 NMIXX 공식 프로필에서 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-27T20:29:45.881Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:f42fd7735c1df76ec53b232bac0ecc62ea9e628ee88601df2e7b094a21fca684"
+      "detailContentHash": "sha256:c859948adb8ba5732a58f40fd4affe59c506dbdd4eb1efe6dbae2a3d6c7a18f0"
     },
     {
       "id": "naver:tnsqo1126:224392218603",
@@ -2277,7 +2333,7 @@
       "logNo": "224391556330",
       "title": "NMIXX 규진 근황, 북미 투어와 LA 브이로그·파자마 룸메이트",
       "url": "https://blog.naver.com/tnsqo1126/224391556330",
-      "publishedAt": "2026-08-26T20:48:14.000Z",
+      "publishedAt": "2026-08-26T20:48:13.000Z",
       "dateLabel": "2026. 8. 27.",
       "category": "entertainment",
       "categoryLabel": "연예",
@@ -2322,9 +2378,9 @@
           "body": "NMIXX 공식 채널에는 북미 투어 비하인드, 규진의 LA 브이로그, 지우·규진 콘텐츠가 각각 남아 있습니다. 북미 일정의 최신 영상은 8월 26일에 공개됐고, LA 브이로그와 파자마 룸메이트는 그보다 앞선 개인 기록을 보여 줍니다. 다음 투어 기록과 멤버별 콘텐츠의 공개 여부는 공식 채널의 새 영상에서 확인할 수 있습니다."
         }
       ],
-      "detailUpdatedAt": "2026-08-26T23:31:17.896Z",
+      "detailUpdatedAt": "2026-09-13T11:49:43.829Z",
       "detailExtractionVersion": 3,
-      "detailContentHash": "sha256:8895c1f90ac7e4485dab178a783fb907a590a2a6b2576243f7e5493af200ff6c"
+      "detailContentHash": "sha256:a94348c68e20667a42e74026a2198c0af9e51388badf69abf1a3d71829f04472"
     },
     {
       "id": "naver:tnsqo1126:224391541242",
