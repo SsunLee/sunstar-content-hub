@@ -4,15 +4,100 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-13T11:49:43.829Z",
-  "expectedPublicCount": 1244,
-  "total": 1244,
+  "generatedAt": "2026-09-13T16:15:20.747Z",
+  "expectedPublicCount": 1246,
+  "total": 1246,
   "counts": {
-    "entertainment": 209,
-    "stocks": 106,
+    "entertainment": 210,
+    "stocks": 107,
     "archive": 929
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224410606083",
+      "logNo": "224410606083",
+      "title": "페넬로페를 연기한 앤 해서웨이, '오디세이' 속 가족관계와 출연 이력",
+      "url": "https://blog.naver.com/tnsqo1126/224410606083",
+      "publishedAt": "2026-09-13T15:25:33.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "앤 해서웨이는 영화 '오디세이'에서 오디세우스의 아내 페넬로페를 연기합니다. 맷 데이먼이 오디세우스를, 톰 홀랜드가 두 사람의 아들 텔레마코스를 맡았습니다. '오디세이'는 2026년 8월 5일 국내 개봉한 뒤 9월 12일 일일 박스오피스 1위를 기록했습니다. 크리스토퍼 놀란이 연출한 이 영화에서 페넬로페는 바다를 건너는 오디세우스와 가족으로 연결된 인물입니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMjM5/MDAxNzg5MzEzMDY2MzY4.0YyE50uKLAQi0EgxWifdF6S8hStagGGhNJdLY0nXBPcg.c17LyxtitEHt_iRvY-yaq1GyFcXszNwwjkvt1efLhl4g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "오디세이",
+        "앤해서웨이",
+        "페넬로페",
+        "크리스토퍼놀란",
+        "오디세이출연진",
+        "앤해서웨이근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224410446331",
+      "logNo": "224410446331",
+      "title": "SK하이닉스 9월 11일 종가 181만2000원, 순이익과 현금흐름이 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224410446331",
+      "publishedAt": "2026-09-13T12:34:21.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 9월 11일 종가와 서로 다른 세 가지 실적 SK하이닉스(000660)의 2026년 9월 11일 정규장 종가는 181만2000원으로 전 거래일보다 4만1000원, 2.21% 하락했습니다. 같은 회사를 살펴봐도 상반기 영업이익, 순이익, 영업활동현금흐름은 서로 다릅니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfMTU3/MDAxNzg5MzAyNzk5Mjg2.mVLEnjilQ2cJfb5Zg-mmfmfcLtfguc7_uO8vv_jQyeUg.H215y8n03Coap0rParQgvSgB6QKKnAAj4G3aSqOD6EMg.PNG/hero.png?type=s3",
+      "tags": [
+        "SK하이닉스",
+        "000660",
+        "SK하이닉스주가",
+        "반기보고서",
+        "영업이익",
+        "금융상품평가이익",
+        "영업현금흐름",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "9월 11일 종가와 서로 다른 세 가지 실적",
+          "body": "SK하이닉스(000660)의 2026년 9월 11일 정규장 종가는 181만2000원으로 전 거래일보다 4만1000원, 2.21% 하락했습니다. 같은 회사를 살펴봐도 상반기 영업이익, 순이익, 영업활동현금흐름은 서로 다릅니다. 순이익에 금융상품평가이익 등이 포함되고 현금흐름에는 실제 대금 회수와 지급 시점이 반영되기 때문입니다."
+        },
+        {
+          "heading": "매출보다 큰 순이익을 읽는 방법",
+          "body": "SK하이닉스의 2026년 상반기 연결 매출은 131조 8950억 3300만원, 영업이익은 98조 1528억 9100만원입니다. 같은 기간 순이익은 134조 2685억 200만원으로 매출보다 큽니다. 순이익이 영업이익에 금융수익과 금융비용, 기타 영업외손익 등을 반영한 뒤 법인세비용까지 차감한 금액이어서 가능한 구조입니다."
+        },
+        {
+          "heading": "순이익에 포함된 금융상품평가이익",
+          "body": "반기보고서 주석 24번의 상반기 누적 금융수익은 82조 9151억 6400만원입니다. 그 안에는 금융상품평가이익 63조 1789억 7400만원, 배당금수익 13조 9795억 6700만원 등이 들어 있습니다. 금융비용은 6조 6643억 8600만원이며 금융수익에서 금융비용을 뺀 순금융수익은 76조 2507억 7800만원입니다."
+        },
+        {
+          "heading": "순이익과 실제 영업 현금의 차이",
+          "body": "상반기 영업활동현금흐름은 91조 7425억 100만원입니다. 순이익 134.27조원과 같은 금액이 아니며 단순 차이는 약 42.53조원입니다. 이 차이 전체를 미회수 매출이나 이익의 부실로 해석해서는 안 됩니다. 현금흐름표는 평가손익, 감가상각, 세금, 운전자본 등 여러 항목을 조정합니다."
+        },
+        {
+          "heading": "영업 현금 91.74조원과 기말 현금 26.84조원",
+          "body": "상반기에 영업에서 현금이 들어왔어도 그 금액이 전부 기말 현금으로 남지는 않았습니다. 투자활동에서 73조 236억 2900만원이 순유출됐고 재무활동에서도 7조 6177억 7300만원이 순유출됐습니다. 환율변동효과 8111억 2100만원을 더하면 현금및현금성자산의 순증가는 11조 9122억 2000만원입니다."
+        },
+        {
+          "heading": "다음 거래 전 확인할 재무 항목",
+          "body": "6월 말 연결 재무상태표의 현금및현금성자산은 26.84조원이며 단기금융상품 22.40조원과 단기투자자산 38.72조원은 별도 항목입니다. 세 항목을 합치면 약 87.96조원이지만 그 전체를 현금및현금성자산이라고 부르면 원래 계정의 범위가 달라집니다. 서로 다른 자료를 비교할 때 현금성 자산에 무엇을 포함했는지 먼저 살펴볼 필요가 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-13T16:15:20.747Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:6d8ce3d8509719c350bd94ec04651b7b8875b87e70649458bb484cc5f6eec22a"
+    },
     {
       "id": "naver:tnsqo1126:224410327248",
       "logNo": "224410327248",
