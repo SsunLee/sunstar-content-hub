@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-13T00:01:29.096Z",
-  "expectedPublicCount": 1241,
-  "total": 1241,
+  "generatedAt": "2026-09-13T04:45:19.765Z",
+  "expectedPublicCount": 1242,
+  "total": 1242,
   "counts": {
     "entertainment": 208,
-    "stocks": 105,
+    "stocks": 106,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224410097790",
+      "logNo": "224410097790",
+      "title": "현대차 9월 11일 종가 38만2500원, 상반기 매출 증가에도 이익이 줄어든 구조",
+      "url": "https://blog.naver.com/tnsqo1126/224410097790",
+      "publishedAt": "2026-09-13T04:37:06.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 9월 11일 종가와 상반기 수익성 현대차(005380)의 2026년 9월 11일 정규장 종가는 38만2500원입니다. 전일 종가 38만9000원보다 6500원, 1.67% 하락했습니다. 최근 반기보고서에서는 상반기 연결 매출이 전년보다 2.65% 늘었지만 영업이익은 25.84% 줄었습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfOCAg/MDAxNzg5Mjc0MDEzMjcy.ME5K29xLXD79dvCW4uAwfL43nwXS4D_0HNemnHLCo-8g.ms37d1PZSu4lTwp8Ul75pf94t1flB9pxiO5aW4Hy8NAg.PNG/hero.png?type=s3",
+      "tags": [
+        "현대차",
+        "005380",
+        "현대차주가",
+        "반기보고서",
+        "영업이익률",
+        "영업현금흐름",
+        "매출원가",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224409895922",
       "logNo": "224409895922",
