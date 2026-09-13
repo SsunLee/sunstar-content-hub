@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-12T22:16:28.843Z",
-  "expectedPublicCount": 1240,
-  "total": 1240,
+  "generatedAt": "2026-09-13T00:01:29.096Z",
+  "expectedPublicCount": 1241,
+  "total": 1241,
   "counts": {
-    "entertainment": 207,
+    "entertainment": 208,
     "stocks": 105,
     "archive": 928
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224409895922",
+      "logNo": "224409895922",
+      "title": "안보현, '재벌X형사2' 11회에서 경찰증 되찾은 진이수",
+      "url": "https://blog.naver.com/tnsqo1126/224409895922",
+      "publishedAt": "2026-09-12T23:15:17.000Z",
+      "dateLabel": "2026. 9. 13.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "안보현이 연기하는 진이수는 '재벌X형사2' 11회에서 살인 누명을 벗고 경찰 공무원증을 되찾았습니다. 주혜라와 강력 1팀이 사건 당일의 목격담과 조작된 증거를 확인하면서 수사 결과가 바뀌었습니다. SBS는 2026년 9월 11일 방송에서 진이수가 함정에 빠졌다가 풀려나는 과정을 그렸습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTNfOTEg/MDAxNzg5MjU0ODU1OTEx.V1zf8GoaXZNReguH9VcvK7g3uqusvIXodLyP2-50Hzkg.5XKGBgjQsQiUcKHPZwn_G1FapW32LZk6TqqSIZsuYP8g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "안보현",
+        "재벌X형사2",
+        "진이수",
+        "재벌X형사211회",
+        "SBS드라마",
+        "안보현근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224409844483",
       "logNo": "224409844483",
