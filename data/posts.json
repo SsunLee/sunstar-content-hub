@@ -4,15 +4,127 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-13T22:24:23.042Z",
-  "expectedPublicCount": 1247,
-  "total": 1247,
+  "generatedAt": "2026-09-14T04:54:17.712Z",
+  "expectedPublicCount": 1250,
+  "total": 1250,
   "counts": {
-    "entertainment": 210,
-    "stocks": 108,
-    "archive": 929
+    "entertainment": 211,
+    "stocks": 109,
+    "archive": 930
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224411146680",
+      "logNo": "224411146680",
+      "title": "NAVER 9월 14일 장중 20만5500원, 왈라팝 인수대가와 현금 지출의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224411146680",
+      "publishedAt": "2026-09-14T04:35:46.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 왈라팝 인수금액이 서로 다른 이유 NAVER(035420)의 왈라팝 인수 총 이전대가는 약 9615억원이지만 사업결합으로 빠져나간 현금 순액은 약 5501억원입니다. 총 이전대가에는 기존 보유 지분의 공정가치가 포함되고, 현금 순유출액에서는 인수한 회사가 보유한 현금이 차감됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMjIg/MDAxNzg5MzYwNDcyNjk3.zbZYeJmFy_z6wEGz6KDLnYMAbRYyfQU8W7SHJ3YTptYg.4ULOhStB24CzG5_0AS2JraUpNBhETBePXO4UszfnDwog.PNG/hero.png?type=s3",
+      "tags": [
+        "NAVER",
+        "035420",
+        "네이버주가",
+        "왈라팝",
+        "기업인수",
+        "영업권",
+        "현금흐름",
+        "반기보고서"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "왈라팝 인수금액이 서로 다른 이유",
+          "body": "NAVER(035420)의 왈라팝 인수 총 이전대가는 약 9615억원이지만 사업결합으로 빠져나간 현금 순액은 약 5501억원입니다. 총 이전대가에는 기존 보유 지분의 공정가치가 포함되고, 현금 순유출액에서는 인수한 회사가 보유한 현금이 차감됩니다. 두 금액은 같은 거래를 서로 다른 기준으로 설명합니다."
+        },
+        {
+          "heading": "9615억원에서 현금 순유출 5501억원까지",
+          "body": "반기보고서 주석 19번에 따르면 NAVER 연결회사는 2026년 1월 개인 간 중고거래 플랫폼인 왈라팝(Wallapop, S.L.)의 의결권 있는 주식 100%를 인수했습니다. 회사는 유럽 사업의 거점이 되는 플랫폼과 이용자 기반을 확보하기 위한 거래라고 설명합니다. 인수 목적과 실제 수익 실현 여부는 구분해서 판단해야 합니다."
+        },
+        {
+          "heading": "영업권과 인수 후 실적의 구분",
+          "body": "인수 당시 식별가능한 자산은 약 4181.94억원, 부채는 약 2367.88억원으로 순자산은 약 1814.06억원입니다. 총 이전대가에서 이 순자산을 뺀 약 7801.05억원이 영업권으로 인식됐습니다. 영업권은 인수 회계에서 계산한 자산 항목이며 같은 금액의 현금이 회사 계좌에 새로 들어온 것은 아닙니다."
+        },
+        {
+          "heading": "상반기 매출 증가와 이익률 변화",
+          "body": "NAVER의 2026년 상반기 연결 영업수익은 약 6.63조원으로 전년 상반기 약 5.70조원보다 16.27% 증가했습니다. 영업이익은 약 1.06조원으로 전년 약 1.03조원보다 3.43% 늘었습니다. 영업수익은 연결 포괄손익계산서에서 매출에 해당하는 항목입니다."
+        },
+        {
+          "heading": "영업 현금과 투자 지출을 같은 기간으로 비교",
+          "body": "상반기 영업활동현금흐름은 약 1조 1866억원으로 전년 같은 기간보다 5.48% 늘었습니다. 영업으로부터 창출된 현금 약 1조 4373억원에 이자·배당금 수취와 이자 지급·법인세 납부를 반영한 금액입니다. 법인세 납부액은 약 3087억원으로, 손익계산서의 법인세비용 약 3002억원과는 인식·지급 시점이 달라 일치하지 않습니다."
+        },
+        {
+          "heading": "기말 현금 6.38조원과 후속 확인 항목",
+          "body": "6월 말 현금및현금성자산은 약 6.38조원으로 2025년 말 약 5.98조원보다 약 4004억원 늘었습니다. 영업 현금 1조 1866억원, 투자 순유출 1조 1951억원, 재무 순유입 2973억원, 환율변동효과 1116억원을 합한 결과입니다. 현금 잔액 증가를 전부 영업에서 번 돈으로 설명하면 재무활동과 환율 효과가 빠집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-14T04:54:17.712Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:b5329dccca3f13e5ac4206de44e7aa6c80dd96b21310e4e336d7c5f589dfad0f"
+    },
+    {
+      "id": "naver:tnsqo1126:224411055246",
+      "logNo": "224411055246",
+      "title": "매일 피곤하고 자도 개운하지 않다면? 원인과 진료가 필요한 신호",
+      "url": "https://blog.naver.com/tnsqo1126/224411055246",
+      "publishedAt": "2026-09-14T03:18:48.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "아침에 눈을 떴는데 벌써 몸이 무겁고, 주말에 쉬어도 월요일이면 다시 지칩니다. 잠이 부족했던 탓인지, 몸에 다른 문제가 생긴 건지 헷갈릴 수 있습니다. 매일 피곤하다는 증상만으로 빈혈이나 갑상선 질환을 단정할 수는 없습니다. 피로가 언제 시작됐는지, 잠을 자도 회복되는지, 다른 증상이 함께 생겼는지를 살펴야 원인을 좁힐 수 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfNTMg/MDAxNzg5MzU1ODYxODUw.243AKSpMekQAQtQQlAM_Ix9CJolbNi89iVf0V2Qnsz8g.nraQ6U7EAvt66AmqMLbCurJQEzaLSVyefM79H0qM3cEg.PNG/01.png?type=s3",
+      "tags": [
+        "매일피곤한이유",
+        "자도피곤",
+        "피로원인",
+        "피로진료",
+        "수면관리",
+        "건강정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224410807233",
+      "logNo": "224410807233",
+      "title": "톰 홀랜드는 '오디세이'에서 누구일까? 텔레마코스 배역과 촬영 현장",
+      "url": "https://blog.naver.com/tnsqo1126/224410807233",
+      "publishedAt": "2026-09-13T23:18:12.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "톰 홀랜드는 영화 '오디세이'에서 오디세우스와 페넬로페의 아들 텔레마코스를 연기합니다. 맷 데이먼이 아버지 오디세우스, 앤 해서웨이가 어머니 페넬로페를 맡았습니다. 크리스토퍼 놀란이 각본과 연출을 맡은 '오디세이'는 2026년 8월 5일 국내 개봉했습니다. 톰 홀랜드는 배 위에서 주변을 살피는 청년의 모습으로 등장하고, 제작기에서는 활을 든 채 촬영 장비 옆에 서 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMjk1/MDAxNzg5MzQxNDI0NDA0.dMzFdtDXe6hVGyBVftNFFcjSeJFIrxfUMlt3ub7J16sg.5tntPjl3_Pb0zbW7lQOMoQbNVf2xjGmcz9AwXZkB-esg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "오디세이",
+        "톰홀랜드",
+        "텔레마코스",
+        "오디세이출연진",
+        "크리스토퍼놀란",
+        "톰홀랜드근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224410737365",
       "logNo": "224410737365",
