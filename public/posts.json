@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-14T12:43:50.611Z",
-  "expectedPublicCount": 1252,
-  "total": 1252,
+  "generatedAt": "2026-09-14T19:21:01.569Z",
+  "expectedPublicCount": 1253,
+  "total": 1253,
   "counts": {
-    "entertainment": 212,
+    "entertainment": 213,
     "stocks": 110,
     "archive": 930
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224411853049",
+      "logNo": "224411853049",
+      "title": "샤를리즈 테론의 '오디세이' 칼립소, 오디세우스의 귀환을 막는 인물",
+      "url": "https://blog.naver.com/tnsqo1126/224411853049",
+      "publishedAt": "2026-09-14T15:21:31.000Z",
+      "dateLabel": "2026. 9. 15.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "샤를리즈 테론은 영화 '오디세이'에서 오디세우스를 자신의 섬에 붙잡아 두는 바다의 님프 칼립소를 연기합니다. 맷 데이먼이 맡은 오디세우스의 귀환에 영향을 주는 인물입니다. 크리스토퍼 놀란 감독의 '오디세이'는 국내에서 2026년 8월 5일 개봉했습니다. 영화진흥위원회 KoBiz의 9월 13일 일일 박스오피스에서는 관객 164,665명으로 1위를 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTVfMTc0/MDAxNzg5Mzk5MjIzMTg4.EMoXMXZHovCa5c-FAnWZYyT9gB1ZKTqRrYJY09HxvJAg.mV15-5UVJL1ErPLa7eqzRsrr0xQLcrbn1D53OsPU8xEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "샤를리즈테론",
+        "오디세이",
+        "칼립소",
+        "오디세이출연진",
+        "크리스토퍼놀란",
+        "샤를리즈테론출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224411696575",
       "logNo": "224411696575",
