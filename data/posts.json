@@ -4,15 +4,100 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-14T04:54:17.712Z",
-  "expectedPublicCount": 1250,
-  "total": 1250,
+  "generatedAt": "2026-09-14T12:43:50.611Z",
+  "expectedPublicCount": 1252,
+  "total": 1252,
   "counts": {
-    "entertainment": 211,
-    "stocks": 109,
+    "entertainment": 212,
+    "stocks": 110,
     "archive": 930
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224411696575",
+      "logNo": "224411696575",
+      "title": "기아 9월 14일 종가 12만3500원, 판매보증비와 충당부채가 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224411696575",
+      "publishedAt": "2026-09-14T12:34:35.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 판매보증비와 충당부채는 무엇이 다른가 기아(000270)의 2026년 상반기 판매보증비는 약 2.11조원이고, 6월 말 판매보증충당부채는 약 9.29조원입니다. 판매보증비는 해당 기간의 손익에 반영한 비용이며 충당부채는 앞으로 부담할 것으로 추정한 의무의 잔액입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMTQ2/MDAxNzg5Mzg5MTk4Nzc3.M2Nk3cFgBpQyuGCUh5DcTt72ZQSixyKC7BaLMao8MBQg._n05fatmZ63moGFh5f-2jC-x-KnU81KHMSQCfAneBtsg.PNG/hero.png?type=s3",
+      "tags": [
+        "기아",
+        "000270",
+        "기아주가",
+        "판매보증비",
+        "충당부채",
+        "현금흐름",
+        "반기보고서",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "판매보증비와 충당부채는 무엇이 다른가",
+          "body": "기아(000270)의 2026년 상반기 판매보증비는 약 2.11조원이고, 6월 말 판매보증충당부채는 약 9.29조원입니다. 판매보증비는 해당 기간의 손익에 반영한 비용이며 충당부채는 앞으로 부담할 것으로 추정한 의무의 잔액입니다. 비용과 부채 잔액, 실제 사용액을 구분해야 보증 관련 재무 부담을 이해할 수 있습니다."
+        },
+        {
+          "heading": "기말 잔액 9.29조원이 계산되는 과정",
+          "body": "기아는 출고한 제품의 부품 수리·교체와 수출제품 하자에 따른 사고 보상 등을 고려해 제품 매출 시점에 판매보증충당부채를 설정한다고 설명합니다. 이 금액은 미래의 보증 의무를 추정한 부채이며 같은 금액을 별도 계좌에 적립한 현금이라는 의미는 아닙니다."
+        },
+        {
+          "heading": "판매보증비 2.11조원과 증가액 2.66조원의 차이",
+          "body": "주석 20번의 판매비와 관리비에는 상반기 판매보증비 2조 1057억 5200만원이 표시됩니다. 전년 상반기 1조 4533억 1000만원보다 약 44.89% 늘었습니다. 같은 기간 전체 판매비와 관리비는 약 6.18조원에서 7.01조원으로 증가했습니다."
+        },
+        {
+          "heading": "충당부채 사용액은 현금흐름에서 어떻게 보이나",
+          "body": "현금흐름 주석 26번은 상반기 순이익 약 4.16조원에 비현금 손익 등을 조정하고 영업 관련 자산·부채 변동을 반영합니다. 그중 순이익 조정을 위한 판매보증비 가산액은 2조 177억 6000만원입니다. 비용을 조정해 더하는 단계는 그 금액의 현금이 새로 입금됐다는 뜻이 아닙니다."
+        },
+        {
+          "heading": "매출과 이익을 같은 상반기로 비교",
+          "body": "2026년 상반기 연결 매출은 약 62.54조원으로 전년 상반기 약 57.37조원보다 9.02% 증가했습니다. 영업이익은 약 5.77조원에서 4.83조원으로 16.28% 감소했습니다. 매출이 늘어도 매출원가와 판매비·관리비가 함께 변하므로 이익이 같은 방향으로 움직이지 않을 수 있습니다."
+        },
+        {
+          "heading": "보증 부담과 현금 여력을 함께 확인할 항목",
+          "body": "6월 말 현금및현금성자산은 약 16.08조원으로 2025년 말 약 14.00조원보다 약 2.08조원 늘었습니다. 상반기 영업 현금 약 7.17조원에 투자 순유출 약 2.48조원, 재무 순유출 약 3.32조원, 환율변동효과 약 0.71조원을 반영한 결과입니다. 기말 현금 증가가 전부 영업 실적에서 나온 것은 아닙니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-14T12:43:50.611Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:2521c1e7ada2ac19a0586a6d68847748aa4f50d16bbaa9c108cdb4366762dd5f"
+    },
+    {
+      "id": "naver:tnsqo1126:224411371730",
+      "logNo": "224411371730",
+      "title": "국내 일별 2위 '옵세션', 베어 역 마이클 존스턴의 출연 이력",
+      "url": "https://blog.naver.com/tnsqo1126/224411371730",
+      "publishedAt": "2026-09-14T07:18:35.000Z",
+      "dateLabel": "2026. 9. 14.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "마이클 존스턴은 영화 '옵세션'에서 니키를 짝사랑하는 베어를 연기합니다. 베어가 소원을 이루어 준다는 물건에 바람을 전한 뒤, 니키와의 관계가 예상하지 못한 방향으로 바뀌는 공포영화입니다. '옵세션'은 2026년 9월 2일 국내 개봉했으며, 9월 13일 국내 일일 박스오피스에서 2위를 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMjYx/MDAxNzg5MzcwMjQxMzY1.q_p69GbqBdRqlUMf_-kG94iT3NcQh8xJG_ExuoXn-Rgg.SaTY-SS7utBCuJ33nTFWstCm9rIDKaezVxASFG5vDYwg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "옵세션",
+        "마이클존스턴",
+        "베어",
+        "옵세션출연진",
+        "커리바커",
+        "마이클존스턴근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224411146680",
       "logNo": "224411146680",
