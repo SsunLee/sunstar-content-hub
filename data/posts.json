@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-14T23:07:34.849Z",
-  "expectedPublicCount": 1254,
-  "total": 1254,
+  "generatedAt": "2026-09-15T04:52:50.684Z",
+  "expectedPublicCount": 1255,
+  "total": 1255,
   "counts": {
     "entertainment": 213,
     "stocks": 111,
-    "archive": 930
+    "archive": 931
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224412321544",
+      "logNo": "224412321544",
+      "title": "검은 변이 나왔다면? 음식·약의 영향과 출혈 신호를 구분하세요",
+      "url": "https://blog.naver.com/tnsqo1126/224412321544",
+      "publishedAt": "2026-09-15T03:14:37.000Z",
+      "dateLabel": "2026. 9. 15.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "검은 변과 함께 토혈·커피 찌꺼기 같은 구토, 심한 어지럼·실신·숨참·식은땀·의식 저하 중 하나라도 나타나면 즉시 119 또는 응급실의 도움을 받으세요. 직접 운전하지 마세요. 타르처럼 검고 끈적한 변이 새로 나왔다면 다른 증상이 없어도 지체하지 말고 의료진에게 연락해 바로 진료받으세요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTVfMjQg/MDAxNzg5NDQyMDI5Mzk1.Q0XDjgpKQ4nkZp_YsloJ37wSv_tV854kD54o0l3xrwMg.fHmv3K_MQIf8dyOJn8t0-_EkN2RL1hGajo7KlK1RNC8g.PNG/01.png?type=s3",
+      "tags": [
+        "검은변",
+        "흑색변",
+        "검은변원인",
+        "철분제검은변",
+        "위장관출혈",
+        "건강정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224411986007",
       "logNo": "224411986007",
