@@ -4,15 +4,42 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-15T04:52:50.684Z",
-  "expectedPublicCount": 1255,
-  "total": 1255,
+  "generatedAt": "2026-09-16T07:40:38.252Z",
+  "expectedPublicCount": 1256,
+  "total": 1256,
   "counts": {
     "entertainment": 213,
     "stocks": 111,
-    "archive": 931
+    "archive": 932
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224413565517",
+      "logNo": "224413565517",
+      "title": "갑자기 코피가 날 때, 지혈 방법과 병원에 가야 할 때를 알아두세요",
+      "url": "https://blog.naver.com/tnsqo1126/224413565517",
+      "publishedAt": "2026-09-16T03:17:02.000Z",
+      "dateLabel": "2026. 9. 16.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "코피가 많이 쏟아지거나 숨쉬기 어렵고, 심하게 어지럽거나 쓰러질 것 같으면 즉시 119 또는 응급실의 도움을 받으세요. 머리를 다친 뒤 시작된 코피도 바로 평가가 필요합니다. 직접 운전하지 마세요. 콧방울을 10~15분 동안 계속 압박해도 출혈이 멈추지 않으면 응급 진료를 받으세요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTZfMjc2/MDAxNzg5NTI4NTc4NDIw.W-TuhKjI-Vht8tjDTv0eRRk-y25tUili4cJ_RTBPxaQg.hixqzmHuU9SCxl3mdXamZzlDoW7iSFLIhg189Aq8pYUg.PNG/01.png?type=s3",
+      "tags": [
+        "코피",
+        "코피지혈",
+        "코피멈추는법",
+        "코피병원",
+        "반복되는코피",
+        "건강정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224412321544",
       "logNo": "224412321544",
