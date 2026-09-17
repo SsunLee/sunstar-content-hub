@@ -4,15 +4,94 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-17T07:38:02.391Z",
-  "expectedPublicCount": 1262,
-  "total": 1262,
+  "generatedAt": "2026-09-17T13:26:15.925Z",
+  "expectedPublicCount": 1264,
+  "total": 1264,
   "counts": {
-    "entertainment": 217,
-    "stocks": 112,
+    "entertainment": 218,
+    "stocks": 113,
     "archive": 933
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224415335062",
+      "logNo": "224415335062",
+      "title": "셀트리온 자사주 54만4299주 소각 결정, 9월 30일 일정과 1000억원 매입 결과",
+      "url": "https://blog.naver.com/tnsqo1126/224415335062",
+      "publishedAt": "2026-09-17T12:38:43.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 54만4299주를 9월 30일 소각할 예정입니다 셀트리온은 2026년 9월 16일 이사회에서 보통주 54만4299주를 소각하기로 결정했습니다. 소각 예정일은 9월 30일입니다. 같은 날 제출한 취득 결과보고서에는 9월 1일부터 14일까지 약 1000억원을 들여 같은 수량의 자기주식을 매입한 사실이 기재되어 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMjk3/MDAxNzg5NjQ4NjUyNjI3.yO5wGs4OONyfVtzOLNa7kN3s3oQZ8bnK5OjCb_06seUg.2oxHxWW9bApzfVYNLx9zVaid0otKdoPZ_tTkDmVzVL8g.PNG/hero.png?type=s3",
+      "tags": [
+        "셀트리온",
+        "068270",
+        "셀트리온자사주",
+        "자사주소각",
+        "자사주매입",
+        "주주환원",
+        "소각예정일",
+        "반기보고서"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "매입 예정 수량과 실제 수량이 달라진 이유",
+          "body": "8월 31일 최초 취득 결정은 보통주 52만4384주와 1000억28800원을 제시했습니다. 예정금액은 이사회 결의일 직전 거래일인 8월 28일 종가 19만700원을 기준으로 계산한 금액입니다. 실제 취득 결과는 54만4299주, 999억9989만8950원이며, 보고서의 평균 취득단가는 18만3722원입니다. 단가와 취득가액 총액에는 제수수료가 포함되지 않았습니다."
+        },
+        {
+          "heading": "소각예정금액 약 962억원은 매입금액과 기준이 다릅니다",
+          "body": "9월 16일 소각 결정의 소각예정금액은 962억3587만3293원입니다. 회사는 이 값이 이사회 결의일 현재 자기주식의 회계상 장부가액이라고 명시했습니다. 반면 취득 결과보고서의 약 1000억원은 실제 취득가액 총액입니다. 두 금액의 명칭과 측정 기준이 다르므로 숫자가 다르다는 이유만으로 매입이 덜 끝났거나 그 차이만큼 투자 손실이 났다고 판단할 수는 없습니다."
+        },
+        {
+          "heading": "상반기 이익과 현금흐름은 같은 기간끼리 비교합니다",
+          "body": "2026년 상반기 연결 매출액은 약 2조5387억원, 영업이익은 약 7737억원입니다. 전년 상반기 매출액 약 1조8034억원과 영업이익 약 3919억원에 비해 각각 약 40.8%, 97.4% 증가했습니다. 이는 1월부터 6월까지 6개월 누적 실적이며, 2분기 3개월 실적과 구분한 값입니다."
+        },
+        {
+          "heading": "6월 말 현금과 9월 17일 시세의 기준을 구분합니다",
+          "body": "6월 말 연결 현금및현금성자산은 약 1조763억원이고, 부채총계는 약 5조6550억원입니다. 같은 재무상태표의 단기금융부채는 약 3조4647억원입니다. 현금 잔액은 6월 말 시점의 자산이며 부채총계는 차입금 외 항목도 포함하므로, 둘만 단순 비교해 현재 자금 사정이 충분하거나 부족하다고 단정할 수 없습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-17T13:26:15.925Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:a738cf405db6b691c22c711f71f8488e2c3e91efda1b41421f1c234239223a24"
+    },
+    {
+      "id": "naver:tnsqo1126:224415206504",
+      "logNo": "224415206504",
+      "title": "키움 유니폼을 입은 지효, 시구 준비와 'THIS IS FOR' 투어 속 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224415206504",
+      "publishedAt": "2026-09-17T09:56:22.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "트와이스 지효가 키움 히어로즈 유니폼을 입고 시구를 준비하는 모습이 TWICE 공식 채널에 공개되어 있습니다. 2026년 7월 20일 올라온 시구 비하인드는 이동 차량부터 구장 안 연습과 관람석까지 이어집니다. 7월 30일 공개된 'THIS IS FOR' 월드 투어 개인 영상 두 번째 편에서는 유니폼과 다른 일상복 차림의 지효를 만날 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMTg4/MDAxNzg5NjM4OTEwODE5.C-OKc2_WH7aWVlx1g1Mpqtf3F-K13rW7BrVMMPrw8wQg.x3vP1Zps9oxKbtp2kSHHaQEQxQyU4f1meyjjrb9hQ1Ug.JPEG/pitch-0015.jpg?type=s3",
+      "tags": [
+        "지효",
+        "트와이스",
+        "JIHYO",
+        "TWICE",
+        "지효시구",
+        "키움히어로즈",
+        "지효근황",
+        "TWLOG"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224415046003",
       "logNo": "224415046003",
