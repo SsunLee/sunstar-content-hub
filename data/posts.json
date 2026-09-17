@@ -4,15 +4,150 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-17T00:30:40.719Z",
-  "expectedPublicCount": 1258,
-  "total": 1258,
+  "generatedAt": "2026-09-17T07:38:02.391Z",
+  "expectedPublicCount": 1262,
+  "total": 1262,
   "counts": {
-    "entertainment": 215,
-    "stocks": 111,
-    "archive": 932
+    "entertainment": 217,
+    "stocks": 112,
+    "archive": 933
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224415046003",
+      "logNo": "224415046003",
+      "title": "카야 스코델라리오가 연기한 '젠틀맨' 수지, 시즌 2에서 달라진 역할",
+      "url": "https://blog.naver.com/tnsqo1126/224415046003",
+      "publishedAt": "2026-09-17T07:22:56.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'젠틀맨' 시즌 2의 수지 글래스는 카야 스코델라리오가 연기합니다. 아버지 보비의 범죄 사업을 실무에서 이끄는 인물로, 새 시즌에서는 가족에 대한 충성과 자신의 독립적인 선택 사이에서 고민합니다. 넷플릭스가 2026년 9월 15일 발표한 9월 7~13일 집계에서 시즌 2는 글로벌 영어권 TV 부문 1위, 990만 뷰를 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMTM4/MDAxNzg5NjI5NzA1MzYx.vCMmFHxru6S6SjjeSCTcJzANod2Flt0ip1I2Ozx9eZYg.jHjBBRnfWHDYDed9hRMx4f5hIrv-QTZ5jmgCVRrD8iQg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "카야스코델라리오",
+        "젠틀맨",
+        "젠틀맨시즌2",
+        "수지글래스",
+        "젠틀맨출연진",
+        "카야스코델라리오나이",
+        "카야스코델라리오출연작",
+        "넷플릭스드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224414838828",
+      "logNo": "224414838828",
+      "title": "현대모비스 R&D 테크데이, 로봇 부품 개발과 A/S 이익 구조를 함께 보는 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224414838828",
+      "publishedAt": "2026-09-17T04:36:26.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 개발 중인 로봇 부품과 현재의 이익 기반 현대모비스가 공개한 로봇 부품은 향후 사업 확장의 대상이며, 현재 연결 이익을 읽을 때는 A/S용 부품사업의 비중을 함께 확인해야 합니다. 2026년 상반기 A/S용 부품사업은 영업이익 1조 9907억 300만원을 냈지만 모듈 및 부품제조사업은 영업손실 1455억 4300만원을 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMjkx/MDAxNzg5NjE5NzIxNjgz.Tz9o1-KddIftKjdEcZo324LmEOPe2rMvpHMZdsNWsE4g.CO9JGjHE-eDOpPrOKS2f8kH_1PSxwz6v21WbczoIGpkg.PNG/hero.png?type=s3",
+      "tags": [
+        "현대모비스",
+        "012330",
+        "현대모비스주가",
+        "테크데이",
+        "로봇부품",
+        "연구개발",
+        "영업이익",
+        "반기보고서"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "개발 중인 로봇 부품과 현재의 이익 기반",
+          "body": "현대모비스가 공개한 로봇 부품은 향후 사업 확장의 대상이며, 현재 연결 이익을 읽을 때는 A/S용 부품사업의 비중을 함께 확인해야 합니다. 2026년 상반기 A/S용 부품사업은 영업이익 1조 9907억 300만원을 냈지만 모듈 및 부품제조사업은 영업손실 1455억 4300만원을 기록했습니다. 기술 전시에서 소개한 제품 수만으로 회사 전체의 수익성을 설명하기 어려운 이유입니다."
+        },
+        {
+          "heading": "A/S 매출 비중 21.8%와 영업이익을 읽는 방법",
+          "body": "영업부문 주석의 외부 고객 순매출액은 모듈 및 부품제조사업이 24조 9357억 8300만원, A/S용 부품사업이 6조 9494억 2600만원입니다. A/S용 부품의 순매출을 연결 매출로 나누면 약 21.8%입니다. 매출에서는 모듈 및 부품제조사업이 더 크지만 부문 영업이익에서는 A/S용 부품사업의 기여가 크게 나타납니다."
+        },
+        {
+          "heading": "A/S 이익이 연결 이익보다 큰 이유",
+          "body": "A/S용 부품 영업이익 1조 9907억 300만원에서 모듈 및 부품제조 영업손실 1455억 4300만원을 반영하면 부문 영업이익 합계는 1조 8451억 6000만원입니다. 여기에 주석의 부문 간 제거 금액으로 표시된 공통부문 조정 673억 5400만원을 차감하면 연결 영업이익 1조 7778억 600만원과 일치합니다."
+        },
+        {
+          "heading": "연구개발비와 실제 현금 여력은 별도로 확인합니다",
+          "body": "현대모비스의 상반기 연구개발비용 계는 9360억 2300만원이며, 보고서에 표시된 매출액 대비 비율은 2.94%입니다. 전년도 연구개발비용 1조 8773억 5900만원은 2025년 연간 수치입니다. 상반기 금액이 연간 금액보다 작다는 이유만으로 연구개발 투자가 감소했다고 판단할 수는 없습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-17T07:38:02.391Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:96d0b9d93d3e29756d776a83d15575080d5dfd020afcdb3e104da2613234663c"
+    },
+    {
+      "id": "naver:tnsqo1126:224414753305",
+      "logNo": "224414753305",
+      "title": "러닝 후 복사뼈가 아프다면? 통증 위치와 진료가 필요한 신호를 확인하세요",
+      "url": "https://blog.naver.com/tnsqo1126/224414753305",
+      "publishedAt": "2026-09-17T03:16:43.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "43",
+      "summary": "발목 모양이 달라졌거나 다친 뒤 발이 저리고 감각이 둔해지며, 피부가 푸르거나 차가워졌다면 즉시 응급실로 가세요. 안전하게 이동하기 어렵다면 119에 도움을 요청하세요. 걷지 못할 정도로 아프거나 부기·통증이 심해지는 경우도 오늘 바로 진료가 필요합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfOTkg/MDAxNzg5NjE0OTYxNzA3.MwPTnCtIvOy8hg8WNcgNx9TAi56gDbbKxzgiKJJm0LIg.y47IIzmUUSVpLb2ci--gKllb5Tuf3qh59dgUMQoISVgg.PNG/01.png?type=s3",
+      "tags": [
+        "러닝발목통증",
+        "복사뼈통증",
+        "복숭아뼈통증",
+        "발목염좌",
+        "피로골절",
+        "건강정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224414657664",
+      "logNo": "224414657664",
+      "title": "연두색 드레스로 레드카펫에 선 다현, 'GLOBAL OTT AWARDS 2026' 현장",
+      "url": "https://blog.naver.com/tnsqo1126/224414657664",
+      "publishedAt": "2026-09-17T01:56:03.000Z",
+      "dateLabel": "2026. 9. 17.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "트와이스 다현이 연두색 드레스를 입고 'GLOBAL OTT AWARDS 2026' 레드카펫에 섰습니다. TWICE 공식 유튜브는 2026년 8월 24일 다현의 이동과 행사 준비, 레드카펫, 트로피를 든 모습을 담은 현장 영상을 공개했습니다. 앞서 8월 6일 공개된 월드 투어 개인 영상에서는 공연을 준비하는 다현의 다른 의상과 모습을 볼 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMTMy/MDAxNzg5NjEwMDk1Mjg2.TVF-BX7QnBoYgC03EYw6qJZdOlVMYX7MdPQRUb5rZlUg.ZXT_9cl0UQQ_36nXj-CDxNPuaJTCBnQFwky2PwB7hwog.JPEG/awards-0840.jpg?type=s3",
+      "tags": [
+        "다현",
+        "트와이스",
+        "DAHYUN",
+        "TWICE",
+        "다현근황",
+        "GLOBALOTTAWARDS2026",
+        "다현드레스",
+        "TWLOG"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224414499079",
       "logNo": "224414499079",
