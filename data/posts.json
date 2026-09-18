@@ -4,15 +4,94 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-18T11:12:16.568Z",
-  "expectedPublicCount": 1273,
-  "total": 1273,
+  "generatedAt": "2026-09-18T16:23:10.803Z",
+  "expectedPublicCount": 1275,
+  "total": 1275,
   "counts": {
-    "entertainment": 224,
-    "stocks": 115,
+    "entertainment": 225,
+    "stocks": 116,
     "archive": 934
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224416562628",
+      "logNo": "224416562628",
+      "title": "'크루 걸' 티건은 누구? 미쿠 마티노의 배역과 나이, '카케구루이: 베팅' 이후 근황",
+      "url": "https://blog.naver.com/tnsqo1126/224416562628",
+      "publishedAt": "2026-09-18T15:17:21.000Z",
+      "dateLabel": "2026. 9. 19.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'크루 걸'에서 남자 조정팀을 이끄는 티건 타오를 연기한 배우는 미쿠 마티노입니다. 혼자 노를 젓던 16세 선수가 여덟 명의 호흡을 맞추는 콕스로 나서는 이야기입니다. 넷플릭스에서 유메코를 연기했던 '카케구루이: 베팅'과는 배역의 목표와 관계가 달라졌습니다. '크루 걸'은 2026년 9월 10일 공개된 8부작 청춘 드라마입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTlfMjMx/MDAxNzg5NzQ0NTY0NTAw.L2O-rKxdIA0J8jF_FE47GVcqnOYA_tqZ5-wtfFNb3xsg.N-szwdy9nR4DetXJYoDFexTxyHBr4uhJ4mTXCoomVv8g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "크루걸",
+        "미쿠마티노",
+        "티건타오",
+        "넷플릭스드라마",
+        "카케구루이베팅",
+        "케이트",
+        "조정드라마",
+        "해외배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224416440739",
+      "logNo": "224416440739",
+      "title": "POSCO홀딩스 9월 18일 종가 32만5500원, 이익 증가와 영업현금 감소를 함께 볼 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224416440739",
+      "publishedAt": "2026-09-18T12:34:16.000Z",
+      "dateLabel": "2026. 9. 18.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업이익은 늘었지만 영업현금은 줄었습니다 POSCO홀딩스의 2026년 상반기 연결 영업이익은 약 1조5258억원으로 전년 동기보다 늘었지만, 영업활동 현금흐름은 약 7086억원으로 줄었습니다. 영업활동과 관련된 자산·부채 변동이 현금흐름을 약 2조6826억원 줄인 점이 두 지표를 함께 읽을 때 중요한 부분입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MThfMjk0/MDAxNzg5NzM0Nzg3MTQ0.Qz9qRyGa8n4linJAL0vUIJneWLL-_717a6Ri4sO5AXsg.1XZ50BpaoGGLy07oPh9cDCwbRRFEzQv1XYq2dFYlWGwg.PNG/hero.png?type=s3",
+      "tags": [
+        "POSCO홀딩스",
+        "포스코홀딩스",
+        "005490",
+        "영업현금흐름",
+        "매출채권",
+        "재고자산",
+        "반기보고서",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "매출채권과 재고 변동이 현금에 미친 영향",
+          "body": "반기보고서 주석 35는 영업활동 관련 자산·부채 변동을 구체적으로 보여 줍니다. 2026년 상반기 매출채권 항목의 현금흐름 조정은 약 2조1883억원 감소, 재고자산 항목은 약 7731억원 감소입니다. 반대로 매입채무는 약 2871억원, 기타유동부채는 약 5414억원의 증가 효과를 보였습니다. 나머지 항목까지 합친 순효과가 약 2조6826억원 감소입니다."
+        },
+        {
+          "heading": "순이익에서 영업현금으로 이어지는 계산",
+          "body": "상반기 연결 순이익은 약 1조3047억원입니다. 여기에 감가상각비 등 조정 항목 약 2조5890억원을 더하고 영업활동 관련 자산·부채 변동 약 2조6826억원 감소를 반영하면, 영업활동에서 창출된 현금 약 1조2111억원이 됩니다. 영업이익을 바로 현금으로 바꾸는 계산이 아니라 순이익에서 출발하는 현금흐름표의 조정 과정입니다."
+        },
+        {
+          "heading": "설비 취득과 현금 잔액도 함께 확인합니다",
+          "body": "상반기 유형자산 취득에 따른 현금 지출은 약 2조1187억원입니다. 영업현금 약 7086억원만으로 이 지출 전부를 충당한 것은 아닙니다. 두 항목만 단순히 빼면 약 1조4101억원의 부족분이 나오지만, 이 값을 회사가 공시한 잉여현금흐름이라고 부르지는 않습니다. 무형자산 취득과 금융상품 거래, 다른 투자활동까지 포함하는 지표와 계산 범위가 다르기 때문입니다."
+        },
+        {
+          "heading": "다음 실적에서 확인할 세 가지",
+          "body": "첫째는 영업이익 개선과 영업현금 회복이 함께 나타나는지입니다. 다음 보고서의 누적 현금흐름을 이번 상반기 수치와 비교할 때는 누적 기간이 길어졌다는 점도 반영해야 합니다. 단순한 총액 증가는 기간이 늘어난 결과일 수 있으므로 전년 같은 기간과의 비교가 필요합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-18T16:23:10.803Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:c15b407a4d62a52f503e50b7c0f7afe3d630fbc8e01f0c261ba4115d59e6d471"
+    },
     {
       "id": "naver:tnsqo1126:224416332001",
       "logNo": "224416332001",
