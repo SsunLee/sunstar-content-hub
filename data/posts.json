@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-17T21:20:58.351Z",
-  "expectedPublicCount": 1267,
-  "total": 1267,
+  "generatedAt": "2026-09-18T00:16:40.858Z",
+  "expectedPublicCount": 1268,
+  "total": 1268,
   "counts": {
-    "entertainment": 220,
+    "entertainment": 221,
     "stocks": 114,
     "archive": 933
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224415650437",
+      "logNo": "224415650437",
+      "title": "'위스퍼맨'의 벡 형사는 누구? 미셸 모너핸의 배역과 출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224415650437",
+      "publishedAt": "2026-09-17T23:15:42.000Z",
+      "dateLabel": "2026. 9. 18.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스 영화 '위스퍼맨'에서 현재의 실종 사건을 맡는 아만다 벡 형사는 미셸 모너핸이 연기합니다. 은퇴 형사 피트 윌리스가 과거 사건의 경험을 보탠다면, 벡은 현직 수사관으로서 범인을 추적하는 인물입니다. 미셸 모너핸은 '미션 임파서블'의 줄리아 미드와 '트루 디텍티브'의 매기 하트로도 알려져 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MThfOTcg/MDAxNzg5Njg2ODY1ODMx.6rfoUTvNxNbrLP0j98udlTM72Lq5YNl3B9tva1rNg0Ag.3X53iPaKlK7nnfLm37JJ9f4Mlrl2VpwtHhduu6OeKG8g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "미셸모너핸",
+        "위스퍼맨",
+        "아만다벡",
+        "넷플릭스영화",
+        "미셸모너핸나이",
+        "미션임파서블",
+        "에코",
+        "더스틱스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224415578055",
       "logNo": "224415578055",
