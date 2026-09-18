@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-18T16:23:10.803Z",
-  "expectedPublicCount": 1275,
-  "total": 1275,
+  "generatedAt": "2026-09-18T20:53:42.772Z",
+  "expectedPublicCount": 1276,
+  "total": 1276,
   "counts": {
-    "entertainment": 225,
+    "entertainment": 226,
     "stocks": 116,
     "archive": 934
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224416631399",
+      "logNo": "224416631399",
+      "title": "쯔위 'TW-LOG' 1·2편, 공연 준비와 소품 쇼핑의 하루",
+      "url": "https://blog.naver.com/tnsqo1126/224416631399",
+      "publishedAt": "2026-09-18T17:53:29.000Z",
+      "dateLabel": "2026. 9. 19.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "쯔위는 트와이스 공식 'TW-LOG'에서 공연 준비와 투어 중 일상을 전했습니다. 2026년 6월 18일 공개된 'THIS IS FOR' 월드 투어 쯔위 편 2탄에는 머리 손질을 받는 모습과 소품을 구경하는 장면, 식탁 앞에서 카메라를 향해 손을 펼치는 모습이 담겼습니다. 앞서 4월 9일 공개된 첫 편에는 이동 중 촬영과 필라델피아 공연일의 대기실이 등장합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTlfNzIg/MDAxNzg5NzUzOTI3NTA2.axRRSexVCt5NyW7C9nVL4_eRHj9wdwe4y-PX4WfGrPUg.tQnAKkZnPcSHEVvyUPQDu8O2x1iQPL6LugGhfoAG6cUg.JPEG/6WX4WTNOoEw-750.jpg?type=s3",
+      "tags": [
+        "쯔위",
+        "트와이스",
+        "TZUYU",
+        "TWICE",
+        "쯔위근황",
+        "TWLOG",
+        "THISISFOR",
+        "쯔위브이로그"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224416562628",
       "logNo": "224416562628",
