@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-19T12:29:32.092Z",
-  "expectedPublicCount": 1277,
-  "total": 1277,
+  "generatedAt": "2026-09-19T17:16:33.214Z",
+  "expectedPublicCount": 1278,
+  "total": 1278,
   "counts": {
-    "entertainment": 227,
+    "entertainment": 228,
     "stocks": 116,
     "archive": 934
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224417351535",
+      "logNo": "224417351535",
+      "title": "공작이 되지 못한 프레디, '젠틀맨: 더 시리즈' 다니엘 잉스의 시즌 2",
+      "url": "https://blog.naver.com/tnsqo1126/224417351535",
+      "publishedAt": "2026-09-19T15:30:20.000Z",
+      "dateLabel": "2026. 9. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "다니엘 잉스는 '젠틀맨: 더 시리즈'에서 에디의 형 프레디 호니먼을 연기합니다. 동생에게 공작 작위와 집안의 재산이 넘어간 뒤 이를 받아들이지 못했던 인물입니다. 시즌 2에서는 한층 진지해진 태도로 다시 등장합니다. 넷플릭스가 2026년 9월 15일 발표한 주간 톱10에서 시즌 2는 글로벌 영어권 TV 부문 1위를 기록했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjBfMjQ0/MDAxNzg5ODMxNTE4ODQ5.BePmWEF-1RZG0ZM8ZbXVXnX8Lgs2LzRbeb3QraFZRv4g.Yp1aj5v-eymn7SFlc6qGPEgcSMimDR584trXCMBJHC8g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "다니엘잉스",
+        "젠틀맨더시리즈",
+        "젠틀맨시즌2",
+        "프레디호니먼",
+        "넷플릭스",
+        "연애의부작용",
+        "우먼인캐빈10",
+        "배우출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224417146217",
       "logNo": "224417146217",
