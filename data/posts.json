@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-18T20:53:42.772Z",
-  "expectedPublicCount": 1276,
-  "total": 1276,
+  "generatedAt": "2026-09-19T12:29:32.092Z",
+  "expectedPublicCount": 1277,
+  "total": 1277,
   "counts": {
-    "entertainment": 226,
+    "entertainment": 227,
     "stocks": 116,
     "archive": 934
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224417146217",
+      "logNo": "224417146217",
+      "title": "리아 'TUNNEL VISION' 마닐라 투어로그, 공연 준비부터 무대 뒤까지",
+      "url": "https://blog.naver.com/tnsqo1126/224417146217",
+      "publishedAt": "2026-09-19T10:12:23.000Z",
+      "dateLabel": "2026. 9. 19.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 공식 유튜브 채널은 2026년 9월 18일 [TOUR-LOG] EP07 #LIA #MANILA | ITZY 3RD WORLD TOUR 'TUNNEL VISION'을 공개했습니다. 영상 제목에는 리아와 마닐라, ITZY 3RD WORLD TOUR 'TUNNEL VISION'이 함께 적혀 있으며, 영상 길이는 17분 1초입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MTlfMjg5/MDAxNzg5ODEyNjM3MjMw.0JlDpgm0vffJ-eb2iojRF_EmoCVSSgqAAKAlsG2ijeAg.6iFZ9GrTxHpewI3GGY7pJcsqLk9mptV3RId-k7CgPxog.JPEG/lia-manila-0030.jpg?type=s3",
+      "tags": [
+        "LIA",
+        "MANILA",
+        "리아",
+        "ITZY",
+        "있지",
+        "LIA리아근황",
+        "마닐라투어",
+        "TUNNELVISION"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224416631399",
       "logNo": "224416631399",
