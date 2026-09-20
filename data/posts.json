@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-20T11:21:21.487Z",
-  "expectedPublicCount": 1289,
-  "total": 1289,
+  "generatedAt": "2026-09-20T16:04:14.362Z",
+  "expectedPublicCount": 1291,
+  "total": 1291,
   "counts": {
-    "entertainment": 233,
-    "stocks": 118,
+    "entertainment": 234,
+    "stocks": 119,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224418143717",
+      "logNo": "224418143717",
+      "title": "'젠틀맨: 더 시리즈' 스탠과 거스 프링, 같은 배우 지안카를로 에스포지토",
+      "url": "https://blog.naver.com/tnsqo1126/224418143717",
+      "publishedAt": "2026-09-20T15:17:42.000Z",
+      "dateLabel": "2026. 9. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'젠틀맨: 더 시리즈'의 미국인 부호 스탠리 존스턴은 지안카를로 에스포지토가 연기합니다. '브레이킹 배드'와 '베터 콜 사울'에서 거스 프링을 맡았던 배우입니다. 2026년 9월 공개된 시즌 2에서도 스탠은 에디 호니먼에게 관심을 보이며 영국 귀족 사회와 범죄 사업 사이에 등장합니다. 스탠의 관심사는 돈만이 아닙니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMjUz/MDAxNzg5OTE3NDE1NTky.HZ1Zaki9Qnubpk3qEcQ8jGbNfp63pRT9htbPWpco7Nsg.v1bbleS86R4uCR0h6j6x_n5tubYgNoIjGARwSFHmjZUg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "지안카를로에스포지토",
+        "젠틀맨더시리즈",
+        "젠틀맨시즌2",
+        "스탠리존스턴",
+        "브레이킹배드",
+        "거스프링",
+        "칼레이도스코프",
+        "넷플릭스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224418009807",
+      "logNo": "224418009807",
+      "title": "HMM 발레 4조6972억원 운송계약, 2030년 시작과 대금 회수 조건",
+      "url": "https://blog.naver.com/tnsqo1126/224418009807",
+      "publishedAt": "2026-09-20T12:34:54.000Z",
+      "dateLabel": "2026. 9. 20.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 계약금액과 매출이 발생하는 시점 HMM이 발레와 맺은 약 4조6972억원의 장기화물운송계약은 2030년부터 투입할 선박의 운송계약입니다. 계약금이나 선급금은 없으며, 대금은 항차별 선적 후 10영업일 안에 받는 조건입니다. 공시된 총액을 올해 매출이나 이미 들어온 현금으로 해석하면 계약의 성격을 잘못 이해하게 됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjBfNzcg/MDAxNzg5OTA3NjQ4NzMx.R8dc1oKTmzpP9VpYSvmMZjLv9zdNYnDF6hrmK3i9G7cg.-1jsw4YJmdEgJTLrwQJ61bo_Y11IeQX6BSmhjAjYNKQg.PNG/hero.png?type=s3",
+      "tags": [
+        "HMM",
+        "011200",
+        "발레",
+        "장기화물운송계약",
+        "수주공시",
+        "대금지급조건",
+        "영업이익",
+        "반기보고서"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "계약금액과 매출이 발생하는 시점",
+          "body": "HMM이 발레와 맺은 약 4조6972억원의 장기화물운송계약은 2030년부터 투입할 선박의 운송계약입니다. 계약금이나 선급금은 없으며, 대금은 항차별 선적 후 10영업일 안에 받는 조건입니다. 공시된 총액을 올해 매출이나 이미 들어온 현금으로 해석하면 계약의 성격을 잘못 이해하게 됩니다."
+        },
+        {
+          "heading": "매출 대비 43.13%를 읽는 기준",
+          "body": "공시의 매출액 대비 비율은 43.13%입니다. 분자는 여러 해에 걸친 계약 총액이며 분모는 2025년 연결 매출액 10조8914억4287만7031원입니다. 서로 다른 기간의 금액을 비교한 규모 지표이므로, 연간 매출이 43.13% 늘어난다는 뜻으로 읽을 수 없습니다."
+        },
+        {
+          "heading": "2030년 투입 예정과 장기 종료일",
+          "body": "공시상 계약기간은 2030년 4월 1일부터 2056년 10월 31일까지입니다. 시작일은 1호선의 투입 예정 시점입니다. 선박 인도 일정이 바뀌면 시작일도 달라질 수 있고, 종료일은 선박 가동일수에 따라 변동될 수 있습니다. 두 날짜를 변경 불가능한 확정 운항일로 받아들이지 않는 것이 정확합니다."
+        },
+        {
+          "heading": "선급금 없이 항차별로 받는 대금",
+          "body": "이번 계약에는 계약금과 선급금이 없습니다. 지급 조건은 항차별 선적 후 10영업일 이내입니다. 계약 체결 단계와 선박 투입 단계, 실제 선적과 대금 수취 단계 사이에는 시간 차이가 있습니다. 계약 총액을 계약일의 현금 유입으로 계산할 수 없는 이유입니다."
+        },
+        {
+          "heading": "운송 개시 전 살펴볼 반기 재무 수치",
+          "body": "HMM의 2026년 상반기 연결 매출은 6조1207억원으로 전년 동기 5조4774억원보다 약 11.74% 증가했습니다. 같은 기간 영업이익은 약 8471억원에서 약 6232억원으로 26.43% 감소했습니다. 매출은 늘었지만 영업이익률은 약 15.46%에서 10.18%로 낮아졌습니다. 장기 계약의 매출 규모와 이익 기여를 구분해야 하는 이유를 기존 실적에서도 확인할 수 있습니다."
+        },
+        {
+          "heading": "다음 공시에서 달라질 수 있는 조건",
+          "body": "9월 18일 네이버 증권 화면의 거래량 231만3959주와 거래대금 약 490억원은 KRX와 NXT 통합 기준입니다. 같은 화면의 시가총액 약 19조7608억원과 외국인 보유 비율 8.70%는 별도의 투자 참고 정보입니다. 거래소별 거래량을 섞거나 이 비율만으로 향후 주가 방향을 판단하지 않도록 기준을 구분할 필요가 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-20T16:04:14.362Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:61fadcd6d97b47dc8bc0956d0a6f5fd3d6a2bd03b800caec3cb2001811ed89c5"
+    },
     {
       "id": "naver:tnsqo1126:224417897002",
       "logNo": "224417897002",
