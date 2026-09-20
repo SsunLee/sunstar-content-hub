@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-19T20:38:28.770Z",
-  "expectedPublicCount": 1280,
-  "total": 1280,
+  "generatedAt": "2026-09-20T00:08:49.858Z",
+  "expectedPublicCount": 1281,
+  "total": 1281,
   "counts": {
-    "entertainment": 229,
+    "entertainment": 230,
     "stocks": 117,
     "archive": 934
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224417500301",
+      "logNo": "224417500301",
+      "title": "61세 비니 존스의 '젠틀맨: 더 시리즈', 제프 역과 축구 선수 시절",
+      "url": "https://blog.naver.com/tnsqo1126/224417500301",
+      "publishedAt": "2026-09-19T23:19:47.000Z",
+      "dateLabel": "2026. 9. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "비니 존스는 '젠틀맨: 더 시리즈'에서 할스테드 저택의 관리인 제프 시컴을 연기합니다. 호니먼 가문의 사정을 잘 아는 제프는 집안사람들이 곤란한 일을 겪을 때 의지하는 인물입니다. 시즌 2에서는 저택을 돌보는 일뿐 아니라 가족을 향한 애정과 책임도 더 구체적으로 드러납니다. 2026년 9월 3일 공개된 시즌 2는 넷플릭스 글로벌 영어권 TV 주간 1위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjBfNDMg/MDAxNzg5ODU5NjUyNzE3.9SLA2ZG5lU2x-3rEcSdu5rCvjvTTBDHV6F_RfeAxvF0g.N9opelITZ82Z4iYzbdoscg4Y2Z-wpqGZ4OgYl-J7N5Yg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "비니존스",
+        "젠틀맨더시리즈",
+        "젠틀맨시즌2",
+        "제프시컴",
+        "넷플릭스",
+        "가이리치",
+        "비니존스나이",
+        "비니존스출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224417447937",
       "logNo": "224417447937",
