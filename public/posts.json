@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-21T04:53:34.953Z",
-  "expectedPublicCount": 1296,
-  "total": 1296,
+  "generatedAt": "2026-09-21T12:45:53.461Z",
+  "expectedPublicCount": 1299,
+  "total": 1299,
   "counts": {
-    "entertainment": 237,
-    "stocks": 121,
+    "entertainment": 239,
+    "stocks": 122,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224419122082",
+      "logNo": "224419122082",
+      "title": "포스코인터내셔널 셰일가스 투자, 출자·대여·1조원 채무보증의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224419122082",
+      "publishedAt": "2026-09-21T12:34:32.000Z",
+      "dateLabel": "2026. 9. 21.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 출자·대여·보증으로 나뉜 미국 투자 포스코인터내셔널(047050)의 미국 셰일가스 투자 공시는 출자, 대여 한도, 채무보증을 구분해서 읽어야 합니다. 2026년 9월 14일 결정한 출자는 약 5329억원, 대여 한도는 약 2661억원, 채무보증은 약 1조523억원입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMTYy/MDAxNzg5OTk0MDI2OTc0.Kbd_vNS6EPieZc6DSnE8U-gAVa4F5XptZANiLf8CDzcg.cWFj6lXAY4XDvoOy3SNf8AekJ6s1IQ9Aypij5i4Cio8g.PNG/hero.png?type=s3",
+      "tags": [
+        "포스코인터내셔널",
+        "047050",
+        "셰일가스",
+        "미국투자",
+        "자회사출자",
+        "금전대여",
+        "채무보증",
+        "현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "출자·대여·보증으로 나뉜 미국 투자",
+          "body": "포스코인터내셔널(047050)의 미국 셰일가스 투자 공시는 출자, 대여 한도, 채무보증을 구분해서 읽어야 합니다. 2026년 9월 14일 결정한 출자는 약 5329억원, 대여 한도는 약 2661억원, 채무보증은 약 1조523억원입니다. 세 금액은 자금 제공 방식과 의무가 다르므로 합계 전부를 이미 지출한 인수대금으로 볼 근거는 없습니다."
+        },
+        {
+          "heading": "미국 자회사 증자와 대여 조건",
+          "body": "포스코인터내셔널은 미국 자회사 신주 2000주를 현금으로 취득하기로 했습니다. 취득금액은 5329억215만7920원이며 취득 후 소유주식은 3000주, 지분율은 100%입니다. 증자 전에도 전액 출자한 자회사였으므로 이번 증자로 지분율이 달라지지는 않습니다. 신주 발행 주체는 미국 자회사입니다. 이 공시를 포스코인터내셔널 상장주식의 유상증자로 해석해서는 안 됩니다."
+        },
+        {
+          "heading": "보증금액과 아직 정해지지 않은 조건",
+          "body": "채무보증 결정액은 1조523억4920만2080원으로 공시상 자기자본의 13.5%입니다. 비교 기준인 자기자본 7조8127억원은 2025년 말 연결재무제표에 따른 값입니다. 같은 기준으로 출자금은 6.82%, 대여 한도는 3.41%입니다. 이 비율은 회사 자본과 비교한 규모를 보여 주며 각 거래의 손실률이나 투자수익률이 아닙니다."
+        },
+        {
+          "heading": "상반기 이익과 현금 창출의 차이",
+          "body": "2026년 상반기 연결 매출액은 18조335억8607만4000원, 영업이익은 7865억1776만1000원입니다. 전년 동기 매출액 16조2662억3060만원과 영업이익 6133억9922만4000원에 비해 각각 10.87%, 28.22% 증가했습니다. 상반기 누적 영업이익률은 약 4.36%입니다. 아래 비교는 2분기 3개월만의 실적이 아니라 1월부터 6월까지의 누적 실적입니다."
+        },
+        {
+          "heading": "6월 말 현금과 재무상태의 기준일",
+          "body": "연결 현금및현금성자산은 2025년 말 1조1714억6592만5000원에서 2026년 6월 말 1조2223억1086만9000원으로 약 508억원 늘었습니다. 상반기에는 영업활동으로 약 4692억원이 들어오고 투자활동으로 약 4985억원이 나갔습니다. 재무활동 현금 유입 약 1222억원과 외화환산에 따른 감소 약 421억원을 반영하면 반기 말 잔액이 됩니다."
+        },
+        {
+          "heading": "9월 21일 시세와 다음 확인 사항",
+          "body": "네이버 증권의 2026년 9월 21일 애프터마켓 마감 화면에서 포스코인터내셔널은 5만8300원, 표시 등락률은 +1.75%입니다. 자료 표시 시각은 20시 20분 22초입니다. 화면의 거래량은 97만8501주, 거래대금은 566억7700만원이며 두 수치는 KRX와 NXT 통합 기준입니다. 시가총액 10조2563억원과 외인소진율 6.45%는 화면 안내상 KRX 기준입니다. 거래소별 집계 기준을 맞춘 수치끼리 비교해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-21T12:45:53.461Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:2ed9ed037a8bb4dc42960f4fa4a7ab66eaf1aede4e91a63cc50f67baadde44f2"
+    },
+    {
+      "id": "naver:tnsqo1126:224418994240",
+      "logNo": "224418994240",
+      "title": "해원의 성수 'MIXX Log': 직접 고른 재킷과 지우가 골라준 후드",
+      "url": "https://blog.naver.com/tnsqo1126/224418994240",
+      "publishedAt": "2026-09-21T09:54:00.000Z",
+      "dateLabel": "2026. 9. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "엔믹스 해원이 지우·규진과 성수에서 옷을 고르고 서로의 스타일을 바꿔 입었습니다. NMIXX 공식 유튜브가 2026년 9월 20일 공개한 'MIXX Log'에는 카페에서 나눈 옷 취향 이야기, 베이델리 매장 방문, 사진 부스 촬영이 담겼습니다. 해원이 직접 고른 올리브색 재킷과 지우가 골라준 흰 후드 집업은 색과 형태부터 다릅니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMTU2/MDAxNzg5OTg0MzkyNzIw.cdsQVPc3SY6Q8H33e_sQMV1okdmpnlJ_iqdd6yUImoQg.EPJ18lnjDdii7EJ2z7tCR8R_BwNHXm35RRb3-Mbce6Eg.JPEG/haewon-0110.jpg?type=s3",
+      "tags": [
+        "해원",
+        "NMIXX",
+        "엔믹스",
+        "해원근황",
+        "성수브이로그",
+        "MIXXLog",
+        "베이델리",
+        "지우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224418833650",
+      "logNo": "224418833650",
+      "title": "드루 스타키가 7년간 연기한 레이프, '아우터뱅크스' 마지막 시즌",
+      "url": "https://blog.naver.com/tnsqo1126/224418833650",
+      "publishedAt": "2026-09-21T07:17:26.000Z",
+      "dateLabel": "2026. 9. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'아우터뱅크스'에서 세라의 오빠 레이프 캐머런을 연기한 배우는 드루 스타키입니다. 마지막 시즌인 시즌 5가 2026년 8월 20일 공개된 뒤, 스타키는 넷플릭스 인터뷰에서 약 7년 동안 함께한 배역과 촬영장을 돌아봤습니다. 레이프는 부유한 캐머런 집안에 속한 인물입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMjEg/MDAxNzg5OTc1MDAwMTYy.IXHJo7aOZ7xFjVe6LLXaP0vLfSHxbDPFJPav0fKL0c4g.qiS62TkrKWVbVmR04cDmyER641ouQoF3Xv2UwjMwYoEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "드루스타키",
+        "아우터뱅크스",
+        "레이프캐머런",
+        "아우터뱅크스시즌5",
+        "넷플릭스",
+        "드루스타키나이",
+        "퀴어",
+        "해외배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224418633508",
       "logNo": "224418633508",
