@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-22T11:36:12.244Z",
-  "expectedPublicCount": 1307,
-  "total": 1307,
+  "generatedAt": "2026-09-22T16:56:35.242Z",
+  "expectedPublicCount": 1309,
+  "total": 1309,
   "counts": {
-    "entertainment": 245,
-    "stocks": 124,
+    "entertainment": 246,
+    "stocks": 125,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224420383758",
+      "logNo": "224420383758",
+      "title": "로버트 패틴슨의 두 놀런 영화, '테넷' 닐과 '오디세이' 안티노오스",
+      "url": "https://blog.naver.com/tnsqo1126/224420383758",
+      "publishedAt": "2026-09-22T15:18:27.000Z",
+      "dateLabel": "2026. 9. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "로버트 패틴슨은 '오디세이'에서 페넬로페에게 구혼하는 안티노오스(Antinous)를 연기합니다. '테넷'의 닐로 크리스토퍼 놀런 감독과 호흡을 맞췄던 배우가 이번에는 이타카 왕궁의 갈등에 참여합니다. 2026년 9월 21일 국내 일일 박스오피스에서 '오디세이'는 2위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfMTYw/MDAxNzkwMDkwMjYxNzcx.Summ-ybyO4H9QVOuRXSVPi38dLz9NFmg_GKAGV9k7Gkg.m8lLG-ukhPFbpwP_By_ScHkzvnNE8kxSVTn4WqBEppEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "로버트패틴슨",
+        "오디세이",
+        "안티노오스",
+        "크리스토퍼놀런",
+        "테넷",
+        "닐",
+        "라이트하우스",
+        "영화배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224420254920",
+      "logNo": "224420254920",
+      "title": "한화에어로스페이스 크로아티아 천무 6411억원 계약, 선급금 60%와 지급 시점",
+      "url": "https://blog.naver.com/tnsqo1126/224420254920",
+      "publishedAt": "2026-09-22T12:37:48.000Z",
+      "dateLabel": "2026. 9. 22.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 6411억원 계약에 포함된 공급 범위 한화에어로스페이스의 크로아티아 천무 수출 계약은 1차 선급금 25%와 2차 선급금 35%를 나누어 받는 조건입니다. 두 선급금을 합하면 계약금액의 60%입니다. 지급 시점이 서로 다르므로 60%가 이미 입금됐다고 해석해서는 안 됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjJfODcg/MDAxNzkwMDgwNjIyNjQ1.N-hLiIJLLvPmfB3fe4GfAtowXxOse0yO4o32-xDhSSsg.W7Q3pSvssa12XYeQ1kTKh3c6BI7o_fpJASVDwb26uMIg.PNG/hero.png?type=s3",
+      "tags": [
+        "한화에어로스페이스",
+        "012450",
+        "크로아티아",
+        "천무수출",
+        "선급금",
+        "지급조건",
+        "현금흐름",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "6411억원 계약에 포함된 공급 범위",
+          "body": "한화에어로스페이스의 크로아티아 천무 수출 계약은 1차 선급금 25%와 2차 선급금 35%를 나누어 받는 조건입니다. 두 선급금을 합하면 계약금액의 60%입니다. 지급 시점이 서로 다르므로 60%가 이미 입금됐다고 해석해서는 안 됩니다."
+        },
+        {
+          "heading": "선급금 두 차례와 잔금의 지급 조건",
+          "body": "1차 선급금은 계약 서명 후 30일 안에 계약금액의 25%를 지급하는 조건입니다. 2차 선급금은 계약 서명 12개월 후 30일 안에 35%를 지급하도록 되어 있습니다. 잔금은 계약상 인수절차를 마친 뒤 30일 안에 지급합니다. 공시는 지급 조건을 밝힌 자료이며 실제 입금 내역을 확인하는 자료는 아닙니다."
+        },
+        {
+          "heading": "매출 대비 2.40%와 환율의 기준",
+          "body": "계약금액은 한화에어로스페이스의 2025년 연결 매출액 26조7029억원과 비교하면 2.40%입니다. 이 비율은 계약 규모를 과거 연간 매출과 비교한 값입니다. 2026년 매출이 2.40% 늘어난다는 예측이나 영업이익률을 뜻하지 않습니다."
+        },
+        {
+          "heading": "상반기 영업이익과 영업현금흐름의 차이",
+          "body": "한화에어로스페이스의 2026년 1~6월 연결 매출은 약 15조4389억원, 영업이익은 약 2조44억원입니다. 2025년 같은 기간의 매출 약 11조7952억원, 영업이익 약 1조3914억원과 비교하면 각각 27.54%, 44.06% 증가했습니다. 이 수치는 2분기 3개월 실적이 아니라 상반기 누적 실적입니다."
+        },
+        {
+          "heading": "현금 잔액을 늘린 재무활동",
+          "body": "상반기 투자활동현금흐름은 약 3조4030억원 순유출, 재무활동현금흐름은 약 3조9663억원 순유입입니다. 세 활동을 합친 현금 증가는 약 1926억원이며 환율 효과 약 1423억원을 더하면 현금 잔액이 약 3349억원 늘어납니다. 기초 현금 약 7조7134억원은 6월 말 약 8조482억원이 됐습니다. 억원 반올림값 사이에는 합산 차이가 생길 수 있습니다."
+        },
+        {
+          "heading": "9월 22일 시세와 다음 확인 사항",
+          "body": "네이버 증권의 2026년 9월 22일 애프터마켓 마감 화면에서 한화에어로스페이스 가격은 106만2000원, 등락률은 -0.47%입니다. 자료 표시 시각은 20시 20분 22초이며 시장 상태는 마감입니다. 이 가격은 화면의 애프터마켓 기준으로, 정규장 종가와 혼동하지 않아야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-22T16:56:35.242Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:6861d12d2b1e70566f068b31735358a331c690b7102993ddccb2ba95e9a57e3e"
+    },
     {
       "id": "naver:tnsqo1126:224420134814",
       "logNo": "224420134814",
