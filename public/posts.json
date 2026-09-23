@@ -4,15 +4,127 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-23T00:31:53.561Z",
-  "expectedPublicCount": 1311,
-  "total": 1311,
+  "generatedAt": "2026-09-23T07:44:40.487Z",
+  "expectedPublicCount": 1314,
+  "total": 1314,
   "counts": {
-    "entertainment": 248,
-    "stocks": 125,
+    "entertainment": 250,
+    "stocks": 126,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224421043556",
+      "logNo": "224421043556",
+      "title": "존 번탈, '오디세이' 메넬라오스 역과 '퍼니셔' 각본 참여",
+      "url": "https://blog.naver.com/tnsqo1126/224421043556",
+      "publishedAt": "2026-09-23T07:20:52.000Z",
+      "dateLabel": "2026. 9. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'오디세이'에서 스파르타의 왕 메넬라오스를 연기한 배우는 존 번탈입니다. '워킹 데드'의 셰인 월시와 마블의 프랭크 캐슬로 알려진 배우가 크리스토퍼 놀런의 신화 영화에 합류했습니다. 2026년에는 '퍼니셔: 원 라스트 킬'과 '더 베어'의 특별 에피소드에서 연기뿐 아니라 각본에도 참여했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfMzUg/MDAxNzkwMTQ4MDA1MDM5.ePnvSZ2VNj2dI6yI-VUrve300LNIcY2QgMzF1hM-ulAg.ebxhHLveGV2fIHSaF1IU29sQ9oHk2nE0B_kusSj45Jgg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "존번탈",
+        "오디세이",
+        "메넬라오스",
+        "퍼니셔",
+        "더베어",
+        "존번탈나이",
+        "크리스토퍼놀런",
+        "존번탈출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224420871159",
+      "logNo": "224420871159",
+      "title": "HD현대일렉트릭 평택 644억원 계약 정정, 종료일 2027년 5월로 변경",
+      "url": "https://blog.naver.com/tnsqo1126/224420871159",
+      "publishedAt": "2026-09-23T04:38:49.000Z",
+      "dateLabel": "2026. 9. 23.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 계약금액보다 먼저 볼 종료일 변경 HD현대일렉트릭의 평택 변전설비 공급계약은 금액 644억원을 유지하면서 종료일이 2026년 8월 31일에서 2027년 5월 31일로 바뀌었습니다. 8월 27일 접수된 정정 공시의 변경 항목은 계약 종료일입니다. 신규 계약 644억원이 추가됐다는 발표로 해석하면 기존 수주를 중복해 계산하게 됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfNzEg/MDAxNzkwMTM4Mjg0Mjk1.wY6l6lOo1SwL9AITCzzHUaL2-f3ueAaUzopqg-67mlYg.lHB1_eNuVFpYt3jbzEgUXF4HEa3DUx5kYhRTCwqQQYcg.PNG/hero.png?type=s3",
+      "tags": [
+        "HD현대일렉트릭",
+        "267260",
+        "평택변전소",
+        "고압차단기",
+        "계약정정",
+        "계약기간",
+        "현금흐름",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "계약금액보다 먼저 볼 종료일 변경",
+          "body": "HD현대일렉트릭의 평택 변전설비 공급계약은 금액 644억원을 유지하면서 종료일이 2026년 8월 31일에서 2027년 5월 31일로 바뀌었습니다. 8월 27일 접수된 정정 공시의 변경 항목은 계약 종료일입니다. 신규 계약 644억원이 추가됐다는 발표로 해석하면 기존 수주를 중복해 계산하게 됩니다."
+        },
+        {
+          "heading": "삼성전자와 직접 체결한 계약은 아닙니다",
+          "body": "계약 상대방은 에이치엘디앤아이한라 주식회사입니다. 공시는 에이치엘디앤아이한라가 삼성전자로부터 수주받은 평택 345kV 변전소 신축공사에 변전설비를 공급하는 계약이라고 설명합니다. 삼성전자는 원공사의 발주 관계에 등장하며, HD현대일렉트릭이 공시한 직접 계약 상대방과는 구분됩니다."
+        },
+        {
+          "heading": "영업현금 유입과 현금 잔액 증가는 다릅니다",
+          "body": "2026년 상반기 연결 영업활동현금흐름은 약 4803억원 순유입입니다. 전년 동기의 약 4570억원보다 늘었습니다. 현금흐름표에는 법인세 지급 약 1771억원과 이자 지급 등이 반영돼 있습니다. 손익계산서의 영업이익 약 5453억원과 영업현금 유입액은 서로 다른 항목입니다."
+        },
+        {
+          "heading": "9월 23일 장중 시세와 계약 공시는 구분합니다",
+          "body": "9월 23일 오후 1시 31분 네이버 증권의 정규장 화면에서 HD현대일렉트릭은 70만5000원, 등락률은 -1.26%로 표시됐습니다. 장중에 확인한 값이므로 종가가 아니며 이후 거래에 따라 달라집니다. 8월의 계약 정정이 이날 주가 하락을 일으켰다는 공식 근거는 확인되지 않았습니다."
+        },
+        {
+          "heading": "다음 공시에서 확인할 세 가지",
+          "body": "첫째, 2027년 5월 31일 종료 예정일이 유지되는지 확인해야 합니다. 이번 정정은 종료일만 다뤘으므로 앞으로 계약금액, 공급 범위, 상대방이 달라진다면 그 변경 내용은 별도로 확인할 정보가 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-23T07:44:40.487Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ce847fb317872a7db954210e9abf5bc092918607eeea430a92ba658990d9aa08"
+    },
+    {
+      "id": "naver:tnsqo1126:224420707919",
+      "logNo": "224420707919",
+      "title": "'CLASSY.' 첫 표지를 장식한 지젤, 앞머리를 내린 촬영장 모습은?",
+      "url": "https://blog.naver.com/tnsqo1126/224420707919",
+      "publishedAt": "2026-09-23T01:57:11.000Z",
+      "dateLabel": "2026. 9. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "에스파 지젤이 'CLASSY.' 2026년 10월호 일반판 표지를 장식했습니다. 8월 28일 발매된 잡지에 이어, 9월 18일에는 에스파 공식 유튜브에 화보 촬영 비하인드가 공개됐습니다. 크림색 니트부터 검정 의상까지 옷을 갈아입고, 촬영 도중 앞머리를 내리는 모습이 5분 6초 영상에 담겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfMzQg/MDAxNzkwMTI4NTgzMTQz.0g1z_DuRMWGnFlwIc4D158LAsk3qCys_zpnJ8r1YMIcg.fk4rKYEvA0vC4wQtpqterVILoFyntZvfuC1U4R891sAg.JPEG/cover.jpg?type=s3",
+      "tags": [
+        "지젤",
+        "GISELLE",
+        "에스파",
+        "aespa",
+        "지젤근황",
+        "CLASSY",
+        "지젤화보",
+        "화보비하인드"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224420559965",
       "logNo": "224420559965",
