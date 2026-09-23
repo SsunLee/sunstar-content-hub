@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-22T21:17:17.849Z",
-  "expectedPublicCount": 1310,
-  "total": 1310,
+  "generatedAt": "2026-09-23T00:31:53.561Z",
+  "expectedPublicCount": 1311,
+  "total": 1311,
   "counts": {
-    "entertainment": 247,
+    "entertainment": 248,
     "stocks": 125,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224420559965",
+      "logNo": "224420559965",
+      "title": "'오디세이' 아테나는 누구? 젠데이아의 배역과 서른 살 연기 이력",
+      "url": "https://blog.naver.com/tnsqo1126/224420559965",
+      "publishedAt": "2026-09-22T23:19:06.000Z",
+      "dateLabel": "2026. 9. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'오디세이'에서 아테나를 연기한 배우는 젠데이아입니다. 크리스토퍼 놀런 감독의 영화에서 맷 데이먼이 맡은 오디세우스와 관계를 맺는 신으로 등장합니다. 젠데이아는 디즈니 시트콤으로 연기 활동을 시작한 뒤 '유포리아', '챌린저스', '스파이더맨' 시리즈에서 서로 다른 인물을 연기해 왔습니다. 2026년 9월 23일 기준 젠데이아는 만 30세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfMTA2/MDAxNzkwMTE5MTAwNjA4.yxIf5KvZxS2k-Y6yypeFst5Yl9YpSrsosES9Iu101uEg.m4vXCL_iFrhNPgvJvEbhkfiegdel48LunnfFWsPPSRYg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "젠데이아",
+        "오디세이",
+        "아테나",
+        "크리스토퍼놀런",
+        "젠데이아나이",
+        "챌린저스",
+        "유포리아",
+        "스파이더맨"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224420449109",
       "logNo": "224420449109",
