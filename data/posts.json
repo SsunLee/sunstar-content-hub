@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-24T04:47:59.165Z",
-  "expectedPublicCount": 1322,
-  "total": 1322,
+  "generatedAt": "2026-09-24T11:43:41.905Z",
+  "expectedPublicCount": 1323,
+  "total": 1323,
   "counts": {
-    "entertainment": 255,
+    "entertainment": 256,
     "stocks": 129,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224421926202",
+      "logNo": "224421926202",
+      "title": "리즈가 꼽은 'Unreal', 홍콩 눕터뷰와 바닷가 스페셜 클립",
+      "url": "https://blog.naver.com/tnsqo1126/224421926202",
+      "publishedAt": "2026-09-24T09:55:16.000Z",
+      "dateLabel": "2026. 9. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 리즈가 홍콩 공연을 마친 뒤 솔로곡 'Unreal'과 투어 이야기를 전했습니다. 아이브 공식 채널은 2026년 9월 21일 리즈의 '눕터뷰'를 공개했습니다. 앞서 9월 3일 공개한 'Unreal' 스페셜 클립에서는 바닷가에서 마이크를 든 리즈를 만날 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjRfMjMx/MDAxNzkwMjQzNjY1Nzk4.zKTOcWu34g7fLI4C680bfYJOjWFiO4r36VuKGDXTe6Ug.qyaujuMsA4_KwbQsu6vHax088GnUNW3hqDz0rpZUSOkg.JPEG/interview-0018.jpg?type=s3",
+      "tags": [
+        "리즈",
+        "아이브",
+        "IVE",
+        "LIZ",
+        "리즈근황",
+        "Unreal",
+        "눕터뷰",
+        "홍콩공연"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224421753683",
       "logNo": "224421753683",
