@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-23T22:56:35.349Z",
-  "expectedPublicCount": 1319,
-  "total": 1319,
+  "generatedAt": "2026-09-24T04:47:59.165Z",
+  "expectedPublicCount": 1322,
+  "total": 1322,
   "counts": {
-    "entertainment": 253,
-    "stocks": 128,
+    "entertainment": 255,
+    "stocks": 129,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224421753683",
+      "logNo": "224421753683",
+      "title": "현대차 자사주 소각 공시, 7891억원과 장부가 4764억원이 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224421753683",
+      "publishedAt": "2026-09-24T04:45:47.000Z",
+      "dateLabel": "2026. 9. 24.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 소각 금액이 두 가지로 표시된 이유 현대차가 2026년 8월 26일 결정한 자사주 소각의 공시상 금액은 약 7,891억원이지만, 같은 주식의 장부가액은 약 4,764억원입니다. 두 수치는 평가 기준이 다릅니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjRfMzEg/MDAxNzkwMjI1MDk3NjY1.XU5m42vJyXVCZ7q3IXQZaJ61VyegOoFQNKZfwxH7yWgg.e57F3cJOKOPr35JH5K0ZzHWe5EVKKn_9BpBjb8IpTJog.PNG/hero.png?type=s3",
+      "tags": [
+        "현대차",
+        "005380",
+        "현대자동차",
+        "자사주소각",
+        "자기주식",
+        "주주환원",
+        "주당이익",
+        "현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "소각 금액이 두 가지로 표시된 이유",
+          "body": "현대차가 2026년 8월 26일 결정한 자사주 소각의 공시상 금액은 약 7,891억원이지만, 같은 주식의 장부가액은 약 4,764억원입니다. 두 수치는 평가 기준이 다릅니다. 7,891억원은 이사회 전날인 8월 25일 종가를 적용한 금액이고, 4,764억원은 회사가 주식을 취득한 평균 단가에 소각 수량을 곱한 장부가액입니다."
+        },
+        {
+          "heading": "보통주와 우선주의 소각 비율",
+          "body": "소각 대상은 보통주 1,291,274주와 종류주식 1,214,332주로, 합계 2,505,606주입니다. 종류주식에는 우선주 501,923주, 2우선주 706,883주, 3우선주 5,526주가 포함됩니다. 보통주와 여러 우선주의 가격이 서로 다르므로 전체 수량에 현대차 보통주 가격 하나만 곱하면 공시 금액과 맞지 않습니다."
+        },
+        {
+          "heading": "9월 23일 시세와 집계 범위",
+          "body": "네이버 증권에서 확인한 현대차의 마지막 표시 시세는 2026년 9월 23일 애프터마켓 마감 기준 357,000원, 전일 대비 3,500원 하락한 -0.97%입니다. 시세 자료의 표시 시각은 한국시간 20시 20분 23초이고 시장 상태는 마감입니다. 이 가격은 8월 25일 종가로 산정한 소각예정금액의 계산 기준과 다릅니다."
+        },
+        {
+          "heading": "소각과 현금 지출을 구분하는 방법",
+          "body": "현대차의 2026년 상반기 연결 현금흐름표에는 자기주식 취득으로 399,017백만원, 약 3,990억원이 유출됐다고 기재돼 있습니다. 이는 1월부터 6월까지의 현금 지급액입니다. 8월 소각 대상 주식의 장부가 4,764억원이나 공시 평가액 7,891억원과는 기간과 측정 대상이 달라 서로 같은 금액일 필요가 없습니다. 상반기에 매입한 물량이 이번 소각 대상과 모두 일치한다고 단정할 근거도 없습니다."
+        },
+        {
+          "heading": "소각 비율만큼 주당이익이 늘어날까",
+          "body": "현대차 반기보고서는 기본주당이익을 각 주식 종류에 귀속되는 순이익과 기간 중 가중평균유통주식 수로 계산합니다. 주당이익 주석에는 자기주식 수의 변동을 고려해 주식 수를 가중평균했다고 설명돼 있습니다. 소각 결정 공시의 발행주식 총수와 주당이익 계산에 쓰는 유통주식 수는 동일한 숫자가 아닙니다."
+        },
+        {
+          "heading": "후속 공시에서 확인할 항목",
+          "body": "소각 결정의 확인 순서는 주식 종류별 수량, 금액의 평가 기준, 예정일과 실제 반영 내역입니다. 이후 보고서에서는 발행주식 총수와 자기주식 잔액이 어떻게 바뀌었는지, 현금흐름표에는 신규 자기주식 취득액이 얼마인지 살펴볼 수 있습니다. 소각예정금액과 새 매입 예산을 중복 합산하면 주주환원 규모를 과대평가하게 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-24T04:47:59.165Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ea872b5228615154a9ff69a97d3ca06ad63d476542cea6b80195b536a5f192f5"
+    },
+    {
+      "id": "naver:tnsqo1126:224421652706",
+      "logNo": "224421652706",
+      "title": "안유진의 'AN-YOUNG' 관람기, 전시 속 사진에서 밴쿠버 가방 이야기까지",
+      "url": "https://blog.naver.com/tnsqo1126/224421652706",
+      "publishedAt": "2026-09-24T01:55:22.000Z",
+      "dateLabel": "2026. 9. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 안유진이 장원영과 함께 자신의 사진이 걸린 'AN-YOUNG' 전시를 둘러봤습니다. 아이브 공식 유튜브가 2026년 9월 19일 공개한 관람 영상에는 사진에 얽힌 이야기와 체험 공간을 살피는 모습이 담겼습니다. 이틀 전인 9월 17일에는 월드 투어 중 밴쿠버에서 촬영한 '윶 LOG'도 공개됐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjRfMTY3/MDAxNzkwMjE0ODczMzEw.XkGezLKgPwr1PvnInf6gMvOCewPhy446U1FB3PjJT24g.s2kGOtBGGzQTXpOd6lUIgh2Wje54NHKMfUHSIi9Nup0g.JPEG/exhibit-0040.jpg?type=s3",
+      "tags": [
+        "안유진",
+        "아이브",
+        "IVE",
+        "안유진근황",
+        "ANYUJIN",
+        "ANYOUNG",
+        "윶LOG",
+        "밴쿠버브이로그"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224421566081",
+      "logNo": "224421566081",
+      "title": "'괴물: 리지 보든 이야기' 애비 역 리베카 홀은 '패싱'을 연출했다",
+      "url": "https://blog.naver.com/tnsqo1126/224421566081",
+      "publishedAt": "2026-09-23T23:27:14.000Z",
+      "dateLabel": "2026. 9. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'괴물: 리지 보든 이야기'에서 리지의 계모 애비 보든을 연기한 배우는 리베카 홀입니다. 리베카 홀은 '나이트 하우스'의 주인공 베스를 맡았고, '패싱'에서는 각본과 연출을 담당했습니다. 넷플릭스가 2026년 9월 22일 발표한 주간 순위에서 '괴물: 리지 보든 이야기'는 글로벌 영어권 TV 1위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjRfMTA5/MDAxNzkwMjA1NDY2MzMw.EpoqiCHWQdWPWDYgmD_yUcdj-SllNiJOBAu7e7tEHd8g.LhaVXblH8JeueGGbsJ4_FLhV72QQHv6_xxp8cre4-YIg.PNG/photo-01.png?type=s3",
+      "tags": [
+        "리베카홀",
+        "괴물리지보든이야기",
+        "애비보든",
+        "넷플릭스드라마",
+        "나이트하우스",
+        "패싱",
+        "리베카홀출연작",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224421504590",
       "logNo": "224421504590",
