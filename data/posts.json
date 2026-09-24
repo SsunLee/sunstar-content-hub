@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-24T17:09:19.226Z",
-  "expectedPublicCount": 1325,
-  "total": 1325,
+  "generatedAt": "2026-09-24T21:30:05.767Z",
+  "expectedPublicCount": 1326,
+  "total": 1326,
   "counts": {
-    "entertainment": 257,
+    "entertainment": 258,
     "stocks": 130,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224422176795",
+      "logNo": "224422176795",
+      "title": "레이의 AGE20'S 촬영 현장, 흰 재킷과 포니테일로 달라진 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224422176795",
+      "publishedAt": "2026-09-24T17:52:56.000Z",
+      "dateLabel": "2026. 9. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 레이가 AGE20'S 촬영 현장에서 표정과 시선, 손동작을 맞추는 모습을 공개했습니다. 2026년 9월 12일 아이브 공식 채널에 올라온 'REI X AGE20’S BEHIND'에는 흰 재킷 차림의 영상 촬영부터 머리를 높게 묶은 지면 촬영까지 담겼습니다. 레이는 작은 표정 변화를 표현하는 일이 새롭고 어렵기도 했다며 감독과 호흡을 맞추고 있다고 설명했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjVfNjkg/MDAxNzkwMjcyMzI3MDk3.ponoV0zc8JyRxGUm4DmBxj6mvWmzpKvaaSfWLi7nPh8g.D13In8fQJVZQr3xZtYBnJlkDt6J5rsDClHnZYIw3w2Ug.JPEG/age-0040.jpg?type=s3",
+      "tags": [
+        "레이",
+        "아이브",
+        "IVE",
+        "REI",
+        "레이근황",
+        "AGE20S",
+        "브랜드촬영",
+        "아이브레이"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224422112569",
       "logNo": "224422112569",
