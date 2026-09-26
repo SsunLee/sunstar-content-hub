@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-24T21:30:05.767Z",
-  "expectedPublicCount": 1326,
-  "total": 1326,
+  "generatedAt": "2026-09-26T11:22:56.951Z",
+  "expectedPublicCount": 1327,
+  "total": 1327,
   "counts": {
-    "entertainment": 258,
+    "entertainment": 259,
     "stocks": 130,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224423263162",
+      "logNo": "224423263162",
+      "title": "장원영은 왜 시애틀에서 뛰어내렸을까? 'I AM'을 떠올린 스카이다이빙",
+      "url": "https://blog.naver.com/tnsqo1126/224423263162",
+      "publishedAt": "2026-09-26T09:53:46.000Z",
+      "dateLabel": "2026. 9. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "장원영이 시애틀에서 첫 스카이다이빙을 경험한 하루를 공개했습니다. 아이브 공식 유튜브 채널은 2026년 9월 14일 '원영이와 Dreams come true' 영상을 올렸습니다. 장원영은 한국에서 미리 예약한 이유부터 교육을 받는 모습, 장비를 착용하고 비행기로 향하는 과정, 착륙 후 소감까지 직접 전했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjZfMTcw/MDAxNzkwNDE2Mzc4NTI4.-T1l1JqbLWpD_K3SSdfEvl2sJ2A9dYyJ-7AbnM83zxQg.DfcPC96Y_hnMGPVJW7UvuBtH95Zld9X1lreEIFlXre8g.JPEG/dream-0110.jpg?type=s3",
+      "tags": [
+        "장원영",
+        "아이브",
+        "IVE",
+        "WONYOUNG",
+        "장원영근황",
+        "스카이다이빙",
+        "시애틀",
+        "IAM"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224422176795",
       "logNo": "224422176795",
