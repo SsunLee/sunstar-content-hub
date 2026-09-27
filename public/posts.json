@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-27T08:07:55.790Z",
-  "expectedPublicCount": 1335,
-  "total": 1335,
+  "generatedAt": "2026-09-27T13:57:44.492Z",
+  "expectedPublicCount": 1336,
+  "total": 1336,
   "counts": {
     "entertainment": 264,
-    "stocks": 133,
+    "stocks": 134,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224424123269",
+      "logNo": "224424123269",
+      "title": "삼일씨엔에스 평택 P5 PC공사 128억원 계약, 매출 5.74%와 실적 반영은?",
+      "url": "https://blog.naver.com/tnsqo1126/224424123269",
+      "publishedAt": "2026-09-27T12:39:52.000Z",
+      "dateLabel": "2026. 9. 27.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 128억원 계약은 무엇을 공급하나요? 삼일씨엔에스는 2026년 9월 23일 삼성물산과 평택 P5 FAB2 신축공사 중 PC공사 계약을 체결했다고 공시했습니다. 공급 대상은 현장에서 쓰일 PC 부재의 제작과 납품입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjdfMTgz/MDAxNzkwNTEyNjU4Mzk5.mFU13GwWDtAo1kDKuKOJtaxXhtFR7M1qAUlwoZ01SrAg.SieiVO3YLMQWQWWpPZXEFyY961qh7ZZ7xQrWCemavAMg.PNG/hero.png?type=s3",
+      "tags": [
+        "삼일씨엔에스",
+        "004440",
+        "평택P5",
+        "PC공사",
+        "공급계약",
+        "삼성물산",
+        "반기실적",
+        "주식공시"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224423911342",
       "logNo": "224423911342",
