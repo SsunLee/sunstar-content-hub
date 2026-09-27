@@ -4,15 +4,156 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-27T00:35:11.094Z",
-  "expectedPublicCount": 1332,
-  "total": 1332,
+  "generatedAt": "2026-09-27T08:07:55.790Z",
+  "expectedPublicCount": 1335,
+  "total": 1335,
   "counts": {
-    "entertainment": 262,
-    "stocks": 132,
+    "entertainment": 264,
+    "stocks": 133,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224423911342",
+      "logNo": "224423911342",
+      "title": "타샤 스미스가 다시 연기한 앤절라, '내가 왜 또 결혼했을까?'의 가족 관계",
+      "url": "https://blog.naver.com/tnsqo1126/224423911342",
+      "publishedAt": "2026-09-27T07:36:17.000Z",
+      "dateLabel": "2026. 9. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "타샤 스미스는 넷플릭스 영화 '내가 왜 또 결혼했을까?'에서 앤절라를 다시 연기합니다. 앤절라는 마커스의 아내이자 재스민과 마커스 주니어의 어머니입니다. 이번 이야기에서는 딸 재스민의 결혼식을 앞두고 오랜 친구들이 한자리에 모입니다. 넷플릭스 한국 작품 안내에는 배우 이름이 '타샤 스미스'로 표시돼 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjdfMTMz/MDAxNzkwNDk0NTIxNjk2.9OKq308oLz9TWUCRN6bAGddl2g0zYilMxImg1JHRfzAg.vobLPfOpPjQn1CqdPrT_1uQm-VdzUW2k704Nz3SJHeQg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "타샤스미스",
+        "내가왜또결혼했을까",
+        "앤절라",
+        "넷플릭스영화",
+        "타일러페리",
+        "마이클제이화이트",
+        "서바이벌오브더시케스트",
+        "영화배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224423791754",
+      "logNo": "224423791754",
+      "title": "현대로템 대만 타오위안 철도 계약 3445억원, 컨소시엄 전체 사업비와 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224423791754",
+      "publishedAt": "2026-09-27T04:40:55.000Z",
+      "dateLabel": "2026. 9. 27.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 3445억원 계약의 의미 현대로템은 대만 타오위안 브라운라인 전기·기계 설비 공급 사업의 계약금액을 3445억 96만 9560원으로 공시했습니다. 이 금액은 컨소시엄 전체 사업비가 아니라 공시 환율을 적용한 현대로템의 사업 분담액입니다. 회사가 밝힌 2025년 연결 매출액 5조 8390억 원과 비교하면 5.9%에 해당합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjdfMjkg/MDAxNzkwNDg0MDAyNzk5.SJrTHxwwuVUZN7CxprAw_S6TsX1bDfvRG6OaU17ZPz4g.FHyFpCdH9yH02izNYaJF0BaPc2BVtrehwhZeDX2I2B8g.PNG/hero.png?type=s3",
+      "tags": [
+        "현대로템",
+        "064350",
+        "타오위안철도",
+        "대만철도",
+        "공급계약",
+        "수주",
+        "컨소시엄",
+        "철도주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "3445억원 계약의 의미",
+          "body": "현대로템은 대만 타오위안 브라운라인 전기·기계 설비 공급 사업의 계약금액을 3445억 96만 9560원으로 공시했습니다. 이 금액은 컨소시엄 전체 사업비가 아니라 공시 환율을 적용한 현대로템의 사업 분담액입니다. 회사가 밝힌 2025년 연결 매출액 5조 8390억 원과 비교하면 5.9%에 해당합니다."
+        },
+        {
+          "heading": "컨소시엄 금액과 현대로템 몫",
+          "body": "이번 사업은 현대로템과 ST Engineering Urban Solutions가 컨소시엄으로 수행합니다. 공시에는 전체 사업 규모가 대만달러 263억 9399만 4968달러와 유로 9002만 4985유로로 나옵니다. 이와 별도로 현대로템 분담액은 대만달러 73억 9997만 156달러와 유로 1377만 4980유로입니다. 통화가 두 종류이므로 각 금액의 숫자만 더해 원화 계약액과 비교하면 안 됩니다."
+        },
+        {
+          "heading": "사업 기간과 돈이 들어오는 순서",
+          "body": "공시에 적힌 계약기간은 2026년 8월 19일부터 2034년 10월 4일까지입니다. 종료일은 낙찰일로부터 2990일이라는 조건을 반영한 날짜입니다. 다만 실제 착수일은 계약서에 정한 조건이 충족될 때 시작된다고 공시에 명시돼 있습니다. 계약기간의 시작일을 모든 설비의 제작 또는 인도 시작일로 읽어서는 안 됩니다."
+        },
+        {
+          "heading": "상반기 실적은 계약 전 재무 상태",
+          "body": "현대로템의 2026년 상반기 연결 매출액은 3조 635억 원으로, 2025년 같은 기간의 2조 5938억 원보다 늘었습니다. 반면 영업이익은 약 4566억 원으로 전년 상반기 약 4604억 원보다 소폭 낮았습니다. 이는 6월까지의 기존 사업 실적이며 9월에 공시한 대만 계약의 성과가 아닙니다. 매출이 늘어도 이익이 같은 비율로 늘지 않는다는 점을 함께 보여 줍니다."
+        },
+        {
+          "heading": "9월 23일 주가와 계약은 따로 확인",
+          "body": "한국거래소가 표시한 현대로템의 9월 23일 정규장 종가는 11만 5900원으로, 전 거래일보다 1200원 낮았습니다. 정규장 거래량은 21만 9444주, 거래대금은 약 254억 6015만 원입니다. 네이버 증권의 오후 8시 20분 표시 가격은 11만 6700원으로 정규장 종가와 다릅니다. 두 숫자는 거래 시점과 집계 범위가 다르므로 하나를 다른 하나의 종가로 바꾸어 쓰면 안 됩니다."
+        },
+        {
+          "heading": "다음 확인 지점",
+          "body": "첫째, 계약 시작 조건의 충족과 실제 착수 여부를 확인해야 합니다. 공시의 시작일은 계약서상 날짜이지만 실제 착수는 조건부입니다. 둘째, 향후 정정 공시가 나오면 현대로템 분담액과 종료일, 적용 환율을 원문과 비교해야 합니다. 컨소시엄 전체 규모가 바뀌는지, 회사 몫이 바뀌는지는 서로 다른 질문입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-27T08:07:55.790Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:02a197fc36b6e5a1b3357c811a025a52e1dfaabd72d50120a7e9f4039115be50"
+    },
+    {
+      "id": "naver:tnsqo1126:224423692820",
+      "logNo": "224423692820",
+      "title": "장원영 메츠 시구 비하인드, 뉴욕 공연 다음 날부터 경기장까지",
+      "url": "https://blog.naver.com/tnsqo1126/224423692820",
+      "publishedAt": "2026-09-27T02:03:27.000Z",
+      "dateLabel": "2026. 9. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 장원영의 뉴욕 메츠 시구를 준비하는 하루가 9월 26일 공개된 공식 ‘NYOUNG LOG’에 담겼습니다. 시구는 영상 공개일보다 앞선 2026년 7월 26일, 뉴욕 메츠와 LA 다저스의 경기 전에 진행됐습니다. 메이저리그 공식 영상은 장원영이 경기 전 시구를 했다고 기록합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjdfMTI0/MDAxNzkwNDc0NTUxNDI4.rp_3c_jgrdW4ymgfOCCV0mksCZURMgDEGKlIDDbBcLQg.jVCynywc7jybfnDwr3doGiGf_-LFOWcGshGFAiFvCogg.JPEG/wonyoung-hotel-0040.jpg?type=s3",
+      "tags": [
+        "장원영",
+        "아이브",
+        "IVE",
+        "WONYOUNG",
+        "장원영시구",
+        "뉴욕메츠",
+        "메츠시구",
+        "NYOUNGLOG"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "뉴욕 공연 다음 날, 시구를 앞둔 객실",
+          "body": "영상 초반 장원영은 밝은색 민소매 차림으로 객실에서 카메라를 향해 말합니다. 그는 아이브의 뉴욕 공연을 마친 다음 날 시구를 맡았다고 설명합니다. 머리 손질을 마친 뒤 유니폼으로 갈아입기 전 잠시 카메라를 켰다는 말도 나옵니다. 이 대목은 시구 장면만 보여 주는 경기 영상과 달리, 장원영이 출발 전에 어떤 순서로 하루를 시작했는지 보여 줍니다."
+        },
+        {
+          "heading": "메츠 경기장에서 공을 들고 연습한 장원영",
+          "body": "아이브가 9월 8일 먼저 공개한 ‘IVE X MLB New York Mets 시구 BEHIND’에는 경기장 안쪽 장면이 더 자세히 담겼습니다. 메츠 줄무늬 유니폼 상의를 입은 장원영이 그라운드에서 야구공을 손에 들고 살펴보는 모습이 나옵니다. 주변에는 선수와 관계자가 함께 서 있고, 대형 전광판과 관중석이 배경으로 보입니다."
+        },
+        {
+          "heading": "7월 26일 다저스전 전에 선 마운드",
+          "body": "메이저리그 공식 기록에는 장원영이 2026년 7월 26일 메츠와 다저스의 경기 전에 시구한 인물로 올라 있습니다. 아이브 공식 현장 영상에서도 장원영이 그라운드 가장자리에서 공을 든 뒤 마운드 쪽으로 향하는 장면이 이어집니다. 서로 다른 두 공식 자료가 경기와 인물, 시구 사실을 확인해 줍니다."
+        },
+        {
+          "heading": "시구 뒤에도 이어진 경기장 장면",
+          "body": "아이브 현장 영상에는 시구가 끝난 뒤 장원영과 멤버들이 메츠를 상징하는 물건을 살펴보는 장면도 들어 있습니다. 장원영은 파란 모자를 쓰고 작은 선물을 손에 든 채 웃고 있습니다. 이후 관중석 쪽으로 화면이 옮겨 가면서 그라운드를 바라보는 멤버들의 모습이 나옵니다."
+        },
+        {
+          "heading": "뉴욕 저녁 식사로 마무리된 브이로그",
+          "body": "‘NYOUNG LOG’에서 장원영은 시구를 마친 뒤 식당으로 이동합니다. 식탁 앞에서 메뉴를 살피고 음식이 나오기를 기다리는 모습은 경기장 영상과 분위기가 다릅니다. 객실과 경기장에서는 흰색 상의와 메츠 유니폼을 입었지만, 식당에서는 다른 밝은색 옷차림으로 앉아 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-27T08:07:55.790Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e1d8aaff56c6158e75eab9b48e4c126807fb4c013c4fc8f094257f57fbacd92a"
+    },
     {
       "id": "naver:tnsqo1126:224423603887",
       "logNo": "224423603887",
