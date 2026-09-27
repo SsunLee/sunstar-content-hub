@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-26T21:08:54.895Z",
-  "expectedPublicCount": 1331,
-  "total": 1331,
+  "generatedAt": "2026-09-27T00:35:11.094Z",
+  "expectedPublicCount": 1332,
+  "total": 1332,
   "counts": {
-    "entertainment": 261,
+    "entertainment": 262,
     "stocks": 132,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224423603887",
+      "logNo": "224423603887",
+      "title": "마이트레이 라마크리슈난의 새 배역 마야, '베스트 오브 베스트'에서 춤춘다",
+      "url": "https://blog.naver.com/tnsqo1126/224423603887",
+      "publishedAt": "2026-09-26T23:16:21.000Z",
+      "dateLabel": "2026. 9. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스 영화 '베스트 오브 베스트'에서 마이트레이 라마크리슈난은 마야를 연기합니다. 마야와 오랜 친구 안잘리는 UCLA의 발리우드 퓨전 댄스팀에 들어가 전국 대회를 준비합니다. 넷플릭스 한국 작품 안내에는 영화 제목이 '베스트 오브 베스트', 배우 이름이 '마이트레이 라마크리슈난'으로 표기돼 있습니다. 영화는 2026년 9월 18일 공개됐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjdfMTU0/MDAxNzkwNDY0NTMyOTAx.GMDBdPiWiBICuqX6OrspwSasCW5rzw6dE9vYog0c9jAg.GJbHLX8_xbf6i-03JveZsAxJY-fZGgR89gpbUunjn6Qg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "마이트레이라마크리슈난",
+        "베스트오브베스트",
+        "마야",
+        "넷플릭스영화",
+        "프리양카케디아",
+        "네버해브아이에버",
+        "발리우드댄스",
+        "영화출연진"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224423560510",
       "logNo": "224423560510",
