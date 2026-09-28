@@ -4,15 +4,123 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-27T23:02:24.920Z",
-  "expectedPublicCount": 1339,
-  "total": 1339,
+  "generatedAt": "2026-09-28T05:21:37.633Z",
+  "expectedPublicCount": 1342,
+  "total": 1342,
   "counts": {
-    "entertainment": 266,
-    "stocks": 135,
+    "entertainment": 268,
+    "stocks": 136,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224424734346",
+      "logNo": "224424734346",
+      "title": "한화시스템 현대로템 공급계약, 비공개 계약액과 매출 3.66조원의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224424734346",
+      "publishedAt": "2026-09-28T04:43:54.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 3.66조원은 지난해 연결 매출입니다 한화시스템이 2026년 9월 23일 공시한 현대로템 공급계약의 금액은 비공개입니다. 공시의 계약내역에 적힌 3,664,150,568,020원은 2025년 연결 매출액입니다. 이번에 새로 체결한 계약의 금액으로 읽으면 회사의 연간 매출과 개별 계약을 혼동하게 됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMTU4/MDAxNzkwNTcwMTk4MDE5.ErtU0_hX9OShSyFPRjmq9xe9e1cpG3I4mJmJ0Smldtwg.YzAcFxGEsZFb1ZXpmvKIzj-M3QHs00AIHQaMGUJ_ANQg.PNG/hero.png?type=s3",
+      "tags": [
+        "한화시스템",
+        "272210",
+        "현대로템",
+        "공급계약",
+        "공시유보",
+        "계약금액",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2.5%는 금액을 공개한 비율이 아닙니다",
+          "body": "계약금액이 모두 가려진 것은 아닙니다. 회사는 이번 계약이 최근 매출액의 2.5% 이상이어서 공시 의무에 해당한다고 밝혔습니다. 여기에서 확인할 수 있는 것은 계약이 공시 기준을 충족한다는 사실입니다. 실제 매출액 대비 비율이 정확히 2.5%라고 발표한 것은 아닙니다."
+        },
+        {
+          "heading": "계약기간과 선급금 조건에서 확인되는 범위",
+          "body": "공시된 계약기간은 2026년 9월 23일부터 2027년 12월 31일까지입니다. 회사는 시작일이 계약 체결일이라고 명시했습니다. 공시유보기한도 2027년 12월 31일입니다. 다만 계약금액과 계약기간은 진행 상황에 따라 바뀔 수 있다고 밝혔으므로, 현재 날짜는 변경 가능성이 있는 공시상 조건으로 읽어야 합니다."
+        },
+        {
+          "heading": "한화시스템 매출은 인식 시점도 나뉩니다",
+          "body": "반기보고서의 고객과의 계약에서 발생하는 수익 주석은 매출을 두 유형으로 구분합니다. 2026년 상반기에는 기간에 걸쳐 이전하는 재화·서비스에서 약 1조3783.3억원, 한 시점에 이전하는 재화·서비스에서 약 5463.2억원의 매출이 발생했습니다. 두 수치를 합하면 상반기 연결 매출 약 1조9246.5억원이 됩니다."
+        },
+        {
+          "heading": "9월 28일 장중 주가와 다음 확인 항목",
+          "body": "네이버 증권의 2026년 9월 28일 오후 1시 25분 18초 한화시스템 표시가는 7만2400원입니다. 전일 대비 1500원, 2.03% 하락한 장중 가격이며 시장 상태는 거래 중입니다. 이 가격을 이날 종가로 부를 수는 없습니다. 같은 날 오후 1시 25분 조회한 누적 거래량은 51만7466주로, 장 마감까지 달라질 수 있는 수치입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-28T05:21:37.633Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:86ec36b838fa4d9936ac5fc447ece4a71548166c8f75233fcc8923f4b7f64c80"
+    },
+    {
+      "id": "naver:tnsqo1126:224424551689",
+      "logNo": "224424551689",
+      "title": "김채원의 캐리어에는 어떤 책이 있을까? 'Night Routine'과 9월 무대",
+      "url": "https://blog.naver.com/tnsqo1126/224424551689",
+      "publishedAt": "2026-09-28T01:51:25.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "르세라핌 공식 'Night Routine' 원본 영상에는 리덴스(Re:dence)의 유료 광고가 포함되어 있습니다. 김채원이 시즈오카 공연을 마친 뒤 캐리어 속 물건과 잠들기 전 일상을 공개했습니다. 르세라핌 공식 채널이 2026년 8월 27일 올린 'Night Routine'에는 이동 중 읽은 책, 작은 운동 도구, 무대 화장을 지우는 과정이 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMzIg/MDAxNzkwNTYwMjIzNzI3.Dz4B4Obc_V-GKo8lRu3qvF0XEjkqe84vMaEfu6xF4iAg.PpvR3Veb57E_bqg4Onv_t6wOGlfjxTgYBFTaswDfYV8g.JPEG/night-0022.jpg?type=s3",
+      "tags": [
+        "김채원",
+        "르세라핌",
+        "김채원근황",
+        "김채원나이트루틴",
+        "NightRoutine",
+        "MadeMyNight",
+        "엠카운트다운",
+        "김채원책"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224424412798",
+      "logNo": "224424412798",
+      "title": "'괴물: 리지 보든 이야기' 속 언니 엠마, 빌리 로드의 데뷔부터 출연작까지",
+      "url": "https://blog.naver.com/tnsqo1126/224424412798",
+      "publishedAt": "2026-09-27T23:16:48.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'괴물: 리지 보든 이야기'에서 리지의 언니 엠마 보든을 연기한 배우는 빌리 로드입니다. '스타워즈'의 코닉스와 '스크림 퀸즈'의 샤넬 3번으로 활동을 시작했으며, 이번에는 19세기 보든 가족의 구성원으로 등장합니다. 넷플릭스가 2026년 9월 22일 발표한 9월 14~20일 집계에서 이 작품은 글로벌 영어권 TV 부문 1위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMTc4/MDAxNzkwNTUwOTU4OTQ3.8pjpGUww_J0A1M9ChLYYEET6WbUXiolvGxo739LOTpEg.lK_8BqfifzTvfPruv6dmp38ozdOnV_bAnyXkoTlIbxcg.PNG/photo-01.png?type=s3",
+      "tags": [
+        "빌리로드",
+        "괴물리지보든이야기",
+        "엠마보든",
+        "스타워즈",
+        "스크림퀸즈",
+        "아메리칸호러스토리",
+        "넷플릭스배우",
+        "배우출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224424352275",
       "logNo": "224424352275",
