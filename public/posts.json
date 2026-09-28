@@ -4,15 +4,144 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-28T05:21:37.633Z",
-  "expectedPublicCount": 1342,
-  "total": 1342,
+  "generatedAt": "2026-09-28T13:51:37.026Z",
+  "expectedPublicCount": 1345,
+  "total": 1345,
   "counts": {
-    "entertainment": 268,
-    "stocks": 136,
+    "entertainment": 270,
+    "stocks": 137,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224425217508",
+      "logNo": "224425217508",
+      "title": "한화오션 LNG선 2척 6800억원 수주, 2029년 계약기간과 수금 조건",
+      "url": "https://blog.naver.com/tnsqo1126/224425217508",
+      "publishedAt": "2026-09-28T12:36:20.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 6800억원은 LNG운반선 2척의 계약금액입니다 한화오션이 9월 28일 공시한 LNG운반선 2척의 계약금액은 6800억원입니다. 대금은 공사 진척에 따라 받으며 계약 종료일은 2029년 11월 2일입니다. 6800억원을 올해 매출이나 이미 입금된 현금으로 읽으면 안 되는 이유입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMTcy/MDAxNzkwNTk4OTM1ODY2.6DP7rbzNuA_ZhjufMXxNJWKCA2-V0FAZVrzWtaBiwlQg.Q3tW80itnhZRwno0-175_DkK1lvHHHd2FLwYmokXTnAg.PNG/hero.png?type=s3",
+      "tags": [
+        "한화오션",
+        "042660",
+        "LNG운반선",
+        "LNG선수주",
+        "공급계약",
+        "수주공시",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "환산 환율과 척당 단순 평균을 구분합니다",
+          "body": "공시의 원화 계약금액에는 9월 23일 매매기준환율인 달러당 1360.00원이 적용됐습니다. 6800억원을 이 환율로 나누면 약 5억달러입니다. 이는 공시된 반올림 금액에서 역산한 참고값이며 별도로 확인한 달러 계약서 금액은 아닙니다."
+        },
+        {
+          "heading": "6월 말 현금과 차입금도 함께 확인합니다",
+          "body": "연결 재무상태표에서 2026년 6월 말 현금및현금성자산은 1조4462.0억원입니다. 2025년 말 7784.7억원보다 늘었지만 현금 증가를 모두 영업활동의 결과로 해석해서는 안 됩니다. 상반기에는 투자활동 순유출 5746.6억원과 재무활동 순유입 1928.7억원이 함께 발생했습니다. 외화표시 현금의 환율변동효과 93.2억원도 기말 현금에 반영됐습니다."
+        },
+        {
+          "heading": "9월 28일 정규장 종가와 밤 표시가는 다릅니다",
+          "body": "한국거래소 KIND의 9월 28일 15시 30분 20초 기준 한화오션 가격은 8만원으로 전일보다 400원, 0.50% 상승했습니다. 정규장 거래량은 49만4649주이며 거래대금은 약 398.4억원입니다. 정규장 종가를 비교할 때는 이 날짜와 거래 범위를 유지해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-28T13:51:37.026Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:da174c84c78efaea8f7c49bd63cba944e43a194bc214415c7f28f59d61b2007d"
+    },
+    {
+      "id": "naver:tnsqo1126:224425085046",
+      "logNo": "224425085046",
+      "title": "해원의 추석 촬영장 퇴근기, 게임 우승부터 배이와의 뒷이야기까지",
+      "url": "https://blog.naver.com/tnsqo1126/224425085046",
+      "publishedAt": "2026-09-28T09:57:03.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "엔믹스 해원이 '한가위 퇴근 대작전' 첫 게임에서 우승했습니다. NMIXX 공식 채널은 2026년 9월 24일 본편을, 9월 26일 촬영 뒷이야기를 공개했습니다. 해원은 매니저와 동작을 맞추며 먼저 퇴근할 기회를 얻었고, 배이와 함께 휴대폰을 찾고 연휴 계획을 이야기하는 모습까지 전했습니다. 두 날짜는 영상 공개일이며 실제 촬영일을 뜻하지 않습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMjg0/MDAxNzkwNTg5MzczMDc4.tNf4tRH3EKbqsTMJJu85cztNT4jYyMMFysFQ4RCJnlIg.l8qkddLZ0UgR3MDvqQI-e1DX_Py-vp0LFeWlTusCIEog.JPEG/chuseok-0125.jpg?type=s3",
+      "tags": [
+        "해원",
+        "엔믹스",
+        "해원근황",
+        "한가위퇴근대작전",
+        "엔믹스추석",
+        "배이",
+        "DayMIXX",
+        "StrangeMuse"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "같은 동작으로 얻은 첫 번째 퇴근 기회",
+          "body": "'한가위 퇴근 대작전'은 엔믹스 멤버와 매니저가 한 팀을 이뤄 게임을 하는 추석 콘텐츠입니다. 이긴 팀은 선물을 고르고 먼저 퇴근할 수 있으며, 마지막에 남은 팀은 벌칙을 마친 뒤 돌아가는 방식입니다. 흰 상의와 검은 모자를 맞춰 쓴 매니저들이 등장하자 멤버들은 놀란 반응을 보입니다. 해원은 매니저들이 사전에 아무런 기색도 보이지 않았다고 이야기합니다."
+        },
+        {
+          "heading": "배이와 다시 세트로 들어간 이유는 휴대폰",
+          "body": "9월 26일 공개된 'Day MIXX'에는 게임 앞뒤의 모습이 담겼습니다. 해원과 배이는 소파에 나란히 앉아 카메라를 보며 이야기를 나눕니다. 배이는 짧은 머리와 어깨가 드러나는 짙은 상의 차림이고, 해원은 긴 머리를 내리고 있습니다. 해원은 촬영 당시 추석에 밀린 잠을 자고, 화장을 쉬면서 집에서 편히 지내고 싶다고 말합니다. 부모님과 함께 얼굴에 팩을 붙이고 싶다는 계획도 덧붙입니다."
+        },
+        {
+          "heading": "기본 정보와 데뷔",
+          "body": "JYP 공식 프로필에 기재된 해원의 생년월일은 2003년 2월 25일입니다. 2026년 9월 28일 기준으로 만 23세입니다. 같은 프로필에는 릴리, 해원, 설윤, 배이, 지우, 규진이 엔믹스 멤버로 소개되어 있습니다. 추석 콘텐츠에서도 이 여섯 멤버가 각자의 매니저와 게임에 참여합니다."
+        },
+        {
+          "heading": "데뷔곡에서 'Heavy Serenade'까지 이어진 음악 활동",
+          "body": "엔믹스의 공식 음반 목록에는 2024년 8월 19일 'Fe3O4: STICK OUT', 2025년 3월 17일 'Fe3O4: FORWARD', 2025년 10월 13일 'Blue Valentine'이 순서대로 올라 있습니다. 해원의 음악 활동은 그룹 음반과 함께 이어져 왔으며, 2026년 5월 11일에는 다섯 번째 EP 'Heavy Serenade'가 발매됐습니다."
+        },
+        {
+          "heading": "10월 예정 앨범에는 해원과 릴리의 곡도 담깁니다",
+          "body": "9월 28일 현재 NMIXX 공식 영상 설명란은 여섯 번째 EP 'Strange Muse'의 발매 일정을 2026년 10월 19일 오후 6시로 안내하고 있습니다. 시간 기준은 한국 시간입니다. JYP 홈페이지에는 9월 21일 트랙 목록이 공개됐고, 타이틀곡은 '긴 소원 (Birthday Wish)'으로 표시되어 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-28T13:51:37.026Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:298faec62806cd203619a70296a71aac99da6c5b72cca359ab6f4ae15b0edba0"
+    },
+    {
+      "id": "naver:tnsqo1126:224424916494",
+      "logNo": "224424916494",
+      "title": "마이클 제이 화이트의 마커스가 돌아왔다, '내가 왜 또 결혼했을까?'",
+      "url": "https://blog.naver.com/tnsqo1126/224424916494",
+      "publishedAt": "2026-09-28T07:15:32.000Z",
+      "dateLabel": "2026. 9. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "마이클 제이 화이트는 넷플릭스 영화 '내가 왜 또 결혼했을까?'에서 신부의 아버지 마커스를 연기합니다. 타샤 스미스가 맡은 앤절라의 남편이자, 딸의 결혼식을 앞두고 젊은 예비 사위와 은근한 경쟁을 벌이는 인물입니다. '스폰'과 '블랙 다이너마이트'의 배우를 기억한다면 이번에는 가족 코미디 속 모습을 만날 수 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjhfMjAz/MDAxNzkwNTc5Njc5ODE2.b5tBmWxe-EGuUMFSJG-0McbOxXstvoshDk8-2LH5AGUg.ql3YMx1aS5uLqiLZ2oMxwwSBxVnz6zVA0V5rr6Yyakgg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "마이클제이화이트",
+        "내가왜또결혼했을까",
+        "마커스",
+        "넷플릭스영화",
+        "타일러페리",
+        "마이클제이화이트나이",
+        "스폰",
+        "블랙다이너마이트"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224424734346",
       "logNo": "224424734346",
