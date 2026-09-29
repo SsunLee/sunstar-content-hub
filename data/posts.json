@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-29T16:30:40.864Z",
-  "expectedPublicCount": 1355,
-  "total": 1355,
+  "generatedAt": "2026-09-29T22:13:55.705Z",
+  "expectedPublicCount": 1357,
+  "total": 1357,
   "counts": {
-    "entertainment": 277,
-    "stocks": 140,
+    "entertainment": 278,
+    "stocks": 141,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224426613048",
+      "logNo": "224426613048",
+      "title": "한미반도체 78.74억원 태국 장비 수주, 12월 납기와 선급금 없는 계약의 의미",
+      "url": "https://blog.naver.com/tnsqo1126/224426613048",
+      "publishedAt": "2026-09-29T20:35:39.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 78.74억원 계약과 매출 대비 1.37% 한미반도체가 태국 UTAC Thai Limited에 공급하기로 한 반도체 제조 장비의 계약액은 78억7404만8000원입니다. 2026년 9월 29일 공시에 적힌 납기는 12월 31일이며 계약금과 선급금은 없습니다. 계약이 체결됐다는 사실과 대금이 들어왔다는 사실은 구분해야 합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMTk4/MDAxNzkwNzE0MDk0MzI1.wIjkx-xPYvwt7sQ-aY2ol4EMp-wdFEMVcydGHvFXlMkg.jgpSoQUTnDiarpA8XaCDGq40ljzWQAjDBKhRvxSIGk8g.PNG/hero.png?type=s3",
+      "tags": [
+        "한미반도체",
+        "042700",
+        "MSVP",
+        "공급계약",
+        "태국수주",
+        "반도체장비",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "78.74억원 계약과 매출 대비 1.37%",
+          "body": "한미반도체가 태국 UTAC Thai Limited에 공급하기로 한 반도체 제조 장비의 계약액은 78억7404만8000원입니다. 2026년 9월 29일 공시에 적힌 납기는 12월 31일이며 계약금과 선급금은 없습니다. 계약이 체결됐다는 사실과 대금이 들어왔다는 사실은 구분해야 합니다. 이 금액 전체가 곧바로 올해 이익이 되는 것도 아닙니다."
+        },
+        {
+          "heading": "이번 계약의 장비는 MSVP",
+          "body": "이번 공시의 공급 대상은 마이크로 쏘 앤 비전 플레이스먼트(MSVP) 장비입니다. 한미반도체 반기보고서에 따르면 MSVP는 반도체 패키지를 자른 뒤 세척하고 건조하며 2D·3D 비전 검사, 선별, 적재까지 연속으로 처리합니다. 장비 이름에 포함된 절단과 검사 기능을 함께 보면 어떤 공정에 쓰이는지 이해하기 쉽습니다."
+        },
+        {
+          "heading": "12월 31일 납기와 공개되지 않은 수금 일정",
+          "body": "계약 체결일과 계약기간 시작일은 모두 2026년 9월 28일입니다. 공시는 다음 날인 9월 29일 제출됐고 계약기간 종료일은 12월 31일로 제시됐습니다. 회사는 이 종료일을 납기로 설명하면서 고객사와 협의해 변경할 수 있다고 밝혔습니다. 따라서 현재 예정된 일정이며 납품 완료를 확인한 날짜는 아닙니다."
+        },
+        {
+          "heading": "상반기 누적 실적과 2분기 실적의 차이",
+          "body": "한미반도체의 2026년 상반기 연결 매출은 3020.7억원이고 영업이익은 1388.0억원입니다. 2025년 상반기의 매출 3274.4억원, 영업이익 1559.4억원과 비교하면 각각 약 7.7%, 11.0% 감소했습니다. 아래 비교는 두 해 모두 1월부터 6월까지의 누적 실적이며 금액은 억원 단위로 반올림했습니다."
+        },
+        {
+          "heading": "흑자와 함께 확인할 영업현금흐름",
+          "body": "2026년 상반기 연결 영업현금흐름은 566.1억원 순유출입니다. 전년 같은 기간에도 71.7억원 순유출이었으며 올해 순유출 규모가 커졌습니다. 영업이익 1388.0억원과 영업현금흐름은 측정하는 대상이 다릅니다. 영업이익은 손익계산서의 수익과 비용을 비교한 결과이고 현금흐름은 실제 현금 유입과 유출을 보여 줍니다."
+        },
+        {
+          "heading": "9월 29일 주가와 다음 확인 사항",
+          "body": "네이버 증권의 2026년 9월 29일 오후 8시 20분 22초 기준 표시가는 25만2000원으로 전일 대비 1만7500원, 7.46% 상승했습니다. 조회 화면은 애프터마켓 마감 상태였고 API의 시장 상태는 CLOSE였습니다. 9월 30일 새벽에 확인한 직전 거래일 수치이며 9월 30일 장중 가격이 아닙니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-29T22:13:55.705Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:1e32685d3c207f587253e605029fc75f855deba63ab91747fe42d6580b3220d4"
+    },
+    {
+      "id": "naver:tnsqo1126:224426573307",
+      "logNo": "224426573307",
+      "title": "제기차기 뒤 애교 인사한 이서, 'Super ICY'에 담긴 첫 작사 기억",
+      "url": "https://blog.naver.com/tnsqo1126/224426573307",
+      "publishedAt": "2026-09-29T17:59:38.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 이서가 가을과 제기차기 대결을 벌인 뒤 팬들에게 애교 섞인 추석 인사를 전했습니다. 아이브 공식 채널이 2026년 9월 25일 공개한 '추석이라 한판 붙었습니다'에 담긴 모습입니다. 같은 날 올라온 앙코르 영상에서는 마이크를 들고 무대에 선 이서를 만날 수 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMTgx/MDAxNzkwNzA0NzI2OTc3.y3Ntkkwp1BgMo4Po0IdV0msKBW4tneY9eOtxNhZqrWsg.rb-4sZUsIhqV7w0ecBeCNaMMhZuM28eSVM0RG-__0zkg.JPEG/chuseok-120.jpg?type=s3",
+      "tags": [
+        "이서",
+        "아이브",
+        "IVE",
+        "LEESEO",
+        "이서근황",
+        "SuperICY",
+        "눕터뷰",
+        "아이브추석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224426499994",
       "logNo": "224426499994",
