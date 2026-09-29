@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-29T01:56:14.646Z",
-  "expectedPublicCount": 1350,
-  "total": 1350,
+  "generatedAt": "2026-09-29T08:28:23.837Z",
+  "expectedPublicCount": 1352,
+  "total": 1352,
   "counts": {
-    "entertainment": 274,
-    "stocks": 138,
+    "entertainment": 275,
+    "stocks": 139,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224426067112",
+      "logNo": "224426067112",
+      "title": "9월 28일 1위 '타짜: 벨제붑의 노래', 변요한의 장태영과 출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224426067112",
+      "publishedAt": "2026-09-29T07:20:44.000Z",
+      "dateLabel": "2026. 9. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "변요한은 영화 '타짜: 벨제붑의 노래'에서 친구의 배신을 겪는 장태영을 연기합니다. 노재원이 맡은 박태영과 이름이 같지만, 두 인물의 삶과 선택은 서로 다릅니다. 온라인 카지노 사업으로 성공한 친구들이 적으로 마주하는 과정이 이번 영화의 중심입니다. 9월 23일 개봉한 영화는 9월 28일 국내 일일 박스오피스 1위에 올랐습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjlfNjYg/MDAxNzkwNjY2Mzk1NTM4.TWcZ38PgQBDZATrA586UcF7DjhmUythy2xRzVGFtxDMg.mHdX_1PeZbELztn7SlI9-vNQBxVT-f5gLoVdySqrf4Mg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "변요한",
+        "타짜벨제붑의노래",
+        "장태영",
+        "노재원",
+        "변요한출연작",
+        "변요한나이",
+        "영화박스오피스",
+        "파반느"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224425863021",
+      "logNo": "224425863021",
+      "title": "OCI TDI 사업 중단, 1179억원의 의미와 12월 18일 예정일 확인",
+      "url": "https://blog.naver.com/tnsqo1126/224425863021",
+      "publishedAt": "2026-09-29T04:36:01.000Z",
+      "dateLabel": "2026. 9. 29.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 1179억원은 중단 대상 사업의 과거 매출 OCI가 중단하기로 한 사업은 TDI 제조와 판매입니다. 2026년 9월 29일 공시에 적힌 영업정지금액 1179억4718만1460원은 이 사업의 2025년 연결 기준 매출입니다. 이미 발생한 손실이나 앞으로 지급할 사업 정리 비용을 뜻하지 않습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjlfMjE2/MDAxNzkwNjU2NTE1Njc3.DhBmA037iJBEwhSmWh4HbK3-EG_7yZe8cBfTOeYmtDEg.Q3GGZM3jh0B_S1cO5YPQ7ZYk8dTnNryBn3OW8ZckqQMg.PNG/hero.png?type=s3",
+      "tags": [
+        "OCI",
+        "456040",
+        "TDI",
+        "영업정지",
+        "사업중단",
+        "매매거래정지",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "1179억원은 중단 대상 사업의 과거 매출",
+          "body": "OCI가 중단하기로 한 사업은 TDI 제조와 판매입니다. 2026년 9월 29일 공시에 적힌 영업정지금액 1179억4718만1460원은 이 사업의 2025년 연결 기준 매출입니다. 이미 발생한 손실이나 앞으로 지급할 사업 정리 비용을 뜻하지 않습니다. 사업 중단 예정일은 2026년 12월 18일입니다."
+        },
+        {
+          "heading": "사업 중단 예정일과 주식 거래 재개 시각",
+          "body": "이사회 결정일은 2026년 9월 29일이고 영업정지 예정일은 12월 18일입니다. 회사는 진행 경과에 따라 영업정지 일자가 바뀔 수 있다고 밝혔습니다. 결정일에 이미 모든 제조·판매가 끝났다는 공시는 아니며 실제 이행 여부는 이후 공시에서 확인할 사항입니다."
+        },
+        {
+          "heading": "상반기 매출은 감소하고 영업이익은 증가",
+          "body": "OCI의 2026년 1~6월 연결 매출은 약 1조416.2억원으로 전년 동기 1조657.6억원보다 2.3% 감소했습니다. 같은 기간 영업이익은 79.7억원에서 710.9억원으로 늘었습니다. 매출과 영업이익이 같은 방향으로 움직이지 않았다는 점을 확인할 수 있습니다."
+        },
+        {
+          "heading": "현금 잔액과 영업현금흐름은 다른 지표",
+          "body": "2026년 상반기 연결 영업현금흐름은 약 363.3억원입니다. 손익계산서의 영업이익 710.9억원과 액수가 다릅니다. 현금흐름표에는 영업활동으로 창출된 현금에 이자 수취·지급, 배당금 수령, 법인세 환급·납부 등이 더해지거나 차감됩니다. 영업이익이 곧바로 같은 금액의 현금 유입이 되는 구조는 아닙니다."
+        },
+        {
+          "heading": "9월 29일 오후 1시 24분 장중 시세",
+          "body": "네이버 증권의 2026년 9월 29일 오후 1시 24분 18초 표시 기준 OCI 가격은 7만4300원입니다. 전일 종가 7만9700원보다 5400원, 6.78% 낮습니다. 당시 시장 상태는 장중이므로 이 가격을 9월 29일 종가라고 부를 수 없습니다."
+        },
+        {
+          "heading": "다음 공시에서 확인할 사업 정리의 실제 영향",
+          "body": "후속 확인의 첫 항목은 12월 18일 예정일이 유지되는지와 사업 중단이 실제로 이행되는지입니다. 회사가 날짜 변경 가능성을 명시했으므로 현재 일정은 예정일로 받아들여야 합니다. 기존 공시의 정정 여부와 이후 정기보고서에 적힐 사업 설명이 확인 자료가 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-29T08:28:23.837Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:f72318f69c94ae5834755bcff752755936537e5a824bb891b92256321d5bacb6"
+    },
     {
       "id": "naver:tnsqo1126:224425686021",
       "logNo": "224425686021",
