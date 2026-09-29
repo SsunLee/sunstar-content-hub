@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-29T08:28:23.837Z",
-  "expectedPublicCount": 1352,
-  "total": 1352,
+  "generatedAt": "2026-09-29T16:30:40.864Z",
+  "expectedPublicCount": 1355,
+  "total": 1355,
   "counts": {
-    "entertainment": 275,
-    "stocks": 139,
+    "entertainment": 277,
+    "stocks": 140,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224426499994",
+      "logNo": "224426499994",
+      "title": "이민호의 '암살자(들)' 한영일, 취재 장면에 직접 보탠 대사와 동선",
+      "url": "https://blog.naver.com/tnsqo1126/224426499994",
+      "publishedAt": "2026-09-29T15:16:58.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "이민호는 영화 '암살자(들)'에서 동성일보 사회부 신입 기자 한영일을 연기합니다. 영일은 1974년 영부인 저격 사건을 목격한 뒤 의문을 추적하는 인물입니다. 기업가 집안의 아들이지만 정해진 진로 대신 기자의 일을 선택했습니다. 허진호 감독이 연출한 '암살자(들)'은 2026년 9월 23일 국내에서 개봉했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMjk4/MDAxNzkwNjk0OTY2NTM4.NklyovtCay_NIywCt2kLMGpL6nPG2zCiHnLBxx0Of-Eg.aeHxYi2vOWAE483I-wFFuxEbvAMjqDSm-tVU_pkkTC0g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "이민호",
+        "암살자들",
+        "한영일",
+        "이민호나이",
+        "이민호출연작",
+        "허진호",
+        "파친코",
+        "영화배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224426363833",
+      "logNo": "224426363833",
+      "title": "피엔티 444억7200만원 장비 계약, 2027년 선적과 2029년 종료가 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224426363833",
+      "publishedAt": "2026-09-29T12:37:48.000Z",
+      "dateLabel": "2026. 9. 29.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 444억7200만원 계약의 대상과 규모 피엔티가 2026년 9월 29일 공시한 2차전지 전극공정 장비 계약은 선적 예정일이 2027년 5월 31일이며, 계약 종료일은 2029년 5월 31일입니다. 종료일에 장비를 처음 보내는 구조가 아닙니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjlfMjU2/MDAxNzkwNjg1NDIxNDE0.n2_-TMOu1XYyZH8pfu-nh2JMmNpdXhyUbF2agZdsL2cg.levfSURFMz2uCszL8Xsr_6YowrbAJwUqXy_5pjLkSj0g.PNG/hero.png?type=s3",
+      "tags": [
+        "피엔티",
+        "137400",
+        "공급계약",
+        "전극공정장비",
+        "2차전지장비",
+        "계약금",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "444억7200만원 계약의 대상과 규모",
+          "body": "피엔티가 2026년 9월 29일 공시한 2차전지 전극공정 장비 계약은 선적 예정일이 2027년 5월 31일이며, 계약 종료일은 2029년 5월 31일입니다. 종료일에 장비를 처음 보내는 구조가 아닙니다. 회사는 선적 후 24개월의 보증 기간을 반영해 최종검증증명서 발급일을 계약 종료일로 정했습니다. 대금도 계약금과 중도금, 두 차례 잔금으로 나누어 받습니다."
+        },
+        {
+          "heading": "선적 뒤 24개월을 반영한 종료일",
+          "body": "계약기간은 2026년 9월 28일부터 2029년 5월 31일까지입니다. 그 사이 2027년 5월 31일이 선적 예정일로 제시됐습니다. 회사가 밝힌 종료일의 근거는 선적일로부터 24개월이 지난 시점입니다. 이 기간을 장비 제작에만 걸리는 시간이나 매출을 균등하게 나누는 기간으로 해석하면 공시의 일정과 달라집니다."
+        },
+        {
+          "heading": "계약금 30%와 중도금 50%의 지급 조건",
+          "body": "계약금 30%는 계약 체결 후 10일 이내, 중도금 50%는 선적 전 10일 이내에 지급하는 조건입니다. 잔금 20%는 다시 두 번으로 나뉩니다. 첫 10%는 최종확인서 날인 후 30일 이내, 나머지 10%는 최종검증증명서 발급 후 20일 이내입니다. 지급 통화는 미국 달러입니다."
+        },
+        {
+          "heading": "상반기 실적과 현금은 계약 이전의 수치",
+          "body": "피엔티는 연속된 필름이나 금속박을 롤에 감아 이동시키면서 코팅·압연·절단·권취하는 장비를 공급합니다. 반기보고서는 2차전지 전극공정 장비와 전자소재 제조 장비를 주요 사업으로 설명합니다. 다만 이번 계약은 공시에 적힌 전극공정 장비의 공급 범위까지 확인되며, 특정 공정의 장비 대수나 세부 사양까지 공개된 것은 아닙니다."
+        },
+        {
+          "heading": "9월 29일 시세의 기준 시간",
+          "body": "한국거래소 KIND의 9월 29일 오후 3시 30분 30초 가격은 2만8500원, 전일 대비 등락률은 -2.73%입니다. 네이버 증권의 같은 날 오후 8시 20분 21초 표시가는 2만9200원, 등락률은 -0.34%이며 화면에는 애프터마켓 마감으로 표시됐습니다. 서로 다른 시간의 값이므로 같은 종가로 섞어 비교하지 않았습니다."
+        },
+        {
+          "heading": "후속 공시에서 확인할 변화",
+          "body": "다음 확인 대상은 계약금 수령 여부, 2027년 선적 일정의 유지 여부, 최종확인서와 최종검증증명서에 연결된 잔금 지급입니다. 공시에 제시된 단계가 다르므로 계약 종료 여부만으로 모든 대금의 회수까지 확인했다고 볼 수는 없습니다. 이후 회사가 공개한 범위 안에서 각 단계의 완료 사실을 따로 확인해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-29T16:30:40.864Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:c0c74ab58d73694bf06bf183d0ecbcea5506ad96942797509ad558d9b53e9350"
+    },
+    {
+      "id": "naver:tnsqo1126:224426232908",
+      "logNo": "224426232908",
+      "title": "태연 무대 보던 리즈, 사복으로 돌아온 아이브 '관객' 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224426232908",
+      "publishedAt": "2026-09-29T09:54:30.000Z",
+      "dateLabel": "2026. 9. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 리즈가 자신의 무대를 마친 뒤 다른 가수의 공연을 즐기는 모습이 공개됐습니다. 아이브 공식 유튜브는 2026년 9월 28일 '관객이 되어봤습니다'라는 제목의 'IVE-minute'를 올렸습니다. 안유진과 나란히 앉아 태연의 무대를 보던 리즈는 잠시 자리를 비웠다가 사복으로 돌아옵니다. 장원영까지 합류한 뒤에는 세 사람이 함께 노래를 따라 부릅니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MjlfMjkw/MDAxNzkwNjc1NjIwMzcw.s_QuYEsE0PovUNBWgmdDo_jva4hmpoO68VvPA15omZYg.Dt6qP1vvkHPd2f5NhnMoViwLpwkorCCwPK9r6o1SoiUg.JPEG/audience-10.jpg?type=s3",
+      "tags": [
+        "리즈",
+        "아이브",
+        "IVE",
+        "LIZ",
+        "리즈근황",
+        "IVEminute",
+        "태연",
+        "찰리푸스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224426067112",
       "logNo": "224426067112",
