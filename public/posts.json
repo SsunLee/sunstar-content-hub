@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-30T01:18:08.064Z",
-  "expectedPublicCount": 1358,
-  "total": 1358,
+  "generatedAt": "2026-09-30T08:32:34.483Z",
+  "expectedPublicCount": 1361,
+  "total": 1361,
   "counts": {
-    "entertainment": 279,
-    "stocks": 141,
+    "entertainment": 281,
+    "stocks": 142,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224427215364",
+      "logNo": "224427215364",
+      "title": "철구가 사건을 놓지 못하는 이유, '암살자(들)' 유해진의 새 형사 역",
+      "url": "https://blog.naver.com/tnsqo1126/224427215364",
+      "publishedAt": "2026-09-30T07:21:37.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "유해진은 영화 '암살자(들)'에서 저격 사건을 목격한 형사 철구를 연기합니다. 자신이 본 현장과 수사본부 발표가 어긋나자, 기자들과 정보를 나누며 남은 의문을 좇는 인물입니다. 허진호 감독의 '암살자(들)'은 2026년 9월 23일 국내에서 개봉했습니다. 철구는 박해일의 사회부장 재환, 이민호의 신입 기자 영일과 함께 사건에 접근합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMjM0/MDAxNzkwNzUyNjc3NTI5.eofe4iJgoY8KTNK_cnAv-6LOnI2XVomPOyvsVPc49xkg.p9qk7M7XTDvPB2e-JuiwkMzE9EjviNgC3nkU5R5b-ygg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "유해진",
+        "암살자들",
+        "철구",
+        "허진호",
+        "유해진나이",
+        "유해진출연작",
+        "공조2",
+        "영화배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224427012333",
+      "logNo": "224427012333",
+      "title": "제일기획 자사주 2828억원 소각, 신규 매입 400억원과 1400억원 계획의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224427012333",
+      "publishedAt": "2026-09-30T04:36:41.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 소각액과 새 매입액의 차이 제일기획이 2026년 9월 30일 결정한 약 2828억원의 자사주 소각은 이미 보유한 주식을 없애는 절차입니다. 같은 날 발표한 400억원은 앞으로 시장에서 자기주식을 새로 사는 금액입니다. 1년 이내 1400억원을 매입·소각한다는 계획에는 이번 400억원이 포함돼 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMjcy/MDAxNzkwNzQyOTUzMzQw.chPCYWoK8yvkt7LK2GpDd2LSeJCrz5rSg7RH6UPh7-og.AF2ZGZ1zw_hSEFh8BI2DFWUnXUl8o_Y9_wZJ7VgXZukg.PNG/hero.png?type=s3",
+      "tags": [
+        "제일기획",
+        "030000",
+        "자사주소각",
+        "자기주식취득",
+        "주주환원",
+        "소각일정",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "소각액과 새 매입액의 차이",
+          "body": "제일기획이 2026년 9월 30일 결정한 약 2828억원의 자사주 소각은 이미 보유한 주식을 없애는 절차입니다. 같은 날 발표한 400억원은 앞으로 시장에서 자기주식을 새로 사는 금액입니다. 1년 이내 1400억원을 매입·소각한다는 계획에는 이번 400억원이 포함돼 있습니다. 세 금액을 모두 더하면 새로 지출할 금액을 과대하게 읽게 됩니다."
+        },
+        {
+          "heading": "10월 소각과 12월 매입 종료 일정",
+          "body": "기존 자사주의 소각 예정일은 2026년 10월 15일입니다. 신규 400억원 취득은 10월 1일부터 12월 30일까지 유가증권시장 장내 매수로 진행할 예정입니다. 기존 주식의 소각일과 새 주식의 취득 기간은 서로 다른 일정입니다. 10월 15일에 신규 400억원 매입까지 모두 끝난다고 읽으면 안 됩니다."
+        },
+        {
+          "heading": "취득 예정 223만주의 계산 기준",
+          "body": "400억원 취득 공시에 적힌 예정 수량은 223만7136주입니다. 회사는 이사회 결의일 전일 종가로 기재한 1만7880원을 기준으로 수량을 산정했습니다. 400억원을 1만7880원으로 나누면 약 223만7136주가 됩니다. 이번 매입은 수량보다 취득예정금액을 기준으로 진행하며 실제 취득 수량은 향후 주가에 따라 달라질 수 있습니다."
+        },
+        {
+          "heading": "상반기 영업이익과 현금흐름",
+          "body": "제일기획의 주요 사업은 광고 기획·제작, 매체 선정, 프로모션 대행과 디지털 마케팅 솔루션입니다. 2026년 반기보고서는 46개국 55개 글로벌 네트워크에서 서비스를 제공한다고 설명합니다. 상반기 연결 영업수익에서 해외 비중은 67.5%로 기재돼 있습니다. 주주환원 규모를 판단할 때도 본사와 해외 종속회사를 합친 연결 실적의 범위를 구분해야 합니다."
+        },
+        {
+          "heading": "연결 현금과 본사 현금의 구분",
+          "body": "2026년 6월 말 연결 현금및현금성자산은 5746.5억원입니다. 같은 날짜에 제일기획 본사만 보는 별도재무제표의 현금및현금성자산은 867.9억원입니다. 두 금액의 범위가 다르므로 연결 현금 전부를 본사가 즉시 자기주식 매입에 쓸 수 있는 잔액으로 해석해서는 안 됩니다. 두 수치 모두 9월 30일 현재의 현금잔액은 아닙니다."
+        },
+        {
+          "heading": "9월 30일 장중 시세와 후속 확인",
+          "body": "네이버 증권의 2026년 9월 30일 13시 24분 21초 표시가는 1만8670원으로 전일 대비 4.42% 상승했습니다. 시장 상태는 거래 중인 OPEN입니다. 같은 조회 묶음의 누적 거래량은 99만3236주, 거래대금은 반올림 표시된 184억원입니다. 장중 수치이므로 당일 종가나 하루 전체 거래 규모로 사용할 수 없습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-30T08:32:34.483Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:150a4f620ce437f4365446e7193bbd8a7d1fb1aff35c8311b93f4f922931354c"
+    },
+    {
+      "id": "naver:tnsqo1126:224426834630",
+      "logNo": "224426834630",
+      "title": "사쿠라가 분홍 머리를 이어간 이유, 'Made My Night' 음악방송 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224426834630",
+      "publishedAt": "2026-09-30T01:57:08.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "사쿠라가 'Made My Night' 음악방송을 준비하며 분홍색 머리를 유지한 이유를 전했습니다. 2026년 9월 29일 르세라핌 공식 채널에 공개된 'LE PLAY'에는 '엠 카운트다운'과 'SBS 인기가요' 사전 녹화 현장이 담겼습니다. 사쿠라는 연보라색 의상을 입고 팬들 앞에 설 준비를 하다가, 오버워치와 협업한 이번 곡의 분위기를 머리색과 연결해 설명했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMTY0/MDAxNzkwNzMzMzc2NjM3.aR7AzuTRacHeup_4al88Vyayi11bt_Vf2Etlra49A58g.ozv0DiP-vlzih6_CPGphTNCLHdWWWQlBed1YGT-gFzMg.JPEG/behind-265.jpg?type=s3",
+      "tags": [
+        "사쿠라",
+        "르세라핌",
+        "SAKURA",
+        "LESSERAFIM",
+        "MadeMyNight",
+        "사쿠라근황",
+        "LEPLAY",
+        "르세라핌음악방송"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224426681733",
       "logNo": "224426681733",
