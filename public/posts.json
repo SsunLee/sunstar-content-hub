@@ -4,15 +4,156 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-30T08:32:34.483Z",
-  "expectedPublicCount": 1361,
-  "total": 1361,
+  "generatedAt": "2026-09-30T16:24:39.791Z",
+  "expectedPublicCount": 1364,
+  "total": 1364,
   "counts": {
-    "entertainment": 281,
-    "stocks": 142,
+    "entertainment": 283,
+    "stocks": 143,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224427661487",
+      "logNo": "224427661487",
+      "title": "'타짜: 벨제붑의 노래' 미요시 아야카 근황, 가네코와 배우 데뷔 이력",
+      "url": "https://blog.naver.com/tnsqo1126/224427661487",
+      "publishedAt": "2026-09-30T15:19:08.000Z",
+      "dateLabel": "2026. 10. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "미요시 아야카는 '타짜: 벨제붑의 노래'에서 국제 도박판을 마련하는 가네코를 연기합니다. 장태영과 박태영이 사업 성공과 배신을 겪는 동안, 가네코는 한국의 온라인 카지노 사업에 관심을 두고 일본과 베트남의 인물들을 불러 모읍니다. 넷플릭스 '아리스 인 보더랜드'의 안, 영화 '너클걸'의 란을 연기했던 배우가 이번에는 한국 상업영화에 처음 출연했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDFfMjI4/MDAxNzkwNzgxNDk1MjIz.cgjA47jgS2kJVoS0DS6d1Q9wEiag37-kbIGQUYLvO70g.rf-MQMkvrBraFnpKIatpGYlT2DNTwWMcI3snw1yInfEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "미요시아야카",
+        "타짜벨제붑의노래",
+        "가네코",
+        "미요시아야카나이",
+        "아리스인보더랜드",
+        "너클걸",
+        "배우데뷔",
+        "배우출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224427509336",
+      "logNo": "224427509336",
+      "title": "위드텍 SK하이닉스 41억5160만원 계약, 2027년 납기와 90%·10% 지급 조건",
+      "url": "https://blog.naver.com/tnsqo1126/224427509336",
+      "publishedAt": "2026-09-30T12:37:20.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 41억5160만원은 장비 공급계약 금액 위드텍이 SK하이닉스에 반도체 공정 및 제조환경 모니터링 장비를 공급합니다. 2026년 9월 30일 공시한 계약금액은 41억5160만원이며, 납기 기준 종료일은 2027년 4월 30일입니다. 대금은 장비 인도 후 90%, 설치 완료 후 10%를 각각 30일 안에 현금으로 받는 조건입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMTc0/MDAxNzkwNzcxNzk0ODI4.HupoxeCMypLBDlJQoRfnDNn8B-v0ggfF90wP_af85tQg.inqsAM4i1OovKQO1wtQNrjZcfKICtPSaVnirm4K_dKkg.PNG/hero.png?type=s3",
+      "tags": [
+        "위드텍",
+        "348350",
+        "SK하이닉스",
+        "공급계약",
+        "반도체장비",
+        "납기일정",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "41억5160만원은 장비 공급계약 금액",
+          "body": "위드텍이 SK하이닉스에 반도체 공정 및 제조환경 모니터링 장비를 공급합니다. 2026년 9월 30일 공시한 계약금액은 41억5160만원이며, 납기 기준 종료일은 2027년 4월 30일입니다. 대금은 장비 인도 후 90%, 설치 완료 후 10%를 각각 30일 안에 현금으로 받는 조건입니다. 계약 발표와 대금 수령 사이에 장비 인도와 설치라는 단계가 있습니다."
+        },
+        {
+          "heading": "반도체 공정의 오염을 측정하는 장비",
+          "body": "위드텍은 반도체와 디스플레이를 생산하는 클린룸에서 대기·수질·공정의 오염물질을 측정하고 감시하는 장비와 서비스를 공급합니다. 반기보고서에는 공기 중 분자성 오염물질을 측정하는 장비, 공정용 약액과 초순수의 이온을 측정하는 장비 등이 소개돼 있습니다. 고객의 요구 조건에 맞춰 주문을 받아 생산하고 납품하는 사업 구조입니다."
+        },
+        {
+          "heading": "인도와 설치 이후 나누어 받는 대금",
+          "body": "계약금과 선급금은 없습니다. 공시의 지급 비율을 부가가치세 제외 계약금액에 적용하면 90%는 37억3644만원, 10%는 4억1516만원입니다. 이는 지급 조건을 금액으로 환산한 값이며, 현재까지 받았거나 앞으로 특정 날짜에 입금될 것이 확인된 금액은 아닙니다."
+        },
+        {
+          "heading": "상반기 매출 증가와 흑자 전환",
+          "body": "위드텍의 2026년 1~6월 연결 매출은 255억9407만3153원으로 전년 같은 기간 192억1994만65원보다 약 33.2% 증가했습니다. 영업손익은 5억9016만6977원 손실에서 7억3955만1970원 이익으로 전환했습니다. 아래 비교는 2분기 세 달의 실적이 아니라 각 연도 상반기 누적 실적입니다."
+        },
+        {
+          "heading": "현금과 재고를 함께 보는 이유",
+          "body": "2026년 6월 말 연결 현금및현금성자산은 325.35억원으로 2025년 말 284.01억원보다 늘었습니다. 같은 기간 재고자산은 139.67억원에서 234.79억원으로, 계약부채는 36.81억원에서 104.57억원으로 증가했습니다. 현금만 비교하면 보이지 않는 재고와 계약 관련 잔액의 변화도 함께 확인할 수 있습니다."
+        },
+        {
+          "heading": "9월 30일 시세와 후속 확인 사항",
+          "body": "네이버 증권의 2026년 9월 30일 20시 20분 23초 기준 위드텍 표시 가격은 9500원, 기준가 대비 등락률은 +3.26%이며 애프터마켓 마감 상태입니다. 같은 조회에서 거래량은 6만9015주, 거래대금은 약 6.8억원으로 표시됐습니다. 화면 안내상 시가·고가·저가와 거래량·거래대금은 KRX와 NXT를 합산한 기준입니다. 외국인 소진율은 2.44%로 표시됐습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-30T16:24:39.791Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:b8278337c0326e49a7d57263d3d093a0295df04cf2c63d9bba462f64fbf714c6"
+    },
+    {
+      "id": "naver:tnsqo1126:224427375910",
+      "logNo": "224427375910",
+      "title": "코트 아래 검은 드레스, 예지의 싱가포르 로저 비비에 일정",
+      "url": "https://blog.naver.com/tnsqo1126/224427375910",
+      "publishedAt": "2026-09-30T09:54:47.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 예지가 싱가포르에서 로저 비비에 촬영과 행사에 참여한 모습이 공개됐습니다. 2026년 9월 29일 ITZY 공식 채널에 올라온 'ITZY? ITZY!' 269회에는 공항에서 출발해 호텔 촬영과 현지 행사를 마치는 과정이 담겼습니다. 베이지색 코트를 입은 촬영 모습과 검은 레이스 드레스로 등장한 행사 모습이 함께 나옵니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMTA2/MDAxNzkwNzYyMDM0MzE4.MxcAJrbVf7PAf6iYfz49TFd7PQdDgt2EgRL9RuoSBlog.MZPq3Iuw8En2bqjPPBP2rcpqkCbnosCmCKq6D1CTK0cg.JPEG/behind-545.jpg?type=s3",
+      "tags": [
+        "예지",
+        "ITZY",
+        "YEJI",
+        "예지근황",
+        "로저비비에",
+        "RogerVivier",
+        "예지싱가포르",
+        "있지"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "싱가포르로 향한 예지의 출국 장면",
+          "body": "예지는 인천국제공항에서 밝은 색 민소매 상의와 데님 반바지를 입었습니다. 한쪽으로 땋아 내린 머리와 흰색 가방이 보이고, 촬영을 마친 뒤에는 공항 라운지에서 식사를 이어갑니다. 현지 행사에서 입은 검은 드레스와는 옷의 색, 머리를 묶은 방식, 가방이 모두 다릅니다."
+        },
+        {
+          "heading": "베이지색 코트와 검은 레이스 드레스",
+          "body": "호텔 촬영에서 예지는 허리에 벨트가 있는 베이지색 코트와 사각형 가방을 착용했습니다. 머리를 뒤로 모아 묶어 귀걸이가 드러나며, 객실 소파에서는 다리를 포갠 채 가방을 무릎에 올려놓습니다. 발에는 밝은 장식이 달린 검은 로퍼를 신었습니다. 코트의 큰 옷깃과 소매의 끈도 앉은 자세에서 드러납니다. 옆 테이블에는 꽃과 책이 놓여 있고 창가의 빛이 얼굴 한쪽을 비춥니다. 복도에서는 벽에 기대어 가방을 아래로 내린 자세로 촬영했습니다."
+        },
+        {
+          "heading": "예지의 기본 정보와 ITZY 데뷔",
+          "body": "예지는 2000년 5월 26일생으로, 2026년 9월 30일 기준 만 26세입니다. JYP엔터테인먼트의 ITZY 공식 프로필에는 예지, 리아, 류진, 채령, 유나가 멤버로 소개되어 있습니다. 예지는 2019년 2월 ITZY로 데뷔했으며, 그룹 활동과 솔로 활동을 이어가고 있습니다."
+        },
+        {
+          "heading": "첫 솔로 앨범 'AIR'와 이어진 음반 활동",
+          "body": "예지는 2025년 3월 10일 첫 솔로 미니 앨범 'AIR'를 발표했습니다. 앨범에는 타이틀곡 'Air'와 'Invasion', 'Can't Slow Me, No', '258' 등 네 곡이 실렸습니다. 소속사 소개에 따르면 'Air'는 신스팝 곡이며, 예지가 작사에 참여했습니다. 박진영도 타이틀곡 작업에 참여했습니다. 행사 영상에서 만나는 예지의 개인 활동과 함께 확인할 수 있는 솔로 음반 이력입니다."
+        },
+        {
+          "heading": "행사를 마친 뒤 현지 팬들에게 건넨 인사",
+          "body": "예지는 현지 행사장에서 사진 촬영과 매체 인터뷰를 진행했습니다. 포토월 앞에 서는 장면 뒤에는 매장 안에서 가방을 들고 촬영하는 모습이 이어집니다. 촬영을 마치고 이동할 때는 기다리던 팬들 쪽으로 몸을 돌려 손을 흔들었습니다. 검은 드레스 차림으로 가까이 다가가 인사하는 장면에서 귀걸이와 뒤로 묶은 머리 모양도 보입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-09-30T16:24:39.791Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:29980afc4cac88a38eec3942fe95887ccdbbf695b0baeabee00033cd0b400417"
+    },
     {
       "id": "naver:tnsqo1126:224427215364",
       "logNo": "224427215364",
