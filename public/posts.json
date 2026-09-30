@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-29T22:13:55.705Z",
-  "expectedPublicCount": 1357,
-  "total": 1357,
+  "generatedAt": "2026-09-30T01:18:08.064Z",
+  "expectedPublicCount": 1358,
+  "total": 1358,
   "counts": {
-    "entertainment": 278,
+    "entertainment": 279,
     "stocks": 141,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224426681733",
+      "logNo": "224426681733",
+      "title": "촬영 전에 타자기를 두드린 박해일, '암살자(들)'의 김재환",
+      "url": "https://blog.naver.com/tnsqo1126/224426681733",
+      "publishedAt": "2026-09-29T23:16:57.000Z",
+      "dateLabel": "2026. 9. 30.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "박해일은 영화 '암살자(들)'에서 동성일보 사회부장 김재환을 연기합니다. 재환은 후배 기자들의 취재를 이끌며 사건의 의문을 좇는 인물입니다. 박해일은 촬영에 앞서 타자기를 구해 연습하고 신문사 공간에서 대사와 움직임을 익혔다고 밝혔습니다. 허진호 감독의 '암살자(들)'은 2026년 9월 23일 국내에서 개봉했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA5MzBfMjEx/MDAxNzkwNzIzNzY0MTcw.dLWxSXATkLPW9ERKglVcMWwJszbtN2idprgkUHMwKyEg.YlBcUHryLxwwvyiOyGvhA07mZwHBmZvFWxSOcZmoezEg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "박해일",
+        "암살자들",
+        "김재환",
+        "박해일나이",
+        "박해일출연작",
+        "허진호",
+        "헤어질결심",
+        "반딧불이"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224426613048",
       "logNo": "224426613048",
