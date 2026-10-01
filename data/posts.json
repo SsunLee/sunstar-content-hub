@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-09-30T22:14:19.359Z",
-  "expectedPublicCount": 1365,
-  "total": 1365,
+  "generatedAt": "2026-10-01T01:18:22.282Z",
+  "expectedPublicCount": 1366,
+  "total": 1366,
   "counts": {
-    "entertainment": 283,
+    "entertainment": 284,
     "stocks": 144,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224427868990",
+      "logNo": "224427868990",
+      "title": "72시간 뒤 되살아나는 석환, 구교환의 '부활남: 더 레드'",
+      "url": "https://blog.naver.com/tnsqo1126/224427868990",
+      "publishedAt": "2026-09-30T23:21:16.000Z",
+      "dateLabel": "2026. 10. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "구교환이 영화 '부활남: 더 레드'에서 취업준비생 석환을 연기합니다. 석환은 죽은 뒤 72시간이 지나면 되살아나는 능력을 알게 되고, 정체를 알 수 없는 이들에게 쫓기는 인물입니다. 백종열 감독이 연출한 이 영화는 2026년 9월 30일 극장에서 개봉했습니다. 개봉 직후 구교환의 새 배역이 궁금하다면 석환의 평범한 출발과 달라지는 몸을 함께 볼 만합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDFfMTU5/MDAxNzkwODEwNDI0Njc5.kYpqIVnOb8BsRvX7C5R3vTiHZNr9dMJamuoiwYVTmXIg.fjUKZH8HtF_0fNotI5DXOvkkkPsaXxd4QJpbKdf-vw4g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "구교환",
+        "부활남더레드",
+        "부활남",
+        "석환",
+        "구교환나이",
+        "구교환출연작",
+        "백종열",
+        "한국영화"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224427794865",
       "logNo": "224427794865",
