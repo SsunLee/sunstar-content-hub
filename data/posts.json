@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-01T08:54:52.935Z",
-  "expectedPublicCount": 1369,
-  "total": 1369,
+  "generatedAt": "2026-10-01T17:01:34.582Z",
+  "expectedPublicCount": 1372,
+  "total": 1372,
   "counts": {
-    "entertainment": 286,
-    "stocks": 145,
+    "entertainment": 288,
+    "stocks": 146,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224428833344",
+      "logNo": "224428833344",
+      "title": "'부활남: 더 레드' 영하는 누구? 강기영의 직장인 친구 연기",
+      "url": "https://blog.naver.com/tnsqo1126/224428833344",
+      "publishedAt": "2026-10-01T15:19:39.000Z",
+      "dateLabel": "2026. 10. 2.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "강기영은 영화 '부활남: 더 레드'에서 석환의 친구 영하를 연기합니다. 영하는 직장 생활을 하는 인물로, 취업준비생 석환에게 쓴소리를 하면서도 위험에 빠진 친구를 돕습니다. 백종열 감독이 연출한 이 영화는 2026년 9월 30일 극장에서 개봉했습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDJfNzEg/MDAxNzkwODY3OTI4ODg0.X9CpiWYtZpmzBNL6n5LkpvI0xHZ76Gix6NSXrNU6r5Ag.BlRh7C0DdJ3hqE7zW0CWp_QKh0xkw-u7_GHmdN4tnRsg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "강기영",
+        "부활남더레드",
+        "영하",
+        "구교환",
+        "강기영나이",
+        "강기영데뷔",
+        "강기영출연작",
+        "영화박스오피스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224428690014",
+      "logNo": "224428690014",
+      "title": "아이쓰리시스템 618억원 수출 계약, 선급금 15% 분할 지급과 2029년 납기",
+      "url": "https://blog.naver.com/tnsqo1126/224428690014",
+      "publishedAt": "2026-10-01T12:34:54.000Z",
+      "dateLabel": "2026. 10. 1.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 618억원은 3년 계약의 총액 아이쓰리시스템(214430)이 10월 1일 공시한 적외선 검출기 조립체 수출 계약은 618억1992만원입니다. 계약금액의 15%에 해당하는 선급금은 3개년에 걸쳐 나누어 지급되고, 잔금은 지급요건을 충족한 뒤 30일 이내에 지급됩니다. 마지막 납기일은 2029년 9월 1일입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDFfMjQy/MDAxNzkwODU4MDQ5NTgx.ChktkwuNiuEYHGK7itJ7WLxAvpYZn6jF9FdnWST2jLsg.mUBHPFVgy9_4ocgGVpo7KlJB8c1qkfquIUKvC0hw0Ecg.PNG/hero.png?type=s3",
+      "tags": [
+        "아이쓰리시스템",
+        "214430",
+        "적외선검출기",
+        "공급계약",
+        "선급금",
+        "수출계약",
+        "반기실적",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "618억원은 3년 계약의 총액",
+          "body": "아이쓰리시스템(214430)이 10월 1일 공시한 적외선 검출기 조립체 수출 계약은 618억1992만원입니다. 계약금액의 15%에 해당하는 선급금은 3개년에 걸쳐 나누어 지급되고, 잔금은 지급요건을 충족한 뒤 30일 이내에 지급됩니다. 마지막 납기일은 2029년 9월 1일입니다. 계약액 전체가 올해 매출로 잡히거나 선급금이 한 번에 들어오는 구조로 읽으면 실제 조건과 달라집니다."
+        },
+        {
+          "heading": "선급금 15%의 입금 일정은 별도",
+          "body": "선급금 15%를 달러 계약액에 적용하면 총 684만달러입니다. 공시 환율로 환산한 참고 금액은 92억7298만8000원입니다. 이는 전체 선급금의 규모를 설명하는 계산값이며 현재 받은 현금이 아닙니다. 3개년의 연도별 비중과 구체적인 지급일은 공개되지 않았습니다."
+        },
+        {
+          "heading": "마지막 납기와 공시유보 기한",
+          "body": "계약기간은 2026년 9월 30일부터 2029년 9월 1일까지입니다. 시작일은 발주서 수령일이고 종료일은 발주서에 적힌 마지막 납기일입니다. 회사는 양쪽의 협의에 따라 종료일이 바뀔 수 있다고 설명했습니다. 납기 변경 여부는 이후 같은 계약의 정정공시에서 확인할 사항입니다."
+        },
+        {
+          "heading": "상반기 이익과 현금흐름의 차이",
+          "body": "아이쓰리시스템은 반기보고서에서 적외선·엑스레이 영상센서와 관련 제품을 개발하고 제조한다고 설명합니다. 적외선 영상센서는 눈으로 보기 어려운 영역의 정보를 영상으로 바꾸는 제품이며 국방·의료·우주 분야에 쓰입니다. 이번 공시의 제품은 적외선 검출기 조립체입니다. 회사 전체 사업의 용도를 계약상대방의 구체적인 사용처로 연결하지는 않습니다."
+        },
+        {
+          "heading": "6월 말 현금과 계약부채",
+          "body": "2026년 6월 말 현금및현금성자산은 171.89억원으로 2025년 말의 99.57억원보다 많습니다. 재고자산은 596.67억원에서 639.69억원으로 증가했고, 유동 계약부채는 126.32억원에서 212.12억원으로 늘었습니다. 장기계약부채는 별도로 65.25억원이 있어 유동 계약부채만 보고 전체 계약부채라고 부르면 범위가 달라집니다."
+        },
+        {
+          "heading": "10월 1일 시세와 다음 확인 사항",
+          "body": "네이버 증권의 2026년 10월 1일 20시 20분 20초 기준 시세는 8만3800원, 기준가 대비 1만5600원 상승, 등락률 +22.87%입니다. 시장 상태는 마감이며 실제 화면에도 애프터마켓 마감으로 표시됐습니다. 화면의 시세정보 거래량은 23만4806주이고 거래대금은 1만8667백만원, 약 186.67억원입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-01T17:01:34.582Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d7565ca598d481383c63601380894bc2d79840531f4d7371eabb95da88765f48"
+    },
+    {
+      "id": "naver:tnsqo1126:224428562479",
+      "logNo": "224428562479",
+      "title": "큐대가 짧아진 이유는? 리아의 '다다있지' 초능력 당구",
+      "url": "https://blog.naver.com/tnsqo1126/224428562479",
+      "publishedAt": "2026-10-01T10:01:10.000Z",
+      "dateLabel": "2026. 10. 1.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "리아가 당구공을 지키기 위해 꺼낸 방법은 상대의 큐대를 짧게 만드는 것이었습니다. 2026년 10월 1일 ITZY 공식 채널에 공개된 'DaDa-ITZY' 6편에서 리아는 보라색 공을 맡아 멤버들과 초능력 당구 대결을 펼쳤습니다. 회색 조끼와 흰 셔츠를 입고 첫 타구를 준비하는 모습부터, 직접 만든 동작으로 게임 능력을 사용하는 장면까지 이어집니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDFfMTEg/MDAxNzkwODQ4ODIyNTg3.DqQ3xOdh2whlD9jLDtZoS7XYNmMIUOy6EVyf3A1ecFkg.f9FzgaOGdGLjwAHf_I-_0GB8CxWFaZL1zxK_YRJlW9cg.JPEG/billiards-383.jpg?type=s3",
+      "tags": [
+        "리아",
+        "ITZY",
+        "LIA",
+        "있지",
+        "리아근황",
+        "다다있지",
+        "DaDaITZY",
+        "초능력당구"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224428385015",
       "logNo": "224428385015",
