@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-02T12:31:47.398Z",
-  "expectedPublicCount": 1378,
-  "total": 1378,
+  "generatedAt": "2026-10-02T19:17:29.097Z",
+  "expectedPublicCount": 1381,
+  "total": 1381,
   "counts": {
-    "entertainment": 292,
-    "stocks": 148,
+    "entertainment": 294,
+    "stocks": 149,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224429972354",
+      "logNo": "224429972354",
+      "title": "홍은채가 챌린지 촬영을 한 번 더 제안한 순간, 'Made My Night' 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224429972354",
+      "publishedAt": "2026-10-02T17:59:26.000Z",
+      "dateLabel": "2026. 10. 3.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "홍은채가 연준에게 춤을 배우고, 하음에게는 시작 박자를 세어 줍니다. 르세라핌 공식 채널이 2026년 10월 2일 공개한 'Made My Night 챌린지에 진심인 편'에는 짧은 춤 영상을 완성하기까지의 연습과 대화가 담겼습니다. 홍은채는 'Made My Night'를 함께 추는 상대에게 동작을 설명하는 한편, 다른 그룹의 곡도 직접 배우며 촬영을 이어갑니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDNfMTI5/MDAxNzkwOTYzOTEzMjg2.EreWYNNlM6tnCC3vh9ZWSRp1nzhCZkDHmunh-W80XIwg.Wfc6S4g99hGlahK6Abj4Le7l6nHjlmRDVfNksxALyWsg.JPEG/challenge-461.jpg?type=s3",
+      "tags": [
+        "홍은채",
+        "르세라핌",
+        "LESSERAFIM",
+        "EUNCHAE",
+        "MadeMyNight",
+        "은채근황",
+        "챌린지",
+        "LEPLAY"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224429900070",
+      "logNo": "224429900070",
+      "title": "러셀 크로가 해석한 '유나바머: 비밀 실험'의 헨리 머리 교수",
+      "url": "https://blog.naver.com/tnsqo1126/224429900070",
+      "publishedAt": "2026-10-02T15:21:07.000Z",
+      "dateLabel": "2026. 10. 3.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "러셀 크로는 넷플릭스 영화 '유나바머: 비밀 실험'에서 하버드 심리학 교수 헨리 머리를 연기합니다. 어린 대학생 테드 카진스키를 실험에 참여시키는 인물로, 교수와 학생의 관계가 영화의 과거 이야기를 이끕니다. '글래디에이터'와 '뷰티풀 마인드'로 익숙한 배우지만 이번에는 강의실과 연구실이 주된 무대입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDNfODIg/MDAxNzkwOTU0NDE3NjUy.yosFNXhgr3U5udrG8pKnmW4b4iudi9fe3O745NxdUusg.Lyn3YRjabzGIon6JAqQ2hwQ6cynMTYz837P6ddbONmkg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "러셀크로",
+        "유나바머비밀실험",
+        "헨리머리",
+        "넷플릭스영화",
+        "러셀크로나이",
+        "러셀크로출연작",
+        "글래디에이터",
+        "뷰티풀마인드"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224429781211",
+      "logNo": "224429781211",
+      "title": "영원무역홀딩스 배당금 3000원, 10월 19일 기준일과 자사주 소각 일정",
+      "url": "https://blog.naver.com/tnsqo1126/224429781211",
+      "publishedAt": "2026-10-02T12:37:11.000Z",
+      "dateLabel": "2026. 10. 2.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 중간배당 3000원과 11월 지급 예정일 영원무역홀딩스(009970)는 보통주 1주당 3000원의 중간배당을 결정했습니다. 배당기준일은 2026년 10월 19일이며 배당금 지급 예정일은 11월 9일입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDJfNDgg/MDAxNzkwOTQ0NTg0MTIx.Q2uaz05yf3jpkuW3SY4n9maUDhOHApgy9yPC9qIBByEg.NVkNBycJPQ4vCY3Iv1M_8DlSXcmipFTmRv8k9GR9iEcg.PNG/hero.png?type=s3",
+      "tags": [
+        "영원무역홀딩스",
+        "009970",
+        "중간배당",
+        "배당기준일",
+        "배당금지급일",
+        "자사주소각",
+        "시가배당률",
+        "지주회사"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "중간배당 3000원과 11월 지급 예정일",
+          "body": "영원무역홀딩스(009970)는 보통주 1주당 3000원의 중간배당을 결정했습니다. 배당기준일은 2026년 10월 19일이며 배당금 지급 예정일은 11월 9일입니다. 10월 2일 이사회에서 결의한 현금배당으로, 이번에 결정한 금액을 연간 배당금이나 다음 회차 배당금으로 확대해서 해석할 수는 없습니다."
+        },
+        {
+          "heading": "10월 14일 소각과 10월 19일 배당기준일",
+          "body": "같은 날 영원무역홀딩스는 이미 취득한 보통주 자기주식 71만2460주를 소각하기로 결정했습니다. 공시한 발행주식 총수 1295만3817주의 약 5.5%이며 소각 예정일은 10월 14일입니다. 회사는 8월 11일 발표한 기업가치 제고 계획에 따른 결정이라고 밝혔습니다."
+        },
+        {
+          "heading": "시가배당률 1.8%와 표시 가격의 차이",
+          "body": "배당 공시의 시가배당률은 1.8%입니다. 회사는 이사회 결의일 직전 매매거래일부터 과거 1주일 동안 형성된 최종가격의 산술평균을 분모로 삼았다고 설명했습니다. 10월 2일 화면에 표시된 가격 하나로 계산한 비율과 산정 기준이 다릅니다."
+        },
+        {
+          "heading": "상반기 연결 실적과 현금흐름",
+          "body": "영원무역홀딩스의 반기보고서에서 2026년 1~6월 연결 매출은 2조4639억8418만1771원, 영업이익은 3534억7561만7551원입니다. 2025년 같은 기간과 비교하면 매출은 약 12.8%, 영업이익은 약 19.8% 증가했습니다. 아래 수치는 각 연도 상반기 누적 실적으로 4~6월 3개월 실적과 구분합니다."
+        },
+        {
+          "heading": "배당을 받는 지주회사와 주주에게 지급하는 배당",
+          "body": "영원무역홀딩스는 자회사 주식을 보유하는 순수 지주회사입니다. 반기보고서는 자회사 배당금, IT서비스 수수료, 임대료와 경영관리 수수료를 주요 수입원으로 설명합니다. 연결 실적에는 의류·신발·가방 제조와 유통 등 종속회사 사업도 포함되므로 지주회사 자체의 수입과 구분해서 살펴봐야 합니다."
+        },
+        {
+          "heading": "예정일 이후 확인할 공시",
+          "body": "이번 중간배당의 확인 순서는 권리주주 확정 안내와 지급 일정입니다. 10월 19일 기준일은 권리가 확정되는 기준이며 지급 예정일은 11월 9일로 공시됐습니다. 지급 공시의 기타사항에는 기준일부터 1개월 이내라는 설명도 함께 있습니다. 실제 입금과 변경 여부는 이후 회사 안내로 확인해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-02T19:17:29.097Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:9a2a93185e3fc9d78fb2dfa81c59233c39f7216b2af136756fc7b89c99943819"
+    },
     {
       "id": "naver:tnsqo1126:224429668915",
       "logNo": "224429668915",
