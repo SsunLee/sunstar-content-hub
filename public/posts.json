@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-03T16:16:18.891Z",
-  "expectedPublicCount": 1389,
-  "total": 1389,
+  "generatedAt": "2026-10-03T19:15:27.177Z",
+  "expectedPublicCount": 1390,
+  "total": 1390,
   "counts": {
-    "entertainment": 299,
+    "entertainment": 300,
     "stocks": 152,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224430760274",
+      "logNo": "224430760274",
+      "title": "사쿠라의 오버워치 PC방 대결, 2 대 2 무승부 뒤 웃은 네 사람",
+      "url": "https://blog.naver.com/tnsqo1126/224430760274",
+      "publishedAt": "2026-10-03T17:56:37.000Z",
+      "dateLabel": "2026. 10. 4.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "사쿠라가 홍은채와 PC방에서 오버워치 대결을 펼쳤습니다. 르세라핌 공식 채널이 2026년 9월 19일 공개한 영상에는 스트리머 서넹과 나무늘보도 함께합니다. 사쿠라는 나무늘보와 한 팀이 되어 시에라를 골랐고, 홍은채는 서넹과 맞섰습니다. 네 사람은 팬들과 함께 경기를 진행했으며, 마지막에는 2 대 2 무승부를 확인하고 웃었습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDRfNTkg/MDAxNzkxMDUwMTQ1MTk1.-tml82ZpuJGOlHLHX4EtIvGF8o6nV_42IVN6Jba-GBUg.u26-JdBlufWBLP9pQdwM9lGALdxFzf6hC-VT2dcRWdgg.JPEG/streamers-20.jpg?type=s3",
+      "tags": [
+        "사쿠라",
+        "르세라핌",
+        "SAKURA",
+        "LESSERAFIM",
+        "사쿠라근황",
+        "오버워치",
+        "홍은채",
+        "PC방"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224430689638",
       "logNo": "224430689638",
