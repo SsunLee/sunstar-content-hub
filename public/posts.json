@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-03T11:37:58.077Z",
-  "expectedPublicCount": 1387,
-  "total": 1387,
+  "generatedAt": "2026-10-03T16:16:18.891Z",
+  "expectedPublicCount": 1389,
+  "total": 1389,
   "counts": {
-    "entertainment": 298,
-    "stocks": 151,
+    "entertainment": 299,
+    "stocks": 152,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224430689638",
+      "logNo": "224430689638",
+      "title": "분홍 재킷의 개릿, '마인크래프트 무비' 제이슨 모모아의 배역과 경력",
+      "url": "https://blog.naver.com/tnsqo1126/224430689638",
+      "publishedAt": "2026-10-03T15:22:00.000Z",
+      "dateLabel": "2026. 10. 4.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'마인크래프트 무비'에서 개릿 개리슨을 연기한 배우는 제이슨 모모아입니다. 개릿은 1989년 올해의 게이머로 꼽혔던 인물로, 스티브와 함께 블록 세계를 모험합니다. 분홍색 재킷과 긴 머리, 손가락이 드러나는 장갑이 개릿의 차림을 이룹니다. 모모아는 출연과 함께 이 영화의 제작에도 참여했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDRfMTMw/MDAxNzkxMDQwODY4MTc0.xCZgmmV6Cb9Gj09-d8BIxxVDpXCh6r6NgR6sAsHj9QIg.SxQLT_s9LCylcDINgriJYFNWHO5my0QpNZaZCN7pCLAg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "제이슨모모아",
+        "마인크래프트무비",
+        "개릿개리슨",
+        "넷플릭스영화",
+        "영화배우",
+        "아쿠아맨",
+        "어둠의나날",
+        "영화제작기"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224430573711",
+      "logNo": "224430573711",
+      "title": "진흥기업 우선주 배당 5750원·5000원, 10월 21일 지급과 보통주 전환",
+      "url": "https://blog.naver.com/tnsqo1126/224430573711",
+      "publishedAt": "2026-10-03T12:38:20.000Z",
+      "dateLabel": "2026. 10. 3.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 보통주는 제외되는 우선주 누적배당 진흥기업이 2026년 10월 2일 결정한 배당금은 진흥기업우B 1주당 5750원, 진흥기업2우B 1주당 5000원입니다. 보통주는 이번 배당 대상에서 제외됩니다. 지급 예정일은 10월 21일이지만 배당기준일은 이미 지난 9월 30일입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDNfMjI0/MDAxNzkxMDMxMDUwNjk1.JwKit7LSiyHKlwRGScsbTHVuc9KhWwaJsXdqAkcl4qog.8U-iDdo1JGnpHg0optOtaHpj_9fHqqktyclwnmYWEqEg.PNG/hero.png?type=s3",
+      "tags": [
+        "진흥기업",
+        "진흥기업우B",
+        "진흥기업2우B",
+        "우선주배당",
+        "누적배당",
+        "배당기준일",
+        "보통주전환",
+        "영업현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "보통주는 제외되는 우선주 누적배당",
+          "body": "진흥기업이 2026년 10월 2일 결정한 배당금은 진흥기업우B 1주당 5750원, 진흥기업2우B 1주당 5000원입니다. 보통주는 이번 배당 대상에서 제외됩니다. 지급 예정일은 10월 21일이지만 배당기준일은 이미 지난 9월 30일입니다. 10월에 우선주를 새로 매수하면 이번 배당을 받을 수 있다고 해석해서는 안 됩니다."
+        },
+        {
+          "heading": "배당 권리와 보통주 전환의 기준일",
+          "body": "진흥기업의 9월 15일 전환 안내는 배당과 전환의 적용 대상을 따로 정했습니다. 배당은 9월 30일 배당권리 주주에게 귀속되고, 우선주의 보통주 전환은 효력발생일인 10월 21일의 전환대상 주식에 적용됩니다. 배당금을 받을 권리와 전환될 주식을 보유하는 시점을 같은 것으로 보면 안 됩니다."
+        },
+        {
+          "heading": "배당 대상 11만4713주와 전환 대상 11만5201주",
+          "body": "진흥기업의 우선주 총발행주식수는 11만5201주입니다. 이 중 자기주식 488주를 제외한 11만4713주가 실제 배당금 계산 대상입니다. 자기주식은 1우선주 299주와 2우선주 189주로 나뉩니다. 배당 계산에서는 빠지지만 앞서 안내된 보통주 전환 수량에는 포함됩니다."
+        },
+        {
+          "heading": "상반기 이익 증가와 영업현금 유출",
+          "body": "진흥기업은 토목, 건축·주택, 플랜트 공사를 수행하는 종합건설업체입니다. 2026년 반기보고서의 별도 재무제표에서 상반기 매출액은 4038.60억원, 영업이익은 116.05억원입니다. 2025년 같은 기간 매출액 2321.30억원과 영업이익 14.27억원보다 늘었습니다. 비교 기간은 각각 1월부터 6월까지이며 2분기 3개월 수치와 구분했습니다."
+        },
+        {
+          "heading": "공사 관련 자산·부채와 현금 잔액",
+          "body": "반기보고서 현금흐름표 주석 35에 따르면 2026년 상반기 영업활동에 따른 자산·부채 변동은 현금흐름에 -814.90억원으로 반영됐습니다. 그 안에서 미청구공사 증가는 -557.14억원, 초과청구공사 감소는 -478.02억원, 매입채무 증가는 +307.82억원으로 반영됐습니다. 여러 항목이 함께 작용하므로 특정 항목 하나를 전체 현금 유출액과 같다고 설명할 수 없습니다."
+        },
+        {
+          "heading": "10월 2일 시세와 다음 확인 사항",
+          "body": "네이버 증권의 2026년 10월 2일 20시 20분 갱신 자료에서 진흥기업 보통주는 애프터마켓 마감 6630원, 등락률 +2.00%로 표시됐습니다. 거래량은 19만244주, 거래대금은 1326백만원이며 화면 안내상 KRX·NXT 통합 기준입니다. 투자정보의 시가총액은 964억원, 외인소진율은 0.0%로 표시됐고 이 항목은 KRX 기준입니다. 표시 비율의 소수점 자릿수를 넘어 실제 보유량을 추정하지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-03T16:16:18.891Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:862101d077d82e9246ea15c35381f8fc9897f4b281acf03532bb8414a178e3eb"
+    },
     {
       "id": "naver:tnsqo1126:224430476958",
       "logNo": "224430476958",
