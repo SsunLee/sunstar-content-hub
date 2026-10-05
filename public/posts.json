@@ -4,15 +4,127 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-05T00:55:03.133Z",
-  "expectedPublicCount": 1400,
-  "total": 1400,
+  "generatedAt": "2026-10-05T09:01:37.877Z",
+  "expectedPublicCount": 1403,
+  "total": 1403,
   "counts": {
-    "entertainment": 306,
-    "stocks": 156,
+    "entertainment": 308,
+    "stocks": 157,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224432013202",
+      "logNo": "224432013202",
+      "title": "서강준, '너 말고 다른 연애' 남궁호의 10년 연애와 실제 나이",
+      "url": "https://blog.naver.com/tnsqo1126/224432013202",
+      "publishedAt": "2026-10-05T07:27:49.000Z",
+      "dateLabel": "2026. 10. 5.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "서강준은 KBS 2TV 드라마 '너 말고 다른 연애'에서 훈민제과 대리 남궁호를 연기하고 있습니다. 안은진이 맡은 영화감독 이미도와 10년째 연애 중인 인물입니다. 오래 알고 지낸 두 사람의 일상에 직장 동료와 변호사가 들어오면서 관계가 달라지기 시작합니다. 서강준은 1993년 10월 12일생으로, 2026년 10월 5일 기준 만 32세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDVfMjc5/MDAxNzkxMTg1MjE5MDYx.n8kWtQ0tsxV83m2XPDyHU4aKnFdDxFTzyE9XsIzmqPkg.KYxMSzmI3HhV-tGUPoid4nuZWWXbjdIhPOltpddNVDog.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "서강준",
+        "너말고다른연애",
+        "남궁호",
+        "서강준나이",
+        "서강준데뷔",
+        "안은진",
+        "언더커버하이스쿨",
+        "KBS드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224431869355",
+      "logNo": "224431869355",
+      "title": "현대백화점 10월 2일 8만8800원, 연결·별도 이익과 현금 감소의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224431869355",
+      "publishedAt": "2026-10-05T04:35:23.000Z",
+      "dateLabel": "2026. 10. 5.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 8만8800원과 서로 다른 실적 방향 현대백화점의 2026년 상반기 연결 영업이익은 줄었지만 별도 영업이익은 늘었습니다. 연결 영업현금흐름은 2746.36억원의 유입을 기록했어도 6월 말 현금 잔액은 지난해 말보다 1218.63억원 감소했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDVfMTUg/MDAxNzkxMTc0ODc1NzY5.-M_2LVcZaj-CVAh-qYxAugrVqSLMnAe3vmJO-3Cgf6sg.G6BfPhEnwDAJ0XUVv91237YAiz-BI238vfzrzolH5Lwg.PNG/hero.png?type=s3",
+      "tags": [
+        "현대백화점",
+        "069960",
+        "백화점주식",
+        "연결실적",
+        "별도실적",
+        "영업현금흐름",
+        "면세점",
+        "재무분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "8만8800원과 서로 다른 실적 방향",
+          "body": "현대백화점의 2026년 상반기 연결 영업이익은 줄었지만 별도 영업이익은 늘었습니다. 연결 영업현금흐름은 2746.36억원의 유입을 기록했어도 6월 말 현금 잔액은 지난해 말보다 1218.63억원 감소했습니다. 주가 한 숫자로 기업을 판단하기보다 연결 범위와 현금 사용처를 함께 확인해야 하는 이유입니다."
+        },
+        {
+          "heading": "연결 매출 2조181억원과 별도 이익 증가",
+          "body": "현대백화점 반기보고서의 연결 손익계산서는 천원 단위로 작성됐습니다. 2026년 상반기 누적 매출액은 2조181억1488만2000원으로 전년 동기 2조1783억8167만2000원보다 7.4% 감소했습니다. 연결 영업이익은 1781.04억원으로 전년 동기 1993.36억원보다 10.7% 줄었습니다. 이 수치는 2분기 3개월의 실적이 아닌 1~6월 누적 실적입니다."
+        },
+        {
+          "heading": "백화점·면세점·가구를 나누어 보는 이유",
+          "body": "사업의 개요에서 현대백화점은 2026년 상반기 백화점 부문 매출 1조2763억원, 면세점 부문 5241억원, 가구 제조 부문 2871억원을 제시했습니다. 백화점 부문의 영업이익은 2459억원, 면세점 부문은 96억원이며 가구 제조 부문은 568억원의 영업손실을 기록했습니다. 백화점 매장 운영만으로 연결 실적 전체를 설명할 수 없는 구조입니다."
+        },
+        {
+          "heading": "재무상태와 시세 지표의 기준을 맞춥니다",
+          "body": "2026년 6월 말 연결 자산총계는 11조9419.53억원, 부채총계는 5조5762.75억원, 자본총계는 6조3656.78억원입니다. 유동부채는 4조2596.17억원이며 유동자산은 3조5891.00억원입니다. 이 수치만으로 지급불능이나 안정성을 단정할 수는 없지만 현금 잔액만 따로 보기보다 부채 만기와 금융자산의 성격을 함께 확인할 필요가 있습니다."
+        },
+        {
+          "heading": "다음 실적에서 확인할 세 가지",
+          "body": "다음 실적에서는 먼저 연결과 별도 영업이익의 방향이 계속 다른지 확인할 필요가 있습니다. 백화점 부문의 이익만 증가했는지, 면세점과 가구 제조 부문의 손익도 달라졌는지에 따라 연결 결과의 해석이 달라집니다. 반기 누적 실적과 다음 분기의 3개월 실적을 같은 기간처럼 비교하지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-05T09:01:37.877Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:17c8ad37171295ebd6b367fbf2c7c519c61869dc6af68cc13be169b171dab990"
+    },
+    {
+      "id": "naver:tnsqo1126:224431753087",
+      "logNo": "224431753087",
+      "title": "검은 재킷부터 크림색 잠옷까지, '기안장2' 카즈하의 옷차림",
+      "url": "https://blog.naver.com/tnsqo1126/224431753087",
+      "publishedAt": "2026-10-05T02:02:07.000Z",
+      "dateLabel": "2026. 10. 5.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "카즈하는 '대환장 기안장 시즌2'에서 검은 재킷과 흰색 목폴라, 겨울 외투, 크림색 잠옷을 입고 등장합니다. 넷플릭스 코리아가 2026년 9월에 공개한 영상에는 직원들의 첫 만남부터 숙소 입장과 노래방까지 서로 다른 장면이 담겼습니다. 옷의 색과 형태는 화면에서 확인할 수 있으며, 브랜드와 상품명·현재 판매 가격은 공식 영상에서 특정되지 않습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDVfMTM5/MDAxNzkxMTY1NTYwNzAy.oQAIE6nRfGh4BL5PodUfFeByZSgGb8q0IFNAMCwgZ3Qg.ULViSG-AVLWN1BneQIefYGpVhXiRPyuZmkl-dGwWY_kg.JPEG/house-026.jpg?type=s3",
+      "tags": [
+        "카즈하",
+        "르세라핌",
+        "카즈하근황",
+        "대환장기안장",
+        "대환장기안장2",
+        "기안장카즈하옷",
+        "카즈하잠옷",
+        "넷플릭스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224431644950",
       "logNo": "224431644950",
