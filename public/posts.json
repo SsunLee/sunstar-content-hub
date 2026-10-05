@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-04T21:22:49.508Z",
-  "expectedPublicCount": 1399,
-  "total": 1399,
+  "generatedAt": "2026-10-05T00:55:03.133Z",
+  "expectedPublicCount": 1400,
+  "total": 1400,
   "counts": {
-    "entertainment": 305,
+    "entertainment": 306,
     "stocks": 156,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224431644950",
+      "logNo": "224431644950",
+      "title": "리즈 아메드, '디거' 가네시의 안경과 콧수염 뒤에 담긴 배역 준비",
+      "url": "https://blog.naver.com/tnsqo1126/224431644950",
+      "publishedAt": "2026-10-04T23:18:34.000Z",
+      "dateLabel": "2026. 10. 5.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'디거'에서 가네시를 연기한 배우는 리즈 아메드입니다. 톰 크루즈가 맡은 디거 록웰 옆에 등장하는 안경 쓴 인물로, 최근 인터뷰에서는 배역의 외모와 가족 배경을 어떻게 준비했는지 직접 설명했습니다. 2026년 10월 5일 기준으로 리즈 아메드는 만 43세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDVfMTMw/MDAxNzkxMTU1ODY3MDg5.wAU6rIJ-7tIalRLVNmHPNOoUCfrjGQDROppdn456-CEg.qxksjWz79NSCBKoqc7OQg5NZv6ABO5S4tjiqPv_p0dkg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "리즈아메드",
+        "디거",
+        "가네시",
+        "리즈아메드나이",
+        "리즈아메드데뷔",
+        "핑거네일",
+        "Bait",
+        "영화배우"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224431593913",
       "logNo": "224431593913",
