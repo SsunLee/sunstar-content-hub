@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-06T08:57:53.477Z",
-  "expectedPublicCount": 1411,
-  "total": 1411,
+  "generatedAt": "2026-10-06T16:48:11.617Z",
+  "expectedPublicCount": 1414,
+  "total": 1414,
   "counts": {
-    "entertainment": 314,
-    "stocks": 159,
+    "entertainment": 316,
+    "stocks": 160,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224433541446",
+      "logNo": "224433541446",
+      "title": "김소현이 맡은 '연애박사' 임유진은 누구? 나이와 데뷔작",
+      "url": "https://blog.naver.com/tnsqo1126/224433541446",
+      "publishedAt": "2026-10-06T15:18:02.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "김소현은 ENA 월화드라마 '연애박사'에서 로봇공학 석사과정생 임유진을 연기합니다. 의류학과를 떠나 기계공학과로 전과한 유진은 같은 연구실의 박민재와 만납니다. 박민재 역은 추영우가 맡았습니다. 김소현은 1999년 6월 4일생으로 2026년 10월 7일 기준 만 27세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMjIz/MDAxNzkxMjk5ODI4OTg0.UyoHKgr0R0ZZXfGh1T0-WEImYEKyV-K7IuioC1LGZisg.5mY-KSzaFt2cSqMbofHhTTnqbVLNuHRINwNu4hgrET4g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "김소현",
+        "연애박사",
+        "임유진",
+        "김소현나이",
+        "김소현데뷔",
+        "추영우",
+        "ENA",
+        "월화드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224433395153",
+      "logNo": "224433395153",
+      "title": "롯데칠성 상반기 영업이익 18.6% 증가, 2분기 감소와 현금흐름의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224433395153",
+      "publishedAt": "2026-10-06T12:32:41.000Z",
+      "dateLabel": "2026. 10. 6.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 상반기와 2분기 이익이 다른 방향으로 움직인 이유 롯데칠성의 2026년 상반기 연결 영업이익은 1036.46억원으로 전년 같은 기간보다 약 18.6% 증가했습니다. 그러나 4~6월 3개월 영업이익은 558.45억원으로 약 10.4% 감소했습니다. 상반기에는 1분기와 2분기가 함께 들어가므로 두 증가율은 동시에 성립합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDZfMTM0/MDAxNzkxMjg5OTEzMDc3.RfEEzonR8p_0CnfsZKnKEmT-OWJHboSL92Ika2EZn_wg.a7DRyktV3A1nZfWOODhlnnt6CaiQxKlbBDLLCbyC7AIg.PNG/hero.png?type=s3",
+      "tags": [
+        "롯데칠성",
+        "005300",
+        "상반기실적",
+        "2분기실적",
+        "영업이익",
+        "영업현금흐름",
+        "음료주",
+        "재무분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "상반기와 2분기 이익이 다른 방향으로 움직인 이유",
+          "body": "롯데칠성의 2026년 상반기 연결 영업이익은 1036.46억원으로 전년 같은 기간보다 약 18.6% 증가했습니다. 그러나 4~6월 3개월 영업이익은 558.45억원으로 약 10.4% 감소했습니다. 상반기에는 1분기와 2분기가 함께 들어가므로 두 증가율은 동시에 성립합니다. 누적 이익 증가만 보고 최근 분기까지 같은 속도로 개선됐다고 판단하면 실제 실적을 놓칠 수 있습니다."
+        },
+        {
+          "heading": "누적 매출과 영업이익의 비교",
+          "body": "롯데칠성의 2026년 1~6월 연결 매출은 2조654.27억원으로 2025년 같은 기간의 1조9976.37억원보다 약 3.4% 증가했습니다. 영업이익은 873.89억원에서 1036.46억원으로 늘었습니다. 아래 비교는 모두 각 연도 1월부터 6월까지의 누적 연결 수치이며 모회사만의 별도 실적이나 2분기 3개월 값이 아닙니다."
+        },
+        {
+          "heading": "1분기 증가와 2분기 감소의 구분",
+          "body": "2026년 2분기 연결 매출은 1조1128.90억원으로 전년 2분기보다 약 2.4% 증가했습니다. 같은 기간 영업이익은 623.56억원에서 558.45억원으로 줄었습니다. 매출이 늘어도 비용 증가가 더 크면 영업이익은 감소할 수 있습니다. 실제 2분기 매출총이익은 3682.58억원에서 3771.72억원으로 증가했지만 판매비와관리비도 3058.56억원에서 3211.28억원으로 늘었습니다."
+        },
+        {
+          "heading": "음료·주류와 해외 종속회사의 범위",
+          "body": "롯데칠성음료는 음료와 주류를 생산·판매합니다. 반기보고서에 기재된 2026년 상반기 별도 기준 음료 부문의 매출은 9146억원이며 영업이익은 416억원입니다. 주류 부문의 매출은 3893억원이고 영업이익은 230억원입니다. 이 수치는 사업 개요에 제시된 억원 단위 값이며 연결 손익계산서의 정확한 원 단위 수치와는 구분됩니다."
+        },
+        {
+          "heading": "영업현금 유입에도 잔액이 줄어든 과정",
+          "body": "롯데칠성의 2026년 상반기 연결 영업활동현금흐름은 1637.89억원으로 전년 동기의 1493.12억원보다 약 9.7% 증가했습니다. 순이익과 현금흐름은 서로 다른 지표입니다. 현금흐름표는 이익에서 출발해 비현금 항목과 자산·부채의 변동 및 실제 이자·세금 등의 지급을 반영합니다. 이익 증가율만으로 현금 유입 증가율을 대신할 수 없습니다."
+        },
+        {
+          "heading": "다음 실적에서 확인할 비용과 자금 항목",
+          "body": "2026년 6월 말 연결 자산총계는 4조3713.43억원이며 부채총계는 2조7324.55억원입니다. 자본총계는 1조6388.88억원입니다. 부채에는 차입금뿐 아니라 매입채무와 리스부채 등도 포함되므로 부채총계를 모두 금융기관에서 빌린 돈으로 해석하면 안 됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-06T16:48:11.617Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e8c99522622935a6ed54b990d51ca3cc1e633a4d41da3d50b8054befb8839cb8"
+    },
+    {
+      "id": "naver:tnsqo1126:224433261165",
+      "logNo": "224433261165",
+      "title": "카즈하의 파란 머리와 은색 원피스는 어떤 촬영일까? 'Made My Night' 현장",
+      "url": "https://blog.naver.com/tnsqo1126/224433261165",
+      "publishedAt": "2026-10-06T09:52:52.000Z",
+      "dateLabel": "2026. 10. 6.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "카즈하의 파란색 머리 가닥과 은색 원피스는 'Made My Night' 촬영에서 공개된 모습입니다. 르세라핌 공식 채널은 2026년 9월 12일 뮤직비디오와 음반 사진의 촬영 과정을 담은 LE PLAY를 공개했습니다. 검은 의상에 보라색 장식을 더한 장면부터 밝은 긴소매 상의와 은색 원피스를 겹쳐 입은 장면까지 같은 음반의 서로 다른 콘셉트를 볼 수 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDZfMjg2/MDAxNzkxMjgwMzE5NjAx.TOlTcaXH5NMR4BcT1z591aW60a4KdxmhZsXzIq6BINUg.fLUgtjMWY-kA6P4wqM4ApBi4oOv5qAlGD6CmR3OVooQg.JPEG/album-11.jpg?type=s3",
+      "tags": [
+        "카즈하",
+        "르세라핌",
+        "카즈하근황",
+        "MadeMyNight",
+        "카즈하파란머리",
+        "카즈하은색원피스",
+        "LEPLAY",
+        "카즈하촬영"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224433099302",
       "logNo": "224433099302",
