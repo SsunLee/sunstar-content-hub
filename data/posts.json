@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-05T19:17:30.234Z",
-  "expectedPublicCount": 1407,
-  "total": 1407,
+  "generatedAt": "2026-10-06T01:18:02.273Z",
+  "expectedPublicCount": 1408,
+  "total": 1408,
   "counts": {
-    "entertainment": 311,
+    "entertainment": 312,
     "stocks": 158,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224432577526",
+      "logNo": "224432577526",
+      "title": "'암살자(들)' 박지환, 감식계장 현도의 대사를 바꾼 촬영 현장",
+      "url": "https://blog.naver.com/tnsqo1126/224432577526",
+      "publishedAt": "2026-10-05T23:20:38.000Z",
+      "dateLabel": "2026. 10. 6.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "영화 '암살자(들)'에서 탄환의 행방을 설명하는 감식계장 현도는 박지환이 연기합니다. 형사 철구가 사건을 추적하는 동안 현도는 암실에서 탄환을 둘러싼 의문을 함께 짚는 인물입니다. '범죄도시'의 장이수로 익숙한 배우가 이번에는 감식계장으로 등장합니다. 영화진흥위원회가 제공하는 2026년 10월 5일 일별 박스오피스에서 '암살자(들)'은 1위였습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDZfMTkw/MDAxNzkxMjQyNjUxMDMz.6sM-7yz1kONXniBiuAq0MLnnQpklIlqv_S1mUjXeU3og.r-rgSA9H1kHxTwR8JoKJ5sZQvUi65k6HH77g8ApCBOwg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "박지환",
+        "암살자들",
+        "현도",
+        "허진호",
+        "박지환나이",
+        "박지환데뷔",
+        "영화배우",
+        "배우근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224432472375",
       "logNo": "224432472375",
