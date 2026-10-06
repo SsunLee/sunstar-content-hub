@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-06T16:48:11.617Z",
-  "expectedPublicCount": 1414,
-  "total": 1414,
+  "generatedAt": "2026-10-06T22:39:21.996Z",
+  "expectedPublicCount": 1416,
+  "total": 1416,
   "counts": {
-    "entertainment": 316,
-    "stocks": 160,
+    "entertainment": 317,
+    "stocks": 161,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224433646636",
+      "logNo": "224433646636",
+      "title": "농심 영업현금 2312억원 유입에도 잔액 감소, 상반기 투자 지출의 구성",
+      "url": "https://blog.naver.com/tnsqo1126/224433646636",
+      "publishedAt": "2026-10-06T20:33:49.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업현금 유입과 잔액 감소의 차이 농심은 2026년 상반기에 영업활동으로 현금 2311.74억원을 벌었지만 현금및현금성자산은 341.20억원 줄었습니다. 투자활동과 재무활동의 순유출이 영업현금 유입을 웃돌았기 때문입니다. 다만 투자활동의 지출을 모두 공장 건설비로 볼 수는 없습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfODUg/MDAxNzkxMzE4NzgxMDQ4.1TpFZpOw_zQdbycYzZM8CaNzDz5MctYmNh0K5NRPLGkg.tObptml0YZoZAwRkf4iYiYZT58nozgrbYxy25AaJ7JEg.PNG/hero.png?type=s3",
+      "tags": [
+        "농심",
+        "004370",
+        "상반기실적",
+        "영업현금흐름",
+        "설비투자",
+        "금융상품",
+        "운전자본",
+        "재무분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "영업현금 유입과 잔액 감소의 차이",
+          "body": "농심은 2026년 상반기에 영업활동으로 현금 2311.74억원을 벌었지만 현금및현금성자산은 341.20억원 줄었습니다. 투자활동과 재무활동의 순유출이 영업현금 유입을 웃돌았기 때문입니다. 다만 투자활동의 지출을 모두 공장 건설비로 볼 수는 없습니다. 금융상품을 사고 만기에 회수한 금액과 유형자산을 취득한 금액이 함께 들어 있습니다."
+        },
+        {
+          "heading": "상반기 매출과 영업이익의 증가",
+          "body": "농심의 2026년 상반기 연결 매출은 1조8900.92억원으로 전년 같은 기간의 1조7607.62억원보다 7.3% 증가했습니다. 영업이익은 962.04억원에서 1266.77억원으로 31.7% 늘었습니다. 영업현금흐름도 1293.78억원에서 2311.74억원으로 78.7% 증가했습니다. 아래 비교는 모두 각 연도 1월부터 6월까지의 누적 연결 기준입니다."
+        },
+        {
+          "heading": "영업현금 증가에 반영된 운전자본",
+          "body": "상반기 연결 순이익은 1153.42억원인데 영업현금흐름은 2311.74억원입니다. 현금흐름표는 순이익에 비현금항목 1022.98억원과 운전자본 조정 271.82억원 등을 반영합니다. 감가상각비처럼 이익을 계산할 때 비용으로 반영되지만 당기에 같은 금액의 현금이 나가는 것은 아닌 항목이 있어 순이익과 영업현금은 다르게 나타납니다."
+        },
+        {
+          "heading": "투자 순유출과 설비 취득액의 구분",
+          "body": "농심의 상반기 투자활동 순유출은 2238.41억원입니다. 투자활동 총유입 2조3837.83억원과 총유출 2조6076.24억원의 차이입니다. 총유출액만 보고 그만큼 공장을 지었다고 해석하면 금융자산 거래가 설비 투자로 잘못 포함됩니다. 현금흐름표에서 유형자산 취득에 실제로 사용한 현금은 1204.95억원입니다."
+        },
+        {
+          "heading": "현금 잔액과 단기금융상품의 변화",
+          "body": "영업활동 +2311.74억원과 투자활동 -2238.41억원 및 재무활동 -572.78억원을 합치면 499.45억원 순유출입니다. 외화표시현금의 환율변동효과 +158.25억원을 더하면 최종 현금 감소액 341.20억원과 연결됩니다. 현금및현금성자산은 2025년 말 2535.40억원에서 2026년 6월 말 2194.20억원으로 줄었습니다."
+        },
+        {
+          "heading": "다음 보고서에서 확인할 항목",
+          "body": "농심은 면류·스낵·음료를 판매하고 미국과 중국 등에서 현지 사업을 운영합니다. 반기보고서 사업 개요에는 국내 라면시장의 양적 저성장과 해외사업 확대 방향이 함께 설명돼 있습니다. 국내 수요와 해외 판매를 구분해 봐야 하는 기업이지만 연결 본표의 실적 개선액을 특정 신제품이나 해외 법인 하나의 성과로 전부 돌릴 근거는 없습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-06T22:39:21.996Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d312540a28086ee8eafa1b48b363a8571e6a40b0b743f05d93b275ddf66ed896"
+    },
+    {
+      "id": "naver:tnsqo1126:224433608459",
+      "logNo": "224433608459",
+      "title": "사쿠라, 검은 의상부터 파란 줄무늬까지 'Made My Night' 촬영 현장",
+      "url": "https://blog.naver.com/tnsqo1126/224433608459",
+      "publishedAt": "2026-10-06T17:52:41.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "사쿠라는 'Made My Night' 촬영에서 검은 의상과 파란 줄무늬 상의를 선보였습니다. 르세라핌 공식 채널이 2026년 9월 12일 공개한 뮤직비디오·재킷 촬영 영상에는 긴 분홍 머리와 짧은 분홍 머리를 각각 연출한 사쿠라가 등장합니다. 같은 음반을 위한 촬영이지만 의상과 세트에 따라 머리 길이와 자세가 달라집니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMTUy/MDAxNzkxMzA5MTA4Nzcz.0J64lz1k9Cb2y8wHcvUsJls3Bd-fA2Y-tryiY2-HDlEg.CQSc_-WHQOwmAxcdVPP7USAJ6q1CWygtRAkVMRsNR8Eg.JPEG/sketch-082.jpg?type=s3",
+      "tags": [
+        "사쿠라",
+        "르세라핌",
+        "사쿠라근황",
+        "MadeMyNight",
+        "사쿠라촬영",
+        "사쿠라분홍머리",
+        "LEPLAY",
+        "사쿠라의상"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224433541446",
       "logNo": "224433541446",
