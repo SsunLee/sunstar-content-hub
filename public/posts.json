@@ -4,15 +4,131 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-07T05:57:12.974Z",
-  "expectedPublicCount": 1419,
-  "total": 1419,
+  "generatedAt": "2026-10-07T13:20:10.751Z",
+  "expectedPublicCount": 1422,
+  "total": 1422,
   "counts": {
-    "entertainment": 319,
-    "stocks": 162,
+    "entertainment": 321,
+    "stocks": 163,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224434532202",
+      "logNo": "224434532202",
+      "title": "LG유플러스 상반기 영업이익 6167억원, 매출 감소에도 이익이 늘어난 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224434532202",
+      "publishedAt": "2026-10-07T12:33:52.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업수익보다 더 많이 줄어든 영업비용 LG유플러스의 2026년 상반기 연결 영업이익은 영업수익 감소액보다 영업비용 감소액이 커지면서 늘었습니다. 영업수익은 전년 같은 기간보다 938.13억원 줄었지만 영업비용은 1506.25억원 감소했습니다. 두 금액의 차이인 568.12억원이 영업이익 증가액입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMzUg/MDAxNzkxMzc2Mzg2NTg3.w8LkD9QiMUksuaqMl6z5zf8gwlAP1oRQ31-qk2k3TzMg.JTTGSYjpcranIT2F_O-Q5se0spbH7QLN7JXGgXjSa_4g.PNG/hero.png?type=s3",
+      "tags": [
+        "LG유플러스",
+        "032640",
+        "상반기실적",
+        "영업이익",
+        "영업비용",
+        "현금흐름",
+        "재무분석",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "영업수익보다 더 많이 줄어든 영업비용",
+          "body": "LG유플러스의 2026년 상반기 연결 영업이익은 영업수익 감소액보다 영업비용 감소액이 커지면서 늘었습니다. 영업수익은 전년 같은 기간보다 938.13억원 줄었지만 영업비용은 1506.25억원 감소했습니다. 두 금액의 차이인 568.12억원이 영업이익 증가액입니다. 매출 성장과 비용 절감이 이익에 미친 영향을 나누어 볼 필요가 있습니다."
+        },
+        {
+          "heading": "10월 7일 마감 가격과 거래 범위",
+          "body": "네이버 증권의 2026년 10월 7일 애프터마켓 마감 화면에서 LG유플러스(032640)는 1만4470원으로 표시됐습니다. 전일 대비 90원, 0.62% 하락한 가격입니다. 같은 화면의 거래량은 62만5468주이고 거래대금은 90억8600만원입니다. 거래량과 거래대금은 KRX와 NXT 통합 기준이라는 안내가 붙어 있습니다."
+        },
+        {
+          "heading": "상품구입원가 감소와 판매수수료 증가",
+          "body": "상반기 영업비용 가운데 상품구입원가는 1조6400.45억원에서 1조3843.73억원으로 2556.72억원 줄었습니다. 종업원급여는 8204.22억원에서 7945.72억원으로 258.50억원 감소했습니다. 지급수수료도 29.48억원 줄었고 기타영업비용은 157.63억원 감소했습니다. 이 네 항목의 감소액 합계는 3002.33억원입니다."
+        },
+        {
+          "heading": "2분기와 상반기를 구분하는 기준",
+          "body": "LG유플러스의 2분기 연결 영업수익은 3조6949.13억원이고 영업이익은 3444.72억원입니다. 전년 2분기 영업이익 3045.06억원보다 399.66억원, 13.1% 증가했습니다. 상반기 6167.45억원에는 1분기와 2분기가 모두 포함되므로 2분기 수치를 다시 더하면 기간이 중복됩니다."
+        },
+        {
+          "heading": "영업현금과 투자 지출을 함께 읽기",
+          "body": "2026년 상반기 연결 영업활동 현금흐름은 1조8625.02억원으로 전년 동기의 1조7090.01억원보다 1535.01억원 증가했습니다. 같은 기간 순이익은 3937.29억원입니다. 순이익과 영업현금흐름은 감가상각처럼 현금 지출이 없는 비용, 운전자본 변화, 이자 및 법인세 지급 등을 반영하는 방식이 달라 일치하지 않습니다."
+        },
+        {
+          "heading": "다음 실적에서 이어서 확인할 항목",
+          "body": "6월 말 연결 자산은 19조8418.30억원이고 부채는 10조5733.19억원, 자본은 9조2685.11억원입니다. 이 가운데 유동부채는 5조3418.86억원으로 전년 말 4조6763.19억원보다 늘었습니다. 전체 부채는 줄었더라도 유동·비유동 분류가 달라질 수 있으므로 총액과 단기 항목을 나누어 읽어야 합니다. 6월 말 재무상태를 10월 현재 잔액으로 표현하지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-07T13:20:10.751Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:bc4258a713ead540f01867084c160634455c2d822a473e6311f9c0aeef14ca58"
+    },
+    {
+      "id": "naver:tnsqo1126:224434406901",
+      "logNo": "224434406901",
+      "title": "큐카드 읽고 무대로, 장원영의 '2026 TIMA' 비하인드",
+      "url": "https://blog.naver.com/tnsqo1126/224434406901",
+      "publishedAt": "2026-10-07T09:56:40.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "장원영은 '2026 TIMA BEHIND'에서 흰 드레스를 입고 오프닝 멘트를 준비한 뒤, 검은 레이스 의상으로 무대에 나섭니다. 아이브 공식 유튜브가 2026년 10월 1일 공개한 영상에는 대기실에서 종이를 든 모습과 무대 옆에서 큐카드를 읽는 모습이 함께 담겼습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfNDgg/MDAxNzkxMzY2OTQ5NDMx.LM8LP8VogjCgVStq6pW1dSDCjkUZg7LkYyI6r8gObWog.5X2FmC_ob_QOHIRzhiHjYaPvHKA1s3vcjBta__w_a2Eg.JPEG/tima-440.jpg?type=s3",
+      "tags": [
+        "장원영",
+        "아이브",
+        "장원영TIMA",
+        "TIMA",
+        "아이브온",
+        "장원영드레스",
+        "장원영근황",
+        "IVE"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224434259392",
+      "logNo": "224434259392",
+      "title": "박혁권, '연애박사' 임용석으로 만나는 카센터 아버지",
+      "url": "https://blog.naver.com/tnsqo1126/224434259392",
+      "publishedAt": "2026-10-07T07:28:33.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ENA '연애박사'에서 제일 카센터 사장 임용석을 연기하는 배우는 박혁권입니다. 용석은 김소현이 맡은 임유진의 아버지로, 아내와 두 자녀를 자랑스럽게 여기는 인물입니다. 대학원 연구실을 오가는 유진의 이야기 곁에 카센터 가족의 일상이 놓여 있습니다. 박혁권은 1971년 7월 11일생으로 2026년 10월 7일 기준 만 55세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMTg0/MDAxNzkxMzU4MDYwNzMw.P3m5v2vWyxC9i83wZSLe1RDivBebTT0t-_y4w2OK4Nsg.jXsfrB6pleLbVkH86o5LfPOZNiVv5ULdBSKDQTcwmcsg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "박혁권",
+        "연애박사",
+        "임용석",
+        "박혁권나이",
+        "박혁권출연작",
+        "육룡이나르샤",
+        "ENA",
+        "월화드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224434051832",
       "logNo": "224434051832",
