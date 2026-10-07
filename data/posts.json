@@ -4,15 +4,152 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-06T22:39:21.996Z",
-  "expectedPublicCount": 1416,
-  "total": 1416,
+  "generatedAt": "2026-10-07T05:57:12.974Z",
+  "expectedPublicCount": 1419,
+  "total": 1419,
   "counts": {
-    "entertainment": 317,
-    "stocks": 161,
+    "entertainment": 319,
+    "stocks": 162,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224434051832",
+      "logNo": "224434051832",
+      "title": "펩트론 상반기 영업손실 137억원, 현금 잔액은 왜 늘었을까",
+      "url": "https://blog.naver.com/tnsqo1126/224434051832",
+      "publishedAt": "2026-10-07T04:33:13.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 적자 확대와 현금 증가가 함께 나타난 상반기 펩트론의 2026년 상반기 현금 잔액은 금융상품 거래 등이 포함된 투자활동에서 현금이 순유입되면서 늘었습니다. 영업으로 현금이 쌓인 것은 아닙니다. 영업활동에서는 80.44억원이 빠져나갔지만 투자활동에서 160.68억원이 들어와 영업 유출을 웃돌았습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfNyAg/MDAxNzkxMzQ3NTQ2NDA4.avj-_DOew31_8KpQqjFwgIcUq2lOrlNTBFZwUruEbvsg.lJrpCcNRjzyGtjRdLy5De7PjGn0zHF61xGilSKleqdEg.PNG/hero.png?type=s3",
+      "tags": [
+        "펩트론",
+        "087010",
+        "상반기실적",
+        "영업손실",
+        "현금흐름",
+        "금융상품",
+        "재무분석",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "적자 확대와 현금 증가가 함께 나타난 상반기",
+          "body": "펩트론의 2026년 상반기 현금 잔액은 금융상품 거래 등이 포함된 투자활동에서 현금이 순유입되면서 늘었습니다. 영업으로 현금이 쌓인 것은 아닙니다. 영업활동에서는 80.44억원이 빠져나갔지만 투자활동에서 160.68억원이 들어와 영업 유출을 웃돌았습니다. 기말 현금만 보면 놓치기 쉬운 차이입니다."
+        },
+        {
+          "heading": "매출 12.0% 증가에도 영업손실 확대",
+          "body": "펩트론의 2026년 1~6월 매출은 34.12억원으로 전년 동기 30.46억원보다 약 12.0% 증가했습니다. 같은 기간 영업손실은 93.31억원에서 137.26억원으로 43.95억원 커졌습니다. 매출 증가와 손익 개선이 같은 방향으로 움직이지 않았습니다. 비교값은 반기보고서의 재무제표 기준이며 연결 실적으로 표시하지 않습니다."
+        },
+        {
+          "heading": "매출원가와 판관비가 손실에 미친 영향",
+          "body": "매출에서 매출원가를 뺀 매출총이익은 2025년 상반기 18.43억원에서 2026년 상반기 0.43억원으로 줄었습니다. 매출이 3.66억원 늘어난 동안 매출원가는 12.03억원에서 33.69억원으로 21.66억원 증가했습니다. 매출원가 증가액이 매출 증가액보다 컸기 때문에 매출총이익이 감소했습니다."
+        },
+        {
+          "heading": "현금 증가를 만든 투자활동 순유입",
+          "body": "2026년 상반기 영업활동 현금흐름은 80.44억원 순유출입니다. 전년 동기 순유출 83.75억원보다는 유출 규모가 3.31억원 줄었지만 영업에서 현금을 만들어낸 상태로 바뀐 것은 아닙니다. 영업에서 창출된 현금은 마이너스 102.47억원이었고 이자 수취와 이자 지급, 법인세 항목 등을 반영한 뒤의 영업활동 합계가 마이너스 80.44억원입니다."
+        },
+        {
+          "heading": "현금만 늘었는지 금융상품도 함께 확인",
+          "body": "2026년 6월 말 현금및현금성자산 123.12억원은 10월 현재 잔액이 아닙니다. 같은 재무상태표의 금융기관예치금은 253.09억원, 단기금융상품은 141.85억원입니다. 2025년 말에는 각각 281.59억원과 470.43억원이었습니다. 현금 계정이 늘어나는 동안 두 금융상품 계정의 잔액은 감소했습니다."
+        },
+        {
+          "heading": "다음 실적에서 확인할 손익과 자금 항목",
+          "body": "펩트론의 후속 실적에서는 매출 증가 여부뿐 아니라 매출총이익이 얼마나 남는지, 판관비와 비교했을 때 영업손실 규모가 어떻게 바뀌는지를 함께 확인할 필요가 있습니다. 상반기에는 매출 증가보다 매출원가와 판관비 증가의 영향이 더 컸습니다. 매출 한 항목만으로 수익성 개선을 판단하기 어려운 이유입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-07T05:57:12.974Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:4249f55048132f40a4a3002df0c5723c12e739fc4f1cf5920d214e0f00a278c1"
+    },
+    {
+      "id": "naver:tnsqo1126:224433880158",
+      "logNo": "224433880158",
+      "title": "원희의 샤넬 파리 영상, 선글라스와 카페 장면에 담긴 옷차림",
+      "url": "https://blog.naver.com/tnsqo1126/224433880158",
+      "publishedAt": "2026-10-07T01:54:24.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "원희는 샤넬과 함께한 데이즈드 코리아의 파리 영상에서 짙은 재킷과 흰 상의, 청바지를 입었습니다. 한국 시간 2026년 10월 6일 공개된 세 편은 선글라스를 내리는 얼굴에서 거리와 카페로 이어집니다. 영상 원문에는 협찬 표시가 있습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMTM3/MDAxNzkxMzM4MDE0Njk3.2R8NR4vhEigpEef908IBxNbPnvJAb_IJCwkSzjXwmlUg.-W3s-mduYU4oR_rFWqkeCjE_Ij7OS9QQT8MRrAkb1ZEg.JPEG/DeIBXm3T6HU-09.jpg?type=s3",
+      "tags": [
+        "원희",
+        "아일릿",
+        "원희샤넬",
+        "샤넬",
+        "데이즈드코리아",
+        "원희근황",
+        "원희파리",
+        "ILLIT"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "선글라스 너머로 등장하는 원희",
+          "body": "첫 번째 영상의 제목은 'WANTED: SECRET GIRL'입니다. 벽에 붙은 포스터로 시작한 뒤 원희의 얼굴과 재킷 단추가 가까이 잡힙니다. 포스터의 문구와 원희의 몸짓은 이 패션 영상 안에서 이어지는 연출입니다. 포스터 속 설정을 실제로 벌어진 사건으로 볼 수는 없습니다."
+        },
+        {
+          "heading": "원희의 기본 정보와 아일릿 데뷔",
+          "body": "원희는 2007년 6월 26일생으로 2026년 10월 7일 기준 만 19세입니다. 빌리프랩의 공식 아티스트 소개에 생년월일과 멤버명이 함께 기재되어 있습니다. 아일릿은 윤아, 민주, 모카, 원희, 이로하 다섯 명으로 구성된 그룹입니다."
+        },
+        {
+          "heading": "'Magnetic'이 실린 첫 음반과 파리 카페 장면",
+          "body": "아일릿의 첫 미니앨범 'SUPER REAL ME'는 네 곡으로 구성되어 있습니다. 'My World'로 시작해 타이틀곡 'Magnetic', 'Midnight Fiction', 'Lucky Girl Syndrome'으로 이어집니다. 빌리프랩의 음반 소개는 첫 앨범이 십 대의 생각과 감정, 일상을 담았다고 설명합니다."
+        },
+        {
+          "heading": "세 번째 영상의 마지막 얼굴과 원문 확인",
+          "body": "카페 영상의 19초 부근에는 원희가 한 손으로 턱을 받치고 정면을 바라봅니다. 앞서 어깨에 걸쳤던 재킷 대신 흰 상의의 목 부분과 금색 단추가 보입니다. 머리카락 한 가닥이 얼굴 한쪽을 따라 내려와 있고 뒤쪽에는 카페의 따뜻한 색 조명이 흐리게 보입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-07T05:57:12.974Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:4631cd198c69ff18a5c2aa062f12ed99d70597b9dd5d3c63a8b16aaae722fc52"
+    },
+    {
+      "id": "naver:tnsqo1126:224433726445",
+      "logNo": "224433726445",
+      "title": "'연애박사' 유진의 오빠 임유성, 김민석의 나이·데뷔와 출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224433726445",
+      "publishedAt": "2026-10-06T23:20:36.000Z",
+      "dateLabel": "2026. 10. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ENA '연애박사'에서 임유진의 오빠 임유성을 연기하는 배우는 김민석입니다. 유성은 가족이 운영하는 제일 카센터의 정비사로 등장합니다. 로봇공학을 공부하는 동생 유진 역은 김소현이 맡았습니다. 김민석은 1990년 1월 24일생으로 2026년 10월 7일 기준 만 36세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMTQy/MDAxNzkxMzI4NzgzMDI4.5Ek8_IsSxrs_WG3vTVFKCTHO3-esDJlj4mctIU449Ccg.wwb0CAkphCFEfjjU_8avJZhdf1djxrhzA47yUUzU7A0g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "김민석",
+        "연애박사",
+        "임유성",
+        "김민석나이",
+        "김민석데뷔",
+        "태풍상사",
+        "ENA",
+        "월화드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224433646636",
       "logNo": "224433646636",
