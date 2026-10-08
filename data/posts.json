@@ -4,15 +4,102 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-08T00:11:47.139Z",
-  "expectedPublicCount": 1426,
-  "total": 1426,
+  "generatedAt": "2026-10-08T06:01:15.706Z",
+  "expectedPublicCount": 1428,
+  "total": 1428,
   "counts": {
-    "entertainment": 324,
-    "stocks": 164,
+    "entertainment": 325,
+    "stocks": 165,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224435169002",
+      "logNo": "224435169002",
+      "title": "하나금융지주 자사주 188만5706주 취득, 2500억원과 실제 매입액의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224435169002",
+      "publishedAt": "2026-10-08T04:35:23.000Z",
+      "dateLabel": "2026. 10. 8.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 수수료까지 포함한 2500억원 취득 하나금융지주는 2026년 7월 28일부터 9월 29일까지 보통주 188만5706주를 취득했습니다. 10월 1일 자기주식취득결과보고서에 나온 주식 매입대금은 2497억5016만4400원입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDhfMjM2/MDAxNzkxNDM0MDc1NDE1.6JdGK2cwSmjRS_z6Vlln9RvnzSs8oGq0cDZ1cbQHo2Yg.okGR-9yQBidyvtVkfJjuPf-rFwbc6X-5o-N9kzqvdU0g.PNG/hero.png?type=s3",
+      "tags": [
+        "하나금융지주",
+        "086790",
+        "자사주취득",
+        "자기주식",
+        "취득결과보고서",
+        "주주환원",
+        "상반기실적",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "수수료까지 포함한 2500억원 취득",
+          "body": "하나금융지주는 2026년 7월 28일부터 9월 29일까지 보통주 188만5706주를 취득했습니다. 10월 1일 자기주식취득결과보고서에 나온 주식 매입대금은 2497억5016만4400원입니다. 제수수료를 포함하면 2499억9991만4370원으로, 당초 예정한 2500억원과의 차이는 8만5630원입니다. 2500억원이라는 계획과 실제 매입대금의 차이는 수수료 포함 여부를 구분하면 이해할 수 있습니다."
+        },
+        {
+          "heading": "매입대금과 수수료의 계산",
+          "body": "수수료 포함 총액 2499억9991만4370원에서 주식 매입대금 2497억5016만4400원을 빼면 제수수료는 2억4974만9970원입니다. 예정금액과 주식 매입대금 사이의 2억4983만5600원은 이 수수료와 남은 8만5630원을 합한 금액입니다. 모두 같은 거래를 설명하지만 금액의 범위가 다릅니다."
+        },
+        {
+          "heading": "이번 매입분과 전체 보유량",
+          "body": "2026년 10월 1일 기준 하나금융지주가 공시한 자기주식 보유량은 622만5706주입니다. 기존 보유분 434만주에 이번 취득분 188만5706주를 더한 수치입니다. 보고서의 보유비율 2.30%는 당시 발행주식총수 2억7096만9910주를 분모로 계산했습니다."
+        },
+        {
+          "heading": "10월 8일 장중 주가와 평균 취득가",
+          "body": "네이버 증권의 2026년 10월 8일 오후 1시 27분 정규장 화면에서 하나금융지주는 12만5000원으로 표시됐습니다. 화면의 기준가 12만8900원보다 3900원, 3.03% 낮았습니다. 이는 장중 관찰값이며 당일 종가가 아닙니다. 공시의 수수료 제외 평균 취득가 13만2444원과 비교하면 7444원 낮습니다."
+        },
+        {
+          "heading": "상반기 이익과 자사주 취득의 시차",
+          "body": "하나금융지주의 2026년 상반기 연결 영업이익은 3조2479억8400만원으로 전년 동기의 2조9822억4800만원보다 8.9% 증가했습니다. 지배기업 소유주에게 귀속되는 반기순이익은 2조4028억6800만원으로 4.4% 늘었습니다. 비지배지분을 포함한 연결반기순이익 2조4367억4600만원과는 범위가 다릅니다."
+        },
+        {
+          "heading": "은행업 현금흐름과 후속 확인 사항",
+          "body": "하나금융지주의 상반기 연결 영업활동 현금흐름은 5843억9400만원 순유출입니다. 연결반기순이익이 흑자였다는 사실과 함께 봐야 합니다. 현금흐름표에는 대출채권·예수부채·단기매매 목적 금융자산·기타자산과 부채의 변동이 포함됩니다. 금융회사의 영업현금흐름을 일반 제조업의 제품 판매대금처럼 단순하게 해석하기는 어렵습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-08T06:01:15.706Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:14c7796089c55f6f4c8d6c2eb0ebcba4b091303ee1ceacb59768970a897998d1"
+    },
+    {
+      "id": "naver:tnsqo1126:224434994091",
+      "logNo": "224434994091",
+      "title": "레이, 'TIMA' 대기실에서 소개한 차슈 밥과 검은 무대복",
+      "url": "https://blog.naver.com/tnsqo1126/224434994091",
+      "publishedAt": "2026-10-08T01:52:14.000Z",
+      "dateLabel": "2026. 10. 8.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "레이는 '2026 TIMA' 비하인드에서 차슈 밥을 소개하고 검은 무대복 차림으로 공연을 준비했습니다. 아이브 공식 유튜브 채널이 2026년 10월 1일 공개한 'IVE ON'에는 흰 드레스를 입고 이동하는 모습부터 대기실 식사, 인이어를 착용한 준비 장면과 무대까지 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMDhfMTIx/MDAxNzkxNDI0MjgzNTkz.PMWbu-Df85C2OaLVjsRJOblVZ_v718oKnK4A39QCt6sg.6I7msEvZgsQ-Qk-zJdFvKGhvScbfj-YOIaaNf_uJQxgg.JPEG/tima-885.jpg?type=s3",
+      "tags": [
+        "레이",
+        "아이브",
+        "레이TIMA",
+        "TIMA",
+        "아이브온",
+        "레이무대",
+        "레이근황",
+        "IVE"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224434852102",
       "logNo": "224434852102",
