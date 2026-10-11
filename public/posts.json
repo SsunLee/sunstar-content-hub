@@ -4,15 +4,115 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-10T23:32:38.877Z",
-  "expectedPublicCount": 1447,
-  "total": 1447,
+  "generatedAt": "2026-10-11T05:44:24.488Z",
+  "expectedPublicCount": 1449,
+  "total": 1449,
   "counts": {
-    "entertainment": 339,
-    "stocks": 170,
+    "entertainment": 340,
+    "stocks": 171,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224437918858",
+      "logNo": "224437918858",
+      "title": "이마트 2분기 실적, 별도 이익 256억원과 연결 손실 430억원의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224437918858",
+      "publishedAt": "2026-10-11T04:42:51.000Z",
+      "dateLabel": "2026. 10. 11.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 별도 흑자와 연결 적자는 계산 범위가 다릅니다 이마트의 2026년 2분기 별도 영업이익은 256억원이고 연결 영업손실은 430억원입니다. 별도 실적은 이마트 자체의 손익이며 연결 실적에는 자회사와 연결 조정이 반영되므로 두 수치가 함께 나올 수 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMTFfNjAg/MDAxNzkxNjkzNzE1ODQw.e96qZk1Hyy7gIyGKd1uiZ-8pe_ckOFCB-0hBaPLUNVYg.Og5F82EMvUdHOVx1cc9203KtTn86LMVNdlsVwD7MW6wg.PNG/hero.png?type=s3",
+      "tags": [
+        "이마트",
+        "139480",
+        "이마트실적",
+        "연결실적",
+        "별도실적",
+        "영업이익",
+        "자회사실적",
+        "현금흐름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "별도 흑자와 연결 적자는 계산 범위가 다릅니다",
+          "body": "이마트의 2026년 2분기 별도 영업이익은 256억원이고 연결 영업손실은 430억원입니다. 별도 실적은 이마트 자체의 손익이며 연결 실적에는 자회사와 연결 조정이 반영되므로 두 수치가 함께 나올 수 있습니다. 이마트 본사의 이익이 늘어난 가운데 자회사 손익까지 포함한 연결 기준에서는 적자를 기록했습니다."
+        },
+        {
+          "heading": "자회사별 손익 변화가 같은 방향은 아닙니다",
+          "body": "공식 IR 자료의 주요 연결 자회사 실적표에서 SCK컴퍼니의 2분기 영업손익은 전년 403억원 흑자에서 184억원 적자로 바뀌었습니다. 전년 대비 감소액은 587억원입니다. 회사는 6월 써머 프리퀀시 행사를 진행하지 않았다고 설명하지만 행사 미진행만으로 이 감소액 전체를 계산해 설명하지는 않습니다."
+        },
+        {
+          "heading": "별도 개선과 연결 범위를 함께 확인합니다",
+          "body": "이마트 별도 실적 안에서도 사업부별 상태는 다릅니다. 할인점의 2분기 영업손실은 전년 328억원에서 271억원으로 줄었고 트레이더스 영업이익은 307억원에서 346억원으로 늘었습니다. 에브리데이 영업이익은 54억원에서 81억원으로 증가했으며 전문점은 124억원에서 100억원으로 감소했습니다."
+        },
+        {
+          "heading": "다음 실적에서는 기간과 손익 단계를 맞춰 봅니다",
+          "body": "이마트의 후속 실적을 볼 때에는 연결과 별도 영업손익을 같은 기간으로 맞춘 뒤 할인점·트레이더스·에브리데이와 주요 자회사 손익을 각각 비교하면 변화가 구체적으로 드러납니다. 손실이 줄었는지, 흑자로 바뀌었는지, 기존 흑자의 크기가 줄었는지도 구분할 수 있습니다. 자회사 손익표의 현재 금액과 전년 대비 증감을 따로 읽는 것이 출발점입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-11T05:44:24.488Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:2753d0be48515308242225624eee96140667dfbd96df70227245efad6849d8ae"
+    },
+    {
+      "id": "naver:tnsqo1126:224437810217",
+      "logNo": "224437810217",
+      "title": "김재중 JX CORE 콘서트, 인천 마지막 회차와 THE WAVE 근황",
+      "url": "https://blog.naver.com/tnsqo1126/224437810217",
+      "publishedAt": "2026-10-11T02:02:27.000Z",
+      "dateLabel": "2026. 10. 11.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "김재중과 김준수의 JX CORE 인천 공연 마지막 회차는 2026년 10월 11일 오후 5시, 인스파이어 아레나에서 열립니다. 10월 9일부터 이어진 인천 공연의 세 번째 날입니다. 김재중은 JX 공연과 솔로 활동을 함께 이어가고 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMTFfMTcw/MDAxNzkxNjg0MDg4MjM3.MUqhtcsQIgkUW32xix6kPw-T702mwQmNcBcSW_ehpVsg.loM-ktuKi1ChWGdaDQ-SlPJSQA3YquWgfxsOua3Fnmkg.JPEG/0lNTM8pdwl0-004.jpg?type=s3",
+      "tags": [
+        "김재중",
+        "JX",
+        "김준수",
+        "김재중근황",
+        "JXCORE",
+        "인천콘서트",
+        "THEWAVE",
+        "Tonight"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "인천 CORE 공연의 마지막 회차가 열립니다",
+          "body": "인코드가 공개한 공연명은 JX 2026 TOUR CONCERT CORE in INCHEON입니다. 공식 일정은 10월 9일 금요일 오후 6시, 10일 토요일 오후 5시, 11일 일요일 오후 5시입니다. 세 회차의 장소는 모두 인스파이어 아레나로 안내돼 있습니다. 2026년 10월 11일 오전 기준으로 마지막 회차의 시작 시각은 오후 5시입니다."
+        },
+        {
+          "heading": "JX 영상과 THE WAVE 촬영에서 다른 모습을 보여 줍니다",
+          "body": "CORE 트레일러에서 김재중은 밝은 갈색 머리와 금속 장식이 달린 검은 재킷을 착용합니다. 김준수와 함께 선 장면에는 셔터와 작업대처럼 보이는 배경이 있고 두 사람의 검은 의상에 붉은 빛이 부분적으로 비칩니다. 이 장면은 공연을 앞두고 공개한 홍보 영상의 한 부분입니다."
+        },
+        {
+          "heading": "기본 정보와 데뷔 기념일을 확인합니다",
+          "body": "김재중은 1986년 1월 26일생이며 2026년 10월 11일 기준 만 40세입니다. 일본 공식 프로필에는 충청남도 공주 출생으로 안내돼 있습니다. 인코드의 공식 아티스트 목록은 김재중을 솔로 가수로 소개합니다. JX에서는 김준수와 함께 공연에 참여합니다."
+        },
+        {
+          "heading": "THE WAVE의 두 곡과 녹음실 근황이 이어집니다",
+          "body": "김재중의 싱글 앨범 THE WAVE에는 타이틀곡 Tonight과 수록곡 마중길 두 곡이 들어 있습니다. 인코드 공식 뮤직비디오와 발매 예고는 2026년 8월 20일 오후 6시 공개를 안내했습니다. 지니 공식 매거진도 두 곡과 Tonight 뮤직비디오 촬영 현장을 소개합니다. THE WAVE는 앨범명이고 Tonight은 그 앨범의 타이틀곡 제목입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-11T05:44:24.488Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:04006385fd4e067f5349f0d76d267ba8645c966599bfde85ccff94313b3f44ee"
+    },
     {
       "id": "naver:tnsqo1126:224437715060",
       "logNo": "224437715060",
