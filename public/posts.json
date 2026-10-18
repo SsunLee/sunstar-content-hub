@@ -4,15 +4,64 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-18T11:01:23.093Z",
-  "expectedPublicCount": 1460,
-  "total": 1460,
+  "generatedAt": "2026-10-18T15:50:53.384Z",
+  "expectedPublicCount": 1461,
+  "total": 1461,
   "counts": {
     "entertainment": 348,
-    "stocks": 174,
+    "stocks": 175,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224445832864",
+      "logNo": "224445832864",
+      "title": "한국화장품·더샘 관계, 상반기 연결 흑자 16억원과 별도 적자의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224445832864",
+      "publishedAt": "2026-10-18T12:35:19.000Z",
+      "dateLabel": "2026. 10. 18.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 더샘은 한국화장품의 100% 자회사입니다 한국화장품은 더샘인터내셔날 지분 100%를 보유하고 있습니다. 2026년 상반기 한국화장품의 연결 영업이익은 16억322만원이지만, 한국화장품 자체의 별도 영업손익은 11억104만원 적자입니다. 두 숫자는 회계 범위가 다릅니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMThfOTkg/MDAxNzkyMzI2ODg0OTU0.zhhPNLf73VmzkBIsclNpbp9TKPHmdABJXZu7pUZL0fwg.vqycknvy07wpkmqtUufINu0Qy9sUHq21kVDnwaIVMbQg.PNG/hero.png?type=s3",
+      "tags": [
+        "한국화장품",
+        "더샘",
+        "한국화장품실적",
+        "연결재무제표",
+        "별도재무제표",
+        "영업이익",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "연결 매출 419.92억원, 별도 매출 60.76억원",
+          "body": "2026년 1~6월 연결 매출은 419억9193만원이고 별도 매출은 60억7646만원입니다. 연결 매출에서 별도 매출을 단순히 뺀 금액을 더샘 매출로 보면 안 됩니다. 다른 종속회사가 함께 포함되고 회사 사이의 거래도 제거되기 때문입니다."
+        },
+        {
+          "heading": "상반기 흑자와 2분기 적자는 함께 나타납니다",
+          "body": "상반기 누적 영업이익과 2분기만의 영업손익도 구분해야 합니다. 한국화장품의 2026년 4~6월 연결 매출은 약 210.48억원이고 영업손실은 약 3.16억원입니다. 1~6월 누적으로는 흑자이지만 4~6월 세 달만 보면 적자입니다."
+        },
+        {
+          "heading": "이익 16.02억원과 영업현금 32.27억원의 차이",
+          "body": "2026년 상반기 연결 당기순이익은 약 16.02억원이고 영업활동 현금흐름은 약 32.27억원 유입입니다. 손익계산서는 수익과 비용을 인식한 결과를 보여 주며, 현금흐름표는 실제 현금의 유입과 유출을 구분합니다. 두 값이 같아야 하는 것은 아닙니다."
+        },
+        {
+          "heading": "10월 16일 시세와 다음 실적 확인 항목",
+          "body": "Npay 증권의 2026년 10월 16일 애프터마켓 마감 표시는 6020원, 전일 대비 290원 상승, 상승률 5.06%입니다. 종목 화면의 거래량은 4만8595주이고 시가총액은 약 967억원입니다. 화면은 거래량을 KRX와 NXT 통합 기준, 시가총액을 KRX 기준으로 안내하므로 각 지표의 집계 범위를 구분해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-18T15:50:53.384Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:fb8ab018b59c1fd1dc645e4eb97c3436b6b4a025d2c490d2ec24d2d0c0afc494"
+    },
     {
       "id": "naver:tnsqo1126:224445710767",
       "logNo": "224445710767",
