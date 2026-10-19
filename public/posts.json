@@ -4,15 +4,118 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-19T19:54:48.195Z",
-  "expectedPublicCount": 1469,
-  "total": 1469,
+  "generatedAt": "2026-10-19T23:39:13.108Z",
+  "expectedPublicCount": 1471,
+  "total": 1471,
   "counts": {
-    "entertainment": 354,
-    "stocks": 177,
+    "entertainment": 355,
+    "stocks": 178,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224447346855",
+      "logNo": "224447346855",
+      "title": "나의 유죄인간 임시완, 윤이준은 누구? 나이·데뷔·출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224447346855",
+      "publishedAt": "2026-10-19T23:16:19.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "tvN 월화드라마 ‘나의 유죄인간’에서 윤이준을 연기하는 배우는 임시완입니다. 윤이준은 태강그룹 상무이자 차기 후계자로, 비서의 죽음 이후 살인사건 용의자로 지목됩니다. 설인아가 맡은 형사 강재희가 수행비서로 잠입하면서 두 사람의 관계가 시작됩니다. 2026년 10월 19일 첫 방송을 마친 작품입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfMTM5/MDAxNzkyNDUxNzMxMzUw.nusk8dR1qzniwStdbe16MV15vo4pi1N3L55h-ewWaOYg.ggJY06H2Jnaf8twrZiXfg8X4Oh89-t2hpoaULGjNG0gg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "나의유죄인간",
+        "임시완",
+        "윤이준",
+        "설인아",
+        "강재희",
+        "tvN드라마",
+        "임시완나이",
+        "임시완출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "첫 방송을 마친 임시완의 새 드라마",
+          "body": "‘나의 유죄인간’은 10월 19일 저녁 8시 50분 tvN에서 시작했습니다. 닐슨코리아의 이날 케이블 일일 가구시청률 자료에서 5.558%로 1위에 올랐습니다. 전국 유료플랫폼 가입 가구 기준이며, 모든 방송 채널이나 온라인 시청을 합산한 순위는 아닙니다."
+        },
+        {
+          "heading": "윤이준과 강재희가 서로를 경계하는 이유",
+          "body": "tvN 공식 인물 소개에서 윤이준은 32세로 설정되어 있습니다. 인턴으로 입사한 뒤 상무가 된 태강그룹의 후계자이며, 가까이에서 일하는 직원들에게는 예민하고 까다로운 상사입니다. 배우 임시완의 실제 나이와 배역의 나이는 다릅니다."
+        },
+        {
+          "heading": "임시완 기본 정보와 데뷔",
+          "body": "임시완은 1988년 12월 1일생입니다. 2026년 10월 20일 기준으로 생일이 지나지 않아 만 37세입니다. 씨네21 인물 정보에 기재된 생년월일을 기준으로 계산한 나이이며, 극 중 윤이준의 32세 설정과 구별됩니다."
+        },
+        {
+          "heading": "미생부터 소년시대까지 이어진 출연작",
+          "body": "임시완은 2013년 영화 ‘변호인’에 출연한 뒤 2014년 tvN ‘미생’에서 장그래를 맡았습니다. 2017년에는 영화 ‘원라인’과 ‘불한당: 나쁜 놈들의 세상’에 출연했습니다. 드라마와 영화 양쪽에서 활동을 이어온 이력입니다."
+        },
+        {
+          "heading": "2회에서 이어질 수행비서의 이중생활",
+          "body": "10월 20일 아침 기준 tvN 편성 안내에는 ‘나의 유죄인간’ 2회가 이날 저녁 8시 50분 방송으로 표시되어 있습니다. 첫 회에서 잠입을 시작한 재희가 비서 업무와 수사를 함께 수행하는 내용이 공식 미리보기에 예고되어 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-19T23:39:13.108Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:12e2bef9b18d294dd68f76d0e3d8c45256738d08cb88b6b9d6934d75067d0055"
+    },
+    {
+      "id": "naver:tnsqo1126:224447268963",
+      "logNo": "224447268963",
+      "title": "한국항공우주 사천에어쇼 10월 22일 개막, 1091억원 계약과 실적의 차이",
+      "url": "https://blog.naver.com/tnsqo1126/224447268963",
+      "publishedAt": "2026-10-19T20:34:23.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 한국항공우주 공장이나 사천에어쇼를 촬영한 사진이 아닙니다. 사천에어쇼는 10월 22일 개막합니다 한국항공우주(047810)가 공동 주최하는 2026 사천에어쇼는 10월 22일부터 25일까지 사천비행장 일원에서 열립니다. 행사는 항공기와 기술을 소개하고 거래 상대를 만나는 일정입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfNDIg/MDAxNzkyNDQyMDI4NTQ4.iS9VsH7TylqJX3BbQWcjTurRWmZK4VJk2NRymLLuVdQg.99bIs1ec_RCutEo86YW4RArUUnSezzU1EUA86VjJkskg.PNG/hero.png?type=s3",
+      "tags": [
+        "한국항공우주",
+        "KAI",
+        "사천에어쇼",
+        "MUH1",
+        "방산주",
+        "한국항공우주실적",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "사천에어쇼는 10월 22일 개막합니다",
+          "body": "한국항공우주(047810)가 공동 주최하는 2026 사천에어쇼는 10월 22일부터 25일까지 사천비행장 일원에서 열립니다. 행사는 항공기와 기술을 소개하고 거래 상대를 만나는 일정입니다. 회사가 체결한 계약금액, 회계상 매출, 실제 들어오는 현금은 각각 확인 시점과 기준이 다릅니다."
+        },
+        {
+          "heading": "계약 체결, 매출 인식, 대금 수령을 구분합니다",
+          "body": "반기보고서 연결 주석 26은 기간에 걸쳐 수익을 인식하는 계약을 별도로 설명합니다. 원가기준 투입법을 적용하는 계약에서는 발생원가 등을 기준으로 진행 정도를 측정합니다. 공사계약 잔액과 당기에 인식한 수익을 나눠 표시하므로 계약서에 적힌 전체 금액과 한 기간의 매출은 일치하지 않습니다."
+        },
+        {
+          "heading": "영업흑자와 영업현금 유출도 함께 봅니다",
+          "body": "2026년 상반기 연결 영업활동현금흐름은 약 3799.73억원의 순유출입니다. 같은 기간 영업이익 1155.85억원과 방향이 다릅니다. 영업이익은 수익과 비용을 회계 기준에 따라 계산한 값이고, 영업현금흐름에는 돈을 받거나 지급한 시점과 운전자본 변동 등이 반영됩니다."
+        },
+        {
+          "heading": "행사 이후에는 새 계약과 이행 조건을 확인합니다",
+          "body": "10월 22~25일 행사에서는 회사가 어떤 제품과 사업을 소개하는지, 협의가 실제 계약으로 이어졌는지를 구분해 볼 수 있습니다. 계약 체결 소식이 나올 때는 상대방, 금액, 기간, 지급 조건, 변경 가능성을 확인해야 합니다. 업무협약이나 상담 결과만으로 확정 매출을 계산하지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-19T23:39:13.108Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:f095ca10ff7dbdf0be7aac55614d08456b86f69675464498f68d6c59d6b6c5b6"
+    },
     {
       "id": "naver:tnsqo1126:224447226723",
       "logNo": "224447226723",
