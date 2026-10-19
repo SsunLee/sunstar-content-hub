@@ -4,15 +4,151 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-18T15:50:53.384Z",
-  "expectedPublicCount": 1461,
-  "total": 1461,
+  "generatedAt": "2026-10-19T04:38:21.293Z",
+  "expectedPublicCount": 1464,
+  "total": 1464,
   "counts": {
-    "entertainment": 348,
-    "stocks": 175,
+    "entertainment": 350,
+    "stocks": 176,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224446484258",
+      "logNo": "224446484258",
+      "title": "BGF리테일 CU 실적, 영업현금 3507억원에도 현금이 줄어든 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224446484258",
+      "publishedAt": "2026-10-19T04:33:05.000Z",
+      "dateLabel": "2026. 10. 19.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업에서 들어온 현금보다 투자·재무 지출이 컸습니다 CU를 운영하는 BGF리테일은 2026년 상반기에 영업활동으로 약 3506.53억원의 현금을 벌어들였습니다. 그런데 6월 말 현금및현금성자산은 3259.03억원으로 연초보다 약 881.40억원 줄었습니다. 투자활동에서 2317.55억원, 재무활동에서 2075.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMTlfMjkw/MDAxNzkyMzg0MzQ4NjQz.T0XLr2azY8B18dEsxmdkl3_usH9e1MyTENspip27dfYg.n9gIKxXfQ9bGo8MwWR3VilHOKu_pmV3__L-J73dSFvMg.PNG/hero.png?type=s3",
+      "tags": [
+        "BGF리테일",
+        "CU",
+        "편의점주식",
+        "BGF리테일실적",
+        "영업현금흐름",
+        "리스부채",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "상반기 매출 4.55조원, 영업이익 1229.61억원",
+          "body": "2026년 1~6월 연결 매출은 4조5471.75억원으로 전년 동기 4조3066.20억원보다 약 5.59% 증가했습니다. 영업이익은 920.49억원에서 1229.61억원으로 약 33.58% 늘었습니다. 순이익은 861.22억원입니다. 아래 수치는 모두 같은 상반기 연결 기준입니다."
+        },
+        {
+          "heading": "영업현금 3506.53억원은 순이익과 다릅니다",
+          "body": "현금흐름표에서 영업으로부터 창출된 현금은 약 3801.59억원입니다. 이자 수취와 지급, 법인세 납부를 반영한 최종 영업활동현금흐름은 3506.53억원입니다. 영업에서 창출된 현금과 영업활동현금흐름도 세부 항목의 반영 범위가 다릅니다."
+        },
+        {
+          "heading": "투자 순유출 2317.55억원이 모두 설비투자는 아닙니다",
+          "body": "상반기 투자활동의 순현금유출은 약 2317.55억원입니다. 이 가운데 유형자산 취득에 지급한 현금은 약 1194.71억원입니다. 투자활동현금흐름 전체를 점포나 물류시설에 쓴 설비투자금으로 해석하면 금액을 과대평가하게 됩니다."
+        },
+        {
+          "heading": "리스 상환 1710.77억원과 배당 708.28억원",
+          "body": "재무활동에서는 리스부채 상환에 약 1710.77억원, 배당금 지급에 약 708.28억원이 나갔습니다. 차입금 증가로 들어온 343.70억원을 반영하면 순유출액은 약 2075.34억원입니다. 리스 상환과 배당은 유형자산 취득과 별개의 현금 지출입니다."
+        },
+        {
+          "heading": "10월 16일 시세와 다음 실적에서 볼 항목",
+          "body": "Npay 증권의 KRX 일별 시세에서 2026년 10월 16일 BGF리테일 종가는 13만6000원, 전일 대비 상승률은 0.82%이며 거래량은 9만1683주입니다. 이 값은 직전 거래일의 기록으로 10월 19일 장중 가격과 구분해야 합니다. 상단의 실시간 통합 시세와 일별 KRX 수치를 섞어 등락을 계산하지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-19T04:38:21.293Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:4660faa50665a2a476ec01270d6a633246c5d4bfcdfa4c734c971f81d7f6e32b"
+    },
+    {
+      "id": "naver:tnsqo1126:224446317408",
+      "logNo": "224446317408",
+      "title": "안유진 근황, 타이베이 공연 비하인드와 HERO COMICS의 다른 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224446317408",
+      "publishedAt": "2026-10-19T01:58:25.000Z",
+      "dateLabel": "2026. 10. 19.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 안유진의 타이베이 공연 비하인드가 2026년 10월 15일 공개됐습니다. 공식 영상에는 사운드 체크 전 식사, 본 공연을 앞둔 대기실, 공연을 마친 뒤의 인사가 담겼습니다. 10월 11일 공개된 HERO TRAINING CENTER : HERO COMICS에서는 검은 의상을 입고 발차기 동작을 선보였습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMTlfMTc0/MDAxNzkyMzc1MDY2NTQy.H2va2wUDQ1H-czoSZjlyd71OgMTKaWdAfClZjNMx6FYg.VXGriGTyB-4vri4DZpLQ2Apjn3ibJIN7kmFZf0iiYzog.JPEG/final-taipei-1080-628.jpg?type=s3",
+      "tags": [
+        "12",
+        "안유진",
+        "안유진근황",
+        "아이브",
+        "IVE",
+        "타이베이콘서트",
+        "SHOWWHATIAM",
+        "HEROCOMICS"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224446163613",
+      "logNo": "224446163613",
+      "title": "100일의 거짓말 박진영, 김태웅·사토 히데오 배역과 나이·출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224446163613",
+      "publishedAt": "2026-10-18T23:14:24.000Z",
+      "dateLabel": "2026. 10. 19.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "‘100일의 거짓말’에서 김태웅과 사토 히데오는 박진영이 연기하는 같은 인물입니다. 조선에서 태어나 일본인 양아버지 아래에서 자란 그는 조선총독부 영어 통역관으로 경성에 돌아옵니다. 이가경 역의 김유정과는 총독부에서 다시 마주하게 됩니다. 10월 18일 방송된 4회에서는 가경을 의심하면서도 신경 쓰는 태웅의 모습이 이어졌습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMTlfMjQy/MDAxNzkyMzY1MjIxMjc4.-760ewvNeTAxLsWRBt-r4KMfhcPhqsmA6uIjDSUddwAg.ervi1iMXAyn85AHHNE3EC9pXQTG9B3lf9rfyq_4svjIg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "박진영",
+        "100일의거짓말",
+        "김태웅",
+        "사토히데오",
+        "진영",
+        "박진영나이",
+        "박진영출연작",
+        "tvN드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "4회에서 가경을 걱정하는 태웅",
+          "body": "tvN이 공개한 4회 하이라이트에서는 태웅이 가경을 걱정하면서 유필립을 오해하는 상황을 다룹니다. 가경에게 직접 붕대를 감아주는 장면, 다친 다리로 심부름을 하는 가경에게 마음이 쓰이는 장면도 개별 클립으로 공개됐습니다. 가경의 말을 의심하는 태도와 다친 몸을 챙기는 행동이 함께 나타납니다."
+        },
+        {
+          "heading": "김태웅과 사토 히데오가 같은 사람인 이유",
+          "body": "공식 인물 소개에 따르면 김태웅은 조선총독부 정무총감 사토 신이치의 양자입니다. 어린 시절 소매치기를 하다가 사토의 눈에 띄었고, 이후 일본인 사토 히데오라는 이름으로 살아왔습니다. 총독부의 신임 영어 통역관이라는 직책과 조선 태생이라는 배경을 함께 가진 인물입니다."
+        },
+        {
+          "heading": "박진영 기본 정보와 드림하이 2 데뷔",
+          "body": "박진영은 1994년 9월 22일생으로, 2026년 10월 19일 기준 만 32세입니다. 생년월일은 씨네21 인물 정보에 기재돼 있습니다. 소속사는 BH엔터테인먼트이며, 공식 배우 소개에는 한글 이름 박진영과 영문 이름 PARK JIN YOUNG을 함께 사용합니다."
+        },
+        {
+          "heading": "이안·김가온·이호수로 이어진 출연작",
+          "body": "박진영은 2019년 ‘사이코메트리 그녀석’에서 이안, 2021년 ‘악마판사’에서 김가온을 연기했습니다. ‘유미의 세포들’에서는 유바비로 출연했고 시즌2에도 함께했습니다. 씨네21의 TV 참여작 목록에서 각 작품과 배역을 확인할 수 있습니다."
+        },
+        {
+          "heading": "외국어 연기 준비와 다음 회차의 갈등",
+          "body": "9월 29일 제작발표회에서 박진영은 외국어 대사가 자연스럽게 나올 때까지 반복해서 연습했다고 설명했습니다. 사토 히데오는 3개 국어에 능통한 통역관으로 소개됩니다. 박진영이 맡은 배역의 직업과 현장에서 준비한 외국어 연기가 맞닿아 있는 부분입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-19T04:38:21.293Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:efc43531010415dbb34b21bd9cb67dd7dd71a5cf67bd617ccb348f5d6dca4c18"
+    },
     {
       "id": "naver:tnsqo1126:224445832864",
       "logNo": "224445832864",
