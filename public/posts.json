@@ -4,15 +4,97 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-19T23:39:13.108Z",
-  "expectedPublicCount": 1471,
-  "total": 1471,
+  "generatedAt": "2026-10-20T04:47:51.015Z",
+  "expectedPublicCount": 1473,
+  "total": 1473,
   "counts": {
-    "entertainment": 355,
-    "stocks": 178,
+    "entertainment": 356,
+    "stocks": 179,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224447669176",
+      "logNo": "224447669176",
+      "title": "카카오페이 영업현금흐름 -566억원, 흑자인데 현금은 왜 다를까",
+      "url": "https://blog.naver.com/tnsqo1126/224447669176",
+      "publishedAt": "2026-10-20T04:32:09.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 카카오페이 서비스 화면이나 사업장을 촬영한 사진이 아닙니다. 흑자와 영업현금 유출은 함께 나타날 수 있습니다 카카오페이(377300)의 2026년 상반기 연결 영업이익은 약 908.47억원이지만 영업활동현금흐름은 약 -565.90억원입니다. 같은 기간 현금및현금성자산은 약 901.50억원 늘었습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfNzUg/MDAxNzkyNDcwNjkzMjUx.1lYnGmtVjmiKp7lDG2Dmiww4ekf-C3YO6BiTaNNrnU8g.Qi4mc-Wywt5_nJxJxjaDjRceDhqzFPryKC9x1Fwi18gg.PNG/hero.png?type=s3",
+      "tags": [
+        "카카오페이",
+        "카카오페이실적",
+        "영업현금흐름",
+        "연결재무제표",
+        "고객예탁금",
+        "현금흐름표",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224447498163",
+      "logNo": "224447498163",
+      "title": "모모 근황, 트와이스 Spotless 촬영과 11주년 예고편 속 달라진 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224447498163",
+      "publishedAt": "2026-10-20T01:53:15.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "모모가 트와이스 2027 시즌 그리팅 Spotless 촬영과 11주년 기념 촬영 예고편에서 서로 다른 모습을 선보였습니다. 2026년 10월 12일 공개된 Spotless 비하인드에서는 청소기를 든 개인 촬영과 채영과의 꾸미기 시간이 이어졌고, 10월 16일 공개된 11주년 예고편에서는 분홍색 의상을 입고 회전목마 앞에 섰습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfMzMg/MDAxNzkyNDYxMTU0MTA2.DejEmMbOB7bNdXWz7poHJGGrTKUqxbleiGGDCi7xr4Ig.SfRm9TVxajfQC3r54qCwDGb1LsqjwYu_wtXQ_XyHEJgg.JPEG/jQh3dRdplPw-721.jpg?type=s3",
+      "tags": [
+        "모모",
+        "모모근황",
+        "트와이스",
+        "TWICE",
+        "Spotless",
+        "시즌그리팅",
+        "트와이스11주년",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "청소기를 든 모모의 Spotless 개인 촬영",
+          "body": "Spotless에서 모모는 연한 노란색 민소매 상의에 줄무늬 바지를 입고 보라색 긴 장갑을 꼈습니다. 갈색 머리카락은 어깨 아래로 내려오며 이마에는 앞머리가 가지런히 내려와 있습니다. 목에는 여러 장식이 달린 목걸이를 더했습니다. 상의의 옆부분과 장갑 끝까지 보이는 전신 장면에서는 의상과 청소 소품을 함께 확인할 수 있습니다."
+        },
+        {
+          "heading": "채영과 마주 앉아 꾸민 시즌 그리팅",
+          "body": "모모의 개인 촬영 직전에는 채영과 나란히 앉아 시즌 그리팅을 꾸미는 시간이 나옵니다. 테이블 위에 펼쳐진 종이에는 그림과 색깔이 더해지고 두 사람은 각자 만든 모양을 들여다봅니다. 모모는 촬영용 장갑을 낀 상태로 펜을 잡고 손을 움직입니다. 사진을 찍을 때와 달리 시선이 종이와 옆자리 멤버를 오가는 장면입니다."
+        },
+        {
+          "heading": "모모의 생일과 트와이스 데뷔일",
+          "body": "JYP엔터테인먼트 공식 프로필에 적힌 모모의 생년월일은 1996년 11월 9일입니다. 2026년 10월 20일 기준 만 29세이며 다음 생일인 11월 9일에 만 30세가 됩니다. 공식 영문 활동명은 MOMO입니다. 프로필에는 나연·정연·모모·사나·지효·미나·다현·채영·쯔위가 트와이스 멤버로 소개돼 있습니다."
+        },
+        {
+          "heading": "다섯 멤버가 함께한 오후 촬영",
+          "body": "Spotless 비하인드는 개인 촬영만 이어지는 영상이 아닙니다. 모모는 지효·미나·쯔위·채영과 함께 오후 유닛 촬영에도 참여했습니다. 영상 자막이 다섯 멤버의 이름을 제시한 뒤 파란색 꽃무늬 배경 앞에서 함께 자세를 잡는 모습으로 이어집니다. 각자 의상과 청소 도구가 달라 단체 장면에서도 멤버별 차이가 드러납니다."
+        },
+        {
+          "heading": "11주년 예고편에서는 분홍색 의상으로",
+          "body": "10월 16일 공개된 TWICE 11th Anniversary MD Shoot Behind Teaser에서 모모는 분홍색 의상으로 등장합니다. 머리를 위로 묶고 리본 장식을 더했으며 목에는 검은색 장식이 있는 목걸이를 착용했습니다. 회전목마가 있는 공간에서 카메라를 바라보는 장면과 놀이기구 앞에 선 장면이 짧게 이어집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-20T04:47:51.015Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:87acb59cc36abe9026b10e8790cefb84652a249ebb130e5bc9f02ed3a8cace1d"
+    },
     {
       "id": "naver:tnsqo1126:224447346855",
       "logNo": "224447346855",
