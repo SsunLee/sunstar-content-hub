@@ -4,15 +4,97 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-20T17:01:35.575Z",
-  "expectedPublicCount": 1477,
-  "total": 1477,
+  "generatedAt": "2026-10-20T21:35:57.479Z",
+  "expectedPublicCount": 1479,
+  "total": 1479,
   "counts": {
-    "entertainment": 359,
-    "stocks": 180,
+    "entertainment": 360,
+    "stocks": 181,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224448481427",
+      "logNo": "224448481427",
+      "title": "화담숲과 LG 주식, 디앤오 레저 매출 761억원의 범위",
+      "url": "https://blog.naver.com/tnsqo1126/224448481427",
+      "publishedAt": "2026-10-20T20:32:56.000Z",
+      "dateLabel": "2026. 10. 21.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 화담숲이나 곤지암리조트의 모습과는 다릅니다. 화담숲의 인기와 LG 실적 사이에 있는 구분 화담숲은 LG상록재단이 공익사업으로 설립·운영하는 수목원입니다. 상장사 LG(003550)가 지분 100%를 가진 디앤오와는 조직을 구분해서 봐야 합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjFfOTIg/MDAxNzkyNTI4MzQxNzAy.pGkpXnm5GwJWnUUcH2KVqabtoJeYn-jvWQ0duUUkbMog.wyPHo3cqFh-z7F3HvyK1GNRy53-8JbxUuFNX-j4cmegg.PNG/hero.png?type=s3",
+      "tags": [
+        "LG",
+        "003550",
+        "화담숲",
+        "디앤오",
+        "LG상록재단",
+        "레저매출",
+        "반기보고서"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "화담숲의 인기와 LG 실적 사이에 있는 구분",
+          "body": "화담숲은 LG상록재단이 공익사업으로 설립·운영하는 수목원입니다. 상장사 LG(003550)가 지분 100%를 가진 디앤오와는 조직을 구분해서 봐야 합니다. LG 반기보고서에 나오는 디앤오의 상반기 레저 매출 약 761억원도 화담숲 입장권 매출을 따로 집계한 수치가 아닙니다."
+        },
+        {
+          "heading": "디앤오 지분 100%와 화담숲 운영 주체",
+          "body": "LG의 2026년 6월 말 타법인출자현황에 따르면 LG가 보유한 디앤오 주식은 516만 주이며 지분율은 100%입니다. 장부가액은 2,500.54억원입니다. 이 장부가액은 투자주식의 회계상 금액이므로 디앤오의 시가총액이나 당장 받을 배당금으로 해석하면 안 됩니다. 같은 표에서 디앤오는 비상장회사로 구분됩니다."
+        },
+        {
+          "heading": "레저 매출 760.63억원, AM 매출 538.21억원",
+          "body": "LG 반기보고서의 주요 제품 및 서비스 표에서 디앤오의 2026년 상반기 레저 매출은 760.63억원입니다. 표의 항목명은 리조트·골프장이며, 전년 같은 기간의 783.42억원보다 22.79억원 줄었습니다. 두 금액으로 계산한 감소율은 약 2.91%입니다. 특정 시설 하나의 입장객 수나 입장권 판매액을 나타내는 표는 아닙니다."
+        },
+        {
+          "heading": "LG 연결 이익과 현금흐름은 전체 사업의 결과",
+          "body": "LG의 2026년 상반기 연결 매출및지분법손익은 3조9,402.45억원, 영업이익은 9,468.08억원입니다. 전년 상반기에는 각각 3조7,338.46억원과 9,149.31억원이었습니다. 영업이익은 늘었지만 이 숫자를 디앤오의 레저 성과나 화담숲의 수익으로 설명할 수는 없습니다."
+        },
+        {
+          "heading": "10월 20일 시세와 성수기 이후 확인할 자료",
+          "body": "10월 21일 새벽 확인한 Npay 증권의 LG 시세는 10월 20일 애프터마켓 마감 기준 10만2,300원, 화면에 표시된 등락률은 -2.66%였습니다. 상단 거래량 19만5,656주는 KRX와 NXT를 합친 값입니다. 같은 화면의 시가총액은 15조4,669억원, 외인소진율은 36.77%였으며 투자지표는 KRX 기준으로 제공된다는 안내가 있습니다. 서로 다른 거래 범위의 수치를 섞지 않고 읽어야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-20T21:35:57.479Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d46fc1d9547aa5ca27e815fc034c8fe9348751ad7027eb7afa2ba4cc62893f4a"
+    },
+    {
+      "id": "naver:tnsqo1126:224448427867",
+      "logNo": "224448427867",
+      "title": "지효 근황, 트둥의 숲 첫 회 채집과 Spotless 촬영 속 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224448427867",
+      "publishedAt": "2026-10-20T17:55:30.000Z",
+      "dateLabel": "2026. 10. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "지효는 10월 20일 공개된 트와이스의 ‘트둥의 숲’ 첫 회에서 채집과 씨앗 심기, 마을 은행의 물건 교환에 참여했습니다. 10월 12일 공개된 2027 시즌 그리팅 ‘Spotless’ 비하인드에서는 옷걸이와 옷 무더기를 활용한 개인 촬영을 선보였습니다. 야외 프로그램에서는 가방을 메고 마을 곳곳을 돌아다녔고, 시즌 그리팅에서는 땋은 머리와 색색의 장신구를 착용했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjFfMTkz/MDAxNzkyNTE4ODkxMjE2.cmWljRWgmOWx3HjOXCia8DOb3DMlV1BV2V2mGxnbsMUg.4PUD0L5nLDThbyQ5JyS-kLB4oxCNjcI98sXNVhQcqCsg.JPEG/jQh3dRdplPw-800.jpg?type=s3",
+      "tags": [
+        "지효",
+        "지효근황",
+        "트와이스",
+        "TWICE",
+        "트둥의숲",
+        "Spotless",
+        "시즌그리팅",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224448340914",
       "logNo": "224448340914",
