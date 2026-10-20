@@ -4,15 +4,123 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-20T04:47:51.015Z",
-  "expectedPublicCount": 1473,
-  "total": 1473,
+  "generatedAt": "2026-10-20T11:33:24.680Z",
+  "expectedPublicCount": 1475,
+  "total": 1475,
   "counts": {
-    "entertainment": 356,
+    "entertainment": 358,
     "stocks": 179,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224448055258",
+      "logNo": "224448055258",
+      "title": "사나 근황, 트둥의 숲 첫 회의 모자 찾기와 달라진 촬영 모습",
+      "url": "https://blog.naver.com/tnsqo1126/224448055258",
+      "publishedAt": "2026-10-20T09:57:32.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "사나가 10월 20일 공개된 트둥의 숲 첫 회에서 허수아비의 모자를 찾아 주는 미션에 참여했습니다. 편지를 읽은 뒤 농장에 도착해 모자를 씌우자 화면에 보상이 표시됩니다. 최근 공개된 Spotless 시즌 그리팅과 트와이스 11주년 촬영 예고편에서는 야외 예능과 다른 의상으로 카메라 앞에 섰습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfMTYz/MDAxNzkyNDkwMjExMTA3.RM06FogFebc6udb1dgtgxg0so5Np-wVUFwDyq-TzN8sg.8QsPgRbol8b20y19hZmt9HbjN2haBrBh40a9ucNMLsEg.JPEG/4N_C9BKwCQ0-609.jpg?type=s3",
+      "tags": [
+        "사나",
+        "사나근황",
+        "트와이스",
+        "TWICE",
+        "Spotless",
+        "시즌그리팅",
+        "트와이스11주년",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "트둥의 숲에서 허수아비의 부탁을 받은 사나",
+          "body": "트둥의 숲 첫 회는 멤버들이 숲속 공간에 도착하면서 시작됩니다. 재배와 채집, 수확 등으로 얻은 물건을 마을 화폐인 트머로 바꿀 수 있다는 안내가 나옵니다. 멤버들은 쉼터와 농장 등을 오가며 편지를 읽고 미션을 수행합니다."
+        },
+        {
+          "heading": "Spotless에서는 청소 도구를 들고 촬영",
+          "body": "Spotless 비하인드에서 사나는 옆으로 가른 긴 머리에 은색 장식을 꽂고 등장합니다. 짙은 파란색 상의 위로 하늘색 의상을 겹쳐 입었고 손가락이 드러나는 회색 장갑과 여러 팔찌를 착용했습니다. 흰 창틀 옆에서는 어두운 머리카락과 장갑이 밝은 배경과 구분됩니다."
+        },
+        {
+          "heading": "사나의 생일과 트와이스 데뷔",
+          "body": "JYP엔터테인먼트 공식 프로필에 기재된 사나의 생일은 1996년 12월 29일입니다. 2026년 10월 20일 기준으로 만 29세이며 영문 활동명은 SANA입니다. 트와이스는 나연·정연·모모·사나·지효·미나·다현·채영·쯔위 아홉 멤버로 구성됩니다."
+        },
+        {
+          "heading": "나연·정연·다현과 함께한 네 명의 촬영",
+          "body": "사나의 개인 촬영 뒤에는 나연·정연·사나·다현의 유닛 촬영이 이어집니다. 네 멤버가 흰 벽과 창문이 있는 공간에 모이고 각자 다른 색의 청소 도구를 듭니다. 사나는 화면 오른쪽에서 초록색 먼지털이를 쥐고 위쪽을 바라봅니다. 옆에는 분홍색 먼지털이와 하늘색 장갑이 함께 보입니다."
+        },
+        {
+          "heading": "11주년 예고편에서는 달라진 머리와 의상",
+          "body": "10월 16일 공개된 TWICE 11th Anniversary MD Shoot Behind Teaser는 53초 분량의 기념 촬영 예고편입니다. 영상에는 놀이기구와 색색의 소품을 배경으로 한 멤버들의 모습이 이어집니다. 화면 모서리에는 11주년 촬영을 알리는 장식이 들어가 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-20T11:33:24.680Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:dbc879f547b335e9d5e85fcecd5c9ee52b04b61930b1223e1f6576230026177e"
+    },
+    {
+      "id": "naver:tnsqo1126:224447864252",
+      "logNo": "224447864252",
+      "title": "나의 유죄인간 강재희 역 설인아, 나이·데뷔와 남장 형사 이야기",
+      "url": "https://blog.naver.com/tnsqo1126/224447864252",
+      "publishedAt": "2026-10-20T07:12:23.000Z",
+      "dateLabel": "2026. 10. 20.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "tvN 월화드라마 나의 유죄인간에서 강재희를 연기하는 배우는 설인아입니다. 강재희는 살인사건의 증거를 찾으려고 윤이준의 수행비서로 위장 취업한 형사입니다. 짧은 머리와 검은 정장, 상대를 살피는 시선이 잠입 중인 인물의 상황을 드러냅니다. 설인아는 1996년 1월 3일생으로 2026년 10월 20일 기준 만 30세입니다. 극 중 강재희는 28세로 설정되어 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfMjM1/MDAxNzkyNDgwMjk3NjA0.sSrUvPkN-cgNPdJpagKlAWQbf8X1AoJUvziHydLXaLMg.cwwdk-xrZ0dTJ8b2Q-mJR7G_cPbrJINoWjpEF5uB5Jwg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "설인아",
+        "나의유죄인간",
+        "강재희",
+        "설인아나이",
+        "설인아데뷔",
+        "임시완",
+        "tvN드라마",
+        "월화드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "첫 방송을 시작한 설인아의 강재희",
+          "body": "나의 유죄인간은 2026년 10월 19일 tvN에서 첫 방송됐습니다. 닐슨코리아의 같은 날 케이블 일일 집계에서 전국 유료플랫폼 가입 가구 기준 시청률은 5.558%로 1위였습니다. 이는 해당 날짜와 집계 범위의 수치이며 전 채널 전체 순위나 설인아 개인의 인기도를 뜻하지는 않습니다."
+        },
+        {
+          "heading": "강재희가 수행비서가 된 이유",
+          "body": "tvN 공식 인물 소개에서 강재희는 육군특수전사령부 부사관 출신이자 서울경찰청 형사기동대 경장입니다. 유도 5단, 합기도 1단, 태권도 3단이라는 설정도 있습니다. 이 경력과 단수는 배우 설인아의 실제 이력이 아니라 강재희라는 인물에게 주어진 배경입니다."
+        },
+        {
+          "heading": "설인아의 기본 정보와 데뷔",
+          "body": "씨네21 인물 정보에 기재된 설인아의 생년월일은 1996년 1월 3일입니다. 올해 생일이 지났으므로 2026년 10월 20일 현재 만 30세입니다. 이름과 나이를 검색할 때 강재희의 인물 소개에 적힌 28세와 혼동하지 않아야 합니다."
+        },
+        {
+          "heading": "고말숙과 나희주를 거쳐온 연기",
+          "body": "특별근로감독관 조장풍의 고말숙은 비서로 등장하며 액션과 로맨스를 함께 보여준 인물입니다. 설인아는 2019년 인터뷰에서 촬영 전 액션 스쿨에서 하루 1~2시간씩 연습했다고 설명했습니다. 주짓수와 태권도 동작을 넣거나 참고 영상을 제안하는 등 액션 장면에도 적극적으로 참여했습니다. 이번 강재희가 액션을 처음 시도한 배역은 아닙니다."
+        },
+        {
+          "heading": "2회 예고에서 이어지는 잠입 수사",
+          "body": "10월 14일 제작발표회에서 설인아는 강재희의 액션을 단순히 잘해 보이는 것보다 훈련받은 사람이 능숙하게 움직이는 모습으로 표현하고 싶었다고 밝혔습니다. 특수부대 출신이라는 설정이 움직임에 묻어나야 한다는 설명입니다. 극 중 경력과 실제 연기 준비를 나누어 보면 이 발언의 의미가 분명해집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-20T11:33:24.680Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:acd2bbc0fd96c6fef8cfdaa74a87c2ae835ae2687b2ff525ef3452eeca2908ab"
+    },
     {
       "id": "naver:tnsqo1126:224447669176",
       "logNo": "224447669176",
