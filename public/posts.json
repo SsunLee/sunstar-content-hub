@@ -4,15 +4,43 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-21T18:37:11.978Z",
-  "expectedPublicCount": 1486,
-  "total": 1486,
+  "generatedAt": "2026-10-21T23:17:40.672Z",
+  "expectedPublicCount": 1487,
+  "total": 1487,
   "counts": {
     "entertainment": 365,
-    "stocks": 183,
+    "stocks": 184,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224449677441",
+      "logNo": "224449677441",
+      "title": "NAVER 크림 패딩·바람막이 거래액 135% 증가, 매출과 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224449677441",
+      "publishedAt": "2026-10-21T20:31:58.000Z",
+      "dateLabel": "2026. 10. 22.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 135%는 패딩·바람막이 거래액의 증가율입니다 크림의 9월 패딩·바람막이 거래액은 전월보다 135% 늘었습니다. 크림 전체 매출이나 NAVER 매출이 135% 늘었다는 발표는 아닙니다. NAVER 주식에서 이 수치를 읽을 때는 상품 거래 규모와 회사가 인식하는 수익을 나누어 봐야 합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjJfMjQx/MDAxNzkyNjE0Njc5OTA1.NT0__nkLg8uTD9XM-XSID222lE5Au7yMcbU4ixuvYoUg.gLtf_TblWUOZzUBnh_9SeS1QJacw6M6Mm8DMD-IhadMg.PNG/hero.png?type=s3",
+      "tags": [
+        "NAVER",
+        "네이버주식",
+        "크림",
+        "KREAM",
+        "거래액",
+        "기업분석",
+        "실적발표"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224449636537",
       "logNo": "224449636537",
