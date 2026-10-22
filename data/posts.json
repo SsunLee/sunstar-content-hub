@@ -4,15 +4,98 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-22T04:41:17.860Z",
-  "expectedPublicCount": 1489,
-  "total": 1489,
+  "generatedAt": "2026-10-22T11:49:13.807Z",
+  "expectedPublicCount": 1491,
+  "total": 1491,
   "counts": {
-    "entertainment": 366,
+    "entertainment": 368,
     "stocks": 185,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224450440444",
+      "logNo": "224450440444",
+      "title": "시리 근황, A2O LITE NEON 10월 22일 무대와 데뷔 활동",
+      "url": "https://blog.naver.com/tnsqo1126/224450440444",
+      "publishedAt": "2026-10-22T09:56:32.000Z",
+      "dateLabel": "2026. 10. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "A2O LITE 시리가 2026년 10월 22일 엠카운트다운에서 데뷔곡 NEON 무대를 선보였습니다. M2는 같은 날 시리를 따라가는 개인 직캠을 공개했습니다. 흰색 바지와 빨간색 배색 상의를 입은 모습부터 멤버들과 함께 마지막 자세를 취하는 장면까지 담겼습니다. 시리의 영문 활동명은 XILI입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjJfMjg5/MDAxNzkyNjYyOTUzOTQ4.eveQUYB7Oi9WtB3-sQUO_OGPzaXI-MrA5i9FEj0tyhsg.8vsO4tjMPKkCRYIrMMeeZ_lXCLT4nuClSuUSOgpBqbEg.JPEG/CaTWuXOqWrE-detail-30.jpg?type=s3",
+      "tags": [
+        "시리",
+        "XILI",
+        "시리근황",
+        "A2OLITE",
+        "NEON",
+        "엠카운트다운",
+        "쇼케이팝",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "10월 22일 엠카운트다운에 선 시리",
+          "body": "시리는 이날 흰색에 빨간색과 검정색 선이 들어간 상의, 주머니가 달린 흰색 바지를 착용했습니다. 한쪽 손에는 검정 장갑을 끼고 입가에는 헤드셋 마이크를 댔습니다. 신발에도 붉은색 선이 있어 상의의 배색과 이어집니다."
+        },
+        {
+          "heading": "아이찡과 함께 등장한 데뷔 소개 영상",
+          "body": "A2O WORLD는 10월 8일 시리와 아이찡을 함께 소개하는 영상을 공개했습니다. 두 사람은 흰 셔츠와 줄무늬 넥타이, 검정색 하의를 맞춰 입었습니다. 시리는 앞머리를 내린 긴 머리와 넥타이에 붙인 장식이 보이며, 밝은 배경 앞에서 카메라를 바라봅니다."
+        },
+        {
+          "heading": "XILI라는 활동명과 10월 13일 데뷔",
+          "body": "A2O LITE 공식 사이트는 시리를 Xili라는 영문 이름과 함께 소개합니다. 그룹의 멤버는 영, 오아, 아윤, 아이찡, 히메키, 라다, 시리, 보라, 메르시로 총 9명입니다. 개인 직캠 제목에서 XILI와 시리가 함께 쓰이므로 두 이름은 같은 멤버를 가리킵니다."
+        },
+        {
+          "heading": "10월 19일 쇼케이팝에서 입은 회색 의상",
+          "body": "시리는 10월 19일 쇼케이팝 첫 회에도 A2O LITE 멤버로 출연했습니다. 프로그램 공식 사이트의 첫 회 출연진에 A2O LITE가 올라 있으며, 시리 개인 직캠은 10월 20일 공개됐습니다. 영상 제목의 261019는 무대 날짜를 가리키므로 업로드 날짜와 구분됩니다."
+        },
+        {
+          "heading": "첫 음악방송 1위 이후의 활동",
+          "body": "A2O LITE는 10월 20일 SBS Life 더 쇼에서 NEON으로 1위를 받았습니다. 소속사 A2O Entertainment Japan은 10월 21일 발표에서 이 소식을 전했습니다. 10월 13일 정식 데뷔 이후 일주일 만에 받은 그룹의 첫 음악방송 1위입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-22T11:49:13.807Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:865b03651692aea001e4ea764643e7c61cdeaa0282ca7f2c179c046f57e0694a"
+    },
+    {
+      "id": "naver:tnsqo1126:224450262785",
+      "logNo": "224450262785",
+      "title": "'닥터X' 배흥곤은 누구? 이성욱 나이·데뷔와 3회에서 드러난 과거",
+      "url": "https://blog.naver.com/tnsqo1126/224450262785",
+      "publishedAt": "2026-10-22T07:16:25.000Z",
+      "dateLabel": "2026. 10. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "SBS 금토드라마 '닥터X : 하얀 마피아의 시대'에서 배흥곤을 연기하는 배우는 이성욱입니다. 구서대학교 서남병원의 일반외과·신경외과 교수인 배흥곤은 계수정의 수술 실력을 경계하는 인물입니다. 10월 16일 방송된 3회에서는 그가 병원에서 벌어진 과거 사망 사건을 자책해 왔다는 사정도 드러났습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjJfMjA5/MDAxNzkyNjUzMzQwMzE2.2BoAFev44ccPDznyYQurF-7WeYjVopTeCrP8YwF9oVcg.mtb5WuoHfFwghTL1EofPVpoMn-iD5UQggUaW-WFDZfMg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "이성욱",
+        "닥터X",
+        "배흥곤",
+        "이성욱나이",
+        "이성욱데뷔",
+        "트라이",
+        "신입사원강회장",
+        "SBS금토드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224450059518",
       "logNo": "224450059518",
