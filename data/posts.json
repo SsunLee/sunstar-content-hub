@@ -4,15 +4,60 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-23T18:19:30.158Z",
-  "expectedPublicCount": 1499,
-  "total": 1499,
+  "generatedAt": "2026-10-23T23:07:48.234Z",
+  "expectedPublicCount": 1500,
+  "total": 1500,
   "counts": {
     "entertainment": 373,
-    "stocks": 188,
+    "stocks": 189,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224451910337",
+      "logNo": "224451910337",
+      "title": "더현대 서울 올기 팝업, 판매금액이 현대백화점 매출이 될까",
+      "url": "https://blog.naver.com/tnsqo1126/224451910337",
+      "publishedAt": "2026-10-23T20:37:26.000Z",
+      "dateLabel": "2026. 10. 24.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 더현대 서울 올기 매장이나 판매 제품을 촬영한 사진이 아닙니다. 올기 판매금액을 회사 매출로 그대로 계산할 수는 없습니다 더현대 서울 올기 팝업의 판매금액 전부가 현대백화점 매출로 잡힌다고 볼 수는 없습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjRfMjYx/MDAxNzkyNzg3ODA5MDE3.DSNEE84YpShT4AxtSChaKxQYL6uYR7iqmB9h7blP6xMg.yCZRXimxLtznLWqJILXdUEX2x6-CjMuaQdWsu5ugx1cg.PNG/hero.png?type=s3",
+      "tags": [
+        "현대백화점",
+        "더현대서울",
+        "올기",
+        "팝업스토어",
+        "매출인식",
+        "연결실적",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "행사 기간은 4분기이고 상반기 실적과는 다릅니다",
+          "body": "올기 팝업의 안내 기간인 10월 20일부터 11월 16일은 2026년 4분기에 속합니다. 상반기는 6월 말에 끝났고 3분기도 9월 30일에 끝났습니다. 10월에 시작한 이번 행사를 상반기나 3분기 판매실적에 포함할 수는 없습니다."
+        },
+        {
+          "heading": "연결 이익과 현금흐름은 각각 확인해야 합니다",
+          "body": "현대백화점의 2026년 상반기 연결 매출은 2조181억1488만2000원이고 영업이익은 1781억364만9000원입니다. 전년 같은 기간 연결 매출 약 2조1784억원, 영업이익 약 1993억원과 비교하면 두 항목 모두 줄었습니다. 이는 연결 전체의 과거 실적이며 올기 행사 성과를 평가한 수치가 아닙니다."
+        },
+        {
+          "heading": "후속 실적에서는 계약 조건과 실제 반영액을 봐야 합니다",
+          "body": "행사와 관련해 확인할 항목은 실제 판매수량, 반품을 반영한 판매금액, 계약에 따른 회사 수익과 관련 비용입니다. 매출에 기여하더라도 인건비와 운영비 등 비용을 함께 봐야 이익에 미친 영향을 판단할 수 있습니다. 현재 공식 행사 안내만으로는 이 항목들을 계산할 수 없습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-23T23:07:48.234Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:97afcc2331af11b6e9f028f07bb77726340779fbbc9bd217f57ed4500fa4f84b"
+    },
     {
       "id": "naver:tnsqo1126:224451868591",
       "logNo": "224451868591",
