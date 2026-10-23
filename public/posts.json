@@ -4,15 +4,114 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-23T07:29:55.694Z",
-  "expectedPublicCount": 1495,
-  "total": 1495,
+  "generatedAt": "2026-10-23T13:24:31.193Z",
+  "expectedPublicCount": 1497,
+  "total": 1497,
   "counts": {
-    "entertainment": 370,
-    "stocks": 187,
+    "entertainment": 371,
+    "stocks": 188,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224451684887",
+      "logNo": "224451684887",
+      "title": "한화에어로스페이스 KF-21 계약 583억원 증액, 대금은 언제 들어올까",
+      "url": "https://blog.naver.com/tnsqo1126/224451684887",
+      "publishedAt": "2026-10-23T12:38:26.000Z",
+      "dateLabel": "2026. 10. 23.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 한화에어로스페이스 사업장이나 계약 부품을 촬영한 사진이 아닙니다. KF-21 계약금액은 약 583억원 늘었습니다 한화에어로스페이스의 KF-21 부품 공급계약은 약 583억원 늘었지만 공시에서는 증액분의 현금 유입일을 확인할 수 없습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjNfMzIg/MDAxNzkyNzU5MzIxNjI1.JtWw5lsvAcKnyQNqs6qHGZl6XDipRC7DIj2eYgn57ekg.PDLFYynZ19ol-8kuOvlcPBhO50oqhOPYbhBNyTCRdwEg.PNG/hero.png?type=s3",
+      "tags": [
+        "한화에어로스페이스",
+        "KF21",
+        "공급계약",
+        "정정공시",
+        "계약금액",
+        "현금흐름",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "포함",
+          "body": "KF-21 부품17종 계약총액 비교입니다. 정정 후 금액은 부가세 포함이며 정정 전 포함 여부는 별도 미기재입니다. 출처는 한화에어로스페이스 정정공시입니다."
+        },
+        {
+          "heading": "현금과 3개월 어음으로 나뉘는 대금 조건",
+          "body": "착중도금은 각 연도 정부사업 예산규모가 확정되는 데 따라 현금으로 지급됩니다. 납품대금은 납품을 완료한 뒤 해당 월에 3개월 어음으로 지급하는 조건입니다. 공시의 계약금·선급금 유무에는 있음으로 표시돼 있지만 구체적인 선급 비율과 현재까지 받은 금액은 적혀 있지 않습니다."
+        },
+        {
+          "heading": "10월 23일 종가와 수급의 확인 범위",
+          "body": "10월 23일 Npay 증권의 KRX 일별 시세표에서 한화에어로스페이스 종가는 78만6000원, 등락률은 -3.08%입니다. 같은 행의 거래량은 13만9508주이고 거래대금은 1093억4800만원입니다. 화면 상단의 KRX·NXT 통합 거래량 17만5938주와는 집계 범위가 다르므로 일별 KRX 수치와 섞어 거래 비중을 계산하면 안 됩니다."
+        },
+        {
+          "heading": "10월 29일 발표에서 확인할 후속 항목",
+          "body": "회사는 2026년 7월 1일부터 9월 30일까지를 대상으로 한 3분기 결산실적을 10월 29일 공시할 예정입니다. 같은 날 15시 30분 기업설명회에서 3분기 경영실적 발표와 질의응답을 진행하며 컨퍼런스콜과 웹캐스트를 병행할 예정입니다. 일정은 회사 사정에 따라 바뀔 수 있고 발표 실적은 외부감사인의 검토에 따라 변동될 수 있는 잠정치입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-23T13:24:31.193Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:03f54ea8837f3479710125147805c269ca365758e4f60890ee9a184913501379"
+    },
+    {
+      "id": "naver:tnsqo1126:224451572288",
+      "logNo": "224451572288",
+      "title": "장원영 근황, Looks Can Kill 선공개와 엠카 무대·EP 발매 일정",
+      "url": "https://blog.naver.com/tnsqo1126/224451572288",
+      "publishedAt": "2026-10-23T10:03:57.000Z",
+      "dateLabel": "2026. 10. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "장원영이 아이브의 신곡 Looks Can Kill 활동에 나섰습니다. 아이브는 2026년 10월 19일 타이틀곡과 뮤직비디오를 먼저 공개했고, 22일에는 엠넷 엠카운트다운 무대에 올랐습니다. 장원영은 분홍색 의상에 청록색 긴 장갑을 맞춰 입고 신곡 안무를 선보였습니다. 동명 EP의 한국 발매일은 10월 26일입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjNfMTIx/MDAxNzkyNzQ5Nzk2OTI2.5ozbzOrLM9dMz8YnkQoBn3l2MmPgUMdtNJtzR6ksEH4g.WpZk567nSsBBkUNtTQQeS8C29hTyysgDuOO7lBPdMAUg.JPEG/Z4WghmCMk1o-211.jpg?type=s3",
+      "tags": [
+        "장원영",
+        "장원영근황",
+        "아이브",
+        "IVE",
+        "WONYOUNG",
+        "LooksCanKill",
+        "엠카운트다운",
+        "아이돌근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "분홍색 의상과 청록색 장갑으로 선보인 무대",
+          "body": "아이브는 10월 22일 방송된 엠카운트다운 950회에서 Looks Can Kill을 선보였습니다. 보라색과 분홍색 조명이 무대를 채우고, 멤버들은 밝은색 의상과 색이 다른 장갑·부츠를 착용했습니다. 장원영은 목 주변에 장식이 달린 분홍색 의상과 노란색 부츠를 맞췄습니다."
+        },
+        {
+          "heading": "뮤직비디오 속 붉은 배경과 히어로 설정",
+          "body": "Looks Can Kill 음원은 10월 19일 오후 6시에 공개됐습니다. 이날 발매된 싱글에는 동명 곡 한 곡이 수록됐고, 스타쉽 공식 채널에도 뮤직비디오가 올라왔습니다. 일본 공식 사이트는 이 곡을 신시사이저 패드의 리듬에 베이스와 드럼, 전자음을 더한 일렉트로닉 댄스 팝으로 소개했습니다."
+        },
+        {
+          "heading": "장원영의 기본 정보와 아이브 데뷔",
+          "body": "장원영은 2004년 8월 31일생으로 2026년 10월 23일 기준 만 22세입니다. 아이브 일본 공식 프로필에는 영문 이름 WONYOUNG과 보컬이라는 포지션이 기재돼 있습니다. 아이브는 안유진, 가을, 레이, 장원영, 리즈, 이서 여섯 명이 함께하는 그룹입니다."
+        },
+        {
+          "heading": "멤버들과 함께 뮤직비디오를 보는 모습",
+          "body": "10월 22일 공개된 뮤직비디오 리액션 영상에서는 무대 의상 대신 푸른 회색의 한쪽 어깨가 드러나는 상의를 입었습니다. 도입부에는 붉은 커튼 사이로 얼굴을 내밀고, 이어지는 장면에서는 멤버들과 같은 공간에 앉아 화면을 바라봅니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-23T13:24:31.193Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:7dc6db2826c3134f295ecfb6c63be48a0570527930897f66f31fb4ee2250e39f"
+    },
     {
       "id": "naver:tnsqo1126:224451218510",
       "logNo": "224451218510",
