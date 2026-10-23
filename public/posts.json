@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-22T17:08:54.749Z",
-  "expectedPublicCount": 1492,
-  "total": 1492,
+  "generatedAt": "2026-10-23T00:39:29.184Z",
+  "expectedPublicCount": 1493,
+  "total": 1493,
   "counts": {
-    "entertainment": 368,
+    "entertainment": 369,
     "stocks": 186,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224450908252",
+      "logNo": "224450908252",
+      "title": "가금채 톈시웨이(전희미), 아추·웨이라오 배역과 나이·데뷔·출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224450908252",
+      "publishedAt": "2026-10-22T23:22:03.000Z",
+      "dateLabel": "2026. 10. 23.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "넷플릭스 시대극 ‘가금채’에서 아추와 상속녀 웨이라오를 연기하는 배우는 톈시웨이입니다. 중국 이름 田曦薇를 한국식으로 읽은 전희미라는 이름으로도 알려져 있습니다. 같은 얼굴을 지닌 두 여자가 혼인을 바꾸면서 이야기가 시작됩니다. 톈시웨이는 1997년 10월 14일생으로 2026년 10월 23일 기준 만 29세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjNfMjUw/MDAxNzkyNzExMjc1NDM4.zg13wxqq9jRCCyf0nKLw0CVBjSfl6_IF0zYmoeVSKuAg.wW1iuEAXgxt2YG-_Qjnj1wc0-pvfXaZAd4gfm3Xh1xMg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "가금채",
+        "톈시웨이",
+        "전희미",
+        "가금채출연진",
+        "아추",
+        "웨이라오",
+        "옌안",
+        "중국드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "넷플릭스 주간 7위에 오른 가금채",
+          "body": "‘가금채’는 2026년 10월 16일 유쿠에서 공개된 중국 시대극입니다. 넷플릭스에서도 감상할 수 있으며 해외 주간 차트에서는 ‘Where the Mask Ends: Season 1’이라는 제목을 사용합니다."
+        },
+        {
+          "heading": "아추와 웨이라오, 혼인으로 얽힌 두 여자",
+          "body": "아추는 상속녀 웨이라오와 외모가 닮았지만 살아온 환경은 다른 인물입니다. 원치 않는 혼인을 피하려는 상속녀가 아추를 대신 보내면서, 아추는 중병에 걸린 귀족 루줘와 혼인합니다."
+        },
+        {
+          "heading": "톈시웨이 기본 정보와 데뷔",
+          "body": "톈시웨이는 1997년 10월 14일 중국 충칭에서 태어났으며, 상하이희극학원을 졸업했습니다. 2026년 10월 23일 기준 만 29세입니다. 배우 활동은 2018년 청춘 로맨스 드라마 ‘재유장적시광리등니(在悠长的时光里等你)’로 시작했습니다. 이 작품의 첫 방송일은 2018년 7월 13일입니다."
+        },
+        {
+          "heading": "경경일상 리웨이를 준비했던 방식",
+          "body": "2020년 청춘극 ‘여차가애적아문’에서 황청쯔를 연기한 톈시웨이는 2022년 ‘경경일상’에서 리웨이를 맡았습니다. 2023년에는 ‘화교희사’와 ‘전경기’가, 2024년에는 ‘반숙남녀’와 ‘대봉타경인’이 방송됐습니다. 2025년 ‘자야귀’에서는 우전, 2026년 ‘축옥’에서는 판창위를 연기했습니다."
+        },
+        {
+          "heading": "총 30회 구성과 10월 공식 인터뷰",
+          "body": "유쿠 공식 채널은 ‘가금채’를 총 30회로 안내합니다. 2026년 10월 23일 넷플릭스 한국 작품 페이지에 표시된 수는 에피소드 21개입니다. 전체 구성과 해당 시점의 플랫폼 표시 수가 다릅니다. 넷플릭스에서는 한국어 자막을 지원합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-23T00:39:29.184Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:bdebaa4ae0b60bffefb8a7acf4ef6e9e471a67910fd586b3bdc0c11c10754d00"
+    },
     {
       "id": "naver:tnsqo1126:224450571751",
       "logNo": "224450571751",
