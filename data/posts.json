@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-24T15:55:38.522Z",
-  "expectedPublicCount": 1508,
-  "total": 1508,
+  "generatedAt": "2026-10-24T18:47:09.383Z",
+  "expectedPublicCount": 1509,
+  "total": 1509,
   "counts": {
-    "entertainment": 378,
+    "entertainment": 379,
     "stocks": 191,
     "archive": 939
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224452720950",
+      "logNo": "224452720950",
+      "title": "다현 근황, 트둥의 숲 채집과 Spotless 냉장고 요정",
+      "url": "https://blog.naver.com/tnsqo1126/224452720950",
+      "publishedAt": "2026-10-24T17:59:16.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "다현이 트둥의 숲에서는 채집에 나서고, Spotless 촬영에서는 냉장고 청소 요정으로 변신했습니다. 트와이스 공식 채널은 2026년 10월 20일 트둥의 숲 첫 회를 공개했습니다. 10월 12일에는 시즌 그리팅 촬영 비하인드가, 16일에는 데뷔 11주년 기념 상품 촬영 예고편이 올라왔습니다. 숲에서는 밝은색 니트 카디건과 그물 가방을 챙겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMTk1/MDAxNzkyODY0Njg3MDIw.78nyZE-P0WemFWNzB0s4fHscaUDsxBXVCv8CBbIl6Xcg.jvxzTWEaRF-KQVqssaAH6LWm7jSdN6IdHp2Kv6j-Lnkg.JPEG/jQh3dRdplPw-61.jpg?type=s3",
+      "tags": [
+        "다현",
+        "트와이스",
+        "DAHYUN",
+        "TWICE",
+        "다현근황",
+        "트둥의숲",
+        "TIMETOTWICE",
+        "Spotless"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "숲에서 채집하고 마을로 돌아온 다현",
+          "body": "트둥의 숲은 멤버들이 마을에서 각자 활동을 하며 생활하는 TIME TO TWICE 콘텐츠입니다. 첫 회에서 다현은 긴 머리를 풀고 밝은색 니트 카디건을 걸쳤습니다. 어깨에는 그물 가방을 메고, 손에는 채집용 도구를 들었습니다. 실내 세트에서 진행한 다른 촬영과 달리 나무와 흙길, 작은 건물이 있는 야외 공간을 오갔습니다."
+        },
+        {
+          "heading": "분홍색 앞치마를 입은 냉장고 청소 요정",
+          "body": "Spotless 촬영에서 다현은 하늘색 상의 위에 분홍색 앞치마를 입었습니다. 긴 검은 머리를 한쪽 어깨 앞으로 내리고, 앞머리 옆에는 흰색과 파란색 장식이 이어진 머리핀을 꽂았습니다. 숲에서 입었던 니트 카디건과는 옷차림이 달랐습니다."
+        },
+        {
+          "heading": "첫 촬영 순서와 냉장고 앞에서의 인터뷰",
+          "body": "다현은 촬영 준비 중 자신이 첫 번째 차례라고 말했습니다. 아침 8시에 출발해서 촬영장에 왔다고 설명했고, 머리핀을 고정하는 동안 카메라를 보며 웃었습니다. 머리와 메이크업을 정돈한 뒤 같은 옷차림으로 냉장고 앞에서 촬영을 이어갔습니다."
+        },
+        {
+          "heading": "1998년생 다현, 트와이스 데뷔 11주년",
+          "body": "다현은 1998년 5월 28일생으로, 2026년 10월 25일 기준 만 28세입니다. 영문 활동명은 DAHYUN이며 JYP엔터테인먼트 소속 트와이스 멤버입니다."
+        },
+        {
+          "heading": "분홍색 도트 무늬 의상으로 바꾼 11주년 촬영",
+          "body": "11주년 기념 상품 촬영 예고편에서 다현은 긴 검은 머리를 풀고 분홍색 도트 무늬 의상을 입었습니다. 칼라와 소매에는 검은색 장식이 둘러져 있었고, 머리 한쪽에도 분홍색 장식을 달았습니다. 앞머리 옆의 작은 핀과 앞치마를 맞춘 Spotless 촬영과는 또 다른 차림입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-24T18:47:09.383Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d9e24064f2725195679900ac2972048ed754fb86df5627447c73cd8d61ff8e65"
+    },
     {
       "id": "naver:tnsqo1126:224452645606",
       "logNo": "224452645606",
