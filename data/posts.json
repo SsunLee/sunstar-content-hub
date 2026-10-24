@@ -4,15 +4,98 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-23T23:07:48.234Z",
-  "expectedPublicCount": 1500,
-  "total": 1500,
+  "generatedAt": "2026-10-24T04:33:58.987Z",
+  "expectedPublicCount": 1502,
+  "total": 1502,
   "counts": {
-    "entertainment": 373,
+    "entertainment": 375,
     "stocks": 189,
     "archive": 938
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224452072536",
+      "logNo": "224452072536",
+      "title": "아이브 레이 근황, Looks Can Kill 작사·랩 메이킹과 음악방송 무대",
+      "url": "https://blog.naver.com/tnsqo1126/224452072536",
+      "publishedAt": "2026-10-24T02:00:14.000Z",
+      "dateLabel": "2026. 10. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아이브 레이가 신곡 Looks Can Kill의 공동 작사와 랩 메이킹에 참여했습니다. 10월 19일 음원과 뮤직비디오가 공개된 뒤 10월 22일 엠카운트다운, 23일 뮤직뱅크 개인 직캠으로 음악방송 활동도 이어졌습니다. 동명의 EP는 10월 26일 한국 발매를 앞두고 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjRfMjQ4/MDAxNzkyODA3MTczOTY2.Ykv3O0oq4BFRhyvkOxKq_k69WkFfGWmY_kKzR0M1OJIg.tvbP9taJ44jHkqLdNlxEBuHC4zUwKuEtL3J_KYBrQUcg.JPEG/agent-rei-concept-01.jpg?type=s3",
+      "tags": [
+        "레이",
+        "아이브",
+        "REI",
+        "IVE",
+        "LooksCanKill",
+        "레이근황",
+        "레이작사",
+        "뮤직뱅크"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "작사와 랩 메이킹에 이름을 올린 레이",
+          "body": "멜론에 공개된 Looks Can Kill의 작사 명단은 Gaeko, 서지음, Lil Cherry, 레이, Rick Bridges입니다. 랩 메이킹에는 레이와 Rick Bridges가 표기되어 있습니다. 레이는 가창자로 무대에 서면서 이 곡의 가사 작업에도 참여했습니다."
+        },
+        {
+          "heading": "엠카운트다운에서 선보인 양 갈래 머리와 긴 장갑",
+          "body": "M2는 10월 22일 레이의 Looks Can Kill 개인 직캠을 공개했습니다. 영상 제목에 멤버 이름과 엠카운트다운 방송 날짜를 함께 적어, 단체 무대와 별개로 레이의 동작을 따라가는 영상임을 안내합니다."
+        },
+        {
+          "heading": "2004년생 래퍼·보컬, 아이브 데뷔부터 현재까지",
+          "body": "레이는 2004년 2월 3일생으로 2026년 10월 24일 기준 만 22세입니다. IVE 일본 공식 사이트는 레이의 포지션을 래퍼·보컬로 소개합니다. 활동명은 한글로 레이, 영문으로 REI를 사용합니다."
+        },
+        {
+          "heading": "10월 23일 뮤직뱅크에서 공개된 개인 직캠",
+          "body": "KBS Kpop은 10월 23일 뮤직뱅크의 레이 개인 직캠과 얼굴 중심 직캠을 공개했습니다. 두 영상의 제목은 Looks Can Kill과 레이를 명시하며 같은 방송일을 표시합니다. 엠카운트다운 다음 날의 활동을 확인할 수 있는 별도 방송 자료입니다."
+        },
+        {
+          "heading": "선공개 싱글과 10월 26일 EP 발매 일정",
+          "body": "Looks Can Kill 음원은 10월 19일 오후 6시에 먼저 공개됐습니다. 멜론의 해당 음원 페이지는 한 곡을 담은 싱글로 분류하며 기획사를 스타쉽엔터테인먼트, 발매사를 카카오엔터테인먼트로 안내합니다. 뮤직비디오도 같은 날 공개됐습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-24T04:33:58.987Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8af261856c8a7e1e47228c73b58b0e7d10eb7fe2c56694ee50dc4d3bd7478813"
+    },
+    {
+      "id": "naver:tnsqo1126:224451971864",
+      "logNo": "224451971864",
+      "title": "'가금채' 궈위펑을 연기한 왕이난, 나이와 연극·드라마 출연 이력은?",
+      "url": "https://blog.naver.com/tnsqo1126/224451971864",
+      "publishedAt": "2026-10-23T23:21:21.000Z",
+      "dateLabel": "2026. 10. 24.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'가금채'에서 궈위펑(郭虞凤)을 맡은 배우는 왕이난(王一楠)입니다. 넷플릭스 한국어 출연진에는 왕이난으로 표기돼 있으며, 연극 무대와 드라마를 오가며 활동해 왔습니다. '녹비홍수'의 소진씨로 왕이난을 기억하는 시청자라면 이번 사극의 출연진에서도 같은 이름을 찾을 수 있습니다. 2026년에는 '가금채' 출연과 함께 상하이에서의 1인극 공연, 박사과정 입학 소식도 전해졌습니다.",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjRfMTUy/MDAxNzkyNzk3NjI2NTM2.aHT0Pgnc8P2BTK4NSTl_yMeFOitcpQPV_LwMYv-EyO4g.XglGnGKD3lzO9cXqknXBBQvlAftmchwvv88NcI4Etlgg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "가금채",
+        "왕이난",
+        "궈위펑",
+        "가금채출연진",
+        "왕이난나이",
+        "녹비홍수",
+        "중국드라마",
+        "넷플릭스중국드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224451910337",
       "logNo": "224451910337",
