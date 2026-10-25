@@ -4,15 +4,173 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-24T18:47:09.383Z",
-  "expectedPublicCount": 1509,
-  "total": 1509,
+  "generatedAt": "2026-10-25T04:38:29.373Z",
+  "expectedPublicCount": 1513,
+  "total": 1513,
   "counts": {
-    "entertainment": 379,
-    "stocks": 191,
-    "archive": 939
+    "entertainment": 380,
+    "stocks": 192,
+    "archive": 941
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224453025843",
+      "logNo": "224453025843",
+      "title": "닥터X는 SBS 실적에 어떻게 반영될까? 광고수익·제작비 확인",
+      "url": "https://blog.naver.com/tnsqo1126/224453025843",
+      "publishedAt": "2026-10-25T04:33:40.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 닥터X의 방송과 실적을 연결하는 기준 닥터X의 인기가 SBS 이익에 얼마나 보탬이 되는지 보려면 광고수익, 프로그램 판매 등 사업수익, 제작비를 함께 확인해야 합니다. 방송 시기만으로 작품 한 편의 이익을 계산할 수는 없습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMjU4/MDAxNzkyOTAyNzg0NDE5.bcjaolXuzpUEe_9k0XABdVa02K4ssyBIiT13_IEAoe4g.nS9qMo2S8f-e3mthwZXtA3jvgJsF_itZGpp0McPIpsog.PNG/hero.png?type=s3",
+      "tags": [
+        "SBS",
+        "닥터X",
+        "스튜디오S",
+        "광고수익",
+        "방송제작비",
+        "기업가치제고",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "닥터X의 방송과 실적을 연결하는 기준",
+          "body": "닥터X의 인기가 SBS 이익에 얼마나 보탬이 되는지 보려면 광고수익, 프로그램 판매 등 사업수익, 제작비를 함께 확인해야 합니다. 방송 시기만으로 작품 한 편의 이익을 계산할 수는 없습니다. SBS가 10월 22일 공시한 기업가치 제고 계획에도 고부가가치 콘텐츠 제작과 제작비용 절감, 경영 효율화가 나란히 담겼습니다."
+        },
+        {
+          "heading": "SBS와 스튜디오S는 어떤 관계일까요",
+          "body": "SBS(034120)는 상장 방송사입니다. 스튜디오S는 SBS의 연결 대상인 드라마 제작사입니다. SBS 반기보고서의 연결 주석 1에서 스튜디오에스는 콘텐츠 유통사업, 방송프로그램 제작 및 판매업을 하는 종속기업으로 제시됩니다. 2026년 6월 말 지분율은 99.25%입니다."
+        },
+        {
+          "heading": "영업현금흐름과 현금 잔액도 나눠 봅니다",
+          "body": "SBS의 상반기 연결 영업활동현금흐름은 68.48억원 유입입니다. 2025년 상반기 378.27억원 유입보다 작습니다. 영업손실이 발생했어도 비현금 항목 조정, 영업 관련 자산·부채의 변동, 이자와 세금 지급 등을 거치면 영업현금흐름이 플러스일 수 있습니다."
+        },
+        {
+          "heading": "10월 공시와 다음 거래일에 볼 항목",
+          "body": "10월 22일 기업가치 제고 계획은 콘텐츠 제작과 비용 절감 외에 방송법 규제 완화 촉구도 담았습니다. 공시상 계획은 향후 시장상황과 경영환경에 따라 달라질 수 있습니다. 계획을 발표했다는 사실과 실제 비용이 줄거나 이익이 개선됐다는 결과는 구분해야 합니다. 첨부자료의 목표값을 실제 달성 수치로 받아들이는 것도 피해야 합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-25T04:38:29.373Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:c0ac420b4fd68303560e0461a3b80e809438315ae8ccfe9c7f88691ff21389ff"
+    },
+    {
+      "id": "naver:tnsqo1126:224452981074",
+      "logNo": "224452981074",
+      "title": "가을 제주 바다 산책 7곳 | 한담·협재·금능부터 함덕까지 운영정보",
+      "url": "https://blog.naver.com/tnsqo1126/224452981074",
+      "publishedAt": "2026-10-25T03:31:52.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "119",
+      "summary": "안녕하세요. 가을 제주에서 바다를 보며 걸을 곳을 찾고 계신가요? 오늘은요, 제주 바다 산책 장소 7곳을 소개해요. 용두암과 이호테우에서 시작해 애월·한림·한경의 서쪽 해안을 살펴보고, 동쪽 일정에 넣기 좋은 함덕까지 만나요. 긴 등산보다 바다를 가까이 두고 쉬엄쉬엄 걷는 여행을 생각하셨다면 숙소 위치와 이동 방향에 맞는 곳을 골라보세요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMjIw/MDAxNzkyODk4NjExOTMx.UTE2p01upA7jFsYSvd4YUBAilQUGDY4tWV4tkKtHkP4g.XtfVhWnGS9bZ2YDs0toroouoX8RehEgYOyrnJ0foW3Ig.PNG/00-cover.png?type=s3",
+      "tags": [
+        "제주여행",
+        "제주가을여행",
+        "제주바다",
+        "한담해안산책로",
+        "협재해수욕장",
+        "금능해수욕장",
+        "함덕해수욕장",
+        "여행정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224452902112",
+      "logNo": "224452902112",
+      "title": "크리스마스 카카오톡 테마 모음 10종 🎄 아이폰·안드로이드",
+      "url": "https://blog.naver.com/tnsqo1126/224452902112",
+      "publishedAt": "2026-10-25T01:48:28.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "116",
+      "summary": "여러분~! 제가 크리스마스를 기다리면서 귀여운 카카오톡 테마 10종을 끓여왔어요 빨간 모자를 쓴 산타부터 루돌프, 눈사람, 리본 토끼와 작은 트리까지 준비했어요. 마음에 드는 친구를 만나면 아래 포스타입 버튼에서 이용 조건과 기종별 파일을 확인해 주세요! 아이폰은 .ktheme, 안드로이드는 .apk 파일을 선택해 주세요. 버튼은 해당 테마의 포스타입 게시물로 연결됩니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMTMz/MDAxNzkyODkwMzIyMDEy.SKxf7Jw_ZVFjBXACQS7XKXir1-u9YklYfujiaeqKeWUg.EwwSplDlVtZXt4dVpnQsNB264huB5PavoUGULd0Nsygg.PNG/000-christmas-santa-theme_preview.png?type=s3",
+      "tags": [
+        "크리스마스카톡테마",
+        "카카오톡테마",
+        "아이폰카톡테마",
+        "안드로이드카톡테마",
+        "카톡테마모음"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224452818482",
+      "logNo": "224452818482",
+      "title": "닥터X 양응구 역 최덕문, 나이·데뷔와 동상이몽2에서 전한 배역 이야기",
+      "url": "https://blog.naver.com/tnsqo1126/224452818482",
+      "publishedAt": "2026-10-24T23:16:38.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "닥터X의 양응구는 배우 최덕문이 연기합니다. 장소장 의사용역소개소에서 계수정과 장희숙을 돕는 한의사로, 회색 곱슬머리와 짙은 색 옷차림이 눈에 띄는 인물입니다. 최덕문은 1970년 3월 5일생으로 2026년 10월 25일 기준 만 56세입니다. 10월 23일 방송된 5회에서는 소개소 식구들이 함께 나대일을 막아서는 장면에 등장했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfNDkg/MDAxNzkyODgzNzI5MTY1._u4waL4v_MJzOC8CYlvfGWDc1F2cRLHzoSwoo2HXrukg.HSOj-s0F6ENyp_E2PiKWVxMBHhADky34jj-Vn0woJDcg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "최덕문",
+        "닥터X",
+        "양응구",
+        "최덕문나이",
+        "최덕문출연작",
+        "동상이몽2",
+        "지하철1호선",
+        "법쩐"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "나대일 앞에 함께 선 소개소 식구들",
+          "body": "5회에서 나대일은 계수정을 향해 달려듭니다. 장희숙과 유미경, 양응구가 함께 나서면서 상황이 달라집니다. 최덕문은 손에 든 침을 보여주며 나대일을 마주하는 양응구를 연기했습니다. 양응구 혼자 사건을 해결하는 장면이 아니라 소개소 식구들이 함께 움직이는 대목입니다."
+        },
+        {
+          "heading": "양응구와 장희숙·계수정의 인연",
+          "body": "양응구는 의료 유학을 떠난 쿠바에서 장희숙과 계수정을 만났습니다. 탈북한 뒤 방황하던 시기에 장희숙이 소개소로 영입했고, 지금은 보드게임을 좋아하는 프리랜서 한의사로 지냅니다. 세 사람의 인연은 현재 병원에서 함께 일하기 전부터 이어졌습니다."
+        },
+        {
+          "heading": "최덕문의 나이와 연극 데뷔",
+          "body": "최덕문은 1970년 3월 5일에 태어났습니다. 2026년 10월 25일에는 생일이 지났으므로 만 나이는 56세입니다. 서울예술대학에서 연극을 공부했고, 대학을 졸업한 뒤 연극 무대에 섰습니다."
+        },
+        {
+          "heading": "암살·블랙머니와 이어진 출연 이력",
+          "body": "최덕문은 영화 암살에서 황덕삼, 블랙머니에서 인권변호사 서권영을 연기했습니다. 한국영상자료원에는 무빙의 전영석, 운수 오진 날의 고주환, 목화솜 피는 날의 황진수 등도 출연 이력으로 기록돼 있습니다. 영화와 드라마에서 서로 다른 직업과 사연의 인물을 맡았습니다."
+        },
+        {
+          "heading": "동상이몽2에서 나눈 단골 배역 이야기",
+          "body": "10월 20일 방송된 동상이몽2 너는 내 운명 459회에서 최덕문과 정석용은 자주 맡는 배역을 이야기했습니다. 최덕문은 배우를 무대 경험이 있는 사람과 없는 사람으로 나누어 생각하기도 한다며 자신의 연극 경력을 화제로 꺼냈습니다. 흰 티셔츠 차림으로 이야기를 나누는 모습이 양응구의 분장과는 다릅니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-25T04:38:29.373Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:62f2a2274c52979099d557605ce956c2d34042c01df5547e597d455c216724ae"
+    },
     {
       "id": "naver:tnsqo1126:224452720950",
       "logNo": "224452720950",
