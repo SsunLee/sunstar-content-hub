@@ -4,15 +4,98 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-25T04:38:29.373Z",
-  "expectedPublicCount": 1513,
-  "total": 1513,
+  "generatedAt": "2026-10-25T11:24:14.276Z",
+  "expectedPublicCount": 1515,
+  "total": 1515,
   "counts": {
-    "entertainment": 380,
+    "entertainment": 382,
     "stocks": 192,
     "archive": 941
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224453276492",
+      "logNo": "224453276492",
+      "title": "채영 근황, Spotless 대걸레 촬영과 트와이스 11주년 풍선 포즈",
+      "url": "https://blog.naver.com/tnsqo1126/224453276492",
+      "publishedAt": "2026-10-25T09:56:43.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "채영이 트와이스 시즌 그리팅 Spotless 촬영에서 대걸레를 소품으로 들었습니다. 꽃무늬 벽과 민트색 옷장이 놓인 방에서 흰 블라우스와 회색 하의를 입고 포즈를 바꿨습니다. 트와이스 공식 채널이 10월 12일 공개한 촬영 비하인드에는 개인 촬영과 청소 습관을 이야기하는 인터뷰가 함께 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMTgg/MDAxNzkyOTIyMTMyMjU3.YphL8zb4je-_-9aYpEttDgSAGv95g2xzZgjkzrAlM_sg.EGd_R7UjxKTa4tkuZifyCFEo_53Wgua1zFGG-GteIeYg.JPEG/jQh3dRdplPw-950.jpg?type=s3",
+      "tags": [
+        "채영",
+        "트와이스",
+        "CHAEYOUNG",
+        "TWICE",
+        "채영근황",
+        "Spotless",
+        "트와이스시즌그리팅",
+        "트와이스11주년"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "대걸레를 소품으로 든 Spotless 촬영",
+          "body": "채영은 개인 촬영의 마지막 순서로 꽃무늬 벽 앞에 섰습니다. 분홍색 손잡이에 여러 색 점무늬가 들어간 대걸레를 머리 위로 올렸다가 바닥으로 내렸습니다. 한쪽에는 민트색 옷장이 열려 있고, 바닥에는 분홍색 청소 안내판이 세워져 있었습니다."
+        },
+        {
+          "heading": "흰 블라우스와 긴 웨이브 머리",
+          "body": "채영은 소매가 부푼 흰 블라우스에 회색 하의를 맞췄습니다. 하의에는 무릎 부근이 드러나는 절개와 끈 장식이 있었습니다. 머리는 가운데에서 가른 뒤 긴 웨이브를 어깨 앞으로 늘어뜨렸습니다. 밝은 의상 위로 검은 머리카락이 길게 내려왔습니다."
+        },
+        {
+          "heading": "미루는 집안일은 빨래라고 밝힌 채영",
+          "body": "채영은 청소 이야기를 하다가 일을 미루는 편이라고 말했습니다. 이어 자신이 미루는 일은 빨래라고 구체적으로 덧붙였습니다. 카메라를 향해 이야기하는 동안 대걸레 손잡이를 한쪽에 세워 잡고 있었습니다."
+        },
+        {
+          "heading": "채영의 생일과 트와이스 데뷔",
+          "body": "채영은 1999년 4월 23일생으로, 2026년 10월 25일 기준 만 27세입니다. JYP엔터테인먼트의 트와이스 공식 프로필에는 채영의 영문 활동명이 CHAEYOUNG으로 표기돼 있습니다."
+        },
+        {
+          "heading": "하트 풍선 앞에서 바꾼 11주년 포즈",
+          "body": "11주년 MD 촬영 예고편에서 채영은 흰색 상의와 분홍색 목 장식을 착용했습니다. 팔을 들어 머리 위와 얼굴 옆으로 손을 옮기며 포즈를 바꿨습니다. 앞쪽에는 하트 무늬가 있는 흰 풍선과 붉은 풍선이 놓여 있었습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-25T11:24:14.276Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:b186d6327a18301dbdfe6f8b01c423b0891268f79a49dc68ea11a3e9719e9087"
+    },
+    {
+      "id": "naver:tnsqo1126:224453154050",
+      "logNo": "224453154050",
+      "title": "정석용은 '닥터X' 김창수 역, 나이·연극 데뷔와 최근 방송 활동",
+      "url": "https://blog.naver.com/tnsqo1126/224453154050",
+      "publishedAt": "2026-10-25T07:18:35.000Z",
+      "dateLabel": "2026. 10. 25.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "'닥터X'에서 서남시 의사협회 회장 김창수를 연기하는 배우는 정석용입니다. 목련회의 주축 멤버로 등장하는 김창수는 구서대학교 의대 출신이며, 병원 안의 권력 관계와도 연결된 인물입니다. 정석용은 1970년 12월 31일생으로 2026년 10월 25일 기준 만 55세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjVfMjk5/MDAxNzkyOTEyNjM5Mjgy.kh4ijbpKUJsz2sP8eayefbWyIiHzf2g3L1sxTzoqAcgg.rbuRLwPbx6BlchvH7fI8t39_05ClB6oGkx3p2Erm9VMg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "정석용",
+        "닥터X",
+        "김창수",
+        "정석용나이",
+        "정석용출연작",
+        "강거루군",
+        "동상이몽2",
+        "마트로시카"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224453025843",
       "logNo": "224453025843",
