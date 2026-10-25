@@ -4,15 +4,41 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-25T16:15:21.270Z",
-  "expectedPublicCount": 1516,
-  "total": 1516,
+  "generatedAt": "2026-10-25T22:32:10.045Z",
+  "expectedPublicCount": 1517,
+  "total": 1517,
   "counts": {
     "entertainment": 382,
     "stocks": 193,
-    "archive": 941
+    "archive": 942
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224453685407",
+      "logNo": "224453685407",
+      "title": "강아지·고양이 카카오톡 테마 10종 | 우리 집 털뭉치 아이폰·안드로이드",
+      "url": "https://blog.naver.com/tnsqo1126/224453685407",
+      "publishedAt": "2026-10-25T21:24:52.000Z",
+      "dateLabel": "2026. 10. 26.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "116",
+      "summary": "여러분~! 제가 우리 집 털뭉치 카카오톡 테마 10종을 끓여왔어요. 비숑과 말티즈부터 랙돌과 러시안 블루까지, 강아지 5종과 고양이 5종을 만나 보세요. 각 테마는 포스타입 공개 시점부터 7일간 채널 구독자에게 무료로 제공됩니다. 무료 기간이 끝나면 해당 게시물은 1,000P로 전환되며, 무료 기간에 내려받은 파일은 계속 사용할 수 있어요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjZfNDcg/MDAxNzkyOTYzMzgzMTk4.K-lxUqmntu84vnbprkuoTwwt4SSvRq0Z8kuh-IkAEjMg.Y2EBV5tZBBidKMUZB2gzqU5cmy4IN4UkSNpFWCYx8Egg.JPEG/000-pet2026-american-shorthair-theme_preview.jpg?type=s3",
+      "tags": [
+        "카카오톡테마",
+        "아이폰카톡테마",
+        "안드로이드카톡테마",
+        "강아지카톡테마",
+        "고양이카톡테마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224453398959",
       "logNo": "224453398959",
