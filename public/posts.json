@@ -4,15 +4,65 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-25T22:32:10.045Z",
-  "expectedPublicCount": 1517,
-  "total": 1517,
+  "generatedAt": "2026-10-26T04:44:14.033Z",
+  "expectedPublicCount": 1518,
+  "total": 1518,
   "counts": {
-    "entertainment": 382,
+    "entertainment": 383,
     "stocks": 193,
     "archive": 942
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224453744613",
+      "logNo": "224453744613",
+      "title": "닥터X 유미경 역 김정영, 나이·데뷔와 경아의 딸부터 최근 출연작까지",
+      "url": "https://blog.naver.com/tnsqo1126/224453744613",
+      "publishedAt": "2026-10-25T23:19:23.000Z",
+      "dateLabel": "2026. 10. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "닥터X에서 유미경을 연기하는 배우는 김정영입니다. 장소장 의사용역소개소에 소속된 의사이자 계수정의 또 다른 스승으로 등장합니다. 김정영은 1995년 극단 한강에서 연기를 시작했고, 영화 경아의 딸과 드라마 졸업 등에서 서로 다른 인물의 삶을 연기해 왔습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjZfMjc0/MDAxNzkyOTcwMzAzODU3.cAsgT9agoEyPN6OKdBsOTW_j0bmOSSgZpQOhiCQeZbwg.G7xN5svUhvBbodoj7dyzE8VQGdSDLwbfMPdKq3UmMi0g.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "김정영",
+        "닥터X",
+        "유미경",
+        "김정영나이",
+        "김정영출연작",
+        "경아의딸",
+        "졸업",
+        "굿파트너"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "김정영의 나이와 연극·영화 데뷔",
+          "body": "김정영은 1972년 7월 27일생으로, 2026년 10월 26일 기준 만 54세입니다. 라쿠텐 비키 배우 프로필과 씨네21 인물정보에 같은 생년월일이 기재돼 있습니다. 현재 소속사는 누아엔터테인먼트입니다."
+        },
+        {
+          "heading": "풍문으로 들었소부터 더 글로리·졸업까지",
+          "body": "김정영의 드라마 출연작에는 풍문으로 들었소, 시그널, 브람스를 좋아하세요?가 있습니다. 작품마다 가족이나 직장 안에서 주인공과 관계를 맺는 인물을 맡았고, 더 글로리에서는 주여정의 어머니 박상임으로 출연했습니다."
+        },
+        {
+          "heading": "경아의 딸에서 엄마 경아를 연기한 김정영",
+          "body": "2022년 6월 16일 개봉한 영화 경아의 딸은 김정은 감독의 작품입니다. 김정영이 엄마 경아를, 하윤경이 딸 연수를 맡았습니다. 김정영의 필모그래피에서 주연으로 만날 수 있는 영화입니다."
+        },
+        {
+          "heading": "굿파트너와 미혼남녀의 효율적 만남, 그리고 닥터X",
+          "body": "2024년 굿파트너에서는 남지현이 연기한 한유리와 마주하는 의뢰인으로 출연했습니다. 남편과의 합의 이혼을 도와준 한유리에게 고마움을 전하며 눈물을 보이는 장면에서 김정영의 얼굴을 다시 만날 수 있습니다. 병원에서 나누는 대화와 웃음은 두 인물의 관계를 보여 줍니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-26T04:44:14.033Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:637dc026d03a23eaea6f8c983a5d50c9f6bf8194182a48c1186c86bd0363def6"
+    },
     {
       "id": "naver:tnsqo1126:224453685407",
       "logNo": "224453685407",
