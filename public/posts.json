@@ -4,15 +4,123 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-26T12:58:35.451Z",
-  "expectedPublicCount": 1520,
-  "total": 1520,
+  "generatedAt": "2026-10-26T19:56:22.753Z",
+  "expectedPublicCount": 1522,
+  "total": 1522,
   "counts": {
-    "entertainment": 384,
+    "entertainment": 386,
     "stocks": 194,
     "archive": 942
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224454849627",
+      "logNo": "224454849627",
+      "title": "해원 근황, Strange Agent 팀장으로 팬을 찾아간 하루",
+      "url": "https://blog.naver.com/tnsqo1126/224454849627",
+      "publishedAt": "2026-10-26T17:59:29.000Z",
+      "dateLabel": "2026. 10. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "엔믹스 해원이 Strange Agent 팀장이 되어 팬들의 일터를 찾아갔습니다. 10월 23일 공개된 PICK NMIXX에서는 사연을 보내온 팬을 직접 만나 이야기를 듣고 응원을 전했습니다. 유도장에서는 배이의 어머니 역할을 맡았고, 회사 회의실에서는 믹스상사 오 부장으로 변신했습니다. 흰 블라우스에 검은 바지를 입은 해원은 서류를 챙겨 멤버들과 함께 움직였습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfMTQ3/MDAxNzkzMDM3NTA0Nzcw.LZOSJZ4x-OTNBzx1PdigQVXGpiHv0DjmlpeYYZOyKpsg.fY_sAOQ-khzOZxaGMM51TEoI_6ByhqxgBi0zDQKZ7I0g.JPEG/csczCaKQMRA-80.jpg?type=s3",
+      "tags": [
+        "해원",
+        "엔믹스",
+        "NMIXX",
+        "해원근황",
+        "StrangeAgent",
+        "PICKNMIXX",
+        "엔써",
+        "믹스상사"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "팬의 사연을 들고 출동한 팀장",
+          "body": "Strange Agent는 엔믹스가 에이전트로 나서 팬덤 엔써의 고민을 듣고 응원하는 자체 콘텐츠입니다. 해원은 팀장 역할을 맡았습니다. 멤버들이 책상 주변에 모여 있는 사무실에 들어와 무엇을 하고 있었는지 묻고, 새로 들어온 사연을 건넸습니다."
+        },
+        {
+          "heading": "흰 블라우스와 긴 생머리",
+          "body": "해원은 목에서 길게 내려오는 천 장식이 달린 흰 블라우스에 검은 바지를 맞춰 입었습니다. 소매는 손목 가까이에서 주름이 잡혔고, 긴 머리는 풀어 한쪽 귀 뒤로 넘겼습니다. 작은 링 귀걸이가 보였으며 앞머리는 이마 위로 가볍게 내려왔습니다."
+        },
+        {
+          "heading": "유도장에서 만든 응원",
+          "body": "첫 번째로 만난 팬은 유도 선수 김주희였습니다. 큰 경기에 나서면 연습할 때만큼 실력을 발휘하기 어렵다는 고민을 듣고, 엔믹스는 즉석 경기 상황극을 시작했습니다. 배이가 상대 선수가 되고 멤버들은 코치와 심판, 응원하는 사람으로 역할을 나눴습니다."
+        },
+        {
+          "heading": "회사 회의실에 다시 나타난 오 부장",
+          "body": "두 번째 방문지는 한국에서 첫 직장생활을 시작한 말레이시아 팬이 일하는 회사였습니다. 해원은 사무실에서 소란을 피워 팬이 곤란해지지는 않을지 먼저 물었습니다. 동료들이 방문을 반겨준 뒤에는 회의실로 옮겨 이야기를 나눴습니다."
+        },
+        {
+          "heading": "시인 팬 앞에서 다시 읽은 자작시",
+          "body": "카페에서 만난 세 번째 팬은 시인 윤다미였습니다. 엔믹스가 찾아왔을 때 해원에게 보낼 편지를 쓰고 있었습니다. 두 번째 시집을 잘 써야 한다는 부담을 이야기하자 멤버들도 계속 새로운 결과물을 내놓는 일을 놓고 대화를 나눴습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-26T19:56:22.753Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d061568705f0a9cf8b89405f9e36612f8293dbf9cb3f47cf166e4b3264592829"
+    },
+    {
+      "id": "naver:tnsqo1126:224454767118",
+      "logNo": "224454767118",
+      "title": "닥터X 이선애 역 김영아, 나이와 데뷔부터 멜로가 체질 소진까지",
+      "url": "https://blog.naver.com/tnsqo1126/224454767118",
+      "publishedAt": "2026-10-26T15:24:28.000Z",
+      "dateLabel": "2026. 10. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "‘닥터X : 하얀 마피아의 시대’에서 병원 경영팀 부장 이선애를 연기하는 배우는 김영아입니다. ‘멜로가 체질’의 소진 대표로 기억하는 분들에게도 익숙한 얼굴이지요. 이번에는 구서대학교 서남병원을 지키려는 인물로 시청자를 만나고 있습니다. 김영아는 1975년 5월 15일생으로, 2026년 10월 27일 기준 만 51세입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfODgg/MDAxNzkzMDI4MjA4OTQ1.Q1__NlzNSyXBx4FyFrmRUCaqv2dJQHDTP05pJIXgpeEg.F1hHTXKB-3O2YQZx4d6jAxjl1CIfB9G3VatKDOJF2Rsg.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "김영아",
+        "닥터X",
+        "이선애",
+        "김영아나이",
+        "김영아데뷔",
+        "멜로가체질",
+        "소진",
+        "언더커버하이스쿨"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "닥터X 이선애, 병원을 지키려는 경영팀 부장",
+          "body": "이선애는 구서대학교 서남병원 경영팀 부장입니다. 병원을 소중한 일터로 여기고, 그곳을 지키기 위해서라면 상대나 방법을 가리지 않는 인물입니다. 성실하고 일을 분명하게 처리하지만, 병원이 흔들리는 상황에서는 이선애 자신도 흔들립니다."
+        },
+        {
+          "heading": "1975년생 김영아, 1994년 뮤지컬로 시작한 연기",
+          "body": "김영아의 데뷔작은 1994년 뮤지컬 ‘가스펠’입니다. 본인참여 인물정보에는 서울예술대학 연극과 학력도 올라 있습니다. 현재의 드라마 출연작보다 훨씬 앞서 무대에서 배우 생활을 시작했습니다."
+        },
+        {
+          "heading": "멜로가 체질 소진 대표로 익숙한 얼굴",
+          "body": "JTBC ‘멜로가 체질’에서 김영아가 맡은 소진은 흥미유발 엔터의 대표입니다. 한주와 재훈이 일하는 회사의 상사로, 한주가 존경하며 본받고 싶어 하는 인물입니다. 판단과 업무 처리는 냉철하고 정확하지만, 따뜻하고 여린 마음도 가지고 있습니다."
+        },
+        {
+          "heading": "언더커버 하이스쿨에서는 오수아의 엄마",
+          "body": "MBC ‘언더커버 하이스쿨’에서 김영아는 진기주가 연기한 오수아의 엄마를 맡았습니다. 식당을 운영하는 인물로, 딸과 친구처럼 티격태격하기도 하고 진지하게 고민을 들어주기도 합니다. 회사나 병원에서 일하는 배역과는 다른 가족의 일상을 보여줍니다."
+        },
+        {
+          "heading": "눈동자의 형사 미경에서 현재의 이선애까지",
+          "body": "2026년 영화 ‘눈동자’에서는 형사 미경을 연기했습니다. 김영아는 처음 맡은 형사 역할을 준비하면서 사건을 해결하는 모습뿐 아니라, 서진이 의지할 수 있는 사람을 표현하고 싶었다고 설명했습니다. 강한 인상을 앞세우기보다 상대의 이야기를 듣고 곁에 머무는 쪽에 무게를 둔 것입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-26T19:56:22.753Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:59d1c7bf1666405013a7ff9a9e191a2f669c023577f5411787da1713005a82ec"
+    },
     {
       "id": "naver:tnsqo1126:224454608748",
       "logNo": "224454608748",
