@@ -4,15 +4,114 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-26T04:44:14.033Z",
-  "expectedPublicCount": 1518,
-  "total": 1518,
+  "generatedAt": "2026-10-26T12:58:35.451Z",
+  "expectedPublicCount": 1520,
+  "total": 1520,
   "counts": {
-    "entertainment": 383,
-    "stocks": 193,
+    "entertainment": 384,
+    "stocks": 194,
     "archive": 942
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224454608748",
+      "logNo": "224454608748",
+      "title": "SK하이닉스 특별배당 확정됐을까? 10월 28일 주주환원 발표 확인",
+      "url": "https://blog.naver.com/tnsqo1126/224454608748",
+      "publishedAt": "2026-10-26T12:36:11.000Z",
+      "dateLabel": "2026. 10. 26.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 실제 SK하이닉스 사업장 사진이 아닙니다. 특별배당은 아직 확정되지 않았습니다 SK하이닉스의 특별배당은 2026년 10월 26일 해명공시 기준으로 확정되지 않았습니다. 회사는 다양한 주주환원 방안을 검토하고 있으며, 이사회 결의를 거쳐 10월 28일 3분기 실적 발표 때 추가 방안을 공개할 예정이라고 밝혔습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjZfMTI4/MDAxNzkzMDE4MTM0NzE5.-6CnyYBL1Q5GViXxqhqcZ4ZxcfBH7aRDBBegAuwgGwog.qoda4mntnjNlq2YEsLjnjduOj98fOVsMF8-sUVqAawcg.PNG/hero.png?type=s3",
+      "tags": [
+        "SK하이닉스",
+        "특별배당",
+        "주주환원",
+        "실적발표",
+        "해명공시",
+        "반도체",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "10월 28일 오전 9시 실적 발표",
+          "body": "SK하이닉스는 10월 14일 기업설명회 공시에서 3분기 경영실적 발표를 10월 28일 오전 9시에 개최한다고 안내했습니다. 투자자와 언론사를 대상으로 컨퍼런스콜을 진행하며, 주요 내용은 3분기 실적 발표와 질의응답입니다. 홈페이지에서는 국문·영문 실시간 중계도 병행할 예정입니다."
+        },
+        {
+          "heading": "10월 26일 시세는 거래 범위를 나눠 봅니다",
+          "body": "10월 26일 Npay 증권의 SK하이닉스 가격 표시값은 129만원이며, 화면 표시 등락률은 +1.02%입니다. 조회 시 화면은 애프터마켓 마감 상태였고 API의 최종 거래시각은 오후 8시 20분 22초였습니다. 이 시각을 한국거래소 정규장 마감시각으로 해석하지 않습니다."
+        },
+        {
+          "heading": "발표 후에는 네 가지 조건을 확인합니다",
+          "body": "10월 28일에는 환원 방식이 무엇인지부터 확인할 수 있습니다. 현금배당을 선택하는지, 다른 수단을 포함하는지에 따라 주주에게 영향을 주는 방식이 달라집니다. 10월 26일 답변은 다양한 방안을 검토한다는 수준이므로 특정 방식을 이미 결정한 것으로 받아들이지 않습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-26T12:58:35.451Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d4db2dd75fe8b1c1766745b401419a0536e29612ba0602458e0a0be5770d99f1"
+    },
+    {
+      "id": "naver:tnsqo1126:224454472125",
+      "logNo": "224454472125",
+      "title": "해원 근황, 릴리와 드라이브 토크부터 Strange Muse 촬영까지",
+      "url": "https://blog.naver.com/tnsqo1126/224454472125",
+      "publishedAt": "2026-10-26T09:59:59.000Z",
+      "dateLabel": "2026. 10. 26.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "엔믹스 해원이 릴리와 드라이브를 하며 연습생 시절과 유닛곡 이야기를 나눴습니다. 10월 24일 공개된 NMIXX ON AIR에서는 두 사람이 차 안에서 너는 달을 불렀고, 25일에는 Strange Muse 트레일러 촬영 뒷이야기가 이어졌습니다. 검은 상의를 입고 편안하게 대화하던 해원은 촬영장에서 흰색 의상으로 갈아입었습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjZfMjUy/MDAxNzkzMDA4NzI4MzYx.D_WgSkMiXSeFmyD9u56LqzXF9WZRK2OevXbG9cvO4Zwg.yCcgX4V0ejKhz6ohdVI2UkJLuq3PcsDngwStGiQmiwcg.JPEG/qS2cH1K-luE-420.jpg?type=s3",
+      "tags": [
+        "해원",
+        "오해원",
+        "엔믹스",
+        "NMIXX",
+        "릴리",
+        "너는달",
+        "StrangeMuse",
+        "해원근황"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "릴리와 차 안에서 꺼낸 연습생 시절",
+          "body": "해원은 검은색 긴소매 상의에 목걸이를 하고 머리를 올려 묶었습니다. 앞머리와 옆머리는 자연스럽게 내려 두었고, 안전벨트를 맨 채 옆자리에 앉은 릴리와 대화를 이어갔습니다. 릴리도 검은 상의를 입었지만 소매와 목 부분에는 초록색이 들어가 두 사람의 옷차림이 달랐습니다."
+        },
+        {
+          "heading": "너는 달을 함께 부르는 두 사람",
+          "body": "해원은 팀에서 유닛곡이 나온다면 릴리와 짝이 될 것 같았다고 말했습니다. 릴리 역시 둘이 함께하고 싶었다고 답했습니다. 엔믹스의 여섯 번째 미니앨범 Strange Muse에 실린 너는 달은 두 사람의 첫 유닛곡이며, 해원과 릴리는 작사에도 참여했습니다."
+        },
+        {
+          "heading": "흰색 의상을 입고 릴리와 마주 선 해원",
+          "body": "Strange Muse 트레일러 촬영에서 해원은 꽃과 잎처럼 짜인 흰색 의상을 입었습니다. 긴 머리를 풀고 어두운 세트에 섰으며, 바닥에는 흰 돌이 둥글게 놓여 있었습니다. 밝은 의상과 돌이 검은 배경 앞에서 또렷하게 구분됐습니다."
+        },
+        {
+          "heading": "해원의 나이와 데뷔, 새 음반의 옷차림",
+          "body": "해원은 2003년 2월 25일생으로 2026년 10월 26일 기준 만 23세입니다. 엔믹스는 2022년 2월 22일 싱글 AD MARE로 데뷔했습니다. 데뷔 타이틀곡은 O.O이며, 현재 해원은 릴리·설윤·배이·지우·규진과 함께 활동하고 있습니다."
+        },
+        {
+          "heading": "반짝이가 묻은 손바닥을 펼치며",
+          "body": "단체 촬영에서는 흰색 의상을 입은 멤버들이 큰 수조 모양 세트에 모였습니다. 해원의 머리와 어깨, 팔에도 반짝이가 붙었습니다. 손바닥에는 은색 반짝이가 빽빽하게 묻었고, 해원은 손가락을 벌려 카메라 앞에 보여줬습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-26T12:58:35.451Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:66e711c7e08b3d3a4351bd41673fa46fd9ab0faa61fae212e902c221d4bd52f1"
+    },
     {
       "id": "naver:tnsqo1126:224453744613",
       "logNo": "224453744613",
