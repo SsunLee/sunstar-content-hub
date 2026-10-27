@@ -4,15 +4,101 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-26T19:56:22.753Z",
-  "expectedPublicCount": 1522,
-  "total": 1522,
+  "generatedAt": "2026-10-27T05:01:06.525Z",
+  "expectedPublicCount": 1524,
+  "total": 1524,
   "counts": {
     "entertainment": 386,
-    "stocks": 194,
-    "archive": 942
+    "stocks": 195,
+    "archive": 943
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224455333553",
+      "logNo": "224455333553",
+      "title": "농심 볶음너구리 10월 27일 재출시, 실적 영향은 어디까지 확인됐나",
+      "url": "https://blog.naver.com/tnsqo1126/224455333553",
+      "publishedAt": "2026-10-27T04:34:07.000Z",
+      "dateLabel": "2026. 10. 27.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 볶음너구리, 10월 27일부터 한정 재출시 농심의 볶음너구리가 2026년 10월 27일부터 한정 수량으로 다시 판매됩니다. 회사가 안내한 예상 운영기간은 약 한 달이며, 상시 판매 계획은 아직 검토된 바 없다고 밝혔습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfMjcx/MDAxNzkzMDc1NjE0NDM3.Ipt9JSFcvNkHHuZRA7nvQe02cOWzwifa2kmF7GckBX8g.uTrtJ4-mxhVkNF1MG3WKPMzVPFdbdFLapMj1oqJ7y4Eg.PNG/hero.png?type=s3",
+      "tags": [
+        "농심",
+        "볶음너구리",
+        "볶음너구리재출시",
+        "농심실적",
+        "한정판매",
+        "연결실적",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "볶음너구리, 10월 27일부터 한정 재출시",
+          "body": "농심의 볶음너구리가 2026년 10월 27일부터 한정 수량으로 다시 판매됩니다. 회사가 안내한 예상 운영기간은 약 한 달이며, 상시 판매 계획은 아직 검토된 바 없다고 밝혔습니다. 재출시 소식과 농심의 실적을 함께 보려면 판매 일정, 제품별 매출 공개 여부, 기존 연결 실적을 나누어 살펴볼 필요가 있습니다."
+        },
+        {
+          "heading": "기존 반기 실적과 이번 판매의 시점",
+          "body": "2026년 반기보고서의 손익 대상 기간은 1월 1일부터 6월 30일까지입니다. 10월 27일에 시작하는 이번 국내 재출시 판매와는 기간이 다릅니다. 상반기 매출과 이익은 농심의 기존 사업 규모를 파악하는 기준으로 사용할 수 있지만, 이번 판매 성과로 설명할 수는 없습니다."
+        },
+        {
+          "heading": "매출 증가와 비용을 함께 보는 이유",
+          "body": "상반기 연결 영업이익률은 영업이익을 매출액으로 나눈 값으로 약 6.70%입니다. 전년 동기 약 5.46%보다 1.24%포인트 높습니다. 매출 증가율과 영업이익률은 다른 지표입니다. 매출이 얼마나 늘었는지와 그 매출에서 얼마의 영업이익이 남았는지를 각각 보여 줍니다."
+        },
+        {
+          "heading": "현금흐름은 회사 전체의 재무 맥락",
+          "body": "농심의 2026년 상반기 연결 영업활동현금흐름은 2,311억 7,403만원입니다. 6개월 동안 영업활동에서 들어오고 나간 현금의 순액이며, 손익계산서의 영업이익과 계산 기준이 다릅니다. 같은 기간 반기순이익은 약 1,153억 4,206만원으로 현금흐름과 일치하지 않습니다."
+        },
+        {
+          "heading": "주가는 기준 거래일을 고정해서 비교",
+          "body": "10월 27일 13시 27분에 확인한 Npay 증권의 KRX 일별 시세에서 직전 거래일인 10월 26일 농심 종가는 391,500원입니다. 해당 일별 행의 등락률은 -2.73%, 거래량은 18,795주, 거래대금은 7,429백만원으로 표시됐습니다. 이 값은 10월 26일 거래 자료이며 오늘 장중 시세와 섞지 않았습니다."
+        },
+        {
+          "heading": "후속 발표에서 확인할 세 가지",
+          "body": "앞으로는 실제 판매 수량과 판매액이 공개되는지, 한정 판매 뒤 운영 방침이 달라지는지, 이후 연결 실적에서 매출과 비용이 어떻게 변하는지를 확인하면 됩니다. 출시 일정은 회사가 밝힌 사실이지만 제품별 실적과 상시 판매 여부는 별도의 후속 정보가 필요합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-27T05:01:06.525Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8893fb58d21fa16c53d6b435a6934e3e9312362ab07d959bbbf7b0e73b026d89"
+    },
+    {
+      "id": "naver:tnsqo1126:224455253809",
+      "logNo": "224455253809",
+      "title": "제주 가을 오름 7곳, 억새길과 분화구·입장시간 한눈에",
+      "url": "https://blog.naver.com/tnsqo1126/224455253809",
+      "publishedAt": "2026-10-27T03:25:04.000Z",
+      "dateLabel": "2026. 10. 27.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "119",
+      "summary": "안녕하세요. 오늘은요, 가을 제주에서 걸어볼 만한 오름과 분화구 7곳을 만나봐요. 억새를 가까이 보고 싶다면 새별오름과 산굼부리, 둥근 분화구가 궁금하다면 금오름과 아부오름이 눈에 들어옵니다. 완만한 능선과 경사 있는 오르막은 걷는 느낌이 다르니 동행자의 체력과 숙소 위치에 맞춰 골라보세요. 일곱 곳을 하루에 모두 도는 일정은 권하지 않아요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfMTUx/MDAxNzkzMDcxMzE0MjA5.0uJZD5FW-MV2FAbwTcY0BQCK67MBiNlBYF85kzmJcBYg.A6eazFglH7FniqlZI8Q1fdDVT-ka5ILGADxuZZi7Rkcg.PNG/00-cover.png?type=s3",
+      "tags": [
+        "제주여행",
+        "가을여행",
+        "제주오름",
+        "억새명소",
+        "새별오름",
+        "금오름",
+        "용눈이오름",
+        "아부오름"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224454849627",
       "logNo": "224454849627",
