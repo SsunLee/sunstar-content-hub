@@ -4,15 +4,69 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-27T05:01:06.525Z",
-  "expectedPublicCount": 1524,
-  "total": 1524,
+  "generatedAt": "2026-10-27T12:08:31.901Z",
+  "expectedPublicCount": 1525,
+  "total": 1525,
   "counts": {
-    "entertainment": 386,
+    "entertainment": 387,
     "stocks": 195,
     "archive": 943
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224455553374",
+      "logNo": "224455553374",
+      "title": "닥터X 마성규 역 권승우, 나이·데뷔와 빈센조 채신 스님 이후 근황",
+      "url": "https://blog.naver.com/tnsqo1126/224455553374",
+      "publishedAt": "2026-10-27T07:17:14.000Z",
+      "dateLabel": "2026. 10. 27.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "닥터X에서 외과 레지던트 마성규를 연기하는 배우는 권승우입니다. 빈센조의 채신 스님, 유미의 세포들의 한별로도 출연했죠. 1987년 12월 22일생으로 2026년 10월 27일 기준 만 38세이며, 연극 무대에서 연기를 시작했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfMjAy/MDAxNzkzMDg1MzIwODgz.4_xvOyOXYFek1Ek5Lp96F5EAisAYUC0NNbI7UaceHEYg.LySCY-lpdubS6_SkK84F0HsBQ5tMPfgFht-drSekhdog.JPEG/behind-01.jpg?type=s3",
+      "tags": [
+        "2",
+        "권승우",
+        "닥터X",
+        "마성규",
+        "권승우나이",
+        "권승우데뷔",
+        "빈센조",
+        "채신스님"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "닥터X의 마성규를 맡은 권승우",
+          "body": "권승우는 SBS 금토드라마 닥터X : 하얀 마피아의 시대에서 구서대학교 서남병원 일반외과 레지던트 말년차 마성규 역을 맡았습니다. 이미 교수가 된 선배들과 같은 병원에서 일하지만, 마성규는 아직 전공의 과정을 밟는 인물입니다."
+        },
+        {
+          "heading": "적당히 버티려다 외과의가 되고 싶어진 마성규",
+          "body": "마성규가 처음부터 외과를 간절히 원했던 것은 아닙니다. 빈자리가 많은 곳에서 잘 버티면 교수 자리를 얻을 수 있겠다고 생각했지만, 일을 하면서 외과의가 되고 싶어졌습니다. 편하게 살아남으려는 계산과 의사로 일하고 싶은 마음이 함께 있는 셈이죠."
+        },
+        {
+          "heading": "1987년생, 연극으로 시작한 배우",
+          "body": "권승우의 생일은 1987년 12월 22일입니다. 올해 생일이 아직 지나지 않아 10월 27일 현재 만 38세입니다. 소속사는 하이지음스튜디오이며, 공식 프로필에 기재된 데뷔작은 2006년 연극 세상에서 가장 아름다운 이별입니다."
+        },
+        {
+          "heading": "빈센조 채신 스님과 유미의 세포들 한별",
+          "body": "빈센조에서 권승우가 맡은 채신은 난약사의 스님입니다. 권승우는 이 배역을 연기하려고 실제로 삭발했습니다. 닥터X의 마성규는 짧은 머리에 흰 가운을 입고 있어, 채신을 연기하던 때와 외형부터 달라졌습니다."
+        },
+        {
+          "heading": "대기실 미니 게임과 다음 작품 소식",
+          "body": "촬영장 밖에서는 흰 셔츠와 검은 넥타이에 가운을 걸친 권승우를 만날 수 있습니다. 10월 23일 소속사 공식 채널에 공개된 대기실 미니 게임에서는 장갑을 끼는 과제에 도전하고, 핀셋으로 작은 사탕을 옮기기도 했습니다. 촬영을 기다리는 동안의 짧은 놀이였죠."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-27T12:08:31.901Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:b313f5f63bcfe415db41f16a76bb16848b3ecbca088061266f0aa60aa5cbacc9"
+    },
     {
       "id": "naver:tnsqo1126:224455333553",
       "logNo": "224455333553",
