@@ -4,15 +4,208 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-27T22:12:25.549Z",
-  "expectedPublicCount": 1527,
-  "total": 1527,
+  "generatedAt": "2026-10-28T08:27:21.318Z",
+  "expectedPublicCount": 1531,
+  "total": 1531,
   "counts": {
-    "entertainment": 388,
-    "stocks": 196,
-    "archive": 943
+    "entertainment": 390,
+    "stocks": 197,
+    "archive": 944
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224456773373",
+      "logNo": "224456773373",
+      "title": "욕망의 덫 고은설 전혜원, 서현재를 떠나보낸 45회와 나이·출연작",
+      "url": "https://blog.naver.com/tnsqo1126/224456773373",
+      "publishedAt": "2026-10-28T07:16:52.000Z",
+      "dateLabel": "2026. 10. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "욕망의 덫에서 고은설을 연기하는 배우는 전혜원입니다. 살인 누명을 쓰고 10년을 감옥에서 보낸 뒤 청마그룹에 들어간 인물로, 10월 26일 방송된 45회에서는 곁을 지켜주던 서현재를 떠나보내고 진실을 밝히겠다고 다짐했습니다. 전혜원은 그 해 우리는의 정채란, 슈룹의 초월, 손해 보기 싫어서의 권이린으로도 출연했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjhfNDAg/MDAxNzkzMTcxNzUwNTIy.qNrd0eojIGafmcPGJsY15PXE6eNIJqEd54YGdkV3u98g.6Ff9mbIErH792H4VSja8V4ghCyplVhhT_-XWfS3KHgIg.JPEG/photo-1.jpg?type=s3",
+      "tags": [
+        "전혜원",
+        "욕망의덫",
+        "고은설",
+        "전혜원나이",
+        "전혜원출연작",
+        "그해우리는",
+        "슈룹",
+        "KBS드라마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "서현재를 떠나보낸 고은설",
+          "body": "고은설은 검은 옷차림으로 밤거리에 홀로 서 있습니다. 휴대전화를 귀에 대고 서현재에게 말을 건네다가 길가에 주저앉습니다. 서현재를 떠올리며 눈물을 흘리는 얼굴이 가까이 잡히고, 다시 몸을 일으킨 은설은 진실을 밝히겠다는 말을 남깁니다."
+        },
+        {
+          "heading": "고은설이 청마그룹에 들어간 이유",
+          "body": "고은설은 청마그룹 디자인팀의 신입 사원입니다. 태어나자마자 버림받았지만 양모의 사랑을 받으며 자랐고, 출생의 비밀이 드러나려던 무렵 살인 누명을 썼습니다. 억울하게 수감된 채 20대를 보낸 뒤 출소해 자신에게 누명을 씌운 이들에게 복수하려고 청마그룹에 들어갑니다."
+        },
+        {
+          "heading": "전혜원의 나이와 데뷔",
+          "body": "전혜원은 1998년 4월 2일생으로 2026년 10월 28일 기준 만 28세입니다. 2015년 영화 0000으로 연기를 시작했고, 2017년 이번 생은 처음이라에서 이은솔을 연기했습니다."
+        },
+        {
+          "heading": "그 해 우리는부터 슈룹까지",
+          "body": "그 해 우리는에서는 다큐멘터리 조연출 정채란을 맡았습니다. 결혼작사 이혼작곡에서는 박향기로 출연했고, 2022년 슈룹에서는 무안대군과 인연을 맺는 초월을 연기했습니다. 현대극과 사극을 오가며 서로 다른 배역을 맡아왔습니다."
+        },
+        {
+          "heading": "대본 리딩과 인터뷰 속 전혜원",
+          "body": "욕망의 덫 대본 리딩에서 전혜원은 설정환과 나란히 앉아 대사를 맞췄습니다. 테이블에는 대본과 음료가 놓여 있고, 전혜원은 대본을 내려다보며 장면을 이어갑니다. 별도로 진행한 소개에서는 고은설이라는 배역과 자신의 이름을 직접 밝혔습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-28T08:27:21.318Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:7799398b44fbbfa5f409c123b1528396d54ed7b1374f7dd81709ef47258394f8"
+    },
+    {
+      "id": "naver:tnsqo1126:224456574559",
+      "logNo": "224456574559",
+      "title": "SK하이닉스 배당금 2만원 확정, 11월 30일 기준일과 지급 시점",
+      "url": "https://blog.naver.com/tnsqo1126/224456574559",
+      "publishedAt": "2026-10-28T04:32:54.000Z",
+      "dateLabel": "2026. 10. 28.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 주당 2만원 배당과 11월 30일 기준일 SK하이닉스가 2026년 10월 28일 이사회에서 보통주 1주당 2만원의 분기 현금배당을 결정했습니다. 배당기준일은 11월 30일입니다. 배당금은 기준일로부터 1개월 안에 지급할 예정이며, 공시에 특정 지급 날짜가 적혀 있지는 않습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjhfMTEw/MDAxNzkzMTYxOTM5MDc5.mg72gkdNs0aY2-AfemPXbocNDQtpTWAISa5EXo5SztAg.YRdyNtwLl20igs1lMJrB6oB2QcCtrt_DAnlb8BLxKu0g.PNG/hero.png?type=s3",
+      "tags": [
+        "SK하이닉스",
+        "SK하이닉스배당금",
+        "특별배당",
+        "배당기준일",
+        "자사주매입",
+        "주주환원",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "주당 2만원 배당과 11월 30일 기준일",
+          "body": "SK하이닉스가 2026년 10월 28일 이사회에서 보통주 1주당 2만원의 분기 현금배당을 결정했습니다. 배당기준일은 11월 30일입니다. 배당금은 기준일로부터 1개월 안에 지급할 예정이며, 공시에 특정 지급 날짜가 적혀 있지는 않습니다. 오늘 확인할 핵심은 배당금 액수와 함께 권리주주를 정하는 날짜입니다."
+        },
+        {
+          "heading": "지급일과 매수 시점을 구분할 이유",
+          "body": "별도로 나온 주주명부 기준일 공시도 11월 30일을 명시합니다. 회사는 주주명부를 폐쇄하지 않고 기준일만으로 권리주주를 확정한다고 밝혔습니다. 기준일은 배당 권리를 판단하는 날짜이고, 지급일은 배당금이 실제로 들어오는 날짜입니다. 두 날짜는 같은 개념이 아닙니다."
+        },
+        {
+          "heading": "약 100조원 계획에서 포함되는 금액",
+          "body": "회사가 제시한 2026년 회계연도 주주환원 예상 규모는 약 100조원입니다. 현금배당 30조원 이상과 자기주식 취득·소각 60조원 이상이 포함되며, 이미 8월에 결의한 자기주식 취득·소각 40조원도 이 계획에 들어 있습니다. 약 100조원을 오늘 새로 확정한 현금배당 총액으로 읽으면 실제 내용과 달라집니다."
+        },
+        {
+          "heading": "자사주 20조원 전부가 소각 대상은 아닙니다",
+          "body": "새 자기주식 취득 예정금액은 20조77억2000만원이고, 취득 예정주식은 1492만주입니다. 취득 기간은 2026년 10월 29일부터 2027년 1월 28일까지이며, SK증권과 NH투자증권을 통한 장내매수 방식입니다. 취득 주식수는 이사회 전일 기준 가격으로 산정했으므로 실제 주가 변화에 따라 달라질 수 있습니다."
+        },
+        {
+          "heading": "실적 증가와 배당 재원을 읽는 기준",
+          "body": "10월 28일 발표한 3분기 연결 잠정 매출은 104조6155억원, 영업이익은 83조3338억원입니다. 억원 단위로 반올림한 수치이며, 공시상 전분기 대비 증가율은 각각 31.9%와 37.6%입니다. 같은 기간 순이익은 39조7756억원으로 전분기보다 57.7% 감소했습니다. 영업이익 증가와 순이익 증감은 같은 방향으로 움직이지 않았습니다."
+        },
+        {
+          "heading": "시가배당률과 현재 가격은 기준이 다릅니다",
+          "body": "배당 공시에 적힌 시가배당률은 1.56%입니다. 이 비율은 이사회 결의일 직전 거래일부터 과거 1주일간 거래소 최종가격의 산술평균을 기준으로 계산한 값입니다. 개인이 실제로 주식을 산 가격에 대한 수익률이나 앞으로 보장되는 수익률이 아닙니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-28T08:27:21.318Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:816fc1db5cfabb094c2704a32353394018366e6499dff3f15ec2555acfc64680"
+    },
+    {
+      "id": "naver:tnsqo1126:224456502023",
+      "logNo": "224456502023",
+      "title": "제주 가을 숲길 3곳, 사려니·머체왓·산양큰엉곶 입구와 11월 이용시간",
+      "url": "https://blog.naver.com/tnsqo1126/224456502023",
+      "publishedAt": "2026-10-28T03:22:06.000Z",
+      "dateLabel": "2026. 10. 28.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "119",
+      "summary": "안녕하세요. 오늘은 제주에서 걸어볼 만한 숲길 세 곳을 소개해 드릴게요. 사려니숲길, 머체왓숲길, 산양큰엉곶은 출발하는 입구와 걷는 방식이 서로 달라요. 삼나무 사이를 걷고 싶은 날, 목장과 돌담까지 둘러보고 싶은 날, 숲속 촬영 공간을 찾는 날에 맞춰 골라 보세요. 세 곳을 하루에 모두 도는 코스가 아니라 숙소 위치와 걷는 시간에 맞춰 하나씩 선택하는 나들이입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjhfMTc5/MDAxNzkzMTU3Mjg4NzAw.RwagdYXJgoHgjQ7fWjd-gekqnXzEOmLmYjniha-cjy4g.W1xJ2la9Sf9wZqtBjYj2UvlPvAFbpm_0FQq5ZeQoFfUg.PNG/00-cover.png?type=s3",
+      "tags": [
+        "제주여행",
+        "제주숲길",
+        "사려니숲길",
+        "머체왓숲길",
+        "산양큰엉곶",
+        "가을여행",
+        "11월제주여행"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224456406244",
+      "logNo": "224456406244",
+      "title": "아일릿 민주 근황, BREAK EVEN 촬영과 체포하겠어 응원법",
+      "url": "https://blog.naver.com/tnsqo1126/224456406244",
+      "publishedAt": "2026-10-28T02:00:21.000Z",
+      "dateLabel": "2026. 10. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아일릿 민주가 미니 5집 BREAK EVEN으로 새 활동을 시작했습니다. 2026년 10월 26일 타이틀곡 체포하겠어의 뮤직비디오와 응원법이 공개됐고, 앞서 공개한 촬영 비하인드에서는 도쿄에서 타로를 보며 촬영한 이야기도 들려줬습니다. 이번 음반에서 민주는 빨간 머리와 검은 긴 머리, 금발을 번갈아 선보였습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjhfMjY3/MDAxNzkzMTUyNzU3NTU0.LvQWlGX5EJgs7jL-gpl7lDQldvjIis2mrTESI4QNLw0g.dfJJv3XGg5gcvcyi2GTRvO2Uu9mwzdOWCxiteQ4QnHYg.JPEG/minju-photo-54.jpg?type=s3",
+      "tags": [
+        "아일릿",
+        "민주",
+        "아일릿민주",
+        "민주근황",
+        "BREAKEVEN",
+        "체포하겠어",
+        "민주나이",
+        "아일릿응원법"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "체포하겠어로 돌아온 민주",
+          "body": "BREAK EVEN은 아일릿의 다섯 번째 미니 음반입니다. 타이틀곡 체포하겠어를 비롯해 Super in Love, More, Pop까지 네 곡을 담았습니다. 빌리프랩은 상대와 마음을 주고받지 못하는 관계를 끝내고 자신의 선택을 되찾는 이야기를 이번 음반의 주제로 소개했습니다."
+        },
+        {
+          "heading": "도쿄에서 타로를 보며 촬영한 날",
+          "body": "10월 16일 공개된 MAD 콘셉트 촬영 비하인드에서 민주는 금발을 길게 늘어뜨리고 흰 드레스를 입었습니다. 머리 옆에는 도트 무늬가 있는 커다란 리본을 달았고, 손끝에는 여러 색의 그림이 들어간 네일을 더했습니다. 타로 카드가 놓인 테이블에 앉아 상대방의 이야기를 들으며 촬영했습니다."
+        },
+        {
+          "heading": "민주의 나이와 아일릿 데뷔",
+          "body": "민주는 2004년 5월 11일생으로, 2026년 10월 28일 기준 만 22세입니다. 빌리프랩 소속 아일릿의 멤버이며 2024년 3월 25일 첫 미니 음반 SUPER REAL ME로 데뷔했습니다."
+        },
+        {
+          "heading": "네 가지 콘셉트에서 달라진 옷차림",
+          "body": "BREAK EVEN의 콘셉트는 BURNING, GLLIT, QUIET, MAD로 나뉩니다. 민주는 9월 29일 먼저 공개한 BURNING 개인 영상에서 빨간 머리로 등장했습니다. 검정 조끼에 체크무늬 치마와 넥타이를 더했고, 눈 아래에는 반짝이는 장식을 붙였습니다. 붉은빛이 얼굴을 비추는 장면에서 천천히 눈을 뜹니다."
+        },
+        {
+          "heading": "팬들과 함께하는 휘파람 응원법",
+          "body": "10월 26일 공개된 체포하겠어 응원법에서는 민주가 분홍색 긴소매 상의를 입고 팬들에게 인사했습니다. 다른 멤버들과 응원봉을 들고 앉아 곡에 맞춰 움직였고, 휘파람을 부는 순서를 직접 보여줬습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-28T08:27:21.318Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:adf2cb911a77006e4855b2209c2cb62e77217451150ea013965d83c0ab3f9bc2"
+    },
     {
       "id": "naver:tnsqo1126:224456149728",
       "logNo": "224456149728",
