@@ -4,15 +4,179 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-29T05:45:25.083Z",
-  "expectedPublicCount": 1536,
-  "total": 1536,
+  "generatedAt": "2026-10-29T12:57:39.791Z",
+  "expectedPublicCount": 1539,
+  "total": 1539,
   "counts": {
-    "entertainment": 392,
-    "stocks": 199,
+    "entertainment": 394,
+    "stocks": 200,
     "archive": 945
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224458255498",
+      "logNo": "224458255498",
+      "title": "삼성SDI 3분기 영업이익 4,078억원, AMPC 1,225억원과 비교 기준",
+      "url": "https://blog.naver.com/tnsqo1126/224458255498",
+      "publishedAt": "2026-10-29T12:35:53.000Z",
+      "dateLabel": "2026. 10. 29.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업이익 4,078억원에 포함된 AMPC 삼성SDI는 2026년 10월 29일 3분기 연결 매출 4조6,856억원과 영업이익 4,078억원을 발표했습니다. 두 금액에는 미국 첨단제조 생산세액공제인 AMPC 1,225억원이 각각 포함돼 있습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjlfMjYz/MDAxNzkzMjc3MzIwNTI4.0127CWE5Gtv4O7hMPjbCdE46neyJS5hk757WTIwovAcg.-IGlblOm0k7w9LIVVpzrYlT1-JCBlsVSSCemj6mEjs4g.PNG/hero.png?type=s3",
+      "tags": [
+        "삼성SDI",
+        "삼성SDI실적",
+        "AMPC",
+        "3분기실적",
+        "ESS배터리",
+        "영업이익",
+        "주식"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "영업이익 4,078억원에 포함된 AMPC",
+          "body": "삼성SDI는 2026년 10월 29일 3분기 연결 매출 4조6,856억원과 영업이익 4,078억원을 발표했습니다. 두 금액에는 미국 첨단제조 생산세액공제인 AMPC 1,225억원이 각각 포함돼 있습니다. 이번 실적은 이익 규모와 함께 바뀐 회계 표시 기준을 확인해야 정확하게 비교할 수 있습니다."
+        },
+        {
+          "heading": "같은 기준으로 본 전분기와 지난해 실적",
+          "body": "이번 공시의 비교 기준으로 2분기 매출은 3조8,765억원입니다. 3분기 매출은 이보다 20.9% 늘었으며 지난해 3분기 3조714억원보다 52.6% 증가했습니다. 분기 매출 증가율은 회사가 비교 기준을 맞춰 제시한 수치입니다."
+        },
+        {
+          "heading": "배터리와 전자재료의 이익 기여",
+          "body": "3분기 배터리 부문은 매출 4조4,099억원과 영업이익 3,619억원을 기록했습니다. 전자재료 부문은 매출 2,757억원, 영업이익 459억원입니다. 부문별 영업이익을 합치면 전체 영업이익 4,078억원과 같습니다. 배터리 부문이 이익의 대부분을 차지했지만 전자재료의 실적도 함께 반영됐습니다."
+        },
+        {
+          "heading": "현금 잔액과 차입금의 변화",
+          "body": "3분기 실적 자료에서 9월 말 현금및현금성자산은 2조3,573억원입니다. 6월 말 1조5,055억원보다 8,518억원 늘었습니다. 같은 기간 차입금은 12조1,109억원에서 8조5,214억원으로 3조5,895억원 감소했습니다. 현금과 차입금은 각각의 잔액으로 비교해야 합니다."
+        },
+        {
+          "heading": "수주와 양산, 앞으로 확인할 단계",
+          "body": "삼성SDI는 올해 ESS 배터리 수주를 60GWh 이상 확보했다고 밝혔습니다. 이는 배터리 용량을 나타내는 수주 규모이며 매출액의 단위가 아닙니다. 이 숫자에 임의의 판매 단가를 곱해 확정 매출이나 이익을 계산할 근거는 제시되지 않았습니다."
+        },
+        {
+          "heading": "10월 29일 주가와 다음 확인 자료",
+          "body": "10월 29일 Npay 증권의 애프터마켓 마감 화면에서 삼성SDI는 53만9,000원, 표시 기준가 대비 5,000원 오른 +0.94%였습니다. 화면의 통합 거래량은 177만8,595주, 거래대금은 9,545억2,000만원입니다. 거래량과 거래대금은 KRX와 NXT를 합친 수치로 안내되어 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-29T12:57:39.791Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:fedc1f98f1aae761cfcb4b8d05378842f613f35285d81b2112a983ebcc75b045"
+    },
+    {
+      "id": "naver:tnsqo1126:224458114710",
+      "logNo": "224458114710",
+      "title": "예지 근황, 분홍 드레스 입고 찾은 파리 로저 비비에",
+      "url": "https://blog.naver.com/tnsqo1126/224458114710",
+      "publishedAt": "2026-10-29T09:56:02.000Z",
+      "dateLabel": "2026. 10. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 예지가 파리 로저 비비에 행사에서 분홍색 드레스와 땋아 올린 머리를 선보였어요. 10월 27일 공개된 ITZY 공식 비하인드에는 출국 전 팬에게 메시지를 보내던 모습부터 부티크 방문과 프레젠테이션을 마친 뒤의 이야기가 담겼습니다. 예지는 이번 의상이 평소와 다른 분위기라며 출국 전부터 기대를 전했어요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjlfMTQ2/MDAxNzkzMjY3Njg3NTA3.t19huyFo0hmJ1AFi2KiJYkv6t-VTjKN30Gl1mIjFdt4g.DWEu9ijIeDtPgasYkdpnn-6CACnQ6qD19dnm5oYn3Cwg.JPEG/yeji-pink.jpg?type=s3",
+      "tags": [
+        "예지",
+        "ITZY",
+        "있지예지",
+        "예지근황",
+        "로저비비에",
+        "예지파리",
+        "예지AIR"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "출국 전에도 챙긴 팬 메시지",
+          "body": "예지는 비행기 좌석에 앉아서 휴대전화를 빠르게 두드렸어요. 이륙 전에 해야 할 일이 많다던 예지가 챙긴 것은 팬덤 믿지에게 보내는 버블 메시지였습니다. 메시지를 마친 뒤에는 오래 앉아 있었다며 팔을 들어 몸을 풀었어요."
+        },
+        {
+          "heading": "출국 전 파리 일정을 이야기하는 예지",
+          "body": "편한 회색 상의를 입고 머리를 묶은 차림이었어요. 파리 일정이 투어와 이어져 이번에도 빠듯하게 움직여야 한다고 설명했습니다. 그래도 로저 비비에 프레젠테이션이 기대된다며 새로운 의상도 기다려 달라고 했어요."
+        },
+        {
+          "heading": "분홍 드레스와 땋아 올린 머리",
+          "body": "행사 당일 예지는 목과 가슴 부분에 반짝이는 장식이 달린 연한 분홍색 드레스를 입었어요. 귀에는 사각 장식이 길게 내려오는 귀걸이를 하고 작은 은빛 가방을 들었습니다. 머리는 양옆을 땋아 뒤로 모아 올렸어요."
+        },
+        {
+          "heading": "파리 행사 전 메이크업을 받는 예지",
+          "body": "예지는 헤어 담당자와 어떤 머리를 할지 몇 시간 동안 상의했다고 했어요. 평소보다 귀여운 분위기라 처음에는 걱정도 했지만 봄·여름 컬렉션과 잘 어울리는 것 같다고 말했습니다. 직접 마음에 든다고 이야기한 스타일이에요."
+        },
+        {
+          "heading": "새 부티크에서 찾은 구두와 가방",
+          "body": "예지는 프레젠테이션에 앞서 파리에 새로 문을 연 로저 비비에 부티크를 방문했어요. 진열대 옆에서 은빛 가방을 들고 촬영하고 난간에 기대어 포즈도 취했습니다. 매장 안을 소개할 때는 자신의 저택이라며 장난스럽게 인사했어요."
+        },
+        {
+          "heading": "부티크에서 촬영 이야기를 하는 예지",
+          "body": "위층을 둘러보며 버건디 색상 제품이 많다고 짚었고 한쪽에는 차려입을 때 어울리는 제품이 모여 있다고 설명했습니다. 다른 공간에서는 여름 분위기를 이야기했어요. 예지가 서 있는 뒤편에는 꽃 장식과 구두, 가방이 함께 진열돼 있었습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-29T12:57:39.791Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:ba0c03ed31cdc1c84e30a19c45b8ce3066a8bda682fcd6e6e797bf4a5d3c154f"
+    },
+    {
+      "id": "naver:tnsqo1126:224457942560",
+      "logNo": "224457942560",
+      "title": "서현진 근황, 틈만나면 유연석과 재회한 이야기와 라이어 강지선 역",
+      "url": "https://blog.naver.com/tnsqo1126/224457942560",
+      "publishedAt": "2026-10-29T07:18:23.000Z",
+      "dateLabel": "2026. 10. 29.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "서현진이 10월 27일 SBS ‘틈만나면,’에서 유연석·이천희와 함께 노원구를 찾았습니다. 세 사람은 10월 30일 첫 방송을 앞둔 MBC 드라마 ‘라이어’에 함께 출연합니다. 서현진은 자신의 기억이 진실이라고 주장하는 강지선 역을 맡았습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMjlfMjMg/MDAxNzkzMjU4MjMzNTUy.3zf9idlf1S3rFA7KOG-DX5fyng8XovGSJ1YNz_YeZmIg.dTsqN30EqiUFCf4ubvgOBcsbt5-Ro1wst06ZMl7dps8g.JPEG/photo-1.jpg?type=s3",
+      "tags": [
+        "서현진",
+        "서현진근황",
+        "틈만나면",
+        "라이어",
+        "강지선",
+        "서현진나이",
+        "유연석",
+        "서현진출연작"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "노원구에서 다시 만난 동료들",
+          "body": "‘틈만나면,’에 나온 서현진은 푸른색 상의 위에 짙은 재킷을 입고 청바지를 맞췄습니다. 긴 머리를 풀어 내린 채 유연석·이천희와 길을 걷고, 버스에서는 동료들 사이에 앉아 이야기를 나눴습니다. 제작발표회에서 머리를 묶고 검은 옷을 입었던 모습과는 차이가 있습니다."
+        },
+        {
+          "heading": "라이어에서 맡은 강지선",
+          "body": "‘라이어’는 하나의 기억을 두고 서로 다른 주장을 하는 두 남녀의 이야기입니다. 서현진이 연기하는 강지선은 자기 말이 진실임을 증명하려고 합니다. 상대의 설명과 자신의 기억이 어긋나는 상황에서 물러서지 않는 인물입니다."
+        },
+        {
+          "heading": "오해영과 윤서정 이후의 출연작",
+          "body": "2016년에는 ‘또 오해영’의 오해영과 ‘낭만닥터 김사부’의 윤서정을 연기했습니다. 같은 해 방송된 두 작품이지만 배역 이름과 이야기는 다릅니다. ‘라이어’에서 다시 만나는 유연석은 ‘낭만닥터 김사부’에서 함께했던 배우입니다."
+        },
+        {
+          "heading": "10년 만의 호흡과 첫 방송 일정",
+          "body": "서현진은 ‘틈만나면,’에서 유연석의 연기 준비 방식도 이야기했습니다. 리허설을 길게 하고 새로운 표현을 찾아보는 편이며, 그 과정에서 좋은 것을 많이 찾는다고 설명했습니다. 이미 함께 연기한 경험이 있어 동료의 작업 방식을 이해한다는 말이었습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-29T12:57:39.791Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e2dd93a09e9c41086786312b3908bd8a80eb53c88235df8a7ef60d7946787dde"
+    },
     {
       "id": "naver:tnsqo1126:224457742294",
       "logNo": "224457742294",
