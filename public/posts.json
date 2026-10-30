@@ -4,15 +4,73 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-30T12:52:16.018Z",
-  "expectedPublicCount": 1548,
-  "total": 1548,
+  "generatedAt": "2026-10-30T19:20:12.080Z",
+  "expectedPublicCount": 1549,
+  "total": 1549,
   "counts": {
-    "entertainment": 399,
+    "entertainment": 400,
     "stocks": 203,
     "archive": 946
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224459705732",
+      "logNo": "224459705732",
+      "title": "유나 근황, 싱가포르 Tangerine 솔로 무대와 검은 부츠 스타일",
+      "url": "https://blog.naver.com/tnsqo1126/224459705732",
+      "publishedAt": "2026-10-30T17:54:29.000Z",
+      "dateLabel": "2026. 10. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "유나가 싱가포르에서 Tangerine 솔로 무대를 선보였습니다. ITZY 공식 채널은 2026년 10월 16일 TUNNEL VISION 공연의 유나 무대를 공개했어요. 긴 머리를 한쪽으로 넘기고 검은 부츠를 신은 유나는 댄서들과 함께 춤을 이어갔습니다. 무대 앞쪽을 향해 걸어 나오는 동작부터 댄서들이 유나를 둘러싸는 대형까지, 한 곡 안에서 자리와 자세가 여러 번 바뀝니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMzFfMTA0/MDAxNzkzMzgyNzg4NjMw.Jk2LVKnLt74YMKqWWWo3MjnL04p9_GOOj5aeslOVMIMg.W_vgMW2FmcUfMG-KPnKcehY_EEsGUN-Kh7p_SIS-KLMg.JPEG/yuna-close.jpg?type=s3",
+      "tags": [
+        "유나",
+        "ITZY",
+        "있지",
+        "유나근황",
+        "Tangerine",
+        "싱가포르공연",
+        "TUNNELVISION",
+        "IceCream"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "싱가포르에서 선보인 Tangerine",
+          "body": "이번에 공개된 무대는 ITZY의 TUNNEL VISION 싱가포르 공연 중 유나의 개인 무대입니다. 공식 채널에는 멤버 이름과 곡명이 함께 올라왔습니다. 10월 16일은 이 공연 영상의 공개일이에요."
+        },
+        {
+          "heading": "댄서들 사이에서 팔을 올린 유나",
+          "body": "이어서 무대 전체가 드러나면 유나 양옆과 뒤쪽으로 댄서들이 자리합니다. 유나가 팔을 머리 위로 올릴 때 댄서들은 서거나 무릎을 굽힌 자세로 높이를 달리합니다. 중심에 선 유나와 주변의 움직임을 한눈에 볼 수 있는 대형이에요."
+        },
+        {
+          "heading": "끈 장식 의상과 검은 부츠",
+          "body": "유나의 의상은 노란빛이 도는 밝은 색을 바탕으로 검은 무늬와 끈 장식을 더했습니다. 상의 앞쪽에는 짙은 무늬가 들어가고 허리 아래로는 길이가 다른 천이 내려옵니다. 다리를 옮기거나 몸을 돌릴 때 이 천도 함께 움직입니다."
+        },
+        {
+          "heading": "팔을 올리며 춤추는 유나",
+          "body": "뒤편 조명은 붉은색과 주황색이 중심입니다. 둥근 조명과 사선으로 놓인 조명이 동시에 켜지고 바닥에도 빛이 비칩니다. 의상의 밝은 천과 검은 무늬는 이런 조명 아래서도 서로 다른 색으로 보입니다."
+        },
+        {
+          "heading": "팔 동작과 자리 이동으로 이어지는 안무",
+          "body": "안무는 제자리에 서서 팔을 올리는 동작으로만 이어지지 않습니다. 유나는 댄서들 사이를 지나 앞으로 나오고, 몸의 방향을 옆으로 바꾼 뒤 다시 정면을 향합니다. 댄서들도 중앙으로 모였다가 옆으로 퍼지며 자리를 바꿉니다."
+        },
+        {
+          "heading": "댄서들과 호흡을 맞추는 유나",
+          "body": "옆을 향해 나란히 선 뒤 발을 들어 내딛는 동작도 나옵니다. 유나의 긴 머리와 허리 아래 천이 몸을 따라 흔들려요. 후반에는 팔을 옆으로 길게 뻗고 방향을 바꾸며 댄서들과 안무를 이어갑니다. 서로 다른 구간마다 손과 발, 대형이 함께 달라지는 무대입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-30T19:20:12.080Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:a44d9f3a9f0c2172d2a6953cff438f66213d2a7e8d00e26e1267a6d498de5c2e"
+    },
     {
       "id": "naver:tnsqo1126:224459479101",
       "logNo": "224459479101",
