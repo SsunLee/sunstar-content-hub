@@ -4,15 +4,155 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-10-30T23:44:48.053Z",
-  "expectedPublicCount": 1551,
-  "total": 1551,
+  "generatedAt": "2026-10-31T05:38:24.312Z",
+  "expectedPublicCount": 1554,
+  "total": 1554,
   "counts": {
-    "entertainment": 401,
-    "stocks": 204,
-    "archive": 946
+    "entertainment": 402,
+    "stocks": 205,
+    "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224460061295",
+      "logNo": "224460061295",
+      "title": "현대차 3분기 영업이익 5.5% 증가, 순이익은 24.2% 줄어든 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224460061295",
+      "publishedAt": "2026-10-31T04:31:20.000Z",
+      "dateLabel": "2026. 10. 31.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 영업이익 5.5% 증가, 순이익 24.2% 감소 현대차의 2026년 3분기 영업이익은 2조6772억원으로 전년 동기보다 5.5% 늘었습니다. 반면 당기순이익은 1조9317억원으로 24.2% 줄었습니다. 영업이익 이후 반영되는 손익과 법인세 부담이 달라져 두 지표의 방향이 갈렸습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMzFfMjY0/MDAxNzkzNDIxMDQ3Nzk2.cYRu56sBYUtpzj0kbOn2Fa4gL517QcObIUIgMRdr5NMg.sFL7LYtO8nqZcn4bEiWjnBMu-jFmDeQNKbQqGA5EuFcg.PNG/hero.png?type=s3",
+      "tags": [
+        "현대차",
+        "현대자동차",
+        "3분기실적",
+        "영업이익",
+        "순이익",
+        "현금흐름",
+        "주식분석"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "영업이익 5.5% 증가, 순이익 24.2% 감소",
+          "body": "현대차의 2026년 3분기 영업이익은 2조6772억원으로 전년 동기보다 5.5% 늘었습니다. 반면 당기순이익은 1조9317억원으로 24.2% 줄었습니다. 영업이익 이후 반영되는 손익과 법인세 부담이 달라져 두 지표의 방향이 갈렸습니다."
+        },
+        {
+          "heading": "세전이익과 법인세에서 벌어진 차이",
+          "body": "2026년 3분기 법인세비용 차감 전 이익은 2조9066억원입니다. 전년 동기 3조3260억원보다 12.6% 줄었습니다. 영업이익은 약 1400억원 늘었지만 세전이익은 약 4193억원 감소했습니다. 영업이익만으로 최종 순이익의 변화를 설명하기 어려운 이유입니다."
+        },
+        {
+          "heading": "이익률 개선과 누적 실적 감소",
+          "body": "영업이익률1은 2026년 3분기 5.93%로 전년 동기 5.43%보다 높아졌습니다. 매출 100원당 영업이익이 약 5.93원 발생한 셈입니다. 매출 감소율보다 영업이익 흐름이 나았기 때문에 비율이 개선됐습니다. 이 비율은 영업이익을 매출액으로 나눈 자체 계산값이며 회사 발표의 소수점 한 자리 수치 5.9%와 반올림 자릿수가 다릅니다."
+        },
+        {
+          "heading": "이익과 별도로 확인할 현금흐름",
+          "body": "현대차의 2026년 상반기 연결 영업활동 현금흐름은 4조8497억원 유입입니다. 같은 기간 투자활동에서는 5조6587억원이 유출됐고 재무활동에서는 2조2296억원이 유입됐습니다. 여기에 현금의 환율변동 효과 약 4751억원이 더해져 현금및현금성자산은 약 1조8956억원 증가했습니다."
+        },
+        {
+          "heading": "10월 30일 시세와 다음 확인 항목",
+          "body": "Npay 증권의 10월 30일 애프터마켓 마감 화면에서 현대차 가격은 27만8500원, 표시 등락률은 -4.79%였습니다. 화면의 통합 거래량은 98만1631주, 거래대금은 2760억7900만원입니다. 거래량과 거래대금은 KRX와 NXT를 합한 기준이며 정규장 단독 거래량과 구분됩니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-31T05:38:24.312Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3d5d3eeb85c935c6965ea95178b3b01852973d86c7bd6788e2036e2eceecf028"
+    },
+    {
+      "id": "naver:tnsqo1126:224460002227",
+      "logNo": "224460002227",
+      "title": "제주 자연휴양림 숙박 2곳, 교래·절물 객실 요금과 11월 숲길 이용안내",
+      "url": "https://blog.naver.com/tnsqo1126/224460002227",
+      "publishedAt": "2026-10-31T03:16:13.000Z",
+      "dateLabel": "2026. 10. 31.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "119",
+      "summary": "안녕하세요. 오늘은 숲 산책과 숙박을 함께 계획할 수 있는 제주 자연휴양림 두 곳을 소개해 드릴게요. 교래에서는 곶자왈과 초가형 숙박시설을, 절물에서는 삼나무 숲과 다양한 객실을 만날 수 있어요. 11월에는 숲길 입장 마감이 빨라지는 곳이 있어 체크인과 산책 시간을 따로 잡는 것이 좋습니다. 객실 요금과 짐을 옮기는 거리, 조리 규칙까지 함께 살펴보세요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMzFfMTI5/MDAxNzkzNDE2MzY3MzU1.rGaObVvavCYgCt29eQpjaTXVfGRWQenyLyAh5a5hjXIg.Ss9UR1aqrpPMbgzOFCYxFKMT6D4atcihTd0_D5CJ2a4g.PNG/00-cover.png?type=s3",
+      "tags": [
+        "제주여행",
+        "제주자연휴양림",
+        "교래자연휴양림",
+        "절물자연휴양림",
+        "제주숙박",
+        "제주숲길",
+        "11월제주여행",
+        "여행정보"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224459933573",
+      "logNo": "224459933573",
+      "title": "리아 근황, 싱가포르 Asylum 솔로 무대와 은빛 드레스",
+      "url": "https://blog.naver.com/tnsqo1126/224459933573",
+      "publishedAt": "2026-10-31T01:51:54.000Z",
+      "dateLabel": "2026. 10. 31.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 리아가 싱가포르 공연에서 솔로곡 Asylum을 불렀습니다. 은빛이 도는 짧은 드레스에 민트색 마이크를 들고 등장해, 천을 드리운 세트에 앉아 노래를 시작했습니다. ITZY 공식 채널은 이 무대를 2026년 10월 16일 공개했습니다. Asylum은 ITZY 미니 앨범 Motto의 다섯 번째 곡입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjEwMzFfMzUg/MDAxNzkzNDExNDQ3Njc2.cbf_IZDApkGmzGtPR5FQxL_SK_dwg04fPlJDez3TNwcg.zdw48CxY6koYp4lLNfTFRSV6sI_IKYk8z7fNvVJBQYsg.JPEG/lia-close.jpg?type=s3",
+      "tags": [
+        "리아",
+        "리아근황",
+        "ITZY",
+        "있지",
+        "Asylum",
+        "Motto",
+        "리아솔로",
+        "싱가포르공연"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "푸른 조명 아래 시작한 싱가포르 무대",
+          "body": "리아는 흰 천이 늘어진 높은 세트 가운데에 앉았습니다. 뒤편에는 푸른색 배경과 비스듬한 빛이 겹쳤고, 양옆으로 늘어뜨린 천은 무대 바닥 가까이 내려왔습니다. 리아가 앉은 자리와 세트 전체가 함께 보이는 구도에서는 의상 뒤로 길게 이어진 옷자락도 눈에 들어옵니다."
+        },
+        {
+          "heading": "민트색 마이크를 든 리아",
+          "body": "노래 중간에는 고개를 숙이고 마이크를 무릎 쪽으로 내렸습니다. 다시 마이크를 입 가까이 가져온 뒤에는 시선을 객석 쪽에 두고 노래를 이어갔습니다. 조명은 청록색에서 짙은 파란색으로 바뀌며 리아의 얼굴과 무대 세트를 비췄습니다."
+        },
+        {
+          "heading": "은빛 드레스와 민트색 마이크",
+          "body": "리아는 어깨가 드러나는 민소매 드레스를 입었습니다. 몸판에는 세로로 길게 이어지는 선과 반짝이는 장식이 있고, 가슴 부분에는 천을 겹쳐 잡은 주름이 보입니다. 회색과 은색 사이의 옷감은 푸른 조명을 받을 때 옅은 청록색을 띱니다."
+        },
+        {
+          "heading": "가슴에 손을 얹고 노래하는 리아",
+          "body": "긴 머리는 한쪽 어깨 앞으로 내려왔습니다. 귀에는 길게 늘어진 장식을 더했고, 신발은 밝은색 굽 구두로 맞췄습니다. 민트색 마이크에는 반짝이는 장식이 촘촘하게 붙어 있습니다."
+        },
+        {
+          "heading": "Asylum은 Motto에 실린 리아의 솔로곡",
+          "body": "Asylum의 음원은 2026년 5월 18일 발매된 Motto에 수록됐습니다. JYP의 공식 트랙리스트에는 Asylum (리아)로 적혀 있습니다. 단체 타이틀곡 Motto와 같은 앨범에 담겼지만, 공연에서는 리아가 혼자 노래하는 개인 순서로 선보였습니다."
+        },
+        {
+          "heading": "세트 앞에 서서 노래하는 리아",
+          "body": "JYP는 이 다섯 솔로곡을 TUNNEL VISION 개인 무대에서 처음 선보인 곡으로 소개했습니다. 리아의 싱가포르 공연은 그중 Asylum을 부른 무대입니다. 앨범에서는 다섯 번째 트랙을 찾으면 되고, 공식 공연 콘텐츠에는 리아의 이름과 곡명이 함께 표시돼 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-10-31T05:38:24.312Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:23dbf3a433da1b099b460b499d4945d9ea1cd2d07683bf7d24b6150ac26219cb"
+    },
     {
       "id": "naver:tnsqo1126:224459824670",
       "logNo": "224459824670",
