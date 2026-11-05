@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-04T19:43:52.828Z",
-  "expectedPublicCount": 1566,
-  "total": 1566,
+  "generatedAt": "2026-11-05T00:53:58.711Z",
+  "expectedPublicCount": 1567,
+  "total": 1567,
   "counts": {
-    "entertainment": 410,
+    "entertainment": 411,
     "stocks": 209,
     "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224465488720",
+      "logNo": "224465488720",
+      "title": "수능 예비소집 11월 18일, 시험실 건물엔 못 들어갑니다... 수험표 받으면 볼 곳 두 군데",
+      "url": "https://blog.naver.com/tnsqo1126/224465488720",
+      "publishedAt": "2026-11-04T22:13:16.000Z",
+      "dateLabel": "2026. 11. 5.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "2027학년도 수능은 11월 19일(목)에 치러지고, 예비소집은 하루 전인 11월 18일(수)입니다. 예비소집 날에는 수험표를 받고 시험장과 시험실 위치까지만 확인할 수 있습니다. 시험실이 있는 건물 안으로는 들어갈 수 없습니다. 교실 안 자리는 시험 당일 아침에 처음 보게 됩니다. 올해 수능 지원자는 55만 1,864명입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDVfMTMy/MDAxNzkzODMwMTc3ODIx.Hd0QXFX9jC84HhR_wu8gzzcxEW9n9W4rYRj1hPLjSYsg.8P3d5xoSh4H1v9SV1_pK59P0B9s9QVBo0-jsFGT7b9kg.PNG/card1_cover.png?type=s3",
+      "tags": [
+        "수능",
+        "2027수능",
+        "수능예비소집",
+        "수험표",
+        "수험표분실",
+        "수능준비물",
+        "수능신분증",
+        "가채점표"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224465384851",
       "logNo": "224465384851",
