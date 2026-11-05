@@ -4,15 +4,61 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-05T00:53:58.711Z",
-  "expectedPublicCount": 1567,
-  "total": 1567,
+  "generatedAt": "2026-11-05T18:00:55.494Z",
+  "expectedPublicCount": 1568,
+  "total": 1568,
   "counts": {
-    "entertainment": 411,
+    "entertainment": 412,
     "stocks": 209,
     "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224466355239",
+      "logNo": "224466355239",
+      "title": "MMA2026 투표 1위면 상을 받을까? 팬 투표가 실제로 반영되는 비율",
+      "url": "https://blog.naver.com/tnsqo1126/224466355239",
+      "publishedAt": "2026-11-05T11:02:30.000Z",
+      "dateLabel": "2026. 11. 5.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "투표 1위를 해도 수상이 확정되지는 않습니다. 카카오엔터테인먼트가 발표한 MMA2026(2026 멜론뮤직어워드) 선정 기준에서 팬 투표는 대부분 부문에서 20%만 반영되고, 나머지 80%는 음원 성적 60%와 심사 20%로 채워집니다. 부문별 투표는 11월 13일까지이고, 시상식은 11월 14일(토)과 15일(일) 서울 고척스카이돔에서 열립니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDVfMTU4/MDAxNzkzODc1OTkyMjM2.xuKlOlnOi5BRExRDAL96zEBH-N4MMPt3bB497Ywv0S0g.m764vMukUt3cS00rHkhgShQXJuJ_csH3AYngRFYM2DYg.PNG/card1_cover.png?type=s3",
+      "tags": [
+        "MMA2026",
+        "멜론뮤직어워드",
+        "MMA투표",
+        "멜론투표",
+        "글로벌TOP10",
+        "올해의아티스트",
+        "트랙제로초이스",
+        "고척스카이돔"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "\"투표 1위가 곧 수상은 아닙니다\"",
+          "body": "이번 부문별 투표는 올해의 아티스트, 카카오뱅크 올해의 앨범, 올해의 베스트송, 올해의 신인, 글로벌 TOP10, 베스트 솔로·그룹 남녀, 베스트 OST, 베스트 팝 아티스트, 트랙제로 초이스까지 12개 부문에서 진행됩니다. 수상자는 음원 60%, 심사 20%, 투표 20%를 합산해 정합니다."
+        },
+        {
+          "heading": "\"트랙제로 초이스는 계산법이 다릅니다\"",
+          "body": "12개 부문 가운데 '트랙제로 초이스'만 비율이 다릅니다. 음원 20%, 심사 60%, 투표 20%입니다. 자신만의 장르와 스타일로 대중음악의 다양성에 기여한 곡에 주는 상이어서 심사 비중을 높게 잡았습니다. 실리카겔, wave to earth, SUMIN 등의 10곡이 후보에 올랐습니다."
+        },
+        {
+          "heading": "\"글로벌 TOP10은 해외 표가 절반입니다\"",
+          "body": "올해 새로 생긴 '글로벌 TOP10'은 기존 TOP10과 같은 본상입니다. 멜론이 중국 텐센트뮤직, 일본 라인뮤직과 함께 만든 한중일 통합 차트 'Global-K Chart'의 누적 점수로 후보 30팀을 골랐고, 차트 60%, 심사 20%, 투표 20%로 수상자를 정합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-05T18:00:55.494Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:8bf9b60476457ee7d3a89421440ba86535f98b2fc742250b6116baa57e613526"
+    },
     {
       "id": "naver:tnsqo1126:224465488720",
       "logNo": "224465488720",
