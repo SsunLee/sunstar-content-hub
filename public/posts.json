@@ -4,15 +4,65 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-05T18:00:55.494Z",
-  "expectedPublicCount": 1568,
-  "total": 1568,
+  "generatedAt": "2026-11-05T23:38:23.054Z",
+  "expectedPublicCount": 1569,
+  "total": 1569,
   "counts": {
-    "entertainment": 412,
+    "entertainment": 413,
     "stocks": 209,
     "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224466745381",
+      "logNo": "224466745381",
+      "title": "가상자산 과세 또 미뤄지나? 2029년 시행 추진과 손실 3년 이월공제",
+      "url": "https://blog.naver.com/tnsqo1126/224466745381",
+      "publishedAt": "2026-11-05T22:19:15.000Z",
+      "dateLabel": "2026. 11. 6.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "네, 정부가 내년(2027) 시행 예정이던 가상자산 소득과세를 2년 더 미뤄 2029년 시행을 추진하겠다고 밝혔습니다. 이형일 부총리 겸 재정경제부 장관이 2026년 11월 5일 정부서울청사 브리핑에서 국회와 협의해 추진하겠다고 했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDZfMTAx/MDAxNzkzOTE2ODExMDYy.FgYk5zP5vW3ykQDGqg7OQBpRXIM0L6OtzXCZFHkMMOsg.qwvMcCB829QxXf1Ibe0tGGXz1BtirxSGx-UYdGBPmxgg.PNG/card1_cover.png?type=s3",
+      "tags": [
+        "가상자산과세",
+        "코인세금",
+        "가상자산소득세",
+        "2029과세",
+        "손실이월공제",
+        "디지털자산법",
+        "재정경제부",
+        "CARF"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "왜 또 2년을 미루나요",
+          "body": "정부는 미국과의 가상자산 정보교환(OECD CARF)이 2029년부터 이뤄진다는 점을 들었습니다. 당장 과세하면 국내 시장이 상대적으로 불리해질 수 있다는 의견과, 디지털자산법 제정으로 제도 기반이 크게 바뀔 것으로 보이는 점을 고려해 준비기간이 필요하다고 판단했습니다. 시행 시기 조정은 국내외 거래 과세의 실효성과 납세자 간 형평성을 높이려는 목적입니다."
+        },
+        {
+          "heading": "세율·기본공제는 어떻게 되나요",
+          "body": "현행 소득세법 골격(유예 전 기준)은 그대로입니다. 양도·대여로 생긴 소득에서 연 기본공제 250만원을 뺀 초과분에 기타소득세 20%와 지방소득세 2%를 합쳐 22%를 적용하는 구조입니다. 이번 브리핑에서 기본공제나 세율 숫자를 새로 고친 것은 아닙니다. 해외 거래에 대한 과세정보 확보 여건도 함께 점검하겠다고 했습니다. 거주 간 손익을 통산해 다음 해 5월 종합소득세 신고 때 기타소득(분리과세)으로 신고하는 골격은 유예 전 기준과 같습니다."
+        },
+        {
+          "heading": "손실 3년 이월공제는 확정인가요",
+          "body": "아닙니다. 미국·영국 등 주요국 사례를 참고해 손실 이월공제를 3년간 허용하는 방안을 국회와 협의해 추진하겠다고 했습니다. 가격 변동성이 큰 자산이라 일정 기간 손익을 통산하는 편이 낫다는 의견을 반영한 것입니다. 현행 골격에는 결손금 이월공제가 없었기 때문에, 이 부분은 법 개정이 이뤄져야 적용됩니다."
+        },
+        {
+          "heading": "앞으로 일정은 어떻게 되나요",
+          "body": "전문가·업계·관계부처가 참여하는 민관합동 워킹그룹을 구성해 과세제도 합리화, 다양한 거래의 세부 과세기준, 납세자 신고 편의 등을 논의합니다. 워킹그룹 출범회의를 조속히 연 뒤 내년(2027) 상반기까지 제도개선안을 만들고, 입법이 필요한 사항은 2027년 정기국회에 개정안을 제출할 계획입니다. 2028년 상반기에는 세부 과세기준을 발표해 시장과 납세자에게 안내하겠다고 했습니다. 문의는 재정경제부 소득세제과·자금시장정책과, 금융위원회 가상자산과입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-05T23:38:23.054Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:a122667d601bfc1bfd6589a83d5df4ae575fd2870b6a68fb75d6f31af7706c9c"
+    },
     {
       "id": "naver:tnsqo1126:224466355239",
       "logNo": "224466355239",
