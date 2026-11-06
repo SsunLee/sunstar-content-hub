@@ -4,15 +4,65 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-05T23:38:23.054Z",
-  "expectedPublicCount": 1569,
-  "total": 1569,
+  "generatedAt": "2026-11-06T06:40:50.326Z",
+  "expectedPublicCount": 1570,
+  "total": 1570,
   "counts": {
     "entertainment": 413,
-    "stocks": 209,
+    "stocks": 210,
     "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224467085547",
+      "logNo": "224467085547",
+      "title": "코스피 장중 8% 급락·서킷브레이커, 담보비율 유지 의무는 3개월 면제",
+      "url": "https://blog.naver.com/tnsqo1126/224467085547",
+      "publishedAt": "2026-11-06T03:59:36.000Z",
+      "dateLabel": "2026. 11. 6.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "110",
+      "summary": "11월 6일 코스피는 장중 8% 넘게 떨어졌고, 오전 9시 3분 1단계 서킷브레이커가 발동돼 유가증권시장 매매가 20분간 멈췄습니다. 한국거래소 발표를 인용한 보도에 따르면 발동 시점 지수는 전날 종가 5,383.80보다 8.52% 낮은 4,924.61이었습니다. 네이버페이 증권 기준 오후 12시 49분 조회 코스피는 5,108.33으로 전날보다 5.12% 낮았습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDZfMjE0/MDAxNzkzOTM3MTExODMx.I6nRlxZYFCMNq0N4XBCtKIHYNFHGCzkJvEzlsJx2muEg.SzMlbf7u1wFgNAbLb0HdXYgQwvI5pVPLc557sA2XBvIg.PNG/card1_cover.png?type=s3",
+      "tags": [
+        "코스피",
+        "서킷브레이커",
+        "사이드카",
+        "담보비율",
+        "반대매매",
+        "코스닥",
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "서킷브레이커와 사이드카는 다릅니다",
+          "body": "서킷브레이커는 코스피가 전일 종가보다 8% 이상 내린 상태가 1분간 이어질 때 발동됩니다. 유가증권시장 매매와 연계 선물·옵션이 20분간 멈춥니다. 사이드카는 시장 전체를 멈추지 않고, 기준 파생상품이 5% 이상 움직이면 프로그램매매 호가의 효력만 5분간 정지합니다. 이날 코스피·코스닥 모두 매도 사이드카가 발동됐습니다. 두 장치 모두 급변을 늦출 뿐, 하락을 막거나 반등을 보장하지는 않습니다."
+        },
+        {
+          "heading": "반대매매는 당장 강제로 나오나요",
+          "body": "정부가 이날 합동 시장상황점검회의(F4)에서 증권사의 신용융자 담보비율 유지 의무를 오는 9일부터 3개월간 면제한다고 밝혔습니다. 연합뉴스·아시아경제에 따르면 지금은 담보비율 140% 이상 유지가 요구되지만, 한시적으로 면제해 담보 부족에 따른 강제 처분이 변동성을 키우는 상황을 줄이겠다는 취지입니다. 면제는 반대매매를 없애는 조치가 아니며, 증권사 내규와 개별 계좌 상황에 따라 달라질 수 있습니다."
+        },
+        {
+          "heading": "미국에서 확인된 것과 해석은 다릅니다",
+          "body": "확인된 사실은 미국 5일(현지) 나스닥 -5.52%, S&P500 -4.36%, 필라델피아 반도체 -12.25%입니다. 보도들은 중간선거 이후 AI 데이터센터 규제·투자 지연 우려를 배경으로 꼽았습니다. 다만 이 글을 쓰는 시점까지 새 규제가 법·정책으로 확정됐다는 발표는 확인하지 못했습니다. 지금은 가능성에 대한 해석이 시장을 움직입니다."
+        },
+        {
+          "heading": "확인된 사실과 시장의 해석 구분 · 자료: 연합뉴스·머니투데이·코리아중앙데일리",
+          "body": "마감 종가와 투자자별 확정 수급, 미국 정책 발표 여부는 오후 이후에 다시 확인해야 합니다. 이 글은 정보 제공용이며 투자 권유가 아닙니다. 판단과 책임은 투자자 본인에게 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-06T06:40:50.326Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:fe50bb2f50d173beda810b880e03d57f83fbf88c8959b668d485f830977d07ab"
+    },
     {
       "id": "naver:tnsqo1126:224466745381",
       "logNo": "224466745381",
