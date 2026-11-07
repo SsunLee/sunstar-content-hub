@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-06T06:40:50.326Z",
-  "expectedPublicCount": 1570,
-  "total": 1570,
+  "generatedAt": "2026-11-07T01:55:33.290Z",
+  "expectedPublicCount": 1571,
+  "total": 1571,
   "counts": {
-    "entertainment": 413,
+    "entertainment": 414,
     "stocks": 210,
     "archive": 947
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224467974435",
+      "logNo": "224467974435",
+      "title": "신용융자 담보비율 140% 의무, 11월 9일부터 3개월 면제...반대매매는 자동 중단?",
+      "url": "https://blog.naver.com/tnsqo1126/224467974435",
+      "publishedAt": "2026-11-06T22:14:47.000Z",
+      "dateLabel": "2026. 11. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "아닙니다. 정부는 증권사의 신용융자 담보비율 유지의무(140%)를 2026년 11월 9일부터 3개월간 면제하지만, 반대매매가 일괄 중단되는 것은 아닙니다. 재정경제부가 6일 관계기관 합동 시장상황점검회의 결과를 밝힌 조치로, 실제 담보비율과 반대매매 여부는 증권사가 자체적으로 정합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDdfNDAg/MDAxNzk0MDAzMDE3NzUy.xljV1LbNE4AXLqLiPK5Pp2UeZy002PCblVLG7ifHwxUg.O61LTHzYxZYhkeySOZokdqi3os0VmgARYP7N2NKB1QQg.PNG/card1_cover.png?type=s3",
+      "tags": [
+        "신용융자",
+        "담보비율",
+        "반대매매",
+        "140퍼센트",
+        "시장안정",
+        "재정경제부",
+        "금융위원회",
+        "코스피"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224467085547",
       "logNo": "224467085547",
