@@ -4,15 +4,44 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-07T08:46:14.898Z",
-  "expectedPublicCount": 1573,
-  "total": 1573,
+  "generatedAt": "2026-11-07T16:25:24.148Z",
+  "expectedPublicCount": 1574,
+  "total": 1574,
   "counts": {
-    "entertainment": 415,
+    "entertainment": 416,
     "stocks": 210,
     "archive": 948
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224468472691",
+      "logNo": "224468472691",
+      "title": "지수 'ADDICTED', 오늘 음중 복귀...정규 본편 아닌 선공개로 1년 9개월 만",
+      "url": "https://blog.naver.com/tnsqo1126/224468472691",
+      "publishedAt": "2026-11-07T09:41:55.000Z",
+      "dateLabel": "2026. 11. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "블랙핑크 지수가 2026년 11월 7일(토) MBC '쇼! 음악중심'에 출연해 디지털 싱글 'ADDICTED' 무대를 선보입니다. 소속사 블리수(BLISSOO) 발표대로 이 곡은 첫 솔로 정규앨범의 두 번째 선공개곡이며, 지난해 2월 솔로 미니 'AMORTAGE' 타이틀곡 'earthquake' 이후 약 1년 9개월 만의 국내 음악방송 복귀입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDdfMjU2/MDAxNzk0MDQzODA0MzU1.MjHld7lcWuE2_S3wjR_mm8l4EBKz2Od16fc83QYSLdwg.Da13y135enMEYgbGa8i50Oyo-jqqQ71Lfeh6lvVqIIYg.PNG/cover.png?type=s3",
+      "tags": [
+        "지수",
+        "블랙핑크지수",
+        "JISOO",
+        "ADDICTED",
+        "어딕티드",
+        "BLISSOO",
+        "블리수",
+        "쇼음악중심"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224468234749",
       "logNo": "224468234749",
