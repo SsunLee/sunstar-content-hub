@@ -4,15 +4,70 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-07T01:55:33.290Z",
-  "expectedPublicCount": 1571,
-  "total": 1571,
+  "generatedAt": "2026-11-07T08:46:14.898Z",
+  "expectedPublicCount": 1573,
+  "total": 1573,
   "counts": {
-    "entertainment": 414,
+    "entertainment": 415,
     "stocks": 210,
-    "archive": 947
+    "archive": 948
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224468234749",
+      "logNo": "224468234749",
+      "title": "강아지·고양이 카카오톡 테마 10종 | 동글동글 우리 집 털뭉치",
+      "url": "https://blog.naver.com/tnsqo1126/224468234749",
+      "publishedAt": "2026-11-07T04:24:50.000Z",
+      "dateLabel": "2026. 11. 7.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "116",
+      "summary": "여러분~! 제가 동글동글 우리 집 털뭉치 카카오톡 테마 10종을 끓여왔어요. 강아지와 고양이 친구들을 만나 보세요. 각 테마는 포스타입에서 1,000P로 판매되고 있어요. 아이폰과 안드로이드 파일은 같은 게시물에서 받을 수 있으며, 구매 전에 현재 제공 조건과 설치 안내를 확인해 주세요. 아이폰은 .ktheme, 안드로이드는 .apk 파일을 선택해 주세요.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDdfMjUx/MDAxNzk0MDI1Mzg0Mjk1.HlsgyROwsrqi4MMFZ8TF5-LGr5UXmUEezwhPqTmAZxIg.Vlv_rF7f5e19Cbo1oiSSofrZW_PQg4nycdjx9xhTyBcg.JPEG/000-pet2-beagle-theme_preview.jpg?type=s3",
+      "tags": [
+        "카카오톡테마",
+        "아이폰카톡테마",
+        "안드로이드카톡테마",
+        "강아지카톡테마",
+        "고양이카톡테마"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
+    {
+      "id": "naver:tnsqo1126:224468212577",
+      "logNo": "224468212577",
+      "title": "채령 첫 솔로 'Lovesick', 11월 9일 오후 6시 발매...카운트다운은 5시",
+      "url": "https://blog.naver.com/tnsqo1126/224468212577",
+      "publishedAt": "2026-11-07T03:54:50.000Z",
+      "dateLabel": "2026. 11. 7.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "ITZY 채령의 첫 솔로 미니앨범(EP) 'Lovesick'은 2026년 11월 9일(월) 오후 6시(KST)에 발매됩니다. 같은 날 오후 5시에는 카운트다운 라이브가 열리고, 수록곡은 타이틀 'Lovesick'을 포함해 총 4곡입니다. 네 번째 트랙 'Favorite Reason'에는 채령이 작사로 참여한 것이 맞습니다. 소속사는 JYP엔터테인먼트입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDdfMTk1/MDAxNzk0MDIzMzgyNDY4.ybLxOU3km_wWRzjQfzvYfbwbS4ND0MyTgGRCClC3l9sg.otuxYpJLwfXjaRELBnIoqmxYypeQvx17Uk_6l658Z2Qg.PNG/cover.png?type=s3",
+      "tags": [
+        "채령",
+        "ITZY채령",
+        "Lovesick",
+        "채령솔로",
+        "채령러브시크",
+        "FavoriteReason",
+        "JYP",
+        "ITZY"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224467974435",
       "logNo": "224467974435",
