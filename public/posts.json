@@ -4,15 +4,41 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-07T16:25:24.148Z",
-  "expectedPublicCount": 1574,
-  "total": 1574,
+  "generatedAt": "2026-11-08T08:59:43.652Z",
+  "expectedPublicCount": 1575,
+  "total": 1575,
   "counts": {
     "entertainment": 416,
     "stocks": 210,
-    "archive": 948
+    "archive": 949
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224469033735",
+      "logNo": "224469033735",
+      "title": "[면세환급방법] 직접 한 후기, 새롭게 바뀐 일본 면세 환급 방법 (찐후기)",
+      "url": "https://blog.naver.com/tnsqo1126/224469033735",
+      "publishedAt": "2026-11-08T02:47:17.000Z",
+      "dateLabel": "2026. 11. 8.",
+      "category": "archive",
+      "categoryLabel": "기록",
+      "sourceCategoryNo": "119",
+      "summary": "새롭게 변경된 환급 방법 안내 첫째 - 물건 구입할 때 유니클로 또는 돈키호테 에서 면세로 구매하겠다고 하면, 이전과 비슷하게 여권을 주고 등록하는 과정을 거칩니다. 여기서 다른점은? 기존 : 여권 등록 후 할인된 금액으로 결제 완료 변경 : 여권 등록 후 원래 금액으로 결제 완료 정해진 일본 업체에 환급받을 카드 및 계좌 등록 둘째 - 공항 도착 후 공항에 도착하니까 이런…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMDhfMTgx/MDAxNzk0MTA0MjAzNjA2.YksjFaOzRYyIAnnh-Y_u1bqnUi59QeLCtbDunG4gSSkg.QKuGSBJDeDMYCrpbRWtay5uoUjbQdEHROnRFNJ4oF3sg.JPEG/KakaoTalk_20261108_111614792.jpg?type=s3",
+      "tags": [
+        "일본여행",
+        "면세",
+        "환급",
+        "면세환급",
+        "환급방법"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224468472691",
       "logNo": "224468472691",
