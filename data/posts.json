@@ -4,15 +4,68 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-08T08:59:43.652Z",
-  "expectedPublicCount": 1575,
-  "total": 1575,
+  "generatedAt": "2026-11-13T09:30:00.659Z",
+  "expectedPublicCount": 1576,
+  "total": 1576,
   "counts": {
-    "entertainment": 416,
+    "entertainment": 417,
     "stocks": 210,
     "archive": 949
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224475657256",
+      "logNo": "224475657256",
+      "title": "조이 근황, 크러쉬와 삐그덕 듀엣부터 레드벨벳 팬콘서트 비하인드까지",
+      "url": "https://blog.naver.com/tnsqo1126/224475657256",
+      "publishedAt": "2026-11-13T05:20:11.000Z",
+      "dateLabel": "2026. 11. 13.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "조이와 크러쉬가 함께 부른 삐그덕 조이가 크러쉬와 함께 부른 삐그덕 라이브를 공개했습니다. 2026년 11월 11일 크러쉬 유튜브 채널에 올라온 영상은 3분 5초 분량입니다. 조이는 반려견을 품에 안고 크러쉬 옆에 나란히 앉아 마이크를 들었습니다. 얼굴 대신 두 사람의 상반신과 반려견이 카메라에 담겼습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMTNfMTc5/MDAxNzk0NTQ3MTUyMDc1.WVHvdQypS8pv8qekDy_hLqYIt6uSIU8VHkBeDk4XjKkg.vlTIvbU5lKADD15LMs4_DaLM8xrFCBDDTBiOEKcTahMg.JPEG/joy-stage.jpg?type=s3",
+      "tags": [
+        "조이",
+        "조이근황",
+        "크러쉬",
+        "삐그덕",
+        "레드벨벳",
+        "JOY",
+        "레드벨벳팬콘서트"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "조이와 크러쉬가 함께 부른 삐그덕",
+          "body": "조이가 크러쉬와 함께 부른 삐그덕 라이브를 공개했습니다. 2026년 11월 11일 크러쉬 유튜브 채널에 올라온 영상은 3분 5초 분량입니다. 조이는 반려견을 품에 안고 크러쉬 옆에 나란히 앉아 마이크를 들었습니다."
+        },
+        {
+          "heading": "편안한 옷차림으로 마주 앉은 두 사람",
+          "body": "조이는 밝은색 몸판에 짙은색 소매가 붙은 상의를 입었습니다. 크러쉬는 가슴에 작은 글자가 있는 흰색 긴팔 티셔츠 차림입니다. 두 사람 앞에는 노트북이 놓여 있고, 조이의 품에 안긴 하얀 반려견이 화면 가운데를 차지합니다."
+        },
+        {
+          "heading": "원곡과 다른 조이의 라이브 참여",
+          "body": "삐그덕은 크러쉬가 아이유와 함께한 곡입니다. 이번 공개 영상에서는 조이가 크러쉬와 노래를 나눠 불렀습니다. 원곡의 참여 가수와 이번 라이브의 참여 가수가 다르므로, 조이와 함께한 무대를 찾는다면 11월 11일 공개된 Live with 조이 영상을 구분해서 보면 됩니다."
+        },
+        {
+          "heading": "같은 날 공개된 레드벨벳 팬콘서트 비하인드",
+          "body": "레드벨벳 채널도 11월 11일 팬콘서트 A Day in Red & Velvet의 리허설과 공연 비하인드를 공개했습니다. 조이는 멤버들과 무대에 올라 이야기를 나누고 노래를 부르며 팬들을 만났습니다. 공연을 준비하는 리허설부터 무대 인사까지 여러 순간이 담겼습니다."
+        },
+        {
+          "heading": "듀엣 라이브와 그룹 무대로 전한 근황",
+          "body": "조이는 팬콘서트 마지막 인사에서는 밝은색 상의와 짧은 하의를 입고 무대에 섰습니다. 멤버들과 한 줄로 서서 마이크를 들고 관객을 바라봤습니다. 화려한 공연 의상에 이어 편안한 차림으로 인사를 전한 모습입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-13T09:30:00.659Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:55733e08e899932cc61f12c48b00392c5680d3482bcc830f5d9e3b4c7652f0d0"
+    },
     {
       "id": "naver:tnsqo1126:224469033735",
       "logNo": "224469033735",
