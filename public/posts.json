@@ -4,15 +4,199 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-20T12:52:05.694Z",
-  "expectedPublicCount": 1631,
-  "total": 1631,
+  "generatedAt": "2026-11-20T21:49:15.016Z",
+  "expectedPublicCount": 1635,
+  "total": 1635,
   "counts": {
-    "entertainment": 453,
-    "stocks": 228,
+    "entertainment": 455,
+    "stocks": 230,
     "archive": 950
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224485581581",
+      "logNo": "224485581581",
+      "title": "금양그린파워 원주 AI 데이터센터 2,300억 원 계약, 선급금 지급 조건은?",
+      "url": "https://blog.naver.com/tnsqo1126/224485581581",
+      "publishedAt": "2026-11-20T21:31:17.000Z",
+      "dateLabel": "2026. 11. 21.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "원주 AI 데이터센터 전기·통신 공사 계약 2,300억 원 계약의 공사 범위 금양그린파워는 11월 20일 메가데이타코리아와 원주 AI 데이터센터 전기·통신 공사 계약을 공시했습니다. 계약금액은 부가가치세를 제외한 2,300억 원입니다. 선급금 460억 원은 발주자의 프로젝트 파이낸싱(PF) 승인 후 지급될 예정입니다. 공시상 공사 장소는 강원도 원주시입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjFfMjg2/MDAxNzk1MjEwMjQ0NjU3.BloDFw2ckj3myR84OUZ979cq76K3Mtvx6J_tjFGrinwg.8hTt_uZIrVdykv0iflRUvtZETJ3RMUQYYYFJZY4TS10g.PNG/hero.png?type=s3",
+      "tags": [
+        "금양그린파워",
+        "원주AI데이터센터",
+        "메가데이타코리아",
+        "공급계약",
+        "데이터센터전기공사",
+        "금양그린파워공시",
+        "코스닥"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "2,300억 원 계약의 공사 범위",
+          "body": "금양그린파워는 11월 20일 메가데이타코리아와 원주 AI 데이터센터 전기·통신 공사 계약을 공시했습니다. 계약금액은 부가가치세를 제외한 2,300억 원입니다. 선급금 460억 원은 발주자의 프로젝트 파이낸싱(PF) 승인 후 지급될 예정입니다."
+        },
+        {
+          "heading": "선급금 460억 원을 받는 조건",
+          "body": "계약금액은 선급금 20%, 기성금 75%, 잔금 5%로 나뉩니다. 계약금액 2,300억 원을 기준으로 계산하면 선급금은 460억 원이고 기성금은 1,725억 원입니다. 잔금은 115억 원입니다. 뒤의 두 금액은 공시의 지급 비율을 계약금액에 적용해 계산한 값입니다."
+        },
+        {
+          "heading": "착공일부터 준공일까지 바뀔 수 있는 항목",
+          "body": "공시에는 계약일과 착공일이 모두 2026년 11월 20일로 기재됐습니다. 계약 종료일이자 준공일은 2029년 3월 30일입니다. 계약일을 안다고 해서 연도별 공사 진척률이나 청구액까지 계산할 수는 없습니다. 공시에는 연도별 금액 배분이 제시되지 않았습니다."
+        },
+        {
+          "heading": "3분기 이익과 1~9월 누적 손실",
+          "body": "11월 13일 공개된 연결 포괄손익계산서에서 2026년 3분기 단독 매출은 약 722억 원이고 영업이익은 약 9억 3천만 원입니다. 같은 해 1~9월 누적 매출은 약 2,292억 원이고 영업손실은 약 52억 9천만 원입니다. 7~9월에는 영업이익을 냈지만 앞선 분기의 손실까지 만회하지는 못했습니다."
+        },
+        {
+          "heading": "11월 20일 장후 시세와 후속 공시",
+          "body": "네이버증권의 11월 20일 오후 8시 20분 기준 애프터마켓 표시 가격은 9,260원입니다. 같은 응답은 전일 기준가 대비 1,330원, 16.77% 상승으로 표시했습니다. 거래 시간대에 따라 기준 가격과 등락률이 달라질 수 있으므로 정규장 시세와 한 줄로 섞어 비교하면 해석이 달라집니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-20T21:49:15.016Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:3aed55a864011365a24ca9ce753fef785893da60703dd965ebb3eb84dc62b7e1"
+    },
+    {
+      "id": "naver:tnsqo1126:224485500575",
+      "logNo": "224485500575",
+      "title": "엔하이픈 성훈 근황, I Want You 콘셉트 필름과 음반 발매일",
+      "url": "https://blog.naver.com/tnsqo1126/224485500575",
+      "publishedAt": "2026-11-20T17:54:06.000Z",
+      "dateLabel": "2026. 11. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "창가에 선 성훈 성훈의 콘셉트 필름과 I Want You 발매 엔하이픈이 11월 20일 오후 2시에 스핀오프 싱글 ‘THE SIN : PARALLEL WORLD’의 음원을 공개했습니다. 타이틀곡은 ‘I Want You’입니다. 성훈은 이 싱글의 멤버별 콘셉트 필름에서 파란색 칼라 니트를 입고 창가와 주방을 오갑니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjFfMTk0/MDAxNzk1MTk3MTM5Njcx.419Ytx4GlzgOA4qot5_JlV_-Xd03MTGd5_iRNouk3pQg.-RhUP3yoyc_IihbaAxLm7VfdUMCjkLJsedpfVC100zog.JPEG/photo-01.jpg?type=s3",
+      "tags": [
+        "엔하이픈",
+        "성훈",
+        "IWantYou",
+        "THESINPARALLELWORLD",
+        "I",
+        "Want",
+        "You",
+        "THE"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "성훈의 콘셉트 필름과 I Want You 발매",
+          "body": "엔하이픈이 11월 20일 오후 2시에 스핀오프 싱글 ‘THE SIN : PARALLEL WORLD’의 음원을 공개했습니다. 타이틀곡은 ‘I Want You’입니다. 성훈은 이 싱글의 멤버별 콘셉트 필름에서 파란색 칼라 니트를 입고 창가와 주방을 오갑니다. 같은 옷차림으로 이어지는 짧은 장면에 창밖을 바라보는 모습과 주방에서 접시를 드는 모습이 담겼습니다."
+        },
+        {
+          "heading": "창가에서 주방으로 이어진 성훈의 하루",
+          "body": "성훈은 창가에 서서 바깥을 바라봅니다. 유리창 너머로 초록색 잎과 난간이 보이고, 성훈의 옆얼굴에 빛이 닿습니다. 주방으로 옮겨 가면 파란색 상의 뒤로 검은 수납장과 흰 벽이 보입니다. 창가에서 얼굴 가까이 보이던 화면은 주방에서 성훈의 상반신과 주변 공간을 함께 보여 줍니다. 가만히 서 있는 컷과 몸을 숙이는 컷 사이에서도 파란색 칼라 니트가 이어집니다."
+        },
+        {
+          "heading": "검은 옷을 집어 들고 냉장고를 열기까지",
+          "body": "성훈은 계단 옆에서 검은 옷을 두 손으로 들어 올립니다. 흰 벽과 밝은 실내에 검은 옷이 들어오면서 파란 상의와 세 가지 색이 한 화면에 잡힙니다. 냉장고 앞에서는 몸을 숙여 안을 살피고, 뒤이어 접시가 화면에 들어옵니다. 같은 파란 옷을 입은 성훈을 창가, 계단 옆, 주방에서 차례로 볼 수 있습니다. 콘셉트 필름의 마지막에도 창가에 선 성훈의 옆모습이 다시 나옵니다."
+        },
+        {
+          "heading": "THE SIN 시리즈를 마무리하는 싱글",
+          "body": "소속사 빌리프랩은 ‘THE SIN : PARALLEL WORLD’를 ‘THE SIN’ 시리즈를 마무리하는 스핀오프 싱글로 소개했습니다. 함께한다는 사실을 축복으로 받아들인 두 사람이 평행 세계에서 서로의 관계를 확신하는 이야기입니다. 성훈의 개인 필름에는 멤버 이름과 DAY&NIGHT라는 버전명이 붙습니다. 엔하이픈은 위버스에서 DAY와 NIGHT 버전의 사진 스케치도 각각 공개했습니다. 그룹 채널에는 타이틀곡의 뮤직비디오와 촬영 비하인드가 따로 올라와 있습니다. 성훈의 개인 필름은 한 사람의 옷차림과 움직임을 따라가기 좋습니다."
+        },
+        {
+          "heading": "음원은 11월 20일, 음반은 11월 23일",
+          "body": "한국 시간 기준으로 음원은 11월 20일 오후 2시에 공개됐습니다. 음반은 11월 23일 낮 12시에 발매될 예정입니다. 미국 한정 싱글 CD는 음원과 같은 날 일정에 포함됩니다. 위버스 앨범 버전에는 QR 카드와 트랙리스트 카드, 포토카드가 들어갑니다. 타이틀곡이나 수록곡을 먼저 듣고 싶다면 11월 20일 음원 공개 일정을 보면 됩니다. 실물 음반을 기다린다면 11월 23일이 발매일입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-20T21:49:15.016Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:d96a87f0b9a7a218f3082f9828315ccc31b1a34493e3b2f0a99df605327cab1b"
+    },
+    {
+      "id": "naver:tnsqo1126:224485412951",
+      "logNo": "224485412951",
+      "title": "폭설 최 경위 역 박수영, 노윤서와 설오역으로 향한 경찰",
+      "url": "https://blog.naver.com/tnsqo1126/224485412951",
+      "publishedAt": "2026-11-20T15:13:57.000Z",
+      "dateLabel": "2026. 11. 21.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "옆을 바라보는 박수영 설오파출소를 지켜 온 최 경위 ‘폭설’의 최 경위는 신고를 받고 설오역으로 향하는 경찰입니다. 박수영이 최 경위를, 노윤서가 함께 출동하는 양 순경을 연기했습니다. 영화 ‘폭설’에서 최 경위를 연기한 배우는 박수영입니다. 최 경위는 설오파출소에서 오래 근무한 경찰입니다. 새로 부임한 양 순경은 노윤서가 맡았습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjFfMTIx/MDAxNzk1MTg3NTIzODEy.9Wjb6K3QssPAQ0G79ZESjcUgD7V2-fOyO_tCkjMbBMUg.gUj5aIIz_EV3XMTNFyvQCIuUQ2DeGn3au4LKg78EXlgg.JPEG/asset-01.jpg?type=s3",
+      "tags": [
+        "박수영",
+        "폭설",
+        "최경위",
+        "박수영출연작",
+        "양순경",
+        "설오역",
+        "폭설추리단"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "갑수와 현택 옆에 놓인 또 하나의 선후배",
+          "body": "설오역의 선임은 갑수이고 후임은 현택입니다. 파출소에서는 최 경위가 선배이고 양 순경이 후배입니다. 역에서는 근무 자리를 넘겨주는 일이 두 사람을 한 공간에 모으고, 파출소에서는 신고가 두 경찰을 현장으로 부릅니다. 두 관계가 같은 날 한 장소에서 만납니다."
+        },
+        {
+          "heading": "박수영 기본 정보와 주요 출연작",
+          "body": "박수영은 1970년 3월 15일에 태어났습니다. 씨네21과 씨네폭스 인물 자료의 생년월일을 기준으로 2026년 11월 21일 현재 만 56세입니다."
+        },
+        {
+          "heading": "베이지색 재킷 차림으로 만난 폭설 추리단",
+          "body": "쇼박스의 ‘폭설 추리단’에서 박수영은 베이지색 재킷을 입고 김윤석, 구교환과 나란히 앉습니다. 영화 속 최 경위가 입은 경찰 제복과는 다른 차림입니다. 세 배우 앞에는 작은 기차 모형이 놓여 있고, 모형이 달리는 철길도 탁자 앞에 펼쳐져 있습니다."
+        },
+        {
+          "heading": "최 경위가 설오역에 도착하기까지",
+          "body": "갑수와 현택에게 설오역은 일터입니다. 최 경위에게 설오역은 신고를 받고 찾아가야 하는 현장입니다. 이미 역에 있던 사람과 밖에서 들어온 사람이 같은 일을 어떻게 바라보는지 비교하면, 시신이 발견된 뒤 이야기의 범위가 어떻게 넓어지는지 따라갈 수 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-20T21:49:15.016Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:a4241c8b076326eeba6e22d6889b18946f803c3d58ff317e17bb80720259a5b0"
+    },
+    {
+      "id": "naver:tnsqo1126:224485300302",
+      "logNo": "224485300302",
+      "title": "삼성전자 장후 180,900원, 11월 20일 코스피와 3분기 실적",
+      "url": "https://blog.naver.com/tnsqo1126/224485300302",
+      "publishedAt": "2026-11-20T13:30:38.000Z",
+      "dateLabel": "2026. 11. 20.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "삼성전자 장후 시세와 코스피 180,900원은 어떤 가격인가요? 2026년 11월 20일 삼성전자 보통주는 애프터마켓에서 180,900원을 기록했습니다. 네이버증권이 비교 기준으로 표시한 전일 종가는 196,900원입니다. 16,000원, 8.13% 낮습니다. 이날 코스피 지수는 4,869.96에 마감했습니다. 전 거래일보다 267.93포인트, 5.21% 내렸습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjBfMTI2/MDAxNzk1MTgxNDA2ODc3.oKBjkWbe2CnAuwKkV1YxgYYaZbhfmF7-4fi3wMtUuNwg.BQMyBF2mE0221_J154uvcujtlyviUHcWO4_D5CbghIog.PNG/hero.png?type=s3",
+      "tags": [
+        "삼성전자",
+        "삼성전자주가",
+        "코스피",
+        "애프터마켓",
+        "삼성전자실적",
+        "반도체",
+        "설비투자"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified"
+    },
     {
       "id": "naver:tnsqo1126:224485101854",
       "logNo": "224485101854",
