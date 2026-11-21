@@ -4,15 +4,173 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-21T12:37:55.735Z",
-  "expectedPublicCount": 1641,
-  "total": 1641,
+  "generatedAt": "2026-11-21T20:31:25.714Z",
+  "expectedPublicCount": 1644,
+  "total": 1644,
   "counts": {
-    "entertainment": 459,
-    "stocks": 231,
+    "entertainment": 461,
+    "stocks": 232,
     "archive": 951
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224486594948",
+      "logNo": "224486594948",
+      "title": "나연 2026 MAMA 무대, ‘BABY ANGEL’과 ‘ABCD’ 선곡 순서",
+      "url": "https://blog.naver.com/tnsqo1126/224486594948",
+      "publishedAt": "2026-11-21T17:56:58.000Z",
+      "dateLabel": "2026. 11. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "흰 의상으로 무대에 선 나연 오사카에서 이어 부른 세 곡 트와이스 나연은 11월 21일 일본 교세라 돔 오사카에서 열린 2026 MAMA AWARDS 둘째 날에 ‘POP!’ 인트로, ‘BABY ANGEL’, ‘ABCD (MAMA Ver.)’를 차례로 선보였습니다. 전날 발표한 싱글 ‘NA-sty’의 타이틀곡을 솔로 데뷔곡과 미니 2집 타이틀곡 사이에 배치했습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjJfMjYy/MDAxNzk1MjgzNjk5MDUz.kU6CBhqyro9Zgb9I0vuPuI_0_QVKeKj2KC1PYnAdDOEg.sFKpY_38Od1aRMt8yGwX9aNnWGfN24m1t1GMkQNSzLEg.JPEG/media-1.jpg?type=s3",
+      "tags": [
+        "나연",
+        "트와이스",
+        "2026MAMA",
+        "마마어워즈",
+        "BABYANGEL",
+        "ABCD",
+        "NAsty"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "오사카에서 이어 부른 세 곡",
+          "body": "트와이스 나연은 11월 21일 일본 교세라 돔 오사카에서 열린 2026 MAMA AWARDS 둘째 날에 ‘POP!’ 인트로, ‘BABY ANGEL’, ‘ABCD (MAMA Ver.)’를 차례로 선보였습니다. 전날 발표한 싱글 ‘NA-sty’의 타이틀곡을 솔로 데뷔곡과 미니 2집 타이틀곡 사이에 배치했습니다."
+        },
+        {
+          "heading": "흰 의상과 분홍빛 무대",
+          "body": "도입부에서 커다란 흰 장식과 붉은 천이 무대 앞에 펼쳐집니다. 나연은 흰 의상과 검은 부츠 차림으로 댄서들 사이에 섭니다. 댄서들이 양옆으로 벌어졌다가 다시 모이면서 중앙에 선 나연의 움직임을 따라갑니다."
+        },
+        {
+          "heading": "‘BABY ANGEL’ 뮤직비디오의 세트",
+          "body": "‘BABY ANGEL’의 뮤직비디오는 11월 20일 JYP 엔터테인먼트 공식 채널에 공개됐습니다. 나연은 분홍색 머리와 노란색 의상으로 등장합니다. 산과 호수가 보이는 배경에서 팔을 펼치다가, 흰 배경을 채운 얼굴 가까이에서 양손을 턱 아래에 댑니다."
+        },
+        {
+          "heading": "‘ABCD’에서 바뀐 조명과 의상",
+          "body": "무대 후반 나연은 짙은 보라색 의상으로 등장합니다. 나연 가까이에 모인 댄서들은 얼굴과 머리를 밝은 천으로 감쌌습니다. 보라색 조명 아래에서 나연이 중앙에 서고, 흰 의상의 댄서들이 양옆에서 몸을 낮추며 대형을 만듭니다."
+        },
+        {
+          "heading": "하루 사이에 공개된 신곡과 솔로 무대",
+          "body": "11월 20일 싱글과 뮤직비디오가 공개된 뒤, 21일에는 나연이 같은 곡을 오사카 시상식 무대에서 불렀습니다. 엠넷플러스는 같은 날 나연의 레드카펫 영상도 별도로 공개했습니다. 공식 무대에는 트와이스 멤버인 나연이 솔로 출연자로 표기돼 있습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-21T20:31:25.714Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:9de4817577c2ce96dacd1432b85885bb96c51b2a1b9d17e94eb186fd66a961e6"
+    },
+    {
+      "id": "naver:tnsqo1126:224486483470",
+      "logNo": "224486483470",
+      "title": "굿파트너2 강혜성 역 김혜윤, 첫 변호사 배역과 차은경의 첫 재판",
+      "url": "https://blog.naver.com/tnsqo1126/224486483470",
+      "publishedAt": "2026-11-21T15:13:23.000Z",
+      "dateLabel": "2026. 11. 22.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "살롱드립에서 웃는 김혜윤 첫 재판에서 차은경과 만난 강혜성 김혜윤이 SBS 금토드라마 《굿파트너2》에서 이혼 사건을 맡는 경력직 변호사 강혜성으로 나왔습니다. 11월 20일 첫 방송에서 혜성은 대표 변호사 차은경을 상대편 변호사로 만났습니다. 장나라가 맡은 차은경과 법정에서 맞붙은 두 사람이 어떻게 한 팀이 되는지가 새 시즌의 출발점입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjJfMjAx/MDAxNzk1MjczOTQ5MTc0.n9TlA6LcXxvE9wOprL7VDtpZZVdSRG4YVHqk2cAtpPkg.-XmN-vQJBmL2OQkz6dKdlyMcpKqW7f7r3hUWRECvUMgg.JPEG/asset-01.jpg?type=s3",
+      "tags": [
+        "굿파트너2",
+        "김혜윤",
+        "강혜성",
+        "굿파트너2등장인물",
+        "김혜윤출연작",
+        "차은경"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "첫 재판에서 차은경과 만난 강혜성",
+          "body": "김혜윤이 SBS 금토드라마 《굿파트너2》에서 이혼 사건을 맡는 경력직 변호사 강혜성으로 나왔습니다. 11월 20일 첫 방송에서 혜성은 대표 변호사 차은경을 상대편 변호사로 만났습니다. 장나라가 맡은 차은경과 법정에서 맞붙은 두 사람이 어떻게 한 팀이 되는지가 새 시즌의 출발점입니다."
+        },
+        {
+          "heading": "김혜윤이 처음 맡은 변호사",
+          "body": "강혜성은 이미 변호사로 일해 온 인물입니다. 김혜윤은 SBS가 공개한 첫 캐릭터 소개에서 전문직을 연기하는 일이 처음이라고 밝혔습니다. 배우에게 변호사 연기는 첫 도전이지만, 극 중 혜성은 법정에 처음 서는 사람이 아닙니다. 이미 쌓아 온 경력이 있는 인물이 다른 팀에서 관계를 새로 맺는다는 점이 배역의 출발점입니다."
+        },
+        {
+          "heading": "김혜윤 기본 정보와 데뷔",
+          "body": "아티스트컴퍼니 공식 프로필에 따르면 김혜윤은 1996년 11월 10일에 태어나 2013년 드라마로 데뷔했습니다. 2026년 11월 22일 기준 만 30세입니다. 소속사가 소개하는 대표작에는 《SKY 캐슬》, 《어쩌다 발견한 하루》, 《선재 업고 튀어》, 영화 《불도저에 탄 소녀》가 있습니다."
+        },
+        {
+          "heading": "첫 방송을 앞두고 장나라와 나눈 이야기",
+          "body": "두 배우는 첫 방송을 사흘 앞둔 11월 17일 테오의 《살롱드립》 164회에 함께 나왔습니다. 김혜윤은 진행자 장도연과 장나라 사이에 앉아 두 사람의 이야기를 듣다가 자신의 차례에 몸을 돌려 대화했습니다. 같은 검은색 계열의 옷을 입은 장나라와 함께 들어오는 모습과 손을 들어 설명하는 모습도 볼 수 있습니다."
+        },
+        {
+          "heading": "두 번째 회차에서 이어진 영입 이야기",
+          "body": "첫 방송이 법정에서 시작된 관계를 보여줬다면 SBS의 2회 예고는 은경이 혜성을 눈여겨본 다음의 이야기로 이어집니다. 은경의 관심이 법정 밖에서 영입 이야기로 옮겨가고 다른 변호사도 혜성에게 관심을 보입니다. 첫 회에 상대편에 서 있던 혜성이 어떤 선택을 하는지가 두 번째 회차에서 이어질 질문입니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-21T20:31:25.714Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:e2af0fbe8df62a65e8a351ca472a75f2da761a8bed2c3a93492fbc38edc44929"
+    },
+    {
+      "id": "naver:tnsqo1126:224486395689",
+      "logNo": "224486395689",
+      "title": "잉크테크 안산 본사 630억 원 매각, 잔금은 언제 받고 사업은 어떻게 바뀌나",
+      "url": "https://blog.naver.com/tnsqo1126/224486395689",
+      "publishedAt": "2026-11-21T13:30:53.000Z",
+      "dateLabel": "2026. 11. 21.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "잉크테크 안산 본사 매각 공시 잉크테크가 파는 자산과 거래 규모 잉크테크는 경기도 안산시 단원구에 있는 본사 토지와 건물, 부속설비를 코리아써키트에 630억 원에 넘기기로 했습니다. 공시상 계약 체결일은 2026년 11월 19일이며, 잔금 567억 원의 지급 예정일은 2027년 4월 1일입니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjFfMTgz/MDAxNzk1MjY3ODIxNzUw.fY5JdLM-Hk9bZdCVH71eEmNsdRm1MFt1VSPxr0v19dMg.TH2_Ex4qeyM4a29yGGG6iSMwKvlqMIL7U1WXKkJR2hcg.PNG/hero.png?type=s3",
+      "tags": [
+        "잉크테크",
+        "잉크테크주가",
+        "코리아써키트",
+        "유형자산양도",
+        "안산본사매각",
+        "기업공시",
+        "코스닥"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "잉크테크가 파는 자산과 거래 규모",
+          "body": "잉크테크는 경기도 안산시 단원구에 있는 본사 토지와 건물, 부속설비를 코리아써키트에 630억 원에 넘기기로 했습니다. 공시상 계약 체결일은 2026년 11월 19일이며, 잔금 567억 원의 지급 예정일은 2027년 4월 1일입니다. 회사는 프린터 사업을 다른 사업장으로 옮겨 계속 운영하고, 기존 본사의 임대사업은 종료할 계획입니다."
+        },
+        {
+          "heading": "계약금 63억 원과 잔금 567억 원",
+          "body": "공시의 기본 지급 일정은 계약금 63억 원과 잔금 567억 원으로 나뉩니다. 11월 19일자 계약금에는 10월 7일 가계약금 1억 원이 포함됩니다. 따라서 가계약금을 계약금에 더하면 같은 금액을 두 번 세게 됩니다. 기본 일정에서 매매대금의 10%가 계약금이고, 나머지 90%가 잔금입니다."
+        },
+        {
+          "heading": "프린터 사업은 이전하고 임대사업은 종료",
+          "body": "매각 대상은 안산 본사 부동산입니다. 잉크테크는 이 건물에서 운영하던 프린터 사업을 다른 사업장으로 이전할 예정이라고 밝혔습니다. 기존 본사에서 이루어지던 임대사업은 종료할 예정입니다. 한 부동산을 매각해도 사업 활동에 미치는 영향은 부문별로 다릅니다. 프린터 사업은 이전 일정과 운영 연속성이, 임대사업은 종료 시점과 임대수익 변화가 확인 지점입니다."
+        },
+        {
+          "heading": "차입금 상환 계획과 매각이익을 읽는 법",
+          "body": "회사는 매각대금을 차입금 상환에 활용해 금융비용을 줄이고 재무구조를 개선하겠다고 밝혔습니다. 이 공시에는 어느 차입금을 얼마까지 갚을지, 실제 연간 이자비용이 얼마나 줄어들지에 관한 확정 수치가 없습니다. 금융비용의 변화는 상환 원금, 금리, 상환 시점에 따라 달라집니다. 다음 연결 재무제표에서 차입금 잔액을 보고 현금흐름표에서 상환액을 함께 확인하면 계획과 실제 집행을 비교할 수 있습니다."
+        },
+        {
+          "heading": "11월 20일 시세와 앞으로 볼 공시",
+          "body": "네이버증권의 11월 20일 장후 응답에는 잉크테크 가격이 3,420원으로 표시됐습니다. 이 응답의 거래 세션은 애프터마켓입니다. 공시에서 확인되는 숫자는 630억 원의 계약대금과 지급 일정이며, 해당 시세는 같은 날짜에 관측된 시장 데이터입니다. 주가를 볼 때는 다른 시점의 가격과 섞이지 않도록 거래일과 거래 세션을 함께 확인하는 편이 정확합니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-21T20:31:25.714Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:4aee5fc829404f4f51b8eb97d84154aca23ad5998a623099b331700711313e63"
+    },
     {
       "id": "naver:tnsqo1126:224486234541",
       "logNo": "224486234541",
