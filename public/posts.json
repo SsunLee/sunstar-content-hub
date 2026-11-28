@@ -4,15 +4,111 @@
     "title": "쑨쑨배 블로그",
     "url": "https://blog.naver.com/tnsqo1126"
   },
-  "generatedAt": "2026-11-28T07:45:16.818Z",
-  "expectedPublicCount": 1658,
-  "total": 1658,
+  "generatedAt": "2026-11-28T16:52:43.298Z",
+  "expectedPublicCount": 1660,
+  "total": 1660,
   "counts": {
-    "entertainment": 466,
-    "stocks": 237,
+    "entertainment": 467,
+    "stocks": 238,
     "archive": 955
   },
   "posts": [
+    {
+      "id": "naver:tnsqo1126:224496307275",
+      "logNo": "224496307275",
+      "title": "펩트론 거래량 671,887주와 311,523주, 11월 27일 두 숫자가 다른 이유",
+      "url": "https://blog.naver.com/tnsqo1126/224496307275",
+      "publishedAt": "2026-11-28T13:33:41.000Z",
+      "dateLabel": "2026. 11. 28.",
+      "category": "stocks",
+      "categoryLabel": "주식",
+      "sourceCategoryNo": "109",
+      "summary": "본문 이해를 돕기 위한 연출 이미지입니다. 11월 27일 펩트론은 몇 주 거래됐나요 11월 27일 펩트론(코스닥 087010)의 거래량은 네이버증권 통합 시세에서 671,887주, 일봉 차트에서 311,523주였습니다. 두 숫자의 차이는 360,364주입니다. 네이버증권이 따로 표시한 대체거래소 거래량과 정확히 일치합니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjhfMTQ3/MDAxNzk1ODcyNzgwMzUy.qI72KkP2MpV6V2V7ysxwh0uJvlMHarNBX1qqqR3NqTMg.B9tIX_BmhkYSq7VaFizmCza1b4S4PQXejz3O67Mhwngg.PNG/hero.png?type=s3",
+      "tags": [
+        "펩트론",
+        "거래량",
+        "거래대금",
+        "코스닥",
+        "대체거래소"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "11월 27일 펩트론은 몇 주 거래됐나요",
+          "body": "11월 27일 펩트론(코스닥 087010)의 거래량은 네이버증권 통합 시세에서 671,887주, 일봉 차트에서 311,523주였습니다. 두 숫자의 차이는 360,364주입니다. 네이버증권이 따로 표시한 대체거래소 거래량과 정확히 일치합니다. 이날 두 시장에서 거래된 전체 물량이 궁금하다면 671,887주를 보면 됩니다."
+        },
+        {
+          "heading": "거래대금 626억 원은 어떻게 나뉘나요",
+          "body": "거래량이 주식 수를 센다면 거래대금은 체결된 주식 수에 체결 가격을 곱해 더한 값입니다. 27일 네이버증권에 표시된 펩트론의 거래대금은 통합 기준 약 626억 원입니다. 일봉과 대응하는 물량의 거래대금은 약 292억 원, 대체거래소 거래대금은 약 334억 원입니다. 거래량과 거래대금 모두 이날은 대체거래소 쪽이 더 컸습니다."
+        },
+        {
+          "heading": "같은 날짜에도 시가와 저가가 다른 까닭",
+          "body": "일봉 차트에서 27일 첫 가격은 89,000원이고 가장 낮은 가격은 88,500원이었습니다. 통합 시세의 첫 가격은 이보다 1,300원 낮은 87,700원, 가장 낮은 가격은 2,400원 낮은 86,100원이었습니다. 대체거래소 시세의 시가와 저가 역시 각각 87,700원과 86,100원이었습니다. 두 화면에서 고가는 똑같이 98,700원이지만, 하루 동안 거래된 가격의 범위는 달랐습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-28T16:52:43.298Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:cad1181b3f277f9dbe62fc7c2984b604542286dd1e365a2580f157e457bf8ef9"
+    },
+    {
+      "id": "naver:tnsqo1126:224496081228",
+      "logNo": "224496081228",
+      "title": "언차일드 나하은의 ‘팅팅’ 안무, 후렴 손춤과 ‘출동 춤’은 어떻게 다를까요",
+      "url": "https://blog.naver.com/tnsqo1126/224496081228",
+      "publishedAt": "2026-11-28T09:00:56.000Z",
+      "dateLabel": "2026. 11. 28.",
+      "category": "entertainment",
+      "categoryLabel": "연예",
+      "sourceCategoryNo": "110",
+      "summary": "‘팅팅’ 쇼케이스에서 마이크를 든 나하은 후렴에서는 손을, 댄스 브레이크에서는 몸 전체를 언차일드 나하은은 신곡 ‘팅팅(TiNG TiNG)’에서 눈여겨볼 동작으로 두 가지를 꼽았습니다. 티나가 후렴을 부를 때 나오는 손춤과 곡 후반에 멤버들이 함께 추는 ‘출동 춤’입니다. 11월 22일 SBS ‘인기가요’ 무대에 이어 23일 ‘쇼 케이팝’에서도 같은 곡을 선보였습니다.…",
+      "image": "https://blogthumb.pstatic.net/MjAyNjExMjhfMTcx/MDAxNzk1ODU2MzkyOTYy.4FwvQ_ddfMAtmK5H6ahvfOjUJpfnxW9bdLvMCwqoFtkg.73BDgwjdLSz-E4OpOJNYbq8jrdpjb6be-uunH9rHJT8g.JPEG/asset-01.jpg?type=s3",
+      "tags": [
+        "언차일드",
+        "나하은",
+        "팅팅",
+        "TiNGTiNG",
+        "쇼음악중심",
+        "인기가요",
+        "어썸하은"
+      ],
+      "candidate": "",
+      "work": "",
+      "role": "",
+      "stockCode": "",
+      "searchAllowed": true,
+      "verificationLevel": "rss_verified",
+      "detailSections": [
+        {
+          "heading": "후렴에서는 손을, 댄스 브레이크에서는 몸 전체를",
+          "body": "언차일드 나하은은 신곡 ‘팅팅(TiNG TiNG)’에서 눈여겨볼 동작으로 두 가지를 꼽았습니다. 티나가 후렴을 부를 때 나오는 손춤과 곡 후반에 멤버들이 함께 추는 ‘출동 춤’입니다. 11월 22일 SBS ‘인기가요’ 무대에 이어 23일 ‘쇼 케이팝’에서도 같은 곡을 선보였습니다. 두 방송 모두 나하은 한 사람을 따라가는 무대 영상을 따로 공개했습니다. 언차일드는 28일 MBC ‘쇼! 음악중심’ 972회에도 출연했습니다."
+        },
+        {
+          "heading": "은빛 무대 의상을 입고 소개한 두 번째 싱글",
+          "body": "11월 5일 서울 마포구 놀씨어터 합정에서 열린 ‘팅팅’ 쇼케이스에서 나하은은 주황빛 머리를 땋아 올리고 흰 셔츠에 은빛 무대 의상을 입었습니다. 자기 차례가 되자 한 손에 마이크를 든 채 다른 손을 얼굴 가까이 들어 인사했습니다. 옆에서 질문을 듣던 멤버들도 곡의 동작을 소개할 때는 나란히 손을 들어 보였습니다."
+        },
+        {
+          "heading": "나하은 기본 정보와 언차일드 데뷔",
+          "body": "나하은은 2009년 1월 16일생으로 2026년 11월 기준 만 17세입니다. 어릴 때 ‘어썸하은’이라는 이름으로 춤을 선보였고, SBS ‘스타킹’과 ‘K팝스타’에도 출연했습니다. 본인 이름으로 발표한 곡도 있습니다. 2018년에는 ‘So Special’을, 2021년에는 ‘Butterfly’를 냈습니다."
+        },
+        {
+          "heading": "직접 짜 본 안무는 어디에 쓰였을까요",
+          "body": "나하은이 새 곡의 춤도 직접 만들었는지 궁금해할 만합니다. 지난 4월 데뷔곡 ‘언차일드’의 안무에는 나하은과 히키가 함께 참여했습니다. 11월 컴백을 준비할 때도 나하은은 ‘팅팅’에 맞춰 동작을 짜서 제안했습니다. 이번 무대에는 다른 안무가 채택됐습니다."
+        },
+        {
+          "heading": "처음 선 무대와 두 번째 쇼케이스에서 달라진 말",
+          "body": "나하은은 데뷔 때 멤버들과 ‘언차일드’라는 이름표를 받고 함께 울었다고 이야기했습니다. 5월에는 박예은, 이본과 서울 성수동 행사에 참석해 세 사람이 나란히 손을 흔들었습니다. 11월 두 번째 쇼케이스에서는 처음 무대에 섰을 때와 지금을 비교할 만큼 팀으로 쌓은 경험이 늘었습니다."
+        }
+      ],
+      "detailUpdatedAt": "2026-11-28T16:52:43.298Z",
+      "detailExtractionVersion": 3,
+      "detailContentHash": "sha256:1f3afd3a735da61d2f5298d215f7f73c9b48c7ca894c11d5d9a299a21fad38a9"
+    },
     {
       "id": "naver:tnsqo1126:224495747661",
       "logNo": "224495747661",
